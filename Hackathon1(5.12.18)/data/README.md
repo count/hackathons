@@ -3,13 +3,17 @@ Contents:
 - Demographics:
   - **Borough Outlines**: coordinates for each borough's boundaries
   - **borough_stats.csv**: The most recent statistics & demographics for each Borough
-  - **Demographics by Borough.csv**: An aggregated look of borough specifics from 2003 - 2040 (projections). 
+  - **Demographics by Borough.csv**: An aggregated look of borough specifics from 2003 - 2040 (projections)
+  - **International Visitors.csv**: A look at London's visitors from 2002 to 2018 
 
 - Environment/Energy
+  - **Air-quality.csv**: London air quality measures from 2015 to 2018
+  - **Borough_Energy_Stats.csv**: Energy consumed and emissions by Borough from 2010-2016
   - **London Reservoir Levels.csv**: Daily Historical Reservoir levels from 1989 to 2018 for the 2 London Reservoirs
 
 - Politics
   - **EU-referendum-result-data.csv**: Voting results from the 2016 Referendum by Region and Area
+  - **Ward-party-results.csv**: council election results from 2018 by Ward and Borough
 
 - Transportation
   - **Station Stats.csv**: Entry and Exit numbers per TFL Station from 2007-2018
