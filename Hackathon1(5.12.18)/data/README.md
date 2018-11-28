@@ -26,4 +26,5 @@ Contents:
   - **Weather-Historical.csv**: Daily weather (taken every 3 hours) in London from 2013-2018
 
 - Health
+  - **Animal Rescues.csv** Location and description of all of the animal rescues conducted by the LFB from 2009-2018
   - **immunisations_age 5.csv** Percent of children who have been immunisied by age 5 by bourough from 2004-2013
