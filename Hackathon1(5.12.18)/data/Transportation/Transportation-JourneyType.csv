@@ -1,0 +1,889 @@
+,Period beginning,Period ending,Days in period,Journey type,Passengers (m)
+0,2010-04-01,2010-05-01,31,Bus journeys (m),189.1
+1,2010-05-02,2010-05-29,28,Bus journeys (m),181.6
+2,2010-05-30,2010-06-26,28,Bus journeys (m),175.9
+3,2010-06-27,2010-07-24,28,Bus journeys (m),183.4
+4,2010-07-25,2010-08-21,28,Bus journeys (m),160.4
+5,2010-08-22,2010-09-18,28,Bus journeys (m),175.8
+6,2010-09-19,2010-10-16,28,Bus journeys (m),189.8
+7,2010-10-17,2010-11-13,28,Bus journeys (m),179.9
+8,2010-11-14,2010-12-11,28,Bus journeys (m),178.8
+9,2010-12-12,2011-01-08,28,Bus journeys (m),140.1
+10,2011-01-09,2011-02-05,28,Bus journeys (m),183.0
+11,2011-02-06,2011-03-05,28,Bus journeys (m),177.2
+12,2011-03-06,2011-03-31,26,Bus journeys (m),173.9
+13,2011-04-01,2011-04-30,30,Bus journeys (m),183.8
+14,2011-05-01,2011-05-28,28,Bus journeys (m),186.1
+15,2011-05-29,2011-06-25,28,Bus journeys (m),181.7
+16,2011-06-26,2011-07-23,28,Bus journeys (m),186.7
+17,2011-07-24,2011-08-20,28,Bus journeys (m),161.1
+18,2011-08-21,2011-09-17,28,Bus journeys (m),173.9
+19,2011-09-18,2011-10-15,28,Bus journeys (m),193.4
+20,2011-10-16,2011-11-12,28,Bus journeys (m),185.2
+21,2011-11-13,2011-12-10,28,Bus journeys (m),189.4
+22,2011-12-11,2012-01-07,28,Bus journeys (m),151.2
+23,2012-01-08,2012-02-04,28,Bus journeys (m),181.4
+24,2012-02-05,2012-03-03,28,Bus journeys (m),179.5
+25,2012-03-04,2012-03-31,28,Bus journeys (m),191.2
+26,2012-04-01,2012-04-28,28,Bus journeys (m),171.8
+27,2012-04-29,2012-05-26,28,Bus journeys (m),189.2
+28,2012-05-27,2012-06-23,28,Bus journeys (m),176.5
+29,2012-06-24,2012-07-21,28,Bus journeys (m),189.9
+30,2012-07-22,2012-08-18,28,Bus journeys (m),167.1
+31,2012-08-19,2012-09-15,28,Bus journeys (m),177.0
+32,2012-09-16,2012-10-13,28,Bus journeys (m),194.2
+33,2012-10-14,2012-11-10,28,Bus journeys (m),184.7
+34,2012-11-11,2012-12-08,28,Bus journeys (m),187.6
+35,2012-12-09,2013-01-05,28,Bus journeys (m),151.9
+36,2013-01-06,2013-02-02,28,Bus journeys (m),178.1
+37,2013-02-03,2013-03-02,28,Bus journeys (m),180.3
+38,2013-03-03,2013-03-31,29,Bus journeys (m),186.5
+39,2013-04-01,2013-04-27,27,Bus journeys (m),171.6
+40,2013-04-28,2013-05-25,28,Bus journeys (m),188.8
+41,2013-05-26,2013-06-22,28,Bus journeys (m),183.5
+42,2013-06-23,2013-07-20,28,Bus journeys (m),190.2
+43,2013-07-21,2013-08-17,28,Bus journeys (m),166.3
+44,2013-08-18,2013-09-14,28,Bus journeys (m),173.7
+45,2013-09-15,2013-10-12,28,Bus journeys (m),194.5
+46,2013-10-13,2013-11-09,28,Bus journeys (m),186.3
+47,2013-11-10,2013-12-07,28,Bus journeys (m),193.2
+48,2013-12-08,2014-01-04,28,Bus journeys (m),155.1
+49,2014-01-05,2014-02-01,28,Bus journeys (m),186.6
+50,2014-02-02,2014-03-01,28,Bus journeys (m),185.6
+51,2014-03-02,2014-03-31,30,Bus journeys (m),206.9
+52,2014-04-01,2014-04-26,26,Bus journeys (m),164.1
+53,2014-04-27,2014-05-24,28,Bus journeys (m),192.8
+54,2014-05-25,2014-06-21,28,Bus journeys (m),188.1
+55,2014-06-22,2014-07-19,28,Bus journeys (m),191.1
+56,2014-07-20,2014-08-16,28,Bus journeys (m),169.2
+57,2014-08-17,2014-09-13,28,Bus journeys (m),176.5
+58,2014-09-14,2014-10-11,28,Bus journeys (m),198.8
+59,2014-10-12,2014-11-08,28,Bus journeys (m),190.2
+60,2014-11-09,2014-12-06,28,Bus journeys (m),195.6
+61,2014-12-07,2015-01-03,28,Bus journeys (m),156.8
+62,2015-01-04,2015-01-31,28,Bus journeys (m),178.2
+63,2015-02-01,2015-02-28,28,Bus journeys (m),176.3
+64,2015-03-01,2015-03-31,31,Bus journeys (m),207.5
+65,2015-04-01,2015-05-02,26,Bus journeys (m),203.4
+66,2015-05-03,2015-05-30,28,Bus journeys (m),180.5
+67,2015-05-31,2015-06-27,28,Bus journeys (m),189.9
+68,2015-06-28,2015-07-25,28,Bus journeys (m),182.5
+69,2015-07-26,2015-08-22,28,Bus journeys (m),162.3
+70,2015-08-23,2015-09-19,28,Bus journeys (m),175.0
+71,2015-09-20,2015-10-17,28,Bus journeys (m),190.8
+72,2015-10-18,2015-11-14,28,Bus journeys (m),181.2
+73,2015-11-15,2015-12-12,28,Bus journeys (m),186.6
+74,2015-12-13,2016-01-09,28,Bus journeys (m),147.1
+75,2016-01-10,2016-02-06,28,Bus journeys (m),179.5
+76,2016-02-07,2016-03-05,28,Bus journeys (m),176.0
+77,2016-03-06,2016-03-31,31,Bus journeys (m),159.4
+78,2016-04-01,2016-04-30,30,Bus journeys (m),189.3
+79,2016-05-01,2016-05-28,28,Bus journeys (m),181.9
+80,2016-05-29,2016-06-25,28,Bus journeys (m),173.6
+81,2016-06-26,2016-07-23,28,Bus journeys (m),177.7
+82,2016-07-24,2016-08-20,28,Bus journeys (m),155.3
+83,2016-08-21,2016-09-17,28,Bus journeys (m),166.3
+84,2016-09-18,2016-10-15,28,Bus journeys (m),186.9
+85,2016-10-16,2016-11-12,28,Bus journeys (m),176.6
+86,2016-11-13,2016-12-10,28,Bus journeys (m),182.7
+87,2016-12-11,2017-01-07,28,Bus journeys (m),145.8
+88,2017-01-08,2017-02-04,28,Bus journeys (m),174.4
+89,2017-02-05,2017-03-04,28,Bus journeys (m),172.9
+90,2017-03-05,2017-03-31,27,Bus journeys (m),178.4
+91,2017-04-01,2017-04-29,29,Bus journeys (m),172.6
+92,2017-04-30,2017-05-27,28,Bus journeys (m),182.3
+93,2017-05-28,2017-06-24,28,Bus journeys (m),175.8
+94,2017-06-25,2017-07-22,28,Bus journeys (m),181.5
+95,2017-07-23,2017-08-19,28,Bus journeys (m),155.1
+96,2017-08-20,2017-09-16,28,Bus journeys (m),166.0
+97,2017-09-17,2017-10-14,28,Bus journeys (m),186.9
+98,2017-10-15,2017-11-11,28,Bus journeys (m),178.1
+99,2017-11-12,2017-12-09,28,Bus journeys (m),183.8
+100,2017-12-10,2018-01-06,28,Bus journeys (m),145.1
+101,2018-01-07,2018-02-03,28,Bus journeys (m),175.2
+102,2018-02-04,2018-03-03,28,Bus journeys (m),168.7
+103,2018-03-04,2018-03-31,28,Bus journeys (m),176.5
+104,2018-04-01,2018-04-28,28,Bus journeys (m),165.9
+105,2018-04-29,2018-05-26,28,Bus journeys (m),179.7
+106,2018-05-27,2018-06-23,28,Bus journeys (m),173.9
+107,2018-06-24,2018-07-21,28,Bus journeys (m),177.9
+108,2018-07-22,2018-08-18,28,Bus journeys (m),151.6
+109,2018-08-19,2018-09-15,28,Bus journeys (m),162.2
+110,2018-09-16,2018-10-13,28,Bus journeys (m),183.5
+111,2010-04-01,2010-05-01,31,Underground journeys (m),90.5
+112,2010-05-02,2010-05-29,28,Underground journeys (m),84.5
+113,2010-05-30,2010-06-26,28,Underground journeys (m),84.3
+114,2010-06-27,2010-07-24,28,Underground journeys (m),86.5
+115,2010-07-25,2010-08-21,28,Underground journeys (m),82.9
+116,2010-08-22,2010-09-18,28,Underground journeys (m),80.9
+117,2010-09-19,2010-10-16,28,Underground journeys (m),88.7
+118,2010-10-17,2010-11-13,28,Underground journeys (m),90.3
+119,2010-11-14,2010-12-11,28,Underground journeys (m),90.6
+120,2010-12-12,2011-01-08,28,Underground journeys (m),72.5
+121,2011-01-09,2011-02-05,28,Underground journeys (m),84.4
+122,2011-02-06,2011-03-05,28,Underground journeys (m),87.8
+123,2011-03-06,2011-03-31,26,Underground journeys (m),83.5
+124,2011-04-01,2011-04-30,30,Underground journeys (m),91.2
+125,2011-05-01,2011-05-28,28,Underground journeys (m),87.8
+126,2011-05-29,2011-06-25,28,Underground journeys (m),88.9
+127,2011-06-26,2011-07-23,28,Underground journeys (m),92.5
+128,2011-07-24,2011-08-20,28,Underground journeys (m),85.5
+129,2011-08-21,2011-09-17,28,Underground journeys (m),85.3
+130,2011-09-18,2011-10-15,28,Underground journeys (m),93.1
+131,2011-10-16,2011-11-12,28,Underground journeys (m),95.8
+132,2011-11-13,2011-12-10,28,Underground journeys (m),97.1
+133,2011-12-11,2012-01-07,28,Underground journeys (m),79.3
+134,2012-01-08,2012-02-04,28,Underground journeys (m),89.8
+135,2012-02-05,2012-03-03,28,Underground journeys (m),91.5
+136,2012-03-04,2012-03-31,28,Underground journeys (m),92.7
+137,2012-04-01,2012-04-28,28,Underground journeys (m),88.7
+138,2012-04-29,2012-05-26,28,Underground journeys (m),92.6
+139,2012-05-27,2012-06-23,28,Underground journeys (m),89.7
+140,2012-06-24,2012-07-21,28,Underground journeys (m),96.9
+141,2012-07-22,2012-08-18,28,Underground journeys (m),103.0
+142,2012-08-19,2012-09-15,28,Underground journeys (m),94.0
+143,2012-09-16,2012-10-13,28,Underground journeys (m),98.2
+144,2012-10-14,2012-11-10,28,Underground journeys (m),100.4
+145,2012-11-11,2012-12-08,28,Underground journeys (m),101.9
+146,2012-12-09,2013-01-05,28,Underground journeys (m),79.0
+147,2013-01-06,2013-02-02,28,Underground journeys (m),91.7
+148,2013-02-03,2013-03-02,28,Underground journeys (m),96.7
+149,2013-03-03,2013-03-31,29,Underground journeys (m),96.6
+150,2013-04-01,2013-04-27,27,Underground journeys (m),92.1
+151,2013-04-28,2013-05-25,28,Underground journeys (m),97.2
+152,2013-05-26,2013-06-22,28,Underground journeys (m),95.9
+153,2013-06-23,2013-07-20,28,Underground journeys (m),100.8
+154,2013-07-21,2013-08-17,28,Underground journeys (m),94.1
+155,2013-08-18,2013-09-14,28,Underground journeys (m),91.0
+156,2013-09-15,2013-10-12,28,Underground journeys (m),101.4
+157,2013-10-13,2013-11-09,28,Underground journeys (m),103.7
+158,2013-11-10,2013-12-07,28,Underground journeys (m),106.3
+159,2013-12-08,2014-01-04,28,Underground journeys (m),83.9
+160,2014-01-05,2014-02-01,28,Underground journeys (m),96.8
+161,2014-02-02,2014-03-01,28,Underground journeys (m),94.3
+162,2014-03-02,2014-03-31,30,Underground journeys (m),107.0
+163,2014-04-01,2014-04-26,26,Underground journeys (m),88.8
+164,2014-04-27,2014-05-24,28,Underground journeys (m),92.2
+165,2014-05-25,2014-06-21,28,Underground journeys (m),98.2
+166,2014-06-22,2014-07-19,28,Underground journeys (m),102.6
+167,2014-07-20,2014-08-16,28,Underground journeys (m),97.3
+168,2014-08-17,2014-09-13,28,Underground journeys (m),93.2
+169,2014-09-14,2014-10-11,28,Underground journeys (m),104.1
+170,2014-10-12,2014-11-08,28,Underground journeys (m),108.6
+171,2014-11-09,2014-12-06,28,Underground journeys (m),111.2
+172,2014-12-07,2015-01-03,28,Underground journeys (m),87.0
+173,2015-01-04,2015-01-31,28,Underground journeys (m),100.2
+174,2015-02-01,2015-02-28,28,Underground journeys (m),105.7
+175,2015-03-01,2015-03-31,31,Underground journeys (m),116.3
+176,2015-04-01,2015-05-02,26,Underground journeys (m),113.6
+177,2015-05-03,2015-05-30,28,Underground journeys (m),102.0
+178,2015-05-31,2015-06-27,28,Underground journeys (m),105.9
+179,2015-06-28,2015-07-25,28,Underground journeys (m),101.3
+180,2015-07-26,2015-08-22,28,Underground journeys (m),94.6
+181,2015-08-23,2015-09-19,28,Underground journeys (m),97.6
+182,2015-09-20,2015-10-17,28,Underground journeys (m),111.7
+183,2015-10-18,2015-11-14,28,Underground journeys (m),112.7
+184,2015-11-15,2015-12-12,28,Underground journeys (m),114.0
+185,2015-12-13,2016-01-09,28,Underground journeys (m),85.4
+186,2016-01-10,2016-02-06,28,Underground journeys (m),106.8
+187,2016-02-07,2016-03-05,28,Underground journeys (m),109.3
+188,2016-03-06,2016-03-31,31,Underground journeys (m),94.5
+189,2016-04-01,2016-04-30,30,Underground journeys (m),114.2
+190,2016-05-01,2016-05-28,28,Underground journeys (m),105.7
+191,2016-05-29,2016-06-25,28,Underground journeys (m),104.2
+192,2016-06-26,2016-07-23,28,Underground journeys (m),109.1
+193,2016-07-24,2016-08-20,28,Underground journeys (m),101.1
+194,2016-08-21,2016-09-17,28,Underground journeys (m),98.8
+195,2016-09-18,2016-10-15,28,Underground journeys (m),110.4
+196,2016-10-16,2016-11-12,28,Underground journeys (m),112.6
+197,2016-11-13,2016-12-10,28,Underground journeys (m),116.7
+198,2016-12-11,2017-01-07,28,Underground journeys (m),89.0
+199,2017-01-08,2017-02-04,28,Underground journeys (m),101.9
+200,2017-02-05,2017-03-04,28,Underground journeys (m),108.3
+201,2017-03-05,2017-03-31,27,Underground journeys (m),106.0
+202,2017-04-01,2017-04-29,29,Underground journeys (m),104.6
+203,2017-04-30,2017-05-27,28,Underground journeys (m),106.1
+204,2017-05-28,2017-06-24,28,Underground journeys (m),101.6
+205,2017-06-25,2017-07-22,28,Underground journeys (m),109.0
+206,2017-07-23,2017-08-19,28,Underground journeys (m),101.0
+207,2017-08-20,2017-09-16,28,Underground journeys (m),96.4
+208,2017-09-17,2017-10-14,28,Underground journeys (m),108.6
+209,2017-10-15,2017-11-11,28,Underground journeys (m),110.6
+210,2017-11-12,2017-12-09,28,Underground journeys (m),115.1
+211,2017-12-10,2018-01-06,28,Underground journeys (m),87.7
+212,2018-01-07,2018-02-03,28,Underground journeys (m),105.5
+213,2018-02-04,2018-03-03,28,Underground journeys (m),105.3
+214,2018-03-04,2018-03-31,28,Underground journeys (m),105.3
+215,2018-04-01,2018-04-28,28,Underground journeys (m),103.5
+216,2018-04-29,2018-05-26,28,Underground journeys (m),105.5
+217,2018-05-27,2018-06-23,28,Underground journeys (m),104.4
+218,2018-06-24,2018-07-21,28,Underground journeys (m),109.0
+219,2018-07-22,2018-08-18,28,Underground journeys (m),100.3
+220,2018-08-19,2018-09-15,28,Underground journeys (m),97.5
+221,2018-09-16,2018-10-13,28,Underground journeys (m),109.2
+222,2010-04-01,2010-05-01,31,DLR Journeys (m),6.3
+223,2010-05-02,2010-05-29,28,DLR Journeys (m),5.8
+224,2010-05-30,2010-06-26,28,DLR Journeys (m),5.8
+225,2010-06-27,2010-07-24,28,DLR Journeys (m),6.1
+226,2010-07-25,2010-08-21,28,DLR Journeys (m),5.8
+227,2010-08-22,2010-09-18,28,DLR Journeys (m),5.5
+228,2010-09-19,2010-10-16,28,DLR Journeys (m),6.3
+229,2010-10-17,2010-11-13,28,DLR Journeys (m),6.7
+230,2010-11-14,2010-12-11,28,DLR Journeys (m),6.4
+231,2010-12-12,2011-01-08,28,DLR Journeys (m),4.8
+232,2011-01-09,2011-02-05,28,DLR Journeys (m),6.3
+233,2011-02-06,2011-03-05,28,DLR Journeys (m),6.5
+234,2011-03-06,2011-03-31,26,DLR Journeys (m),6.0
+235,2011-04-01,2011-04-30,30,DLR Journeys (m),6.4
+236,2011-05-01,2011-05-28,28,DLR Journeys (m),6.3
+237,2011-05-29,2011-06-25,28,DLR Journeys (m),6.1
+238,2011-06-26,2011-07-23,28,DLR Journeys (m),6.4
+239,2011-07-24,2011-08-20,28,DLR Journeys (m),6.2
+240,2011-08-21,2011-09-17,28,DLR Journeys (m),6.4
+241,2011-09-18,2011-10-15,28,DLR Journeys (m),7.5
+242,2011-10-16,2011-11-12,28,DLR Journeys (m),7.3
+243,2011-11-13,2011-12-10,28,DLR Journeys (m),7.1
+244,2011-12-11,2012-01-07,28,DLR Journeys (m),5.2
+245,2012-01-08,2012-02-04,28,DLR Journeys (m),6.9
+246,2012-02-05,2012-03-03,28,DLR Journeys (m),7.0
+247,2012-03-04,2012-03-31,28,DLR Journeys (m),7.3
+248,2012-04-01,2012-04-28,28,DLR Journeys (m),7.0
+249,2012-04-29,2012-05-26,28,DLR Journeys (m),7.4
+250,2012-05-27,2012-06-23,28,DLR Journeys (m),7.0
+251,2012-06-24,2012-07-21,28,DLR Journeys (m),7.9
+252,2012-07-22,2012-08-18,28,DLR Journeys (m),10.6
+253,2012-08-19,2012-09-15,28,DLR Journeys (m),8.7
+254,2012-09-16,2012-10-13,28,DLR Journeys (m),7.7
+255,2012-10-14,2012-11-10,28,DLR Journeys (m),8.0
+256,2012-11-11,2012-12-08,28,DLR Journeys (m),7.7
+257,2012-12-09,2013-01-05,28,DLR Journeys (m),5.7
+258,2013-01-06,2013-02-02,28,DLR Journeys (m),7.3
+259,2013-02-03,2013-03-02,28,DLR Journeys (m),7.6
+260,2013-03-03,2013-03-31,29,DLR Journeys (m),7.6
+261,2013-04-01,2013-04-27,27,DLR Journeys (m),7.6
+262,2013-04-28,2013-05-25,28,DLR Journeys (m),7.9
+263,2013-05-26,2013-06-22,28,DLR Journeys (m),7.7
+264,2013-06-23,2013-07-20,28,DLR Journeys (m),8.0
+265,2013-07-21,2013-08-17,28,DLR Journeys (m),7.5
+266,2013-08-18,2013-09-14,28,DLR Journeys (m),7.2
+267,2013-09-15,2013-10-12,28,DLR Journeys (m),7.9
+268,2013-10-13,2013-11-09,28,DLR Journeys (m),8.2
+269,2013-11-10,2013-12-07,28,DLR Journeys (m),8.2
+270,2013-12-08,2014-01-04,28,DLR Journeys (m),6.5
+271,2014-01-05,2014-02-01,28,DLR Journeys (m),7.8
+272,2014-02-02,2014-03-01,28,DLR Journeys (m),8.3
+273,2014-03-02,2014-03-31,30,DLR Journeys (m),8.3
+274,2014-04-01,2014-04-26,26,DLR Journeys (m),7.6
+275,2014-04-27,2014-05-24,28,DLR Journeys (m),8.3
+276,2014-05-25,2014-06-21,28,DLR Journeys (m),8.3
+277,2014-06-22,2014-07-19,28,DLR Journeys (m),8.3
+278,2014-07-20,2014-08-16,28,DLR Journeys (m),8.2
+279,2014-08-17,2014-09-13,28,DLR Journeys (m),8.2
+280,2014-09-14,2014-10-11,28,DLR Journeys (m),8.7
+281,2014-10-12,2014-11-08,28,DLR Journeys (m),9.2
+282,2014-11-09,2014-12-06,28,DLR Journeys (m),9.2
+283,2014-12-07,2015-01-03,28,DLR Journeys (m),6.9
+284,2015-01-04,2015-01-31,28,DLR Journeys (m),8.6
+285,2015-02-01,2015-02-28,28,DLR Journeys (m),9.0
+286,2015-03-01,2015-03-31,31,DLR Journeys (m),10.0
+287,2015-04-01,2015-05-02,26,DLR Journeys (m),10.2
+288,2015-05-03,2015-05-30,28,DLR Journeys (m),8.9
+289,2015-05-31,2015-06-27,28,DLR Journeys (m),9.1
+290,2015-06-28,2015-07-25,28,DLR Journeys (m),9.0
+291,2015-07-26,2015-08-22,28,DLR Journeys (m),8.9
+292,2015-08-23,2015-09-19,28,DLR Journeys (m),8.9
+293,2015-09-20,2015-10-17,28,DLR Journeys (m),9.6
+294,2015-10-18,2015-11-14,28,DLR Journeys (m),8.9
+295,2015-11-15,2015-12-12,28,DLR Journeys (m),9.4
+296,2015-12-13,2016-01-09,28,DLR Journeys (m),7.1
+297,2016-01-10,2016-02-06,28,DLR Journeys (m),9.3
+298,2016-02-07,2016-03-05,28,DLR Journeys (m),9.5
+299,2016-03-06,2016-03-31,31,DLR Journeys (m),8.4
+300,2016-04-01,2016-04-30,30,DLR Journeys (m),10.4
+301,2016-05-01,2016-05-28,28,DLR Journeys (m),9.5
+302,2016-05-29,2016-06-25,28,DLR Journeys (m),9.2
+303,2016-06-26,2016-07-23,28,DLR Journeys (m),9.4
+304,2016-07-24,2016-08-20,28,DLR Journeys (m),9.0
+305,2016-08-21,2016-09-17,28,DLR Journeys (m),8.8
+306,2016-09-18,2016-10-15,28,DLR Journeys (m),9.6
+307,2016-10-16,2016-11-12,28,DLR Journeys (m),10.1
+308,2016-11-13,2016-12-10,28,DLR Journeys (m),10.1
+309,2016-12-11,2017-01-07,28,DLR Journeys (m),7.6
+310,2017-01-08,2017-02-04,28,DLR Journeys (m),9.6
+311,2017-02-05,2017-03-04,28,DLR Journeys (m),9.7
+312,2017-03-05,2017-03-31,27,DLR Journeys (m),9.5
+313,2017-04-01,2017-04-29,29,DLR Journeys (m),9.7
+314,2017-04-30,2017-05-27,28,DLR Journeys (m),9.4
+315,2017-05-28,2017-06-24,28,DLR Journeys (m),9.2
+316,2017-06-25,2017-07-22,28,DLR Journeys (m),9.6
+317,2017-07-23,2017-08-19,28,DLR Journeys (m),9.2
+318,2017-08-20,2017-09-16,28,DLR Journeys (m),8.6
+319,2017-09-17,2017-10-14,28,DLR Journeys (m),9.6
+320,2017-10-15,2017-11-11,28,DLR Journeys (m),9.9
+321,2017-11-12,2017-12-09,28,DLR Journeys (m),9.8
+322,2017-12-10,2018-01-06,28,DLR Journeys (m),7.4
+323,2018-01-07,2018-02-03,28,DLR Journeys (m),9.3
+324,2018-02-04,2018-03-03,28,DLR Journeys (m),9.3
+325,2018-03-04,2018-03-31,28,DLR Journeys (m),8.7
+326,2018-04-01,2018-04-28,28,DLR Journeys (m),9.4
+327,2018-04-29,2018-05-26,28,DLR Journeys (m),9.7
+328,2018-05-27,2018-06-23,28,DLR Journeys (m),9.2
+329,2018-06-24,2018-07-21,28,DLR Journeys (m),9.6
+330,2018-07-22,2018-08-18,28,DLR Journeys (m),9.0
+331,2018-08-19,2018-09-15,28,DLR Journeys (m),8.6
+332,2018-09-16,2018-10-13,28,DLR Journeys (m),9.6
+333,2010-04-01,2010-05-01,31,Tram Journeys (m),2.3
+334,2010-05-02,2010-05-29,28,Tram Journeys (m),2.2
+335,2010-05-30,2010-06-26,28,Tram Journeys (m),2.1
+336,2010-06-27,2010-07-24,28,Tram Journeys (m),2.1
+337,2010-07-25,2010-08-21,28,Tram Journeys (m),2.0
+338,2010-08-22,2010-09-18,28,Tram Journeys (m),2.0
+339,2010-09-19,2010-10-16,28,Tram Journeys (m),2.3
+340,2010-10-17,2010-11-13,28,Tram Journeys (m),2.2
+341,2010-11-14,2010-12-11,28,Tram Journeys (m),2.3
+342,2010-12-12,2011-01-08,28,Tram Journeys (m),1.8
+343,2011-01-09,2011-02-05,28,Tram Journeys (m),2.1
+344,2011-02-06,2011-03-05,28,Tram Journeys (m),2.2
+345,2011-03-06,2011-03-31,26,Tram Journeys (m),2.1
+346,2011-04-01,2011-04-30,30,Tram Journeys (m),2.1
+347,2011-05-01,2011-05-28,28,Tram Journeys (m),2.2
+348,2011-05-29,2011-06-25,28,Tram Journeys (m),2.2
+349,2011-06-26,2011-07-23,28,Tram Journeys (m),2.3
+350,2011-07-24,2011-08-20,28,Tram Journeys (m),1.9
+351,2011-08-21,2011-09-17,28,Tram Journeys (m),2.1
+352,2011-09-18,2011-10-15,28,Tram Journeys (m),2.4
+353,2011-10-16,2011-11-12,28,Tram Journeys (m),2.3
+354,2011-11-13,2011-12-10,28,Tram Journeys (m),2.4
+355,2011-12-11,2012-01-07,28,Tram Journeys (m),1.9
+356,2012-01-08,2012-02-04,28,Tram Journeys (m),2.2
+357,2012-02-05,2012-03-03,28,Tram Journeys (m),2.0
+358,2012-03-04,2012-03-31,28,Tram Journeys (m),2.3
+359,2012-04-01,2012-04-28,28,Tram Journeys (m),2.1
+360,2012-04-29,2012-05-26,28,Tram Journeys (m),2.3
+361,2012-05-27,2012-06-23,28,Tram Journeys (m),2.2
+362,2012-06-24,2012-07-21,28,Tram Journeys (m),2.5
+363,2012-07-22,2012-08-18,28,Tram Journeys (m),2.3
+364,2012-08-19,2012-09-15,28,Tram Journeys (m),2.4
+365,2012-09-16,2012-10-13,28,Tram Journeys (m),2.5
+366,2012-10-14,2012-11-10,28,Tram Journeys (m),2.2
+367,2012-11-11,2012-12-08,28,Tram Journeys (m),2.5
+368,2012-12-09,2013-01-05,28,Tram Journeys (m),2.0
+369,2013-01-06,2013-02-02,28,Tram Journeys (m),2.3
+370,2013-02-03,2013-03-02,28,Tram Journeys (m),2.4
+371,2013-03-03,2013-03-31,29,Tram Journeys (m),2.4
+372,2013-04-01,2013-04-27,27,Tram Journeys (m),2.3
+373,2013-04-28,2013-05-25,28,Tram Journeys (m),2.5
+374,2013-05-26,2013-06-22,28,Tram Journeys (m),2.4
+375,2013-06-23,2013-07-20,28,Tram Journeys (m),2.5
+376,2013-07-21,2013-08-17,28,Tram Journeys (m),2.2
+377,2013-08-18,2013-09-14,28,Tram Journeys (m),2.0
+378,2013-09-15,2013-10-12,28,Tram Journeys (m),2.6
+379,2013-10-13,2013-11-09,28,Tram Journeys (m),2.4
+380,2013-11-10,2013-12-07,28,Tram Journeys (m),2.6
+381,2013-12-08,2014-01-04,28,Tram Journeys (m),2.0
+382,2014-01-05,2014-02-01,28,Tram Journeys (m),2.4
+383,2014-02-02,2014-03-01,28,Tram Journeys (m),2.4
+384,2014-03-02,2014-03-31,30,Tram Journeys (m),2.8
+385,2014-04-01,2014-04-26,26,Tram Journeys (m),2.2
+386,2014-04-27,2014-05-24,28,Tram Journeys (m),2.4
+387,2014-05-25,2014-06-21,28,Tram Journeys (m),2.3
+388,2014-06-22,2014-07-19,28,Tram Journeys (m),2.5
+389,2014-07-20,2014-08-16,28,Tram Journeys (m),2.0
+390,2014-08-17,2014-09-13,28,Tram Journeys (m),2.3
+391,2014-09-14,2014-10-11,28,Tram Journeys (m),2.6
+392,2014-10-12,2014-11-08,28,Tram Journeys (m),2.4
+393,2014-11-09,2014-12-06,28,Tram Journeys (m),2.6
+394,2014-12-07,2015-01-03,28,Tram Journeys (m),2.1
+395,2015-01-04,2015-01-31,28,Tram Journeys (m),2.4
+396,2015-02-01,2015-02-28,28,Tram Journeys (m),2.4
+397,2015-03-01,2015-03-31,31,Tram Journeys (m),2.5
+398,2015-04-01,2015-05-02,26,Tram Journeys (m),2.1
+399,2015-05-03,2015-05-30,28,Tram Journeys (m),2.0
+400,2015-05-31,2015-06-27,28,Tram Journeys (m),2.1
+401,2015-06-28,2015-07-25,28,Tram Journeys (m),2.2
+402,2015-07-26,2015-08-22,28,Tram Journeys (m),1.8
+403,2015-08-23,2015-09-19,28,Tram Journeys (m),2.0
+404,2015-09-20,2015-10-17,28,Tram Journeys (m),2.2
+405,2015-10-18,2015-11-14,28,Tram Journeys (m),2.2
+406,2015-11-15,2015-12-12,28,Tram Journeys (m),2.3
+407,2015-12-13,2016-01-09,28,Tram Journeys (m),1.8
+408,2016-01-10,2016-02-06,28,Tram Journeys (m),2.1
+409,2016-02-07,2016-03-05,28,Tram Journeys (m),2.2
+410,2016-03-06,2016-03-31,31,Tram Journeys (m),1.9
+411,2016-04-01,2016-04-30,30,Tram Journeys (m),2.4
+412,2016-05-01,2016-05-28,28,Tram Journeys (m),2.4
+413,2016-05-29,2016-06-25,28,Tram Journeys (m),2.3
+414,2016-06-26,2016-07-23,28,Tram Journeys (m),2.4
+415,2016-07-24,2016-08-20,28,Tram Journeys (m),1.8
+416,2016-08-21,2016-09-17,28,Tram Journeys (m),2.2
+417,2016-09-18,2016-10-15,28,Tram Journeys (m),2.5
+418,2016-10-16,2016-11-12,28,Tram Journeys (m),2.2
+419,2016-11-13,2016-12-10,28,Tram Journeys (m),2.1
+420,2016-12-11,2017-01-07,28,Tram Journeys (m),2.1
+421,2017-01-08,2017-02-04,28,Tram Journeys (m),2.4
+422,2017-02-05,2017-03-04,28,Tram Journeys (m),2.2
+423,2017-03-05,2017-03-31,27,Tram Journeys (m),2.4
+424,2017-04-01,2017-04-29,29,Tram Journeys (m),2.1
+425,2017-04-30,2017-05-27,28,Tram Journeys (m),2.3
+426,2017-05-28,2017-06-24,28,Tram Journeys (m),2.2
+427,2017-06-25,2017-07-22,28,Tram Journeys (m),2.4
+428,2017-07-23,2017-08-19,28,Tram Journeys (m),2.1
+429,2017-08-20,2017-09-16,28,Tram Journeys (m),2.2
+430,2017-09-17,2017-10-14,28,Tram Journeys (m),2.5
+431,2017-10-15,2017-11-11,28,Tram Journeys (m),2.3
+432,2017-11-12,2017-12-09,28,Tram Journeys (m),2.4
+433,2017-12-10,2018-01-06,28,Tram Journeys (m),1.9
+434,2018-01-07,2018-02-03,28,Tram Journeys (m),2.2
+435,2018-02-04,2018-03-03,28,Tram Journeys (m),2.2
+436,2018-03-04,2018-03-31,28,Tram Journeys (m),2.2
+437,2018-04-01,2018-04-28,28,Tram Journeys (m),1.9
+438,2018-04-29,2018-05-26,28,Tram Journeys (m),2.3
+439,2018-05-27,2018-06-23,28,Tram Journeys (m),2.3
+440,2018-06-24,2018-07-21,28,Tram Journeys (m),2.4
+441,2018-07-22,2018-08-18,28,Tram Journeys (m),2.1
+442,2018-08-19,2018-09-15,28,Tram Journeys (m),2.2
+443,2018-09-16,2018-10-13,28,Tram Journeys (m),2.4
+444,2010-04-01,2010-05-01,31,Overground Journeys (m),
+445,2010-05-02,2010-05-29,28,Overground Journeys (m),
+446,2010-05-30,2010-06-26,28,Overground Journeys (m),
+447,2010-06-27,2010-07-24,28,Overground Journeys (m),
+448,2010-07-25,2010-08-21,28,Overground Journeys (m),
+449,2010-08-22,2010-09-18,28,Overground Journeys (m),
+450,2010-09-19,2010-10-16,28,Overground Journeys (m),
+451,2010-10-17,2010-11-13,28,Overground Journeys (m),5.6
+452,2010-11-14,2010-12-11,28,Overground Journeys (m),5.4
+453,2010-12-12,2011-01-08,28,Overground Journeys (m),3.5
+454,2011-01-09,2011-02-05,28,Overground Journeys (m),5.2
+455,2011-02-06,2011-03-05,28,Overground Journeys (m),5.2
+456,2011-03-06,2011-03-31,26,Overground Journeys (m),5.8
+457,2011-04-01,2011-04-30,30,Overground Journeys (m),6.3
+458,2011-05-01,2011-05-28,28,Overground Journeys (m),6.4
+459,2011-05-29,2011-06-25,28,Overground Journeys (m),6.9
+460,2011-06-26,2011-07-23,28,Overground Journeys (m),7.6
+461,2011-07-24,2011-08-20,28,Overground Journeys (m),7.7
+462,2011-08-21,2011-09-17,28,Overground Journeys (m),7.7
+463,2011-09-18,2011-10-15,28,Overground Journeys (m),8.7
+464,2011-10-16,2011-11-12,28,Overground Journeys (m),8.8
+465,2011-11-13,2011-12-10,28,Overground Journeys (m),9.0
+466,2011-12-11,2012-01-07,28,Overground Journeys (m),6.9
+467,2012-01-08,2012-02-04,28,Overground Journeys (m),8.7
+468,2012-02-05,2012-03-03,28,Overground Journeys (m),8.8
+469,2012-03-04,2012-03-31,28,Overground Journeys (m),9.1
+470,2012-04-01,2012-04-28,28,Overground Journeys (m),8.5
+471,2012-04-29,2012-05-26,28,Overground Journeys (m),8.9
+472,2012-05-27,2012-06-23,28,Overground Journeys (m),8.6
+473,2012-06-24,2012-07-21,28,Overground Journeys (m),8.9
+474,2012-07-22,2012-08-18,28,Overground Journeys (m),10.5
+475,2012-08-19,2012-09-15,28,Overground Journeys (m),9.8
+476,2012-09-16,2012-10-13,28,Overground Journeys (m),9.7
+477,2012-10-14,2012-11-10,28,Overground Journeys (m),9.8
+478,2012-11-11,2012-12-08,28,Overground Journeys (m),10.0
+479,2012-12-09,2013-01-05,28,Overground Journeys (m),8.2
+480,2013-01-06,2013-02-02,28,Overground Journeys (m),10.2
+481,2013-02-03,2013-03-02,28,Overground Journeys (m),10.7
+482,2013-03-03,2013-03-31,29,Overground Journeys (m),10.8
+483,2013-04-01,2013-04-27,27,Overground Journeys (m),10.3
+484,2013-04-28,2013-05-25,28,Overground Journeys (m),10.3
+485,2013-05-26,2013-06-22,28,Overground Journeys (m),10.9
+486,2013-06-23,2013-07-20,28,Overground Journeys (m),11.3
+487,2013-07-21,2013-08-17,28,Overground Journeys (m),10.6
+488,2013-08-18,2013-09-14,28,Overground Journeys (m),10.4
+489,2013-09-15,2013-10-12,28,Overground Journeys (m),11.2
+490,2013-10-13,2013-11-09,28,Overground Journeys (m),9.6
+491,2013-11-10,2013-12-07,28,Overground Journeys (m),10.6
+492,2013-12-08,2014-01-04,28,Overground Journeys (m),8.1
+493,2014-01-05,2014-02-01,28,Overground Journeys (m),10.3
+494,2014-02-02,2014-03-01,28,Overground Journeys (m),10.8
+495,2014-03-02,2014-03-31,30,Overground Journeys (m),11.3
+496,2014-04-01,2014-04-26,26,Overground Journeys (m),9.7
+497,2014-04-27,2014-05-24,28,Overground Journeys (m),10.5
+498,2014-05-25,2014-06-21,28,Overground Journeys (m),10.5
+499,2014-06-22,2014-07-19,28,Overground Journeys (m),10.8
+500,2014-07-20,2014-08-16,28,Overground Journeys (m),10.6
+501,2014-08-17,2014-09-13,28,Overground Journeys (m),10.8
+502,2014-09-14,2014-10-11,28,Overground Journeys (m),10.8
+503,2014-10-12,2014-11-08,28,Overground Journeys (m),11.0
+504,2014-11-09,2014-12-06,28,Overground Journeys (m),11.2
+505,2014-12-07,2015-01-03,28,Overground Journeys (m),8.7
+506,2015-01-04,2015-01-31,28,Overground Journeys (m),11.4
+507,2015-02-01,2015-02-28,28,Overground Journeys (m),11.1
+508,2015-03-01,2015-03-31,31,Overground Journeys (m),12.6
+509,2015-04-01,2015-05-02,26,Overground Journeys (m),9.7
+510,2015-05-03,2015-05-30,28,Overground Journeys (m),11.8
+511,2015-05-31,2015-06-27,28,Overground Journeys (m),12.3
+512,2015-06-28,2015-07-25,28,Overground Journeys (m),12.4
+513,2015-07-26,2015-08-22,28,Overground Journeys (m),11.3
+514,2015-08-23,2015-09-19,28,Overground Journeys (m),11.6
+515,2015-09-20,2015-10-17,28,Overground Journeys (m),13.0
+516,2015-10-18,2015-11-14,28,Overground Journeys (m),12.7
+517,2015-11-15,2015-12-12,28,Overground Journeys (m),12.8
+518,2015-12-13,2016-01-09,28,Overground Journeys (m),9.3
+519,2016-01-10,2016-02-06,28,Overground Journeys (m),12.5
+520,2016-02-07,2016-03-05,28,Overground Journeys (m),11.7
+521,2016-03-06,2016-03-31,31,Overground Journeys (m),10.1
+522,2016-04-01,2016-04-30,30,Overground Journeys (m),15.6
+523,2016-05-01,2016-05-28,28,Overground Journeys (m),14.4
+524,2016-05-29,2016-06-25,28,Overground Journeys (m),13.8
+525,2016-06-26,2016-07-23,28,Overground Journeys (m),14.1
+526,2016-07-24,2016-08-20,28,Overground Journeys (m),13.7
+527,2016-08-21,2016-09-17,28,Overground Journeys (m),14.2
+528,2016-09-18,2016-10-15,28,Overground Journeys (m),15.2
+529,2016-10-16,2016-11-12,28,Overground Journeys (m),15.4
+530,2016-11-13,2016-12-10,28,Overground Journeys (m),15.7
+531,2016-12-11,2017-01-07,28,Overground Journeys (m),12.0
+532,2017-01-08,2017-02-04,28,Overground Journeys (m),14.8
+533,2017-02-05,2017-03-04,28,Overground Journeys (m),14.6
+534,2017-03-05,2017-03-31,27,Overground Journeys (m),15.1
+535,2017-04-01,2017-04-29,29,Overground Journeys (m),14.7
+536,2017-04-30,2017-05-27,28,Overground Journeys (m),14.8
+537,2017-05-28,2017-06-24,28,Overground Journeys (m),14.4
+538,2017-06-25,2017-07-22,28,Overground Journeys (m),15.0
+539,2017-07-23,2017-08-19,28,Overground Journeys (m),14.4
+540,2017-08-20,2017-09-16,28,Overground Journeys (m),14.5
+541,2017-09-17,2017-10-14,28,Overground Journeys (m),15.6
+542,2017-10-15,2017-11-11,28,Overground Journeys (m),15.4
+543,2017-11-12,2017-12-09,28,Overground Journeys (m),15.5
+544,2017-12-10,2018-01-06,28,Overground Journeys (m),11.6
+545,2018-01-07,2018-02-03,28,Overground Journeys (m),14.8
+546,2018-02-04,2018-03-03,28,Overground Journeys (m),14.1
+547,2018-03-04,2018-03-31,28,Overground Journeys (m),15.1
+548,2018-04-01,2018-04-28,28,Overground Journeys (m),14.7
+549,2018-04-29,2018-05-26,28,Overground Journeys (m),14.4
+550,2018-05-27,2018-06-23,28,Overground Journeys (m),14.3
+551,2018-06-24,2018-07-21,28,Overground Journeys (m),14.8
+552,2018-07-22,2018-08-18,28,Overground Journeys (m),13.6
+553,2018-08-19,2018-09-15,28,Overground Journeys (m),13.9
+554,2018-09-16,2018-10-13,28,Overground Journeys (m),16.9
+555,2010-04-01,2010-05-01,31,Emirates Airline Journeys (m),
+556,2010-05-02,2010-05-29,28,Emirates Airline Journeys (m),
+557,2010-05-30,2010-06-26,28,Emirates Airline Journeys (m),
+558,2010-06-27,2010-07-24,28,Emirates Airline Journeys (m),
+559,2010-07-25,2010-08-21,28,Emirates Airline Journeys (m),
+560,2010-08-22,2010-09-18,28,Emirates Airline Journeys (m),
+561,2010-09-19,2010-10-16,28,Emirates Airline Journeys (m),
+562,2010-10-17,2010-11-13,28,Emirates Airline Journeys (m),
+563,2010-11-14,2010-12-11,28,Emirates Airline Journeys (m),
+564,2010-12-12,2011-01-08,28,Emirates Airline Journeys (m),
+565,2011-01-09,2011-02-05,28,Emirates Airline Journeys (m),
+566,2011-02-06,2011-03-05,28,Emirates Airline Journeys (m),
+567,2011-03-06,2011-03-31,26,Emirates Airline Journeys (m),
+568,2011-04-01,2011-04-30,30,Emirates Airline Journeys (m),
+569,2011-05-01,2011-05-28,28,Emirates Airline Journeys (m),
+570,2011-05-29,2011-06-25,28,Emirates Airline Journeys (m),
+571,2011-06-26,2011-07-23,28,Emirates Airline Journeys (m),
+572,2011-07-24,2011-08-20,28,Emirates Airline Journeys (m),
+573,2011-08-21,2011-09-17,28,Emirates Airline Journeys (m),
+574,2011-09-18,2011-10-15,28,Emirates Airline Journeys (m),
+575,2011-10-16,2011-11-12,28,Emirates Airline Journeys (m),
+576,2011-11-13,2011-12-10,28,Emirates Airline Journeys (m),
+577,2011-12-11,2012-01-07,28,Emirates Airline Journeys (m),
+578,2012-01-08,2012-02-04,28,Emirates Airline Journeys (m),
+579,2012-02-05,2012-03-03,28,Emirates Airline Journeys (m),
+580,2012-03-04,2012-03-31,28,Emirates Airline Journeys (m),
+581,2012-04-01,2012-04-28,28,Emirates Airline Journeys (m),
+582,2012-04-29,2012-05-26,28,Emirates Airline Journeys (m),
+583,2012-05-27,2012-06-23,28,Emirates Airline Journeys (m),
+584,2012-06-24,2012-07-21,28,Emirates Airline Journeys (m),0.24
+585,2012-07-22,2012-08-18,28,Emirates Airline Journeys (m),0.53
+586,2012-08-19,2012-09-15,28,Emirates Airline Journeys (m),0.38
+587,2012-09-16,2012-10-13,28,Emirates Airline Journeys (m),0.16
+588,2012-10-14,2012-11-10,28,Emirates Airline Journeys (m),0.18
+589,2012-11-11,2012-12-08,28,Emirates Airline Journeys (m),0.12
+590,2012-12-09,2013-01-05,28,Emirates Airline Journeys (m),0.11
+591,2013-01-06,2013-02-02,28,Emirates Airline Journeys (m),0.07
+592,2013-02-03,2013-03-02,28,Emirates Airline Journeys (m),0.12
+593,2013-03-03,2013-03-31,29,Emirates Airline Journeys (m),0.07
+594,2013-04-01,2013-04-27,27,Emirates Airline Journeys (m),0.14
+595,2013-04-28,2013-05-25,28,Emirates Airline Journeys (m),0.13
+596,2013-05-26,2013-06-22,28,Emirates Airline Journeys (m),0.14
+597,2013-06-23,2013-07-20,28,Emirates Airline Journeys (m),0.15
+598,2013-07-21,2013-08-17,28,Emirates Airline Journeys (m),0.19
+599,2013-08-18,2013-09-14,28,Emirates Airline Journeys (m),0.17
+600,2013-09-15,2013-10-12,28,Emirates Airline Journeys (m),0.1
+601,2013-10-13,2013-11-09,28,Emirates Airline Journeys (m),0.1
+602,2013-11-10,2013-12-07,28,Emirates Airline Journeys (m),0.08
+603,2013-12-08,2014-01-04,28,Emirates Airline Journeys (m),0.07
+604,2014-01-05,2014-02-01,28,Emirates Airline Journeys (m),0.07
+605,2014-02-02,2014-03-01,28,Emirates Airline Journeys (m),0.08
+606,2014-03-02,2014-03-31,30,Emirates Airline Journeys (m),0.09
+607,2014-04-01,2014-04-26,26,Emirates Airline Journeys (m),0.14
+608,2014-04-27,2014-05-24,28,Emirates Airline Journeys (m),0.11
+609,2014-05-25,2014-06-21,28,Emirates Airline Journeys (m),0.13
+610,2014-06-22,2014-07-19,28,Emirates Airline Journeys (m),0.12
+611,2014-07-20,2014-08-16,28,Emirates Airline Journeys (m),0.18
+612,2014-08-17,2014-09-13,28,Emirates Airline Journeys (m),0.17
+613,2014-09-14,2014-10-11,28,Emirates Airline Journeys (m),0.11
+614,2014-10-12,2014-11-08,28,Emirates Airline Journeys (m),0.13
+615,2014-11-09,2014-12-06,28,Emirates Airline Journeys (m),0.09
+616,2014-12-07,2015-01-03,28,Emirates Airline Journeys (m),0.09
+617,2015-01-04,2015-01-31,28,Emirates Airline Journeys (m),0.07
+618,2015-02-01,2015-02-28,28,Emirates Airline Journeys (m),0.12
+619,2015-03-01,2015-03-31,31,Emirates Airline Journeys (m),0.07
+620,2015-04-01,2015-05-02,26,Emirates Airline Journeys (m),0.16
+621,2015-05-03,2015-05-30,28,Emirates Airline Journeys (m),0.15
+622,2015-05-31,2015-06-27,28,Emirates Airline Journeys (m),0.12
+623,2015-06-28,2015-07-25,28,Emirates Airline Journeys (m),0.15
+624,2015-07-26,2015-08-22,28,Emirates Airline Journeys (m),0.19
+625,2015-08-23,2015-09-19,28,Emirates Airline Journeys (m),0.12
+626,2015-09-20,2015-10-17,28,Emirates Airline Journeys (m),0.12
+627,2015-10-18,2015-11-14,28,Emirates Airline Journeys (m),0.14
+628,2015-11-15,2015-12-12,28,Emirates Airline Journeys (m),0.05
+629,2015-12-13,2016-01-09,28,Emirates Airline Journeys (m),0.08
+630,2016-01-10,2016-02-06,28,Emirates Airline Journeys (m),0.07
+631,2016-02-07,2016-03-05,28,Emirates Airline Journeys (m),0.11
+632,2016-03-06,2016-03-31,31,Emirates Airline Journeys (m),0.08
+633,2016-04-01,2016-04-30,30,Emirates Airline Journeys (m),0.14
+634,2016-05-01,2016-05-28,28,Emirates Airline Journeys (m),0.13
+635,2016-05-29,2016-06-25,28,Emirates Airline Journeys (m),0.11
+636,2016-06-26,2016-07-23,28,Emirates Airline Journeys (m),0.13
+637,2016-07-24,2016-08-20,28,Emirates Airline Journeys (m),0.18
+638,2016-08-21,2016-09-17,28,Emirates Airline Journeys (m),0.14
+639,2016-09-18,2016-10-15,28,Emirates Airline Journeys (m),0.1
+640,2016-10-16,2016-11-12,28,Emirates Airline Journeys (m),0.12
+641,2016-11-13,2016-12-10,28,Emirates Airline Journeys (m),0.08
+642,2016-12-11,2017-01-07,28,Emirates Airline Journeys (m),0.09
+643,2017-01-08,2017-02-04,28,Emirates Airline Journeys (m),0.08
+644,2017-02-05,2017-03-04,28,Emirates Airline Journeys (m),0.11
+645,2017-03-05,2017-03-31,27,Emirates Airline Journeys (m),0.07
+646,2017-04-01,2017-04-29,29,Emirates Airline Journeys (m),0.16
+647,2017-04-30,2017-05-27,28,Emirates Airline Journeys (m),0.11
+648,2017-05-28,2017-06-24,28,Emirates Airline Journeys (m),0.11
+649,2017-06-25,2017-07-22,28,Emirates Airline Journeys (m),0.13
+650,2017-07-23,2017-08-19,28,Emirates Airline Journeys (m),0.18
+651,2017-08-20,2017-09-16,28,Emirates Airline Journeys (m),0.12
+652,2017-09-17,2017-10-14,28,Emirates Airline Journeys (m),0.1
+653,2017-10-15,2017-11-11,28,Emirates Airline Journeys (m),0.11
+654,2017-11-12,2017-12-09,28,Emirates Airline Journeys (m),0.08
+655,2017-12-10,2018-01-06,28,Emirates Airline Journeys (m),0.06
+656,2018-01-07,2018-02-03,28,Emirates Airline Journeys (m),0.07
+657,2018-02-04,2018-03-03,28,Emirates Airline Journeys (m),0.1
+658,2018-03-04,2018-03-31,28,Emirates Airline Journeys (m),0.1
+659,2018-04-01,2018-04-28,28,Emirates Airline Journeys (m),0.1
+660,2018-04-29,2018-05-26,28,Emirates Airline Journeys (m),0.1
+661,2018-05-27,2018-06-23,28,Emirates Airline Journeys (m),0.1
+662,2018-06-24,2018-07-21,28,Emirates Airline Journeys (m),0.1
+663,2018-07-22,2018-08-18,28,Emirates Airline Journeys (m),0.2
+664,2018-08-19,2018-09-15,28,Emirates Airline Journeys (m),0.1
+665,2018-09-16,2018-10-13,28,Emirates Airline Journeys (m),0.1
+666,2010-04-01,2010-05-01,31,TfL Rail Journeys (m),
+667,2010-05-02,2010-05-29,28,TfL Rail Journeys (m),
+668,2010-05-30,2010-06-26,28,TfL Rail Journeys (m),
+669,2010-06-27,2010-07-24,28,TfL Rail Journeys (m),
+670,2010-07-25,2010-08-21,28,TfL Rail Journeys (m),
+671,2010-08-22,2010-09-18,28,TfL Rail Journeys (m),
+672,2010-09-19,2010-10-16,28,TfL Rail Journeys (m),
+673,2010-10-17,2010-11-13,28,TfL Rail Journeys (m),
+674,2010-11-14,2010-12-11,28,TfL Rail Journeys (m),
+675,2010-12-12,2011-01-08,28,TfL Rail Journeys (m),
+676,2011-01-09,2011-02-05,28,TfL Rail Journeys (m),
+677,2011-02-06,2011-03-05,28,TfL Rail Journeys (m),
+678,2011-03-06,2011-03-31,26,TfL Rail Journeys (m),
+679,2011-04-01,2011-04-30,30,TfL Rail Journeys (m),
+680,2011-05-01,2011-05-28,28,TfL Rail Journeys (m),
+681,2011-05-29,2011-06-25,28,TfL Rail Journeys (m),
+682,2011-06-26,2011-07-23,28,TfL Rail Journeys (m),
+683,2011-07-24,2011-08-20,28,TfL Rail Journeys (m),
+684,2011-08-21,2011-09-17,28,TfL Rail Journeys (m),
+685,2011-09-18,2011-10-15,28,TfL Rail Journeys (m),
+686,2011-10-16,2011-11-12,28,TfL Rail Journeys (m),
+687,2011-11-13,2011-12-10,28,TfL Rail Journeys (m),
+688,2011-12-11,2012-01-07,28,TfL Rail Journeys (m),
+689,2012-01-08,2012-02-04,28,TfL Rail Journeys (m),
+690,2012-02-05,2012-03-03,28,TfL Rail Journeys (m),
+691,2012-03-04,2012-03-31,28,TfL Rail Journeys (m),
+692,2012-04-01,2012-04-28,28,TfL Rail Journeys (m),
+693,2012-04-29,2012-05-26,28,TfL Rail Journeys (m),
+694,2012-05-27,2012-06-23,28,TfL Rail Journeys (m),
+695,2012-06-24,2012-07-21,28,TfL Rail Journeys (m),
+696,2012-07-22,2012-08-18,28,TfL Rail Journeys (m),
+697,2012-08-19,2012-09-15,28,TfL Rail Journeys (m),
+698,2012-09-16,2012-10-13,28,TfL Rail Journeys (m),
+699,2012-10-14,2012-11-10,28,TfL Rail Journeys (m),
+700,2012-11-11,2012-12-08,28,TfL Rail Journeys (m),
+701,2012-12-09,2013-01-05,28,TfL Rail Journeys (m),
+702,2013-01-06,2013-02-02,28,TfL Rail Journeys (m),
+703,2013-02-03,2013-03-02,28,TfL Rail Journeys (m),
+704,2013-03-03,2013-03-31,29,TfL Rail Journeys (m),
+705,2013-04-01,2013-04-27,27,TfL Rail Journeys (m),
+706,2013-04-28,2013-05-25,28,TfL Rail Journeys (m),
+707,2013-05-26,2013-06-22,28,TfL Rail Journeys (m),
+708,2013-06-23,2013-07-20,28,TfL Rail Journeys (m),
+709,2013-07-21,2013-08-17,28,TfL Rail Journeys (m),
+710,2013-08-18,2013-09-14,28,TfL Rail Journeys (m),
+711,2013-09-15,2013-10-12,28,TfL Rail Journeys (m),
+712,2013-10-13,2013-11-09,28,TfL Rail Journeys (m),
+713,2013-11-10,2013-12-07,28,TfL Rail Journeys (m),
+714,2013-12-08,2014-01-04,28,TfL Rail Journeys (m),
+715,2014-01-05,2014-02-01,28,TfL Rail Journeys (m),
+716,2014-02-02,2014-03-01,28,TfL Rail Journeys (m),
+717,2014-03-02,2014-03-31,30,TfL Rail Journeys (m),
+718,2014-04-01,2014-04-26,26,TfL Rail Journeys (m),2.9
+719,2014-04-27,2014-05-24,28,TfL Rail Journeys (m),
+720,2014-05-25,2014-06-21,28,TfL Rail Journeys (m),
+721,2014-06-22,2014-07-19,28,TfL Rail Journeys (m),
+722,2014-07-20,2014-08-16,28,TfL Rail Journeys (m),
+723,2014-08-17,2014-09-13,28,TfL Rail Journeys (m),
+724,2014-09-14,2014-10-11,28,TfL Rail Journeys (m),
+725,2014-10-12,2014-11-08,28,TfL Rail Journeys (m),
+726,2014-11-09,2014-12-06,28,TfL Rail Journeys (m),
+727,2014-12-07,2015-01-03,28,TfL Rail Journeys (m),
+728,2015-01-04,2015-01-31,28,TfL Rail Journeys (m),
+729,2015-02-01,2015-02-28,28,TfL Rail Journeys (m),
+730,2015-03-01,2015-03-31,31,TfL Rail Journeys (m),
+731,2015-04-01,2015-05-02,26,TfL Rail Journeys (m),
+732,2015-05-03,2015-05-30,28,TfL Rail Journeys (m),
+733,2015-05-31,2015-06-27,28,TfL Rail Journeys (m),3.6
+734,2015-06-28,2015-07-25,28,TfL Rail Journeys (m),3.8
+735,2015-07-26,2015-08-22,28,TfL Rail Journeys (m),3.7
+736,2015-08-23,2015-09-19,28,TfL Rail Journeys (m),3.7
+737,2015-09-20,2015-10-17,28,TfL Rail Journeys (m),4.1
+738,2015-10-18,2015-11-14,28,TfL Rail Journeys (m),4.2
+739,2015-11-15,2015-12-12,28,TfL Rail Journeys (m),4.2
+740,2015-12-13,2016-01-09,28,TfL Rail Journeys (m),3.0
+741,2016-01-10,2016-02-06,28,TfL Rail Journeys (m),3.8
+742,2016-02-07,2016-03-05,28,TfL Rail Journeys (m),3.2
+743,2016-03-06,2016-03-31,31,TfL Rail Journeys (m),2.8
+744,2016-04-01,2016-04-30,30,TfL Rail Journeys (m),4.0
+745,2016-05-01,2016-05-28,28,TfL Rail Journeys (m),3.7
+746,2016-05-29,2016-06-25,28,TfL Rail Journeys (m),3.5
+747,2016-06-26,2016-07-23,28,TfL Rail Journeys (m),3.8
+748,2016-07-24,2016-08-20,28,TfL Rail Journeys (m),3.6
+749,2016-08-21,2016-09-17,28,TfL Rail Journeys (m),3.5
+750,2016-09-18,2016-10-15,28,TfL Rail Journeys (m),3.7
+751,2016-10-16,2016-11-12,28,TfL Rail Journeys (m),3.8
+752,2016-11-13,2016-12-10,28,TfL Rail Journeys (m),4.0
+753,2016-12-11,2017-01-07,28,TfL Rail Journeys (m),3.3
+754,2017-01-08,2017-02-04,28,TfL Rail Journeys (m),3.8
+755,2017-02-05,2017-03-04,28,TfL Rail Journeys (m),3.6
+756,2017-03-05,2017-03-31,27,TfL Rail Journeys (m),3.4
+757,2017-04-01,2017-04-29,29,TfL Rail Journeys (m),3.3
+758,2017-04-30,2017-05-27,28,TfL Rail Journeys (m),3.5
+759,2017-05-28,2017-06-24,28,TfL Rail Journeys (m),3.4
+760,2017-06-25,2017-07-22,28,TfL Rail Journeys (m),3.7
+761,2017-07-23,2017-08-19,28,TfL Rail Journeys (m),3.5
+762,2017-08-20,2017-09-16,28,TfL Rail Journeys (m),3.3
+763,2017-09-17,2017-10-14,28,TfL Rail Journeys (m),3.8
+764,2017-10-15,2017-11-11,28,TfL Rail Journeys (m),3.7
+765,2017-11-12,2017-12-09,28,TfL Rail Journeys (m),3.9
+766,2017-12-10,2018-01-06,28,TfL Rail Journeys (m),2.9
+767,2018-01-07,2018-02-03,28,TfL Rail Journeys (m),3.7
+768,2018-02-04,2018-03-03,28,TfL Rail Journeys (m),3.4
+769,2018-03-04,2018-03-31,28,TfL Rail Journeys (m),3.3
+770,2018-04-01,2018-04-28,28,TfL Rail Journeys (m),3.5
+771,2018-04-29,2018-05-26,28,TfL Rail Journeys (m),3.7
+772,2018-05-27,2018-06-23,28,TfL Rail Journeys (m),4.2
+773,2018-06-24,2018-07-21,28,TfL Rail Journeys (m),4.5
+774,2018-07-22,2018-08-18,28,TfL Rail Journeys (m),4.1
+775,2018-08-19,2018-09-15,28,TfL Rail Journeys (m),4.1
+776,2018-09-16,2018-10-13,28,TfL Rail Journeys (m),4.7
+777,2010-04-01,2010-05-01,31,Cycle Hires (m),0.076235
+778,2010-05-02,2010-05-29,28,Cycle Hires (m),0.067838
+779,2010-05-30,2010-06-26,28,Cycle Hires (m),0.072484
+780,2010-06-27,2010-07-24,28,Cycle Hires (m),0.080428
+781,2010-07-25,2010-08-21,28,Cycle Hires (m),0.212958
+782,2010-08-22,2010-09-18,28,Cycle Hires (m),0.304824
+783,2010-09-19,2010-10-16,28,Cycle Hires (m),0.364295
+784,2010-10-17,2010-11-13,28,Cycle Hires (m),0.334129
+785,2010-11-14,2010-12-11,28,Cycle Hires (m),0.305307
+786,2010-12-12,2011-01-08,28,Cycle Hires (m),0.312663
+787,2011-01-09,2011-02-05,28,Cycle Hires (m),0.443478
+788,2011-02-06,2011-03-05,28,Cycle Hires (m),0.470707
+789,2011-03-06,2011-03-31,26,Cycle Hires (m),0.526407
+790,2011-04-01,2011-04-30,30,Cycle Hires (m),0.629968
+791,2011-05-01,2011-05-28,28,Cycle Hires (m),0.588571
+792,2011-05-29,2011-06-25,28,Cycle Hires (m),0.548135
+793,2011-06-26,2011-07-23,28,Cycle Hires (m),0.589411
+794,2011-07-24,2011-08-20,28,Cycle Hires (m),0.606457
+795,2011-08-21,2011-09-17,28,Cycle Hires (m),0.570239
+796,2011-09-18,2011-10-15,28,Cycle Hires (m),0.629057
+797,2011-10-16,2011-11-12,28,Cycle Hires (m),0.579709
+798,2011-11-13,2011-12-10,28,Cycle Hires (m),0.549742
+799,2011-12-11,2012-01-07,28,Cycle Hires (m),0.421112
+800,2012-01-08,2012-02-04,28,Cycle Hires (m),0.540615
+801,2012-02-05,2012-03-03,28,Cycle Hires (m),0.587725
+802,2012-03-04,2012-03-31,28,Cycle Hires (m),0.811664
+803,2012-04-01,2012-04-28,28,Cycle Hires (m),0.613755
+804,2012-04-29,2012-05-26,28,Cycle Hires (m),0.766466
+805,2012-05-27,2012-06-23,28,Cycle Hires (m),0.844519
+806,2012-06-24,2012-07-21,28,Cycle Hires (m),0.796483
+807,2012-07-22,2012-08-18,28,Cycle Hires (m),0.931199
+808,2012-08-19,2012-09-15,28,Cycle Hires (m),0.855545
+809,2012-09-16,2012-10-13,28,Cycle Hires (m),0.800518
+810,2012-10-14,2012-11-10,28,Cycle Hires (m),0.746324
+811,2012-11-11,2012-12-08,28,Cycle Hires (m),0.680852
+812,2012-12-09,2013-01-05,28,Cycle Hires (m),0.468438
+813,2013-01-06,2013-02-02,28,Cycle Hires (m),0.533815
+814,2013-02-03,2013-03-02,28,Cycle Hires (m),0.592615
+815,2013-03-03,2013-03-31,29,Cycle Hires (m),0.53938
+816,2013-04-01,2013-04-27,27,Cycle Hires (m),0.671462
+817,2013-04-28,2013-05-25,28,Cycle Hires (m),0.671536
+818,2013-05-26,2013-06-22,28,Cycle Hires (m),0.690684
+819,2013-06-23,2013-07-20,28,Cycle Hires (m),0.776735
+820,2013-07-21,2013-08-17,28,Cycle Hires (m),0.753368
+821,2013-08-18,2013-09-14,28,Cycle Hires (m),0.664069
+822,2013-09-15,2013-10-12,28,Cycle Hires (m),0.625347
+823,2013-10-13,2013-11-09,28,Cycle Hires (m),0.586305
+824,2013-11-10,2013-12-07,28,Cycle Hires (m),0.50924
+825,2013-12-08,2014-01-04,28,Cycle Hires (m),0.407503
+826,2014-01-05,2014-02-01,28,Cycle Hires (m),0.595793
+827,2014-02-02,2014-03-01,28,Cycle Hires (m),0.616808
+828,2014-03-02,2014-03-31,30,Cycle Hires (m),0.811856
+829,2014-04-01,2014-04-26,26,Cycle Hires (m),0.658233
+830,2014-04-27,2014-05-24,28,Cycle Hires (m),0.888794
+831,2014-05-25,2014-06-21,28,Cycle Hires (m),0.821951
+832,2014-06-22,2014-07-19,28,Cycle Hires (m),0.90309
+833,2014-07-20,2014-08-16,28,Cycle Hires (m),0.942221
+834,2014-08-17,2014-09-13,28,Cycle Hires (m),0.848087
+835,2014-09-14,2014-10-11,28,Cycle Hires (m),0.906545
+836,2014-10-12,2014-11-08,28,Cycle Hires (m),0.784375
+837,2014-11-09,2014-12-06,28,Cycle Hires (m),0.68176
+838,2014-12-07,2015-01-03,28,Cycle Hires (m),0.534323
+839,2015-01-04,2015-01-31,28,Cycle Hires (m),0.672813
+840,2015-02-01,2015-02-28,28,Cycle Hires (m),0.643751
+841,2015-03-01,2015-03-31,31,Cycle Hires (m),0.719355
+842,2015-04-01,2015-05-02,26,Cycle Hires (m),0.906754
+843,2015-05-03,2015-05-30,28,Cycle Hires (m),0.806551
+844,2015-05-31,2015-06-27,28,Cycle Hires (m),0.885051
+845,2015-06-28,2015-07-25,28,Cycle Hires (m),0.900657
+846,2015-07-26,2015-08-22,28,Cycle Hires (m),0.857964
+847,2015-08-23,2015-09-19,28,Cycle Hires (m),0.816176
+848,2015-09-20,2015-10-17,28,Cycle Hires (m),0.85403
+849,2015-10-18,2015-11-14,28,Cycle Hires (m),0.766193
+850,2015-11-15,2015-12-12,28,Cycle Hires (m),0.677385
+851,2015-12-13,2016-01-09,28,Cycle Hires (m),0.565461
+852,2016-01-10,2016-02-06,28,Cycle Hires (m),0.590517
+853,2016-02-07,2016-03-05,28,Cycle Hires (m),0.620935
+854,2016-03-06,2016-03-31,31,Cycle Hires (m),0.63067
+855,2016-04-01,2016-04-30,30,Cycle Hires (m),0.804913
+856,2016-05-01,2016-05-28,28,Cycle Hires (m),0.896673
+857,2016-05-29,2016-06-25,28,Cycle Hires (m),0.83096
+858,2016-06-26,2016-07-23,28,Cycle Hires (m),0.964863
+859,2016-07-24,2016-08-20,28,Cycle Hires (m),0.997559
+860,2016-08-21,2016-09-17,28,Cycle Hires (m),0.911138
+861,2016-09-18,2016-10-15,28,Cycle Hires (m),0.858385
+862,2016-10-16,2016-11-12,28,Cycle Hires (m),0.821751
+863,2016-11-13,2016-12-10,28,Cycle Hires (m),0.73167
+864,2016-12-11,2017-01-07,28,Cycle Hires (m),0.586337
+865,2017-01-08,2017-02-04,28,Cycle Hires (m),0.650264
+866,2017-02-05,2017-03-04,28,Cycle Hires (m),0.733936
+867,2017-03-05,2017-03-31,27,Cycle Hires (m),0.773671
+868,2017-04-01,2017-04-29,29,Cycle Hires (m),0.82298
+869,2017-04-30,2017-05-27,28,Cycle Hires (m),0.860968
+870,2017-05-28,2017-06-24,28,Cycle Hires (m),0.978709
+871,2017-06-25,2017-07-22,28,Cycle Hires (m),0.924632
+872,2017-07-23,2017-08-19,28,Cycle Hires (m),0.873971
+873,2017-08-20,2017-09-16,28,Cycle Hires (m),0.869605
+874,2017-09-17,2017-10-14,28,Cycle Hires (m),0.865411
+875,2017-10-15,2017-11-11,28,Cycle Hires (m),0.820217
+876,2017-11-12,2017-12-09,28,Cycle Hires (m),0.728083
+877,2017-12-10,2018-01-06,28,Cycle Hires (m),0.493608
+878,2018-01-07,2018-02-03,28,Cycle Hires (m),0.609485
+879,2018-02-04,2018-03-03,28,Cycle Hires (m),0.597595
+880,2018-03-04,2018-03-31,28,Cycle Hires (m),0.654273
+881,2018-04-01,2018-04-28,28,Cycle Hires (m),0.826567
+882,2018-04-29,2018-05-26,28,Cycle Hires (m),0.884588
+883,2018-05-27,2018-06-23,28,Cycle Hires (m),0.896426
+884,2018-06-24,2018-07-21,28,Cycle Hires (m),0.97063
+885,2018-07-22,2018-08-18,28,Cycle Hires (m),0.913386
+886,2018-08-19,2018-09-15,28,Cycle Hires (m),0.802124
+887,2018-09-16,2018-10-13,28,Cycle Hires (m),0.829251
