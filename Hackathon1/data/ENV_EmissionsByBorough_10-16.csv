@@ -1,0 +1,3333 @@
+Borough,Year,Sector,Fuel,KtCO2e
+Barking and Dagenham,2016,Domestic,Electricity,82.08918024
+Barnet,2016,Domestic,Electricity,191.5801075
+Bexley,2016,Domestic,Electricity,116.5314236
+Brent,2016,Domestic,Electricity,131.8086633
+Bromley,2016,Domestic,Electricity,170.3604755
+Camden,2016,Domestic,Electricity,107.6615273
+City of London,2016,Domestic,Electricity,8.210759731
+Croydon,2016,Domestic,Electricity,181.7146067
+Ealing,2016,Domestic,Electricity,145.9909336
+Enfield,2016,Domestic,Electricity,152.0634787
+Greenwich,2016,Domestic,Electricity,115.1304091
+Hackney,2016,Domestic,Electricity,106.147438
+Hammersmith and Fulham,2016,Domestic,Electricity,87.66264217
+Haringey,2016,Domestic,Electricity,112.071397
+Harrow,2016,Domestic,Electricity,109.000296
+Havering,2016,Domestic,Electricity,125.4234188
+Hillingdon,2016,Domestic,Electricity,132.2431948
+Hounslow,2016,Domestic,Electricity,118.0408184
+Islington,2016,Domestic,Electricity,97.92871032
+Kensington and Chelsea,2016,Domestic,Electricity,114.1397322
+Kingston,2016,Domestic,Electricity,81.65600219
+Lambeth,2016,Domestic,Electricity,135.7112524
+Lewisham,2016,Domestic,Electricity,127.664608
+Merton,2016,Domestic,Electricity,97.28003036
+Newham,2016,Domestic,Electricity,116.3807622
+Redbridge,2016,Domestic,Electricity,123.2810554
+Richmond,2016,Domestic,Electricity,104.9091574
+Southwark,2016,Domestic,Electricity,137.2381743
+Sutton,2016,Domestic,Electricity,100.2022156
+Tower Hamlets,2016,Domestic,Electricity,127.1510596
+Waltham Forest,2016,Domestic,Electricity,107.8781843
+Wandsworth,2016,Domestic,Electricity,153.4154767
+Westminster,2016,Domestic,Electricity,150.0687256
+Unapportioned,2016,Domestic,Electricity,-
+Barking and Dagenham,2016,Domestic,Gas,130.7151684
+Barnet,2016,Domestic,Gas,383.1357355
+Bexley,2016,Domestic,Gas,234.7097475
+Brent,2016,Domestic,Gas,269.7477675
+Bromley,2016,Domestic,Gas,387.284825
+Camden,2016,Domestic,Gas,167.7321461
+City of London,2016,Domestic,Gas,5.292571887
+Croydon,2016,Domestic,Gas,387.7519935
+Ealing,2016,Domestic,Gas,292.6788321
+Enfield,2016,Domestic,Gas,272.6195377
+Greenwich,2016,Domestic,Gas,214.7214277
+Hackney,2016,Domestic,Gas,171.3958043
+Hammersmith and Fulham,2016,Domestic,Gas,154.9825502
+Haringey,2016,Domestic,Gas,222.3195425
+Harrow,2016,Domestic,Gas,249.9280596
+Havering,2016,Domestic,Gas,235.5874354
+Hillingdon,2016,Domestic,Gas,252.7615408
+Hounslow,2016,Domestic,Gas,222.4985492
+Islington,2016,Domestic,Gas,158.6949585
+Kensington and Chelsea,2016,Domestic,Gas,153.6352602
+Kingston,2016,Domestic,Gas,169.6407201
+Lambeth,2016,Domestic,Gas,263.1025027
+Lewisham,2016,Domestic,Gas,252.4138319
+Merton,2016,Domestic,Gas,202.8259747
+Newham,2016,Domestic,Gas,191.1491505
+Redbridge,2016,Domestic,Gas,253.0984549
+Richmond,2016,Domestic,Gas,227.1842758
+Southwark,2016,Domestic,Gas,197.3181195
+Sutton,2016,Domestic,Gas,198.0715185
+Tower Hamlets,2016,Domestic,Gas,123.6235858
+Waltham Forest,2016,Domestic,Gas,211.2218807
+Wandsworth,2016,Domestic,Gas,288.3943934
+Westminster,2016,Domestic,Gas,169.5898322
+Unapportioned,2016,Domestic,Gas,-
+Barking and Dagenham,2016,Domestic,Coal,1.51106264
+Barnet,2016,Domestic,Coal,1.51106264
+Bexley,2016,Domestic,Coal,1.8888283
+Brent,2016,Domestic,Coal,1.13329698
+Bromley,2016,Domestic,Coal,2.26659396
+Camden,2016,Domestic,Coal,0.37776566
+City of London,2016,Domestic,Coal,0
+Croydon,2016,Domestic,Coal,2.64435962
+Ealing,2016,Domestic,Coal,1.51106264
+Enfield,2016,Domestic,Coal,2.26659396
+Greenwich,2016,Domestic,Coal,1.51106264
+Hackney,2016,Domestic,Coal,0.37776566
+Hammersmith and Fulham,2016,Domestic,Coal,0.37776566
+Haringey,2016,Domestic,Coal,1.13329698
+Harrow,2016,Domestic,Coal,1.13329698
+Havering,2016,Domestic,Coal,2.26659396
+Hillingdon,2016,Domestic,Coal,1.51106264
+Hounslow,2016,Domestic,Coal,1.51106264
+Islington,2016,Domestic,Coal,0.37776566
+Kensington and Chelsea,2016,Domestic,Coal,0.37776566
+Kingston,2016,Domestic,Coal,1.13329698
+Lambeth,2016,Domestic,Coal,1.13329698
+Lewisham,2016,Domestic,Coal,1.51106264
+Merton,2016,Domestic,Coal,1.51106264
+Newham,2016,Domestic,Coal,1.51106264
+Redbridge,2016,Domestic,Coal,1.51106264
+Richmond,2016,Domestic,Coal,1.13329698
+Southwark,2016,Domestic,Coal,1.13329698
+Sutton,2016,Domestic,Coal,1.51106264
+Tower Hamlets,2016,Domestic,Coal,0.37776566
+Waltham Forest,2016,Domestic,Coal,1.51106264
+Wandsworth,2016,Domestic,Coal,1.51106264
+Westminster,2016,Domestic,Coal,0.37776566
+Unapportioned,2016,Domestic,Coal,-
+Barking and Dagenham,2016,Domestic,Oil,0.64318552
+Barnet,2016,Domestic,Oil,2.25114932
+Bexley,2016,Domestic,Oil,1.6079638
+Brent,2016,Domestic,Oil,1.28637104
+Bromley,2016,Domestic,Oil,3.85911312
+Camden,2016,Domestic,Oil,2.57274208
+City of London,2016,Domestic,Oil,0
+Croydon,2016,Domestic,Oil,2.25114932
+Ealing,2016,Domestic,Oil,1.6079638
+Enfield,2016,Domestic,Oil,1.6079638
+Greenwich,2016,Domestic,Oil,1.28637104
+Hackney,2016,Domestic,Oil,0.96477828
+Hammersmith and Fulham,2016,Domestic,Oil,0.96477828
+Haringey,2016,Domestic,Oil,0.96477828
+Harrow,2016,Domestic,Oil,1.6079638
+Havering,2016,Domestic,Oil,1.92955656
+Hillingdon,2016,Domestic,Oil,2.57274208
+Hounslow,2016,Domestic,Oil,1.92955656
+Islington,2016,Domestic,Oil,0.96477828
+Kensington and Chelsea,2016,Domestic,Oil,2.25114932
+Kingston,2016,Domestic,Oil,0.96477828
+Lambeth,2016,Domestic,Oil,1.6079638
+Lewisham,2016,Domestic,Oil,0.96477828
+Merton,2016,Domestic,Oil,1.28637104
+Newham,2016,Domestic,Oil,0.64318552
+Redbridge,2016,Domestic,Oil,1.28637104
+Richmond,2016,Domestic,Oil,1.6079638
+Southwark,2016,Domestic,Oil,2.25114932
+Sutton,2016,Domestic,Oil,1.28637104
+Tower Hamlets,2016,Domestic,Oil,1.28637104
+Waltham Forest,2016,Domestic,Oil,0.96477828
+Wandsworth,2016,Domestic,Oil,1.6079638
+Westminster,2016,Domestic,Oil,3.2159276
+Unapportioned,2016,Domestic,Oil,-
+Barking and Dagenham,2016,Industrial and Commercial,Electricity w/o rail,99.31953662
+Barnet,2016,Industrial and Commercial,Electricity w/o rail,126.2197658
+Bexley,2016,Industrial and Commercial,Electricity w/o rail,111.4464538
+Brent,2016,Industrial and Commercial,Electricity w/o rail,160.8809999
+Bromley,2016,Industrial and Commercial,Electricity w/o rail,111.5822063
+Camden,2016,Industrial and Commercial,Electricity w/o rail,371.4086568
+City of London,2016,Industrial and Commercial,Electricity w/o rail,646.1574624
+Croydon,2016,Industrial and Commercial,Electricity w/o rail,164.69123
+Ealing,2016,Industrial and Commercial,Electricity w/o rail,238.593539
+Enfield,2016,Industrial and Commercial,Electricity w/o rail,146.8629704
+Greenwich,2016,Industrial and Commercial,Electricity w/o rail,125.9003885
+Hackney,2016,Industrial and Commercial,Electricity w/o rail,160.6835509
+Hammersmith and Fulham,2016,Industrial and Commercial,Electricity w/o rail,185.60565
+Haringey,2016,Industrial and Commercial,Electricity w/o rail,101.5402958
+Harrow,2016,Industrial and Commercial,Electricity w/o rail,55.56995214
+Havering,2016,Industrial and Commercial,Electricity w/o rail,101.0803262
+Hillingdon,2016,Industrial and Commercial,Electricity w/o rail,274.904256
+Hounslow,2016,Industrial and Commercial,Electricity w/o rail,264.8368075
+Islington,2016,Industrial and Commercial,Electricity w/o rail,230.2102397
+Kensington and Chelsea,2016,Industrial and Commercial,Electricity w/o rail,313.782738
+Kingston,2016,Industrial and Commercial,Electricity w/o rail,96.80431433
+Lambeth,2016,Industrial and Commercial,Electricity w/o rail,160.9281405
+Lewisham,2016,Industrial and Commercial,Electricity w/o rail,71.05885508
+Merton,2016,Industrial and Commercial,Electricity w/o rail,126.9259518
+Newham,2016,Industrial and Commercial,Electricity w/o rail,302.4126516
+Redbridge,2016,Industrial and Commercial,Electricity w/o rail,63.71207633
+Richmond,2016,Industrial and Commercial,Electricity w/o rail,87.93082263
+Southwark,2016,Industrial and Commercial,Electricity w/o rail,357.0232581
+Sutton,2016,Industrial and Commercial,Electricity w/o rail,105.2034132
+Tower Hamlets,2016,Industrial and Commercial,Electricity w/o rail,654.3536942
+Waltham Forest,2016,Industrial and Commercial,Electricity w/o rail,93.62212896
+Wandsworth,2016,Industrial and Commercial,Electricity w/o rail,118.135029
+Westminster,2016,Industrial and Commercial,Electricity w/o rail,920.8505636
+Unapportioned,2016,Industrial and Commercial,Electricity w/o rail,-40.26438398
+Barking and Dagenham,2016,Industrial and Commercial,Gas,47.41792806
+Barnet,2016,Industrial and Commercial,Gas,92.8304489
+Bexley,2016,Industrial and Commercial,Gas,58.95538583
+Brent,2016,Industrial and Commercial,Gas,95.11934964
+Bromley,2016,Industrial and Commercial,Gas,73.93512408
+Camden,2016,Industrial and Commercial,Gas,260.3915644
+City of London,2016,Industrial and Commercial,Gas,136.9767459
+Croydon,2016,Industrial and Commercial,Gas,85.27414731
+Ealing,2016,Industrial and Commercial,Gas,121.5298464
+Enfield,2016,Industrial and Commercial,Gas,89.10692101
+Greenwich,2016,Industrial and Commercial,Gas,89.76608094
+Hackney,2016,Industrial and Commercial,Gas,59.02768514
+Hammersmith and Fulham,2016,Industrial and Commercial,Gas,97.86879407
+Haringey,2016,Industrial and Commercial,Gas,61.77088585
+Harrow,2016,Industrial and Commercial,Gas,43.92575323
+Havering,2016,Industrial and Commercial,Gas,40.40560926
+Hillingdon,2016,Industrial and Commercial,Gas,120.1362539
+Hounslow,2016,Industrial and Commercial,Gas,115.4575999
+Islington,2016,Industrial and Commercial,Gas,120.7202849
+Kensington and Chelsea,2016,Industrial and Commercial,Gas,154.0995646
+Kingston,2016,Industrial and Commercial,Gas,44.65153003
+Lambeth,2016,Industrial and Commercial,Gas,159.8851508
+Lewisham,2016,Industrial and Commercial,Gas,67.04736612
+Merton,2016,Industrial and Commercial,Gas,58.18396257
+Newham,2016,Industrial and Commercial,Gas,75.85329475
+Redbridge,2016,Industrial and Commercial,Gas,40.35173674
+Richmond,2016,Industrial and Commercial,Gas,59.94427363
+Southwark,2016,Industrial and Commercial,Gas,179.5671597
+Sutton,2016,Industrial and Commercial,Gas,44.43820509
+Tower Hamlets,2016,Industrial and Commercial,Gas,131.8227183
+Waltham Forest,2016,Industrial and Commercial,Gas,49.62447183
+Wandsworth,2016,Industrial and Commercial,Gas,111.6225805
+Westminster,2016,Industrial and Commercial,Gas,441.7539687
+Unapportioned,2016,Industrial and Commercial,Gas,13.47264504
+Barking and Dagenham,2016,Industrial and Commercial,Coal,0.37776566
+Barnet,2016,Industrial and Commercial,Coal,0.75553132
+Bexley,2016,Industrial and Commercial,Coal,0.37776566
+Brent,2016,Industrial and Commercial,Coal,0
+Bromley,2016,Industrial and Commercial,Coal,0
+Camden,2016,Industrial and Commercial,Coal,0
+City of London,2016,Industrial and Commercial,Coal,0
+Croydon,2016,Industrial and Commercial,Coal,0
+Ealing,2016,Industrial and Commercial,Coal,0.37776566
+Enfield,2016,Industrial and Commercial,Coal,0
+Greenwich,2016,Industrial and Commercial,Coal,0
+Hackney,2016,Industrial and Commercial,Coal,0.37776566
+Hammersmith and Fulham,2016,Industrial and Commercial,Coal,0
+Haringey,2016,Industrial and Commercial,Coal,0
+Harrow,2016,Industrial and Commercial,Coal,0
+Havering,2016,Industrial and Commercial,Coal,0.37776566
+Hillingdon,2016,Industrial and Commercial,Coal,0
+Hounslow,2016,Industrial and Commercial,Coal,0.37776566
+Islington,2016,Industrial and Commercial,Coal,0.37776566
+Kensington and Chelsea,2016,Industrial and Commercial,Coal,0
+Kingston,2016,Industrial and Commercial,Coal,0.37776566
+Lambeth,2016,Industrial and Commercial,Coal,0
+Lewisham,2016,Industrial and Commercial,Coal,0
+Merton,2016,Industrial and Commercial,Coal,0.75553132
+Newham,2016,Industrial and Commercial,Coal,0.37776566
+Redbridge,2016,Industrial and Commercial,Coal,0.37776566
+Richmond,2016,Industrial and Commercial,Coal,0
+Southwark,2016,Industrial and Commercial,Coal,0.37776566
+Sutton,2016,Industrial and Commercial,Coal,0
+Tower Hamlets,2016,Industrial and Commercial,Coal,1.13329698
+Waltham Forest,2016,Industrial and Commercial,Coal,0
+Wandsworth,2016,Industrial and Commercial,Coal,0
+Westminster,2016,Industrial and Commercial,Coal,6.79978188
+Unapportioned,2016,Industrial and Commercial,Coal,-
+Barking and Dagenham,2016,Industrial and Commercial,Oil,27.97857012
+Barnet,2016,Industrial and Commercial,Oil,15.75804524
+Bexley,2016,Industrial and Commercial,Oil,27.3353846
+Brent,2016,Industrial and Commercial,Oil,22.18990044
+Bromley,2016,Industrial and Commercial,Oil,20.9035294
+Camden,2016,Industrial and Commercial,Oil,18.97397284
+City of London,2016,Industrial and Commercial,Oil,14.79326696
+Croydon,2016,Industrial and Commercial,Oil,9.32619004
+Ealing,2016,Industrial and Commercial,Oil,25.7274208
+Enfield,2016,Industrial and Commercial,Oil,23.15467872
+Greenwich,2016,Industrial and Commercial,Oil,20.58193664
+Hackney,2016,Industrial and Commercial,Oil,6.75344796
+Hammersmith and Fulham,2016,Industrial and Commercial,Oil,9.6477828
+Haringey,2016,Industrial and Commercial,Oil,6.75344796
+Harrow,2016,Industrial and Commercial,Oil,5.78866968
+Havering,2016,Industrial and Commercial,Oil,17.6876018
+Hillingdon,2016,Industrial and Commercial,Oil,128.637104
+Hounslow,2016,Industrial and Commercial,Oil,17.6876018
+Islington,2016,Industrial and Commercial,Oil,6.4318552
+Kensington and Chelsea,2016,Industrial and Commercial,Oil,2.25114932
+Kingston,2016,Industrial and Commercial,Oil,8.68300452
+Lambeth,2016,Industrial and Commercial,Oil,4.50229864
+Lewisham,2016,Industrial and Commercial,Oil,2.57274208
+Merton,2016,Industrial and Commercial,Oil,7.39663348
+Newham,2016,Industrial and Commercial,Oil,35.69679636
+Redbridge,2016,Industrial and Commercial,Oil,9.00459728
+Richmond,2016,Industrial and Commercial,Oil,7.39663348
+Southwark,2016,Industrial and Commercial,Oil,8.68300452
+Sutton,2016,Industrial and Commercial,Oil,8.039819
+Tower Hamlets,2016,Industrial and Commercial,Oil,21.54671492
+Waltham Forest,2016,Industrial and Commercial,Oil,9.32619004
+Wandsworth,2016,Industrial and Commercial,Oil,5.46707692
+Westminster,2016,Industrial and Commercial,Oil,52.74121264
+Unapportioned,2016,Industrial and Commercial,Oil,-
+Barking and Dagenham,2016,Industrial and Commercial,Waste and Renewables,6.614183745
+Barnet,2016,Industrial and Commercial,Waste and Renewables,6.291540635
+Bexley,2016,Industrial and Commercial,Waste and Renewables,12.09911661
+Brent,2016,Industrial and Commercial,Waste and Renewables,4.678325088
+Bromley,2016,Industrial and Commercial,Waste and Renewables,7.904756183
+Camden,2016,Industrial and Commercial,Waste and Renewables,1.451893993
+City of London,2016,Industrial and Commercial,Waste and Renewables,0
+Croydon,2016,Industrial and Commercial,Waste and Renewables,10.3245795
+Ealing,2016,Industrial and Commercial,Waste and Renewables,6.936826854
+Enfield,2016,Industrial and Commercial,Waste and Renewables,8.550042402
+Greenwich,2016,Industrial and Commercial,Waste and Renewables,6.45286219
+Hackney,2016,Industrial and Commercial,Waste and Renewables,2.419823321
+Hammersmith and Fulham,2016,Industrial and Commercial,Waste and Renewables,2.581144876
+Haringey,2016,Industrial and Commercial,Waste and Renewables,5.000968197
+Harrow,2016,Industrial and Commercial,Waste and Renewables,4.839646642
+Havering,2016,Industrial and Commercial,Waste and Renewables,7.259469964
+Hillingdon,2016,Industrial and Commercial,Waste and Renewables,15.3255477
+Hounslow,2016,Industrial and Commercial,Waste and Renewables,10.80854417
+Islington,2016,Industrial and Commercial,Waste and Renewables,1.774537102
+Kensington and Chelsea,2016,Industrial and Commercial,Waste and Renewables,1.451893993
+Kingston,2016,Industrial and Commercial,Waste and Renewables,3.710395759
+Lambeth,2016,Industrial and Commercial,Waste and Renewables,4.355681978
+Lewisham,2016,Industrial and Commercial,Waste and Renewables,6.936826854
+Merton,2016,Industrial and Commercial,Waste and Renewables,6.614183745
+Newham,2016,Industrial and Commercial,Waste and Renewables,7.259469964
+Redbridge,2016,Industrial and Commercial,Waste and Renewables,6.936826854
+Richmond,2016,Industrial and Commercial,Waste and Renewables,4.678325088
+Southwark,2016,Industrial and Commercial,Waste and Renewables,3.549074204
+Sutton,2016,Industrial and Commercial,Waste and Renewables,5.323611307
+Tower Hamlets,2016,Industrial and Commercial,Waste and Renewables,7.420791518
+Waltham Forest,2016,Industrial and Commercial,Waste and Renewables,7.582113073
+Wandsworth,2016,Industrial and Commercial,Waste and Renewables,5.484932861
+Westminster,2016,Industrial and Commercial,Waste and Renewables,1.451893993
+Unapportioned,2016,Industrial and Commercial,Waste and Renewables,-
+Barking and Dagenham,2016,Transport,Aviation,0
+Barnet,2016,Transport,Aviation,0.22923437
+Bexley,2016,Transport,Aviation,9.378894704
+Brent,2016,Transport,Aviation,0.338353697
+Bromley,2016,Transport,Aviation,1.425213141
+Camden,2016,Transport,Aviation,0
+City of London,2016,Transport,Aviation,1.458253483
+Croydon,2016,Transport,Aviation,0.28587581
+Ealing,2016,Transport,Aviation,0.184032461
+Enfield,2016,Transport,Aviation,0.363548724
+Greenwich,2016,Transport,Aviation,7.548949608
+Hackney,2016,Transport,Aviation,0.132818059
+Hammersmith and Fulham,2016,Transport,Aviation,15.29824873
+Haringey,2016,Transport,Aviation,0
+Harrow,2016,Transport,Aviation,0.241761763
+Havering,2016,Transport,Aviation,3.3443465
+Hillingdon,2016,Transport,Aviation,683.6379427
+Hounslow,2016,Transport,Aviation,106.880714
+Islington,2016,Transport,Aviation,0
+Kensington and Chelsea,2016,Transport,Aviation,1.934482499
+Kingston,2016,Transport,Aviation,0
+Lambeth,2016,Transport,Aviation,0
+Lewisham,2016,Transport,Aviation,0.01072444
+Merton,2016,Transport,Aviation,0
+Newham,2016,Transport,Aviation,43.31657937
+Redbridge,2016,Transport,Aviation,0.963889992
+Richmond,2016,Transport,Aviation,45.26364101
+Southwark,2016,Transport,Aviation,1.45156575
+Sutton,2016,Transport,Aviation,0.044633432
+Tower Hamlets,2016,Transport,Aviation,14.45675646
+Waltham Forest,2016,Transport,Aviation,0.669040036
+Wandsworth,2016,Transport,Aviation,13.66709718
+Westminster,2016,Transport,Aviation,0
+Unapportioned,2016,Transport,Aviation,-
+Barking and Dagenham,2016,Transport,Shipping,4.6833
+Barnet,2016,Transport,Shipping,0
+Bexley,2016,Transport,Shipping,2.4082
+Brent,2016,Transport,Shipping,0
+Bromley,2016,Transport,Shipping,0
+Camden,2016,Transport,Shipping,0
+City of London,2016,Transport,Shipping,5.6036
+Croydon,2016,Transport,Shipping,0
+Ealing,2016,Transport,Shipping,0
+Enfield,2016,Transport,Shipping,0
+Greenwich,2016,Transport,Shipping,3.8864
+Hackney,2016,Transport,Shipping,0
+Hammersmith and Fulham,2016,Transport,Shipping,0.0065
+Haringey,2016,Transport,Shipping,0
+Harrow,2016,Transport,Shipping,0
+Havering,2016,Transport,Shipping,1.1335
+Hillingdon,2016,Transport,Shipping,0
+Hounslow,2016,Transport,Shipping,0
+Islington,2016,Transport,Shipping,0
+Kensington and Chelsea,2016,Transport,Shipping,0.0151
+Kingston,2016,Transport,Shipping,0
+Lambeth,2016,Transport,Shipping,0.0207
+Lewisham,2016,Transport,Shipping,0.6967
+Merton,2016,Transport,Shipping,0
+Newham,2016,Transport,Shipping,4.7253
+Redbridge,2016,Transport,Shipping,0
+Richmond,2016,Transport,Shipping,0
+Southwark,2016,Transport,Shipping,4.8346
+Sutton,2016,Transport,Shipping,0
+Tower Hamlets,2016,Transport,Shipping,10.7051
+Waltham Forest,2016,Transport,Shipping,0
+Wandsworth,2016,Transport,Shipping,0.0076
+Westminster,2016,Transport,Shipping,4.2277
+Unapportioned,2016,Transport,Shipping,-
+Barking and Dagenham,2016,Transport,Railways diesel,1.705768264
+Barnet,2016,Transport,Railways diesel,5.419713617
+Bexley,2016,Transport,Railways diesel,0.881898399
+Brent,2016,Transport,Railways diesel,8.948791168
+Bromley,2016,Transport,Railways diesel,0.763558901
+Camden,2016,Transport,Railways diesel,7.006704066
+City of London,2016,Transport,Railways diesel,0
+Croydon,2016,Transport,Railways diesel,1.359427194
+Ealing,2016,Transport,Railways diesel,14.45397051
+Enfield,2016,Transport,Railways diesel,0.614198215
+Greenwich,2016,Transport,Railways diesel,0.626263084
+Hackney,2016,Transport,Railways diesel,0.867219151
+Hammersmith and Fulham,2016,Transport,Railways diesel,2.884480059
+Haringey,2016,Transport,Railways diesel,2.47459
+Harrow,2016,Transport,Railways diesel,3.726786909
+Havering,2016,Transport,Railways diesel,2.076492064
+Hillingdon,2016,Transport,Railways diesel,11.48464612
+Hounslow,2016,Transport,Railways diesel,0.392446261
+Islington,2016,Transport,Railways diesel,1.820358665
+Kensington and Chelsea,2016,Transport,Railways diesel,2.164333854
+Kingston,2016,Transport,Railways diesel,0.575971582
+Lambeth,2016,Transport,Railways diesel,0.958984026
+Lewisham,2016,Transport,Railways diesel,1.408046198
+Merton,2016,Transport,Railways diesel,0.743810976
+Newham,2016,Transport,Railways diesel,2.476457045
+Redbridge,2016,Transport,Railways diesel,0.735488348
+Richmond,2016,Transport,Railways diesel,0.136729351
+Southwark,2016,Transport,Railways diesel,0.709204209
+Sutton,2016,Transport,Railways diesel,0
+Tower Hamlets,2016,Transport,Railways diesel,0.001919134
+Waltham Forest,2016,Transport,Railways diesel,2.101146546
+Wandsworth,2016,Transport,Railways diesel,1.456241724
+Westminster,2016,Transport,Railways diesel,2.974162546
+Unapportioned,2016,Transport,Railways diesel,-
+Barking and Dagenham,2016,Transport,Railways electric,13.84826734
+Barnet,2016,Transport,Railways electric,24.79104159
+Bexley,2016,Transport,Railways electric,6.360228005
+Brent,2016,Transport,Railways electric,30.79344448
+Bromley,2016,Transport,Railways electric,15.09399924
+Camden,2016,Transport,Railways electric,32.75795005
+City of London,2016,Transport,Railways electric,14.17288477
+Croydon,2016,Transport,Railways electric,18.36877333
+Ealing,2016,Transport,Railways electric,19.16572685
+Enfield,2016,Transport,Railways electric,13.33678597
+Greenwich,2016,Transport,Railways electric,9.972406384
+Hackney,2016,Transport,Railways electric,7.409067816
+Hammersmith and Fulham,2016,Transport,Railways electric,14.30290656
+Haringey,2016,Transport,Railways electric,18.9940382
+Harrow,2016,Transport,Railways electric,14.17349238
+Havering,2016,Transport,Railways electric,14.07010495
+Hillingdon,2016,Transport,Railways electric,16.38063051
+Hounslow,2016,Transport,Railways electric,13.28057834
+Islington,2016,Transport,Railways electric,17.09666657
+Kensington and Chelsea,2016,Transport,Railways electric,17.93842432
+Kingston,2016,Transport,Railways electric,5.305543557
+Lambeth,2016,Transport,Railways electric,34.33837513
+Lewisham,2016,Transport,Railways electric,15.28790041
+Merton,2016,Transport,Railways electric,16.28702675
+Newham,2016,Transport,Railways electric,32.19292361
+Redbridge,2016,Transport,Railways electric,13.86133831
+Richmond,2016,Transport,Railways electric,6.915707291
+Southwark,2016,Transport,Railways electric,21.13755421
+Sutton,2016,Transport,Railways electric,3.120125656
+Tower Hamlets,2016,Transport,Railways electric,30.24732911
+Waltham Forest,2016,Transport,Railways electric,9.745910515
+Wandsworth,2016,Transport,Railways electric,29.76831285
+Westminster,2016,Transport,Railways electric,48.30236055
+Unapportioned,2016,Transport,Railways electric,40.26438398
+Barking and Dagenham,2016,Transport,Road Transport,130.781
+Barnet,2016,Transport,Road Transport,381.514
+Bexley,2016,Transport,Road Transport,185.674
+Brent,2016,Transport,Road Transport,205.078
+Bromley,2016,Transport,Road Transport,251.284
+Camden,2016,Transport,Road Transport,153.255
+City of London,2016,Transport,Road Transport,51.707
+Croydon,2016,Transport,Road Transport,235.299
+Ealing,2016,Transport,Road Transport,278.792
+Enfield,2016,Transport,Road Transport,358.21
+Greenwich,2016,Transport,Road Transport,214.411
+Hackney,2016,Transport,Road Transport,119.572
+Hammersmith and Fulham,2016,Transport,Road Transport,109.934
+Haringey,2016,Transport,Road Transport,132.304
+Harrow,2016,Transport,Road Transport,137.599
+Havering,2016,Transport,Road Transport,345.585
+Hillingdon,2016,Transport,Road Transport,402.434
+Hounslow,2016,Transport,Road Transport,284.398
+Islington,2016,Transport,Road Transport,98.633
+Kensington and Chelsea,2016,Transport,Road Transport,116.087
+Kingston,2016,Transport,Road Transport,156.792
+Lambeth,2016,Transport,Road Transport,162.501
+Lewisham,2016,Transport,Road Transport,150.559
+Merton,2016,Transport,Road Transport,131.605
+Newham,2016,Transport,Road Transport,175.182
+Redbridge,2016,Transport,Road Transport,250.211
+Richmond,2016,Transport,Road Transport,163.332
+Southwark,2016,Transport,Road Transport,159.161
+Sutton,2016,Transport,Road Transport,112.212
+Tower Hamlets,2016,Transport,Road Transport,154.926
+Waltham Forest,2016,Transport,Road Transport,175.904
+Wandsworth,2016,Transport,Road Transport,166.617
+Westminster,2016,Transport,Road Transport,252.762
+Unapportioned,2016,Transport,Road Transport,-
+Barking and Dagenham,2015,Domestic,Electricity,103.5894041
+Barnet,2015,Domestic,Electricity,242.089762
+Bexley,2015,Domestic,Electricity,148.5410055
+Brent,2015,Domestic,Electricity,165.2927441
+Bromley,2015,Domestic,Electricity,217.8025871
+Camden,2015,Domestic,Electricity,135.4476691
+City of London,2015,Domestic,Electricity,10.73821748
+Croydon,2015,Domestic,Electricity,231.8008337
+Ealing,2015,Domestic,Electricity,185.1898847
+Enfield,2015,Domestic,Electricity,192.8170099
+Greenwich,2015,Domestic,Electricity,144.9952917
+Hackney,2015,Domestic,Electricity,133.633047
+Hammersmith and Fulham,2015,Domestic,Electricity,110.7019674
+Haringey,2015,Domestic,Electricity,141.8756684
+Harrow,2015,Domestic,Electricity,137.4426894
+Havering,2015,Domestic,Electricity,159.9788905
+Hillingdon,2015,Domestic,Electricity,166.7707693
+Hounslow,2015,Domestic,Electricity,148.7049446
+Islington,2015,Domestic,Electricity,123.0381103
+Kensington and Chelsea,2015,Domestic,Electricity,144.3396537
+Kingston,2015,Domestic,Electricity,103.6906493
+Lambeth,2015,Domestic,Electricity,170.4233624
+Lewisham,2015,Domestic,Electricity,160.4555575
+Merton,2015,Domestic,Electricity,123.3019465
+Newham,2015,Domestic,Electricity,145.6205772
+Redbridge,2015,Domestic,Electricity,156.6826617
+Richmond,2015,Domestic,Electricity,132.5725962
+Southwark,2015,Domestic,Electricity,171.5319161
+Sutton,2015,Domestic,Electricity,128.2628657
+Tower Hamlets,2015,Domestic,Electricity,156.4636794
+Waltham Forest,2015,Domestic,Electricity,137.0038138
+Wandsworth,2015,Domestic,Electricity,192.6574449
+Westminster,2015,Domestic,Electricity,187.570225
+Unapportioned,2015,Domestic,Electricity,-
+Barking and Dagenham,2015,Domestic,Gas,128.7642198
+Barnet,2015,Domestic,Gas,381.096035
+Bexley,2015,Domestic,Gas,219.5026159
+Brent,2015,Domestic,Gas,269.0018325
+Bromley,2015,Domestic,Gas,364.0300726
+Camden,2015,Domestic,Gas,167.523291
+City of London,2015,Domestic,Gas,5.30780382
+Croydon,2015,Domestic,Gas,363.5299389
+Ealing,2015,Domestic,Gas,290.9187085
+Enfield,2015,Domestic,Gas,271.2815751
+Greenwich,2015,Domestic,Gas,200.4601545
+Hackney,2015,Domestic,Gas,169.3767503
+Hammersmith and Fulham,2015,Domestic,Gas,153.392414
+Haringey,2015,Domestic,Gas,221.5920196
+Harrow,2015,Domestic,Gas,248.6194802
+Havering,2015,Domestic,Gas,234.5542972
+Hillingdon,2015,Domestic,Gas,249.831977
+Hounslow,2015,Domestic,Gas,203.2603792
+Islington,2015,Domestic,Gas,157.8503771
+Kensington and Chelsea,2015,Domestic,Gas,152.7297374
+Kingston,2015,Domestic,Gas,158.3077973
+Lambeth,2015,Domestic,Gas,244.9505804
+Lewisham,2015,Domestic,Gas,235.6867399
+Merton,2015,Domestic,Gas,189.3541551
+Newham,2015,Domestic,Gas,190.0635039
+Redbridge,2015,Domestic,Gas,250.747724
+Richmond,2015,Domestic,Gas,208.6926433
+Southwark,2015,Domestic,Gas,183.6662751
+Sutton,2015,Domestic,Gas,185.2140512
+Tower Hamlets,2015,Domestic,Gas,123.1654881
+Waltham Forest,2015,Domestic,Gas,210.0044492
+Wandsworth,2015,Domestic,Gas,268.2600397
+Westminster,2015,Domestic,Gas,169.5636501
+Unapportioned,2015,Domestic,Gas,-
+Barking and Dagenham,2015,Domestic,Coal,1.811288974
+Barnet,2015,Domestic,Coal,1.729313856
+Bexley,2015,Domestic,Coal,2.125623878
+Brent,2015,Domestic,Coal,1.247621357
+Bromley,2015,Domestic,Coal,2.303028706
+Camden,2015,Domestic,Coal,0.423027358
+City of London,2015,Domestic,Coal,0.001613569
+Croydon,2015,Domestic,Coal,2.882616463
+Ealing,2015,Domestic,Coal,1.958107848
+Enfield,2015,Domestic,Coal,2.343505894
+Greenwich,2015,Domestic,Coal,1.749444702
+Hackney,2015,Domestic,Coal,0.686175685
+Hammersmith and Fulham,2015,Domestic,Coal,0.668048064
+Haringey,2015,Domestic,Coal,1.338640942
+Harrow,2015,Domestic,Coal,1.302518593
+Havering,2015,Domestic,Coal,2.19496575
+Hillingdon,2015,Domestic,Coal,1.819351722
+Hounslow,2015,Domestic,Coal,1.527848012
+Islington,2015,Domestic,Coal,0.494615346
+Kensington and Chelsea,2015,Domestic,Coal,0.403177058
+Kingston,2015,Domestic,Coal,1.055981227
+Lambeth,2015,Domestic,Coal,1.206687051
+Lewisham,2015,Domestic,Coal,1.885746046
+Merton,2015,Domestic,Coal,1.735176801
+Newham,2015,Domestic,Coal,1.945373677
+Redbridge,2015,Domestic,Coal,1.883974849
+Richmond,2015,Domestic,Coal,1.323901723
+Southwark,2015,Domestic,Coal,0.95328796
+Sutton,2015,Domestic,Coal,1.510276976
+Tower Hamlets,2015,Domestic,Coal,0.469695404
+Waltham Forest,2015,Domestic,Coal,2.041946544
+Wandsworth,2015,Domestic,Coal,1.464980824
+Westminster,2015,Domestic,Coal,0.427649328
+Unapportioned,2015,Domestic,Coal,-
+Barking and Dagenham,2015,Domestic,Oil,0.695414825
+Barnet,2015,Domestic,Oil,2.326951386
+Bexley,2015,Domestic,Oil,1.623988211
+Brent,2015,Domestic,Oil,1.392563372
+Bromley,2015,Domestic,Oil,3.738963761
+Camden,2015,Domestic,Oil,2.640035239
+City of London,2015,Domestic,Oil,0.095843211
+Croydon,2015,Domestic,Oil,2.383653689
+Ealing,2015,Domestic,Oil,1.757033642
+Enfield,2015,Domestic,Oil,1.701017541
+Greenwich,2015,Domestic,Oil,1.274587885
+Hackney,2015,Domestic,Oil,0.846578163
+Hammersmith and Fulham,2015,Domestic,Oil,1.023210708
+Haringey,2015,Domestic,Oil,0.851231855
+Harrow,2015,Domestic,Oil,1.460254985
+Havering,2015,Domestic,Oil,2.062221978
+Hillingdon,2015,Domestic,Oil,2.481735355
+Hounslow,2015,Domestic,Oil,1.92780984
+Islington,2015,Domestic,Oil,0.887175504
+Kensington and Chelsea,2015,Domestic,Oil,2.263233682
+Kingston,2015,Domestic,Oil,0.912835357
+Lambeth,2015,Domestic,Oil,1.681269755
+Lewisham,2015,Domestic,Oil,1.111379914
+Merton,2015,Domestic,Oil,1.197102073
+Newham,2015,Domestic,Oil,0.51457831
+Redbridge,2015,Domestic,Oil,1.294911604
+Richmond,2015,Domestic,Oil,1.755461681
+Southwark,2015,Domestic,Oil,2.31990795
+Sutton,2015,Domestic,Oil,1.386195641
+Tower Hamlets,2015,Domestic,Oil,1.26809037
+Waltham Forest,2015,Domestic,Oil,0.807114181
+Wandsworth,2015,Domestic,Oil,1.554223516
+Westminster,2015,Domestic,Oil,3.305087863
+Unapportioned,2015,Domestic,Oil,-
+Barking and Dagenham,2015,Industrial and Commercial,Electricity w/o rail,133.037711
+Barnet,2015,Industrial and Commercial,Electricity w/o rail,168.5205918
+Bexley,2015,Industrial and Commercial,Electricity w/o rail,148.5278361
+Brent,2015,Industrial and Commercial,Electricity w/o rail,185.53835
+Bromley,2015,Industrial and Commercial,Electricity w/o rail,146.92061
+Camden,2015,Industrial and Commercial,Electricity w/o rail,480.1379853
+City of London,2015,Industrial and Commercial,Electricity w/o rail,839.7422239
+Croydon,2015,Industrial and Commercial,Electricity w/o rail,222.1856197
+Ealing,2015,Industrial and Commercial,Electricity w/o rail,312.1193147
+Enfield,2015,Industrial and Commercial,Electricity w/o rail,190.5666697
+Greenwich,2015,Industrial and Commercial,Electricity w/o rail,160.6264336
+Hackney,2015,Industrial and Commercial,Electricity w/o rail,212.5757277
+Hammersmith and Fulham,2015,Industrial and Commercial,Electricity w/o rail,239.0822788
+Haringey,2015,Industrial and Commercial,Electricity w/o rail,132.3427592
+Harrow,2015,Industrial and Commercial,Electricity w/o rail,75.64263124
+Havering,2015,Industrial and Commercial,Electricity w/o rail,132.6055755
+Hillingdon,2015,Industrial and Commercial,Electricity w/o rail,363.4141017
+Hounslow,2015,Industrial and Commercial,Electricity w/o rail,344.6227659
+Islington,2015,Industrial and Commercial,Electricity w/o rail,305.4618932
+Kensington and Chelsea,2015,Industrial and Commercial,Electricity w/o rail,425.0168919
+Kingston,2015,Industrial and Commercial,Electricity w/o rail,122.5823069
+Lambeth,2015,Industrial and Commercial,Electricity w/o rail,212.6462554
+Lewisham,2015,Industrial and Commercial,Electricity w/o rail,102.1723244
+Merton,2015,Industrial and Commercial,Electricity w/o rail,157.6051522
+Newham,2015,Industrial and Commercial,Electricity w/o rail,368.6750983
+Redbridge,2015,Industrial and Commercial,Electricity w/o rail,85.52249628
+Richmond,2015,Industrial and Commercial,Electricity w/o rail,121.4595058
+Southwark,2015,Industrial and Commercial,Electricity w/o rail,454.3472668
+Sutton,2015,Industrial and Commercial,Electricity w/o rail,136.5181422
+Tower Hamlets,2015,Industrial and Commercial,Electricity w/o rail,832.3615976
+Waltham Forest,2015,Industrial and Commercial,Electricity w/o rail,120.2715522
+Wandsworth,2015,Industrial and Commercial,Electricity w/o rail,147.7303984
+Westminster,2015,Industrial and Commercial,Electricity w/o rail,1197.811216
+Unapportioned,2015,Industrial and Commercial,Electricity w/o rail,-43.83630502
+Barking and Dagenham,2015,Industrial and Commercial,Gas,42.85790049
+Barnet,2015,Industrial and Commercial,Gas,98.91499379
+Bexley,2015,Industrial and Commercial,Gas,124.8441596
+Brent,2015,Industrial and Commercial,Gas,100.3288862
+Bromley,2015,Industrial and Commercial,Gas,72.30427122
+Camden,2015,Industrial and Commercial,Gas,244.8955012
+City of London,2015,Industrial and Commercial,Gas,149.9605512
+Croydon,2015,Industrial and Commercial,Gas,76.44287839
+Ealing,2015,Industrial and Commercial,Gas,131.1661547
+Enfield,2015,Industrial and Commercial,Gas,93.018277
+Greenwich,2015,Industrial and Commercial,Gas,78.00041782
+Hackney,2015,Industrial and Commercial,Gas,59.59666392
+Hammersmith and Fulham,2015,Industrial and Commercial,Gas,103.6908868
+Haringey,2015,Industrial and Commercial,Gas,55.36717792
+Harrow,2015,Industrial and Commercial,Gas,60.31610658
+Havering,2015,Industrial and Commercial,Gas,41.58087878
+Hillingdon,2015,Industrial and Commercial,Gas,129.4995338
+Hounslow,2015,Industrial and Commercial,Gas,108.7643945
+Islington,2015,Industrial and Commercial,Gas,112.0751188
+Kensington and Chelsea,2015,Industrial and Commercial,Gas,157.0512116
+Kingston,2015,Industrial and Commercial,Gas,43.216963
+Lambeth,2015,Industrial and Commercial,Gas,153.6943793
+Lewisham,2015,Industrial and Commercial,Gas,66.68948997
+Merton,2015,Industrial and Commercial,Gas,56.55316894
+Newham,2015,Industrial and Commercial,Gas,172.8279906
+Redbridge,2015,Industrial and Commercial,Gas,42.47210698
+Richmond,2015,Industrial and Commercial,Gas,56.02450985
+Southwark,2015,Industrial and Commercial,Gas,176.1401187
+Sutton,2015,Industrial and Commercial,Gas,43.1631218
+Tower Hamlets,2015,Industrial and Commercial,Gas,130.0434548
+Waltham Forest,2015,Industrial and Commercial,Gas,50.60023295
+Wandsworth,2015,Industrial and Commercial,Gas,108.6863263
+Westminster,2015,Industrial and Commercial,Gas,438.4642635
+Unapportioned,2015,Industrial and Commercial,Gas,18.51561124
+Barking and Dagenham,2015,Industrial and Commercial,Coal,0.239356206
+Barnet,2015,Industrial and Commercial,Coal,1.36986356
+Bexley,2015,Industrial and Commercial,Coal,0.323399248
+Brent,2015,Industrial and Commercial,Coal,0
+Bromley,2015,Industrial and Commercial,Coal,0.002151616
+Camden,2015,Industrial and Commercial,Coal,0.119633062
+City of London,2015,Industrial and Commercial,Coal,0.039877687
+Croydon,2015,Industrial and Commercial,Coal,0.141070958
+Ealing,2015,Industrial and Commercial,Coal,0.287353204
+Enfield,2015,Industrial and Commercial,Coal,0.216371454
+Greenwich,2015,Industrial and Commercial,Coal,0.051076045
+Hackney,2015,Industrial and Commercial,Coal,0.363276936
+Hammersmith and Fulham,2015,Industrial and Commercial,Coal,0
+Haringey,2015,Industrial and Commercial,Coal,0.15951075
+Harrow,2015,Industrial and Commercial,Coal,0.005599179
+Havering,2015,Industrial and Commercial,Coal,0.398542701
+Hillingdon,2015,Industrial and Commercial,Coal,0.249044353
+Hounslow,2015,Industrial and Commercial,Coal,0.40424906
+Islington,2015,Industrial and Commercial,Coal,0.469982248
+Kensington and Chelsea,2015,Industrial and Commercial,Coal,0.107799749
+Kingston,2015,Industrial and Commercial,Coal,0.797553748
+Lambeth,2015,Industrial and Commercial,Coal,0
+Lewisham,2015,Industrial and Commercial,Coal,0.066827625
+Merton,2015,Industrial and Commercial,Coal,0.946003141
+Newham,2015,Industrial and Commercial,Coal,0.301630608
+Redbridge,2015,Industrial and Commercial,Coal,0.478532249
+Richmond,2015,Industrial and Commercial,Coal,0
+Southwark,2015,Industrial and Commercial,Coal,0.400643267
+Sutton,2015,Industrial and Commercial,Coal,0.026949937
+Tower Hamlets,2015,Industrial and Commercial,Coal,1.478757746
+Waltham Forest,2015,Industrial and Commercial,Coal,0.066827625
+Wandsworth,2015,Industrial and Commercial,Coal,0.026949937
+Westminster,2015,Industrial and Commercial,Coal,8.562985476
+Unapportioned,2015,Industrial and Commercial,Coal,-
+Barking and Dagenham,2015,Industrial and Commercial,Oil,39.2032441
+Barnet,2015,Industrial and Commercial,Oil,14.15601237
+Bexley,2015,Industrial and Commercial,Oil,24.81818425
+Brent,2015,Industrial and Commercial,Oil,23.23838194
+Bromley,2015,Industrial and Commercial,Oil,20.19583334
+Camden,2015,Industrial and Commercial,Oil,16.99344168
+City of London,2015,Industrial and Commercial,Oil,12.62911358
+Croydon,2015,Industrial and Commercial,Oil,9.988858899
+Ealing,2015,Industrial and Commercial,Oil,26.97331944
+Enfield,2015,Industrial and Commercial,Oil,24.46799898
+Greenwich,2015,Industrial and Commercial,Oil,18.674996
+Hackney,2015,Industrial and Commercial,Oil,6.77218995
+Hammersmith and Fulham,2015,Industrial and Commercial,Oil,11.25091607
+Haringey,2015,Industrial and Commercial,Oil,7.324867171
+Harrow,2015,Industrial and Commercial,Oil,6.299834975
+Havering,2015,Industrial and Commercial,Oil,16.64477555
+Hillingdon,2015,Industrial and Commercial,Oil,124.0384448
+Hounslow,2015,Industrial and Commercial,Oil,19.55656002
+Islington,2015,Industrial and Commercial,Oil,6.848490554
+Kensington and Chelsea,2015,Industrial and Commercial,Oil,2.303301848
+Kingston,2015,Industrial and Commercial,Oil,7.568144238
+Lambeth,2015,Industrial and Commercial,Oil,4.096494366
+Lewisham,2015,Industrial and Commercial,Oil,2.875266036
+Merton,2015,Industrial and Commercial,Oil,8.175725425
+Newham,2015,Industrial and Commercial,Oil,31.72779469
+Redbridge,2015,Industrial and Commercial,Oil,8.887791703
+Richmond,2015,Industrial and Commercial,Oil,7.388506331
+Southwark,2015,Industrial and Commercial,Oil,9.452153238
+Sutton,2015,Industrial and Commercial,Oil,8.547694671
+Tower Hamlets,2015,Industrial and Commercial,Oil,18.74287822
+Waltham Forest,2015,Industrial and Commercial,Oil,9.700658674
+Wandsworth,2015,Industrial and Commercial,Oil,6.289356727
+Westminster,2015,Industrial and Commercial,Oil,47.72674741
+Unapportioned,2015,Industrial and Commercial,Oil,-
+Barking and Dagenham,2015,Industrial and Commercial,Waste and Renewables,6.419300479
+Barnet,2015,Industrial and Commercial,Waste and Renewables,6.207190028
+Bexley,2015,Industrial and Commercial,Waste and Renewables,12.03801219
+Brent,2015,Industrial and Commercial,Waste and Renewables,4.528351568
+Bromley,2015,Industrial and Commercial,Waste and Renewables,7.715580878
+Camden,2015,Industrial and Commercial,Waste and Renewables,1.419523787
+City of London,2015,Industrial and Commercial,Waste and Renewables,0.006179005
+Croydon,2015,Industrial and Commercial,Waste and Renewables,10.14233554
+Ealing,2015,Industrial and Commercial,Waste and Renewables,6.787837042
+Enfield,2015,Industrial and Commercial,Waste and Renewables,8.381405431
+Greenwich,2015,Industrial and Commercial,Waste and Renewables,6.302653033
+Hackney,2015,Industrial and Commercial,Waste and Renewables,2.351534287
+Hammersmith and Fulham,2015,Industrial and Commercial,Waste and Renewables,2.459543176
+Haringey,2015,Industrial and Commercial,Waste and Renewables,4.852911944
+Harrow,2015,Industrial and Commercial,Waste and Renewables,4.71350028
+Havering,2015,Industrial and Commercial,Waste and Renewables,7.083719849
+Hillingdon,2015,Industrial and Commercial,Waste and Renewables,16.07922561
+Hounslow,2015,Industrial and Commercial,Waste and Renewables,8.836029634
+Islington,2015,Industrial and Commercial,Waste and Renewables,1.731278111
+Kensington and Chelsea,2015,Industrial and Commercial,Waste and Renewables,1.380301255
+Kingston,2015,Industrial and Commercial,Waste and Renewables,3.652362001
+Lambeth,2015,Industrial and Commercial,Waste and Renewables,4.332743108
+Lewisham,2015,Industrial and Commercial,Waste and Renewables,6.793691454
+Merton,2015,Industrial and Commercial,Waste and Renewables,6.39782894
+Newham,2015,Industrial and Commercial,Waste and Renewables,7.046014101
+Redbridge,2015,Industrial and Commercial,Waste and Renewables,6.789521027
+Richmond,2015,Industrial and Commercial,Waste and Renewables,4.613242481
+Southwark,2015,Industrial and Commercial,Waste and Renewables,3.424708321
+Sutton,2015,Industrial and Commercial,Waste and Renewables,5.169188936
+Tower Hamlets,2015,Industrial and Commercial,Waste and Renewables,6.938617095
+Waltham Forest,2015,Industrial and Commercial,Waste and Renewables,7.348020587
+Wandsworth,2015,Industrial and Commercial,Waste and Renewables,5.405045312
+Westminster,2015,Industrial and Commercial,Waste and Renewables,1.400871632
+Unapportioned,2015,Industrial and Commercial,Waste and Renewables,-
+Barking and Dagenham,2015,Transport,Aviation,0
+Barnet,2015,Transport,Aviation,0.226900298
+Bexley,2015,Transport,Aviation,9.283398489
+Brent,2015,Transport,Aviation,0.334908569
+Bromley,2015,Transport,Aviation,1.410701574
+Camden,2015,Transport,Aviation,0
+City of London,2015,Transport,Aviation,1.443405498
+Croydon,2015,Transport,Aviation,0.282965013
+Ealing,2015,Transport,Aviation,0.182158636
+Enfield,2015,Transport,Aviation,0.359847059
+Greenwich,2015,Transport,Aviation,7.472085954
+Hackney,2015,Transport,Aviation,0.131465701
+Hammersmith and Fulham,2015,Transport,Aviation,15.14248145
+Haringey,2015,Transport,Aviation,0
+Harrow,2015,Transport,Aviation,0.239300136
+Havering,2015,Transport,Aviation,3.310294254
+Hillingdon,2015,Transport,Aviation,676.6950131
+Hounslow,2015,Transport,Aviation,105.7924546
+Islington,2015,Transport,Aviation,0
+Kensington and Chelsea,2015,Transport,Aviation,1.914785534
+Kingston,2015,Transport,Aviation,0
+Lambeth,2015,Transport,Aviation,0
+Lewisham,2015,Transport,Aviation,0.010615243
+Merton,2015,Transport,Aviation,0
+Newham,2015,Transport,Aviation,42.87575091
+Redbridge,2015,Transport,Aviation,0.954075632
+Richmond,2015,Transport,Aviation,44.80276513
+Southwark,2015,Transport,Aviation,1.43678586
+Sutton,2015,Transport,Aviation,0.044178973
+Tower Hamlets,2015,Transport,Aviation,14.30955729
+Waltham Forest,2015,Transport,Aviation,0.662227848
+Wandsworth,2015,Transport,Aviation,13.52793835
+Westminster,2015,Transport,Aviation,0
+Unapportioned,2015,Transport,Aviation,-
+Barking and Dagenham,2015,Transport,Shipping,6.48905669
+Barnet,2015,Transport,Shipping,0
+Bexley,2015,Transport,Shipping,4.691223898
+Brent,2015,Transport,Shipping,0
+Bromley,2015,Transport,Shipping,0
+Camden,2015,Transport,Shipping,0
+City of London,2015,Transport,Shipping,2.033021748
+Croydon,2015,Transport,Shipping,0
+Ealing,2015,Transport,Shipping,0
+Enfield,2015,Transport,Shipping,0
+Greenwich,2015,Transport,Shipping,4.476041121
+Hackney,2015,Transport,Shipping,0
+Hammersmith and Fulham,2015,Transport,Shipping,0.080518312
+Haringey,2015,Transport,Shipping,0
+Harrow,2015,Transport,Shipping,0
+Havering,2015,Transport,Shipping,0.45010219
+Hillingdon,2015,Transport,Shipping,0
+Hounslow,2015,Transport,Shipping,0.098252464
+Islington,2015,Transport,Shipping,0
+Kensington and Chelsea,2015,Transport,Shipping,0.015150108
+Kingston,2015,Transport,Shipping,0.036296904
+Lambeth,2015,Transport,Shipping,1.181267954
+Lewisham,2015,Transport,Shipping,0.001634354
+Merton,2015,Transport,Shipping,0
+Newham,2015,Transport,Shipping,1.485605175
+Redbridge,2015,Transport,Shipping,0
+Richmond,2015,Transport,Shipping,0.241155376
+Southwark,2015,Transport,Shipping,2.417659937
+Sutton,2015,Transport,Shipping,0
+Tower Hamlets,2015,Transport,Shipping,6.257842302
+Waltham Forest,2015,Transport,Shipping,0
+Wandsworth,2015,Transport,Shipping,0.111696034
+Westminster,2015,Transport,Shipping,1.74047453
+Unapportioned,2015,Transport,Shipping,-
+Barking and Dagenham,2015,Transport,Railways diesel,1.705768264
+Barnet,2015,Transport,Railways diesel,5.419713617
+Bexley,2015,Transport,Railways diesel,0.881898399
+Brent,2015,Transport,Railways diesel,8.948791168
+Bromley,2015,Transport,Railways diesel,0.763558901
+Camden,2015,Transport,Railways diesel,7.006704066
+City of London,2015,Transport,Railways diesel,0
+Croydon,2015,Transport,Railways diesel,1.359427194
+Ealing,2015,Transport,Railways diesel,14.45397051
+Enfield,2015,Transport,Railways diesel,0.614198215
+Greenwich,2015,Transport,Railways diesel,0.626263084
+Hackney,2015,Transport,Railways diesel,0.867219151
+Hammersmith and Fulham,2015,Transport,Railways diesel,2.884480059
+Haringey,2015,Transport,Railways diesel,2.47459
+Harrow,2015,Transport,Railways diesel,3.726786909
+Havering,2015,Transport,Railways diesel,2.076492064
+Hillingdon,2015,Transport,Railways diesel,11.48464612
+Hounslow,2015,Transport,Railways diesel,0.392446261
+Islington,2015,Transport,Railways diesel,1.820358665
+Kensington and Chelsea,2015,Transport,Railways diesel,2.164333854
+Kingston,2015,Transport,Railways diesel,0.575971582
+Lambeth,2015,Transport,Railways diesel,0.958984026
+Lewisham,2015,Transport,Railways diesel,1.408046198
+Merton,2015,Transport,Railways diesel,0.743810976
+Newham,2015,Transport,Railways diesel,2.476457045
+Redbridge,2015,Transport,Railways diesel,0.735488348
+Richmond,2015,Transport,Railways diesel,0.136729351
+Southwark,2015,Transport,Railways diesel,0.709204209
+Sutton,2015,Transport,Railways diesel,0
+Tower Hamlets,2015,Transport,Railways diesel,0.001919134
+Waltham Forest,2015,Transport,Railways diesel,2.101146546
+Wandsworth,2015,Transport,Railways diesel,1.456241724
+Westminster,2015,Transport,Railways diesel,2.974162546
+Unapportioned,2015,Transport,Railways diesel,-
+Barking and Dagenham,2015,Transport,Railways electric,17.29905141
+Barnet,2015,Transport,Railways electric,30.94937874
+Bexley,2015,Transport,Railways electric,7.95918767
+Brent,2015,Transport,Railways electric,38.42999244
+Bromley,2015,Transport,Railways electric,18.93378502
+Camden,2015,Transport,Railways electric,40.8863963
+City of London,2015,Transport,Railways electric,17.66629608
+Croydon,2015,Transport,Railways electric,23.22572455
+Ealing,2015,Transport,Railways electric,23.91242939
+Enfield,2015,Transport,Railways electric,16.66747175
+Greenwich,2015,Transport,Railways electric,12.40823289
+Hackney,2015,Transport,Railways electric,9.264703212
+Hammersmith and Fulham,2015,Transport,Railways electric,17.84422671
+Haringey,2015,Transport,Railways electric,23.7156192
+Harrow,2015,Transport,Railways electric,17.69546892
+Havering,2015,Transport,Railways electric,17.59089166
+Hillingdon,2015,Transport,Railways electric,20.43662042
+Hounslow,2015,Transport,Railways electric,16.57826353
+Islington,2015,Transport,Railways electric,21.34216012
+Kensington and Chelsea,2015,Transport,Railways electric,22.37445346
+Kingston,2015,Transport,Railways electric,6.639355825
+Lambeth,2015,Transport,Railways electric,42.87539192
+Lewisham,2015,Transport,Railways electric,19.13127459
+Merton,2015,Transport,Railways electric,20.43544644
+Newham,2015,Transport,Railways electric,40.02199997
+Redbridge,2015,Transport,Railways electric,17.30408707
+Richmond,2015,Transport,Railways electric,8.649011095
+Southwark,2015,Transport,Railways electric,26.41447573
+Sutton,2015,Transport,Railways electric,3.923271393
+Tower Hamlets,2015,Transport,Railways electric,37.59298655
+Waltham Forest,2015,Transport,Railways electric,12.16646006
+Wandsworth,2015,Transport,Railways electric,37.22241954
+Westminster,2015,Transport,Railways electric,60.25270389
+Unapportioned,2015,Transport,Railways electric,43.83630502
+Barking and Dagenham,2015,Transport,Road Transport,130.6904308
+Barnet,2015,Transport,Road Transport,381.6420656
+Bexley,2015,Transport,Road Transport,185.822843
+Brent,2015,Transport,Road Transport,204.9868393
+Bromley,2015,Transport,Road Transport,251.6465933
+Camden,2015,Transport,Road Transport,155.2440371
+City of London,2015,Transport,Road Transport,52.06075125
+Croydon,2015,Transport,Road Transport,235.3754577
+Ealing,2015,Transport,Road Transport,278.6847111
+Enfield,2015,Transport,Road Transport,357.7944065
+Greenwich,2015,Transport,Road Transport,214.3205107
+Hackney,2015,Transport,Road Transport,121.5182558
+Hammersmith and Fulham,2015,Transport,Road Transport,111.5616276
+Haringey,2015,Transport,Road Transport,134.4243321
+Harrow,2015,Transport,Road Transport,137.7880284
+Havering,2015,Transport,Road Transport,344.8983866
+Hillingdon,2015,Transport,Road Transport,402.7141357
+Hounslow,2015,Transport,Road Transport,284.4615684
+Islington,2015,Transport,Road Transport,100.0740546
+Kensington and Chelsea,2015,Transport,Road Transport,117.4699181
+Kingston,2015,Transport,Road Transport,157.0223668
+Lambeth,2015,Transport,Road Transport,165.088545
+Lewisham,2015,Transport,Road Transport,152.8261468
+Merton,2015,Transport,Road Transport,131.5986
+Newham,2015,Transport,Road Transport,177.6805217
+Redbridge,2015,Transport,Road Transport,250.278267
+Richmond,2015,Transport,Road Transport,163.4252859
+Southwark,2015,Transport,Road Transport,161.5660395
+Sutton,2015,Transport,Road Transport,112.3438287
+Tower Hamlets,2015,Transport,Road Transport,156.7847889
+Waltham Forest,2015,Transport,Road Transport,175.8781457
+Wandsworth,2015,Transport,Road Transport,169.091776
+Westminster,2015,Transport,Road Transport,255.3986942
+Unapportioned,2015,Transport,Road Transport,-
+Barking and Dagenham,2014,Domestic,Electricity,122.6202762
+Barnet,2014,Domestic,Electricity,284.447901
+Bexley,2014,Domestic,Electricity,176.042107
+Brent,2014,Domestic,Electricity,195.7309013
+Bromley,2014,Domestic,Electricity,257.0013425
+Camden,2014,Domestic,Electricity,161.8452665
+City of London,2014,Domestic,Electricity,12.54629546
+Croydon,2014,Domestic,Electricity,273.9553018
+Ealing,2014,Domestic,Electricity,219.6777482
+Enfield,2014,Domestic,Electricity,228.1471744
+Greenwich,2014,Domestic,Electricity,171.3436694
+Hackney,2014,Domestic,Electricity,159.005696
+Hammersmith and Fulham,2014,Domestic,Electricity,131.3491278
+Haringey,2014,Domestic,Electricity,167.0624203
+Harrow,2014,Domestic,Electricity,162.4385483
+Havering,2014,Domestic,Electricity,188.2205534
+Hillingdon,2014,Domestic,Electricity,196.8959772
+Hounslow,2014,Domestic,Electricity,175.0544573
+Islington,2014,Domestic,Electricity,146.289088
+Kensington and Chelsea,2014,Domestic,Electricity,171.8794792
+Kingston,2014,Domestic,Electricity,123.037672
+Lambeth,2014,Domestic,Electricity,202.0321446
+Lewisham,2014,Domestic,Electricity,189.9674966
+Merton,2014,Domestic,Electricity,145.9701555
+Newham,2014,Domestic,Electricity,173.3387309
+Redbridge,2014,Domestic,Electricity,186.7972911
+Richmond,2014,Domestic,Electricity,156.8343396
+Southwark,2014,Domestic,Electricity,203.6296608
+Sutton,2014,Domestic,Electricity,151.8513463
+Tower Hamlets,2014,Domestic,Electricity,184.6555208
+Waltham Forest,2014,Domestic,Electricity,162.7099801
+Wandsworth,2014,Domestic,Electricity,227.6158234
+Westminster,2014,Domestic,Electricity,222.9969671
+Unapportioned,2014,Domestic,Electricity,-
+Barking and Dagenham,2014,Domestic,Gas,140.2085504
+Barnet,2014,Domestic,Gas,416.3930652
+Bexley,2014,Domestic,Gas,211.7634452
+Brent,2014,Domestic,Gas,293.0823903
+Bromley,2014,Domestic,Gas,349.1871737
+Camden,2014,Domestic,Gas,183.7344877
+City of London,2014,Domestic,Gas,5.511700859
+Croydon,2014,Domestic,Gas,349.2545966
+Ealing,2014,Domestic,Gas,319.769293
+Enfield,2014,Domestic,Gas,295.741489
+Greenwich,2014,Domestic,Gas,194.036943
+Hackney,2014,Domestic,Gas,186.8172167
+Hammersmith and Fulham,2014,Domestic,Gas,169.6371413
+Haringey,2014,Domestic,Gas,241.7045034
+Harrow,2014,Domestic,Gas,271.3485342
+Havering,2014,Domestic,Gas,255.7393864
+Hillingdon,2014,Domestic,Gas,274.6344867
+Hounslow,2014,Domestic,Gas,200.2347004
+Islington,2014,Domestic,Gas,173.1996556
+Kensington and Chelsea,2014,Domestic,Gas,169.4040487
+Kingston,2014,Domestic,Gas,153.9289081
+Lambeth,2014,Domestic,Gas,238.3393059
+Lewisham,2014,Domestic,Gas,226.9528509
+Merton,2014,Domestic,Gas,183.1188053
+Newham,2014,Domestic,Gas,207.1833925
+Redbridge,2014,Domestic,Gas,274.2634456
+Richmond,2014,Domestic,Gas,207.1922686
+Southwark,2014,Domestic,Gas,178.0171031
+Sutton,2014,Domestic,Gas,179.0803974
+Tower Hamlets,2014,Domestic,Gas,132.1214685
+Waltham Forest,2014,Domestic,Gas,229.7501383
+Wandsworth,2014,Domestic,Gas,262.2341829
+Westminster,2014,Domestic,Gas,179.0829645
+Unapportioned,2014,Domestic,Gas,-
+Barking and Dagenham,2014,Domestic,Coal,1.703833367
+Barnet,2014,Domestic,Coal,1.625642412
+Bexley,2014,Domestic,Coal,1.996791137
+Brent,2014,Domestic,Coal,1.172137061
+Bromley,2014,Domestic,Coal,2.172544287
+Camden,2014,Domestic,Coal,0.399027898
+City of London,2014,Domestic,Coal,0.001511507
+Croydon,2014,Domestic,Coal,2.712689065
+Ealing,2014,Domestic,Coal,1.844031022
+Enfield,2014,Domestic,Coal,2.20343178
+Greenwich,2014,Domestic,Coal,1.644247094
+Hackney,2014,Domestic,Coal,0.646573087
+Hammersmith and Fulham,2014,Domestic,Coal,0.627150503
+Haringey,2014,Domestic,Coal,1.257729584
+Harrow,2014,Domestic,Coal,1.22390698
+Havering,2014,Domestic,Coal,2.074389419
+Hillingdon,2014,Domestic,Coal,1.714450523
+Hounslow,2014,Domestic,Coal,1.43860442
+Islington,2014,Domestic,Coal,0.465570166
+Kensington and Chelsea,2014,Domestic,Coal,0.379926875
+Kingston,2014,Domestic,Coal,0.994574344
+Lambeth,2014,Domestic,Coal,1.134326618
+Lewisham,2014,Domestic,Coal,1.772352487
+Merton,2014,Domestic,Coal,1.628820082
+Newham,2014,Domestic,Coal,1.827878487
+Redbridge,2014,Domestic,Coal,1.770657375
+Richmond,2014,Domestic,Coal,1.246444047
+Southwark,2014,Domestic,Coal,0.896097826
+Sutton,2014,Domestic,Coal,1.423201582
+Tower Hamlets,2014,Domestic,Coal,0.443301979
+Waltham Forest,2014,Domestic,Coal,1.91927604
+Wandsworth,2014,Domestic,Coal,1.375137938
+Westminster,2014,Domestic,Coal,0.403857754
+Unapportioned,2014,Domestic,Coal,-
+Barking and Dagenham,2014,Domestic,Oil,0.689921138
+Barnet,2014,Domestic,Oil,2.308923421
+Bexley,2014,Domestic,Oil,1.611104936
+Brent,2014,Domestic,Oil,1.382319103
+Bromley,2014,Domestic,Oil,3.712221227
+Camden,2014,Domestic,Oil,2.625507197
+City of London,2014,Domestic,Oil,0.095328343
+Croydon,2014,Domestic,Oil,2.365139845
+Ealing,2014,Domestic,Oil,1.744264016
+Enfield,2014,Domestic,Oil,1.688451276
+Greenwich,2014,Domestic,Oil,1.264978086
+Hackney,2014,Domestic,Oil,0.841735284
+Hammersmith and Fulham,2014,Domestic,Oil,1.017298853
+Haringey,2014,Domestic,Oil,0.845336828
+Harrow,2014,Domestic,Oil,1.448630866
+Havering,2014,Domestic,Oil,2.046821608
+Hillingdon,2014,Domestic,Oil,2.46250264
+Hounslow,2014,Domestic,Oil,1.913964393
+Islington,2014,Domestic,Oil,0.882165633
+Kensington and Chelsea,2014,Domestic,Oil,2.250966753
+Kingston,2014,Domestic,Oil,0.905706137
+Lambeth,2014,Domestic,Oil,1.67068207
+Lewisham,2014,Domestic,Oil,1.102726568
+Merton,2014,Domestic,Oil,1.187928761
+Newham,2014,Domestic,Oil,0.510998151
+Redbridge,2014,Domestic,Oil,1.285251059
+Richmond,2014,Domestic,Oil,1.742757016
+Southwark,2014,Domestic,Oil,2.306192467
+Sutton,2014,Domestic,Oil,1.375372459
+Tower Hamlets,2014,Domestic,Oil,1.260867116
+Waltham Forest,2014,Domestic,Oil,0.801270795
+Wandsworth,2014,Domestic,Oil,1.544266167
+Westminster,2014,Domestic,Oil,3.287175101
+Unapportioned,2014,Domestic,Oil,-
+Barking and Dagenham,2014,Industrial and Commercial,Electricity w/o rail,121.1313595
+Barnet,2014,Industrial and Commercial,Electricity w/o rail,253.3227933
+Bexley,2014,Industrial and Commercial,Electricity w/o rail,212.6053675
+Brent,2014,Industrial and Commercial,Electricity w/o rail,369.5158178
+Bromley,2014,Industrial and Commercial,Electricity w/o rail,186.7696335
+Camden,2014,Industrial and Commercial,Electricity w/o rail,598.9982503
+City of London,2014,Industrial and Commercial,Electricity w/o rail,912.0751967
+Croydon,2014,Industrial and Commercial,Electricity w/o rail,248.681213
+Ealing,2014,Industrial and Commercial,Electricity w/o rail,374.0564823
+Enfield,2014,Industrial and Commercial,Electricity w/o rail,242.7066828
+Greenwich,2014,Industrial and Commercial,Electricity w/o rail,207.0806638
+Hackney,2014,Industrial and Commercial,Electricity w/o rail,301.301346
+Hammersmith and Fulham,2014,Industrial and Commercial,Electricity w/o rail,278.6815132
+Haringey,2014,Industrial and Commercial,Electricity w/o rail,151.998229
+Harrow,2014,Industrial and Commercial,Electricity w/o rail,126.40101
+Havering,2014,Industrial and Commercial,Electricity w/o rail,162.1122345
+Hillingdon,2014,Industrial and Commercial,Electricity w/o rail,507.1626014
+Hounslow,2014,Industrial and Commercial,Electricity w/o rail,438.7658432
+Islington,2014,Industrial and Commercial,Electricity w/o rail,351.5565594
+Kensington and Chelsea,2014,Industrial and Commercial,Electricity w/o rail,550.3165028
+Kingston,2014,Industrial and Commercial,Electricity w/o rail,153.904233
+Lambeth,2014,Industrial and Commercial,Electricity w/o rail,278.3563636
+Lewisham,2014,Industrial and Commercial,Electricity w/o rail,132.6173548
+Merton,2014,Industrial and Commercial,Electricity w/o rail,150.8550682
+Newham,2014,Industrial and Commercial,Electricity w/o rail,440.8237342
+Redbridge,2014,Industrial and Commercial,Electricity w/o rail,127.6482891
+Richmond,2014,Industrial and Commercial,Electricity w/o rail,175.1908821
+Southwark,2014,Industrial and Commercial,Electricity w/o rail,432.4534507
+Sutton,2014,Industrial and Commercial,Electricity w/o rail,153.5824054
+Tower Hamlets,2014,Industrial and Commercial,Electricity w/o rail,1093.616797
+Waltham Forest,2014,Industrial and Commercial,Electricity w/o rail,170.2830144
+Wandsworth,2014,Industrial and Commercial,Electricity w/o rail,204.0777768
+Westminster,2014,Industrial and Commercial,Electricity w/o rail,1500.096514
+Unapportioned,2014,Industrial and Commercial,Electricity w/o rail,-47.02722815
+Barking and Dagenham,2014,Industrial and Commercial,Gas,42.28886457
+Barnet,2014,Industrial and Commercial,Gas,105.4421964
+Bexley,2014,Industrial and Commercial,Gas,126.9549096
+Brent,2014,Industrial and Commercial,Gas,106.32531
+Bromley,2014,Industrial and Commercial,Gas,68.12116691
+Camden,2014,Industrial and Commercial,Gas,248.2504535
+City of London,2014,Industrial and Commercial,Gas,123.8411572
+Croydon,2014,Industrial and Commercial,Gas,71.06186954
+Ealing,2014,Industrial and Commercial,Gas,143.2239382
+Enfield,2014,Industrial and Commercial,Gas,101.0917858
+Greenwich,2014,Industrial and Commercial,Gas,172.4846501
+Hackney,2014,Industrial and Commercial,Gas,59.73046062
+Hammersmith and Fulham,2014,Industrial and Commercial,Gas,97.92229839
+Haringey,2014,Industrial and Commercial,Gas,59.80892846
+Harrow,2014,Industrial and Commercial,Gas,70.06765881
+Havering,2014,Industrial and Commercial,Gas,41.79733595
+Hillingdon,2014,Industrial and Commercial,Gas,156.8647156
+Hounslow,2014,Industrial and Commercial,Gas,106.6841499
+Islington,2014,Industrial and Commercial,Gas,118.7347535
+Kensington and Chelsea,2014,Industrial and Commercial,Gas,176.8213964
+Kingston,2014,Industrial and Commercial,Gas,40.91630755
+Lambeth,2014,Industrial and Commercial,Gas,133.2542402
+Lewisham,2014,Industrial and Commercial,Gas,45.6982898
+Merton,2014,Industrial and Commercial,Gas,54.6046501
+Newham,2014,Industrial and Commercial,Gas,177.2970853
+Redbridge,2014,Industrial and Commercial,Gas,44.48573334
+Richmond,2014,Industrial and Commercial,Gas,60.11793298
+Southwark,2014,Industrial and Commercial,Gas,144.3404987
+Sutton,2014,Industrial and Commercial,Gas,36.99669251
+Tower Hamlets,2014,Industrial and Commercial,Gas,119.1110216
+Waltham Forest,2014,Industrial and Commercial,Gas,56.56105775
+Wandsworth,2014,Industrial and Commercial,Gas,103.1383228
+Westminster,2014,Industrial and Commercial,Gas,408.8395201
+Unapportioned,2014,Industrial and Commercial,Gas,19.51506403
+Barking and Dagenham,2014,Industrial and Commercial,Coal,4.12177011
+Barnet,2014,Industrial and Commercial,Coal,0.045003936
+Bexley,2014,Industrial and Commercial,Coal,0.06940581
+Brent,2014,Industrial and Commercial,Coal,0
+Bromley,2014,Industrial and Commercial,Coal,0.01025181
+Camden,2014,Industrial and Commercial,Coal,0
+City of London,2014,Industrial and Commercial,Coal,0
+Croydon,2014,Industrial and Commercial,Coal,0.211959009
+Ealing,2014,Industrial and Commercial,Coal,0.035314846
+Enfield,2014,Industrial and Commercial,Coal,0.188043279
+Greenwich,2014,Industrial and Commercial,Coal,0.099233
+Hackney,2014,Industrial and Commercial,Coal,0.027287309
+Hammersmith and Fulham,2014,Industrial and Commercial,Coal,0
+Haringey,2014,Industrial and Commercial,Coal,1.44012594
+Harrow,2014,Industrial and Commercial,Coal,0.165158262
+Havering,2014,Industrial and Commercial,Coal,0.209502438
+Hillingdon,2014,Industrial and Commercial,Coal,0.513303197
+Hounslow,2014,Industrial and Commercial,Coal,0.051542696
+Islington,2014,Industrial and Commercial,Coal,0.015159616
+Kensington and Chelsea,2014,Industrial and Commercial,Coal,0.00909577
+Kingston,2014,Industrial and Commercial,Coal,0.006063847
+Lambeth,2014,Industrial and Commercial,Coal,0
+Lewisham,2014,Industrial and Commercial,Coal,0
+Merton,2014,Industrial and Commercial,Coal,0.008027536
+Newham,2014,Industrial and Commercial,Coal,0.72247827
+Redbridge,2014,Industrial and Commercial,Coal,0.003031923
+Richmond,2014,Industrial and Commercial,Coal,0
+Southwark,2014,Industrial and Commercial,Coal,0.323055086
+Sutton,2014,Industrial and Commercial,Coal,1.215106262
+Tower Hamlets,2014,Industrial and Commercial,Coal,0.078355092
+Waltham Forest,2014,Industrial and Commercial,Coal,0
+Wandsworth,2014,Industrial and Commercial,Coal,0
+Westminster,2014,Industrial and Commercial,Coal,0.638082635
+Unapportioned,2014,Industrial and Commercial,Coal,-
+Barking and Dagenham,2014,Industrial and Commercial,Oil,40.04950516
+Barnet,2014,Industrial and Commercial,Oil,10.98093579
+Bexley,2014,Industrial and Commercial,Oil,38.08257538
+Brent,2014,Industrial and Commercial,Oil,20.75187958
+Bromley,2014,Industrial and Commercial,Oil,19.56462102
+Camden,2014,Industrial and Commercial,Oil,11.00887783
+City of London,2014,Industrial and Commercial,Oil,9.515205563
+Croydon,2014,Industrial and Commercial,Oil,8.519219534
+Ealing,2014,Industrial and Commercial,Oil,23.64951801
+Enfield,2014,Industrial and Commercial,Oil,22.21599574
+Greenwich,2014,Industrial and Commercial,Oil,11.18480775
+Hackney,2014,Industrial and Commercial,Oil,4.204720126
+Hammersmith and Fulham,2014,Industrial and Commercial,Oil,10.19958531
+Haringey,2014,Industrial and Commercial,Oil,6.619714694
+Harrow,2014,Industrial and Commercial,Oil,5.588966975
+Havering,2014,Industrial and Commercial,Oil,12.7855982
+Hillingdon,2014,Industrial and Commercial,Oil,117.3732485
+Hounslow,2014,Industrial and Commercial,Oil,18.95984335
+Islington,2014,Industrial and Commercial,Oil,8.764736771
+Kensington and Chelsea,2014,Industrial and Commercial,Oil,1.916901202
+Kingston,2014,Industrial and Commercial,Oil,9.831926447
+Lambeth,2014,Industrial and Commercial,Oil,2.697799807
+Lewisham,2014,Industrial and Commercial,Oil,2.432858533
+Merton,2014,Industrial and Commercial,Oil,7.251655827
+Newham,2014,Industrial and Commercial,Oil,31.61461249
+Redbridge,2014,Industrial and Commercial,Oil,6.168408976
+Richmond,2014,Industrial and Commercial,Oil,6.017533032
+Southwark,2014,Industrial and Commercial,Oil,5.087497159
+Sutton,2014,Industrial and Commercial,Oil,7.316883498
+Tower Hamlets,2014,Industrial and Commercial,Oil,7.818216387
+Waltham Forest,2014,Industrial and Commercial,Oil,8.513941579
+Wandsworth,2014,Industrial and Commercial,Oil,5.046354629
+Westminster,2014,Industrial and Commercial,Oil,56.76695813
+Unapportioned,2014,Industrial and Commercial,Oil,-
+Barking and Dagenham,2014,Industrial and Commercial,Waste and Renewables,9.859863359
+Barnet,2014,Industrial and Commercial,Waste and Renewables,5.52288884
+Bexley,2014,Industrial and Commercial,Waste and Renewables,10.99043969
+Brent,2014,Industrial and Commercial,Waste and Renewables,4.029131093
+Bromley,2014,Industrial and Commercial,Waste and Renewables,6.865505173
+Camden,2014,Industrial and Commercial,Waste and Renewables,1.263030783
+City of London,2014,Industrial and Commercial,Waste and Renewables,0.005497811
+Croydon,2014,Industrial and Commercial,Waste and Renewables,9.031638068
+Ealing,2014,Industrial and Commercial,Waste and Renewables,6.039523405
+Enfield,2014,Industrial and Commercial,Waste and Renewables,14.39195319
+Greenwich,2014,Industrial and Commercial,Waste and Renewables,5.607827688
+Hackney,2014,Industrial and Commercial,Waste and Renewables,2.092293359
+Hammersmith and Fulham,2014,Industrial and Commercial,Waste and Renewables,2.18839499
+Haringey,2014,Industrial and Commercial,Waste and Renewables,4.317910858
+Harrow,2014,Industrial and Commercial,Waste and Renewables,4.193868398
+Havering,2014,Industrial and Commercial,Waste and Renewables,6.309539497
+Hillingdon,2014,Industrial and Commercial,Waste and Renewables,47.87905941
+Hounslow,2014,Industrial and Commercial,Waste and Renewables,8.755037524
+Islington,2014,Industrial and Commercial,Waste and Renewables,1.540416278
+Kensington and Chelsea,2014,Industrial and Commercial,Waste and Renewables,1.228132273
+Kingston,2014,Industrial and Commercial,Waste and Renewables,3.249713517
+Lambeth,2014,Industrial and Commercial,Waste and Renewables,3.855087157
+Lewisham,2014,Industrial and Commercial,Waste and Renewables,6.044732407
+Merton,2014,Industrial and Commercial,Waste and Renewables,5.692511087
+Newham,2014,Industrial and Commercial,Waste and Renewables,6.269238169
+Redbridge,2014,Industrial and Commercial,Waste and Renewables,6.041021741
+Richmond,2014,Industrial and Commercial,Waste and Renewables,4.10466335
+Southwark,2014,Industrial and Commercial,Waste and Renewables,3.047157133
+Sutton,2014,Industrial and Commercial,Waste and Renewables,4.599320427
+Tower Hamlets,2014,Industrial and Commercial,Waste and Renewables,6.179984951
+Waltham Forest,2014,Industrial and Commercial,Waste and Renewables,6.53795046
+Wandsworth,2014,Industrial and Commercial,Waste and Renewables,4.809175215
+Westminster,2014,Industrial and Commercial,Waste and Renewables,1.246434904
+Unapportioned,2014,Industrial and Commercial,Waste and Renewables,-
+Barking and Dagenham,2014,Transport,Aviation,0
+Barnet,2014,Transport,Aviation,0.226836457
+Bexley,2014,Transport,Aviation,8.230594259
+Brent,2014,Transport,Aviation,0.334508414
+Bromley,2014,Transport,Aviation,1.410701574
+Camden,2014,Transport,Aviation,0
+City of London,2014,Transport,Aviation,1.277338555
+Croydon,2014,Transport,Aviation,0.282965013
+Ealing,2014,Transport,Aviation,0.181636926
+Enfield,2014,Transport,Aviation,0.322362335
+Greenwich,2014,Transport,Aviation,6.612406206
+Hackney,2014,Transport,Aviation,0.116340286
+Hammersmith and Fulham,2014,Transport,Aviation,15.09911274
+Haringey,2014,Transport,Aviation,0
+Harrow,2014,Transport,Aviation,0.239300136
+Havering,2014,Transport,Aviation,2.929437697
+Hillingdon,2014,Transport,Aviation,674.7452069
+Hounslow,2014,Transport,Aviation,105.4894457
+Islington,2014,Transport,Aviation,0
+Kensington and Chelsea,2014,Transport,Aviation,1.909301507
+Kingston,2014,Transport,Aviation,0
+Lambeth,2014,Transport,Aviation,0
+Lewisham,2014,Transport,Aviation,0.009393936
+Merton,2014,Transport,Aviation,0
+Newham,2014,Transport,Aviation,37.94085386
+Redbridge,2014,Transport,Aviation,0.845285381
+Richmond,2014,Transport,Aviation,44.67444809
+Southwark,2014,Transport,Aviation,1.27148052
+Sutton,2014,Transport,Aviation,0.044178973
+Tower Hamlets,2014,Transport,Aviation,12.66328257
+Waltham Forest,2014,Transport,Aviation,0.586037093
+Wandsworth,2014,Transport,Aviation,13.4899079
+Westminster,2014,Transport,Aviation,0
+Unapportioned,2014,Transport,Aviation,-
+Barking and Dagenham,2014,Transport,Shipping,6.368751648
+Barnet,2014,Transport,Shipping,0
+Bexley,2014,Transport,Shipping,4.561340067
+Brent,2014,Transport,Shipping,0
+Bromley,2014,Transport,Shipping,0
+Camden,2014,Transport,Shipping,0
+City of London,2014,Transport,Shipping,2.032987018
+Croydon,2014,Transport,Shipping,0
+Ealing,2014,Transport,Shipping,0
+Enfield,2014,Transport,Shipping,0
+Greenwich,2014,Transport,Shipping,4.236300108
+Hackney,2014,Transport,Shipping,0
+Hammersmith and Fulham,2014,Transport,Shipping,0.080509761
+Haringey,2014,Transport,Shipping,0
+Harrow,2014,Transport,Shipping,0
+Havering,2014,Transport,Shipping,0.438166383
+Hillingdon,2014,Transport,Shipping,0
+Hounslow,2014,Transport,Shipping,0.098252464
+Islington,2014,Transport,Shipping,0
+Kensington and Chelsea,2014,Transport,Shipping,0.015149974
+Kingston,2014,Transport,Shipping,0.036296904
+Lambeth,2014,Transport,Shipping,1.181241394
+Lewisham,2014,Transport,Shipping,0.00158885
+Merton,2014,Transport,Shipping,0
+Newham,2014,Transport,Shipping,1.463324884
+Redbridge,2014,Transport,Shipping,0
+Richmond,2014,Transport,Shipping,0.241155376
+Southwark,2014,Transport,Shipping,2.403434974
+Sutton,2014,Transport,Shipping,0
+Tower Hamlets,2014,Transport,Shipping,6.196435751
+Waltham Forest,2014,Transport,Shipping,0
+Wandsworth,2014,Transport,Shipping,0.109735513
+Westminster,2014,Transport,Shipping,1.740449997
+Unapportioned,2014,Transport,Shipping,-
+Barking and Dagenham,2014,Transport,Railways diesel,1.705768264
+Barnet,2014,Transport,Railways diesel,5.419713617
+Bexley,2014,Transport,Railways diesel,0.881898399
+Brent,2014,Transport,Railways diesel,8.948791168
+Bromley,2014,Transport,Railways diesel,0.763558901
+Camden,2014,Transport,Railways diesel,7.006704066
+City of London,2014,Transport,Railways diesel,0
+Croydon,2014,Transport,Railways diesel,1.359427194
+Ealing,2014,Transport,Railways diesel,14.45397051
+Enfield,2014,Transport,Railways diesel,0.614198215
+Greenwich,2014,Transport,Railways diesel,0.626263084
+Hackney,2014,Transport,Railways diesel,0.867219151
+Hammersmith and Fulham,2014,Transport,Railways diesel,2.884480059
+Haringey,2014,Transport,Railways diesel,2.47459
+Harrow,2014,Transport,Railways diesel,3.726786909
+Havering,2014,Transport,Railways diesel,2.076492064
+Hillingdon,2014,Transport,Railways diesel,11.48464612
+Hounslow,2014,Transport,Railways diesel,0.392446261
+Islington,2014,Transport,Railways diesel,1.820358665
+Kensington and Chelsea,2014,Transport,Railways diesel,2.164333854
+Kingston,2014,Transport,Railways diesel,0.575971582
+Lambeth,2014,Transport,Railways diesel,0.958984026
+Lewisham,2014,Transport,Railways diesel,1.408046198
+Merton,2014,Transport,Railways diesel,0.743810976
+Newham,2014,Transport,Railways diesel,2.476457045
+Redbridge,2014,Transport,Railways diesel,0.735488348
+Richmond,2014,Transport,Railways diesel,0.136729351
+Southwark,2014,Transport,Railways diesel,0.709204209
+Sutton,2014,Transport,Railways diesel,0
+Tower Hamlets,2014,Transport,Railways diesel,0.001919134
+Waltham Forest,2014,Transport,Railways diesel,2.101146546
+Wandsworth,2014,Transport,Railways diesel,1.456241724
+Westminster,2014,Transport,Railways diesel,2.974162546
+Unapportioned,2014,Transport,Railways diesel,-
+Barking and Dagenham,2014,Transport,Railways electric,19.99538776
+Barnet,2014,Transport,Railways electric,35.63287682
+Bexley,2014,Transport,Railways electric,9.302661613
+Brent,2014,Transport,Railways electric,44.1516092
+Bromley,2014,Transport,Railways electric,22.08224759
+Camden,2014,Transport,Railways electric,47.00821917
+City of London,2014,Transport,Railways electric,20.20680939
+Croydon,2014,Transport,Railways electric,26.89482152
+Ealing,2014,Transport,Railways electric,27.42685301
+Enfield,2014,Transport,Railways electric,19.3191076
+Greenwich,2014,Transport,Railways electric,14.21964498
+Hackney,2014,Transport,Railways electric,10.77747098
+Hammersmith and Fulham,2014,Transport,Railways electric,20.45929575
+Haringey,2014,Transport,Railways electric,27.32840249
+Harrow,2014,Transport,Railways electric,20.38163743
+Havering,2014,Transport,Railways electric,20.44029255
+Hillingdon,2014,Transport,Railways electric,23.43333835
+Hounslow,2014,Transport,Railways electric,19.07721558
+Islington,2014,Transport,Railways electric,24.56096003
+Kensington and Chelsea,2014,Transport,Railways electric,25.61374049
+Kingston,2014,Transport,Railways electric,7.760048278
+Lambeth,2014,Transport,Railways electric,49.41501285
+Lewisham,2014,Transport,Railways electric,22.36054496
+Merton,2014,Transport,Railways electric,23.62314779
+Newham,2014,Transport,Railways electric,45.57541486
+Redbridge,2014,Transport,Railways electric,19.91870415
+Richmond,2014,Transport,Railways electric,10.07024466
+Southwark,2014,Transport,Railways electric,30.60286848
+Sutton,2014,Transport,Railways electric,4.565793502
+Tower Hamlets,2014,Transport,Railways electric,42.74947912
+Waltham Forest,2014,Transport,Railways electric,14.00443843
+Wandsworth,2014,Transport,Railways electric,43.28922017
+Westminster,2014,Transport,Railways electric,69.0165076
+Unapportioned,2014,Transport,Railways electric,47.02722815
+Barking and Dagenham,2014,Transport,Road Transport,133.3444967
+Barnet,2014,Transport,Road Transport,394.1272664
+Bexley,2014,Transport,Road Transport,193.1111904
+Brent,2014,Transport,Road Transport,210.3240952
+Bromley,2014,Transport,Road Transport,256.0618306
+Camden,2014,Transport,Road Transport,158.2867461
+City of London,2014,Transport,Road Transport,53.77687113
+Croydon,2014,Transport,Road Transport,240.4937337
+Ealing,2014,Transport,Road Transport,288.2390176
+Enfield,2014,Transport,Road Transport,365.9723183
+Greenwich,2014,Transport,Road Transport,221.3550021
+Hackney,2014,Transport,Road Transport,124.2997374
+Hammersmith and Fulham,2014,Transport,Road Transport,115.5278827
+Haringey,2014,Transport,Road Transport,136.9933902
+Harrow,2014,Transport,Road Transport,142.0807403
+Havering,2014,Transport,Road Transport,354.1499357
+Hillingdon,2014,Transport,Road Transport,422.9905298
+Hounslow,2014,Transport,Road Transport,297.46865
+Islington,2014,Transport,Road Transport,102.2828152
+Kensington and Chelsea,2014,Transport,Road Transport,121.1759368
+Kingston,2014,Transport,Road Transport,162.875312
+Lambeth,2014,Transport,Road Transport,168.4443019
+Lewisham,2014,Transport,Road Transport,156.6157897
+Merton,2014,Transport,Road Transport,133.9105968
+Newham,2014,Transport,Road Transport,182.0820601
+Redbridge,2014,Transport,Road Transport,259.5350873
+Richmond,2014,Transport,Road Transport,168.0790917
+Southwark,2014,Transport,Road Transport,165.0374236
+Sutton,2014,Transport,Road Transport,114.9114795
+Tower Hamlets,2014,Transport,Road Transport,161.3004897
+Waltham Forest,2014,Transport,Road Transport,181.0992803
+Wandsworth,2014,Transport,Road Transport,172.623718
+Westminster,2014,Transport,Road Transport,261.6420081
+Unapportioned,2014,Transport,Road Transport,-
+Barking and Dagenham,2013,Domestic,Electricity,135.1094878
+Barnet,2013,Domestic,Electricity,316.543736
+Bexley,2013,Domestic,Electricity,193.6438903
+Brent,2013,Domestic,Electricity,215.5688854
+Bromley,2013,Domestic,Electricity,286.0071325
+Camden,2013,Domestic,Electricity,179.2022143
+City of London,2013,Domestic,Electricity,13.42140546
+Croydon,2013,Domestic,Electricity,304.5616516
+Ealing,2013,Domestic,Electricity,244.6042669
+Enfield,2013,Domestic,Electricity,253.2735232
+Greenwich,2013,Domestic,Electricity,187.4527614
+Hackney,2013,Domestic,Electricity,174.3156295
+Hammersmith and Fulham,2013,Domestic,Electricity,143.4127039
+Haringey,2013,Domestic,Electricity,185.9340167
+Harrow,2013,Domestic,Electricity,180.2916446
+Havering,2013,Domestic,Electricity,208.5332744
+Hillingdon,2013,Domestic,Electricity,218.8656979
+Hounslow,2013,Domestic,Electricity,193.9211097
+Islington,2013,Domestic,Electricity,160.2170268
+Kensington and Chelsea,2013,Domestic,Electricity,190.2733247
+Kingston,2013,Domestic,Electricity,136.8366575
+Lambeth,2013,Domestic,Electricity,224.2893892
+Lewisham,2013,Domestic,Electricity,209.9092955
+Merton,2013,Domestic,Electricity,160.9050042
+Newham,2013,Domestic,Electricity,188.5440085
+Redbridge,2013,Domestic,Electricity,205.8394087
+Richmond,2013,Domestic,Electricity,174.0442997
+Southwark,2013,Domestic,Electricity,224.1343191
+Sutton,2013,Domestic,Electricity,168.7130095
+Tower Hamlets,2013,Domestic,Electricity,199.8406077
+Waltham Forest,2013,Domestic,Electricity,179.7730099
+Wandsworth,2013,Domestic,Electricity,250.887481
+Westminster,2013,Domestic,Electricity,246.7204409
+Unapportioned,2013,Domestic,Electricity,-
+Barking and Dagenham,2013,Domestic,Gas,150.1203527
+Barnet,2013,Domestic,Gas,445.7369589
+Bexley,2013,Domestic,Gas,253.4095907
+Brent,2013,Domestic,Gas,314.3361043
+Bromley,2013,Domestic,Gas,417.2183861
+Camden,2013,Domestic,Gas,197.6112704
+City of London,2013,Domestic,Gas,6.421369154
+Croydon,2013,Domestic,Gas,414.6828237
+Ealing,2013,Domestic,Gas,343.6200608
+Enfield,2013,Domestic,Gas,317.9478389
+Greenwich,2013,Domestic,Gas,231.5977654
+Hackney,2013,Domestic,Gas,200.4502951
+Hammersmith and Fulham,2013,Domestic,Gas,182.6889687
+Haringey,2013,Domestic,Gas,261.2460355
+Harrow,2013,Domestic,Gas,288.7110965
+Havering,2013,Domestic,Gas,274.5543075
+Hillingdon,2013,Domestic,Gas,292.8322816
+Hounslow,2013,Domestic,Gas,237.6540163
+Islington,2013,Domestic,Gas,186.8901961
+Kensington and Chelsea,2013,Domestic,Gas,182.8406713
+Kingston,2013,Domestic,Gas,183.0927589
+Lambeth,2013,Domestic,Gas,286.14975
+Lewisham,2013,Domestic,Gas,270.6725733
+Merton,2013,Domestic,Gas,218.4295792
+Newham,2013,Domestic,Gas,221.5366488
+Redbridge,2013,Domestic,Gas,293.5968554
+Richmond,2013,Domestic,Gas,246.2845342
+Southwark,2013,Domestic,Gas,213.2943818
+Sutton,2013,Domestic,Gas,213.4475684
+Tower Hamlets,2013,Domestic,Gas,145.8165113
+Waltham Forest,2013,Domestic,Gas,245.6877642
+Wandsworth,2013,Domestic,Gas,313.2881925
+Westminster,2013,Domestic,Gas,201.7140521
+Unapportioned,2013,Domestic,Gas,-
+Barking and Dagenham,2013,Domestic,Coal,1.797591426
+Barnet,2013,Domestic,Coal,1.512736832
+Bexley,2013,Domestic,Coal,1.381288653
+Brent,2013,Domestic,Coal,0.889346264
+Bromley,2013,Domestic,Coal,2.827557224
+Camden,2013,Domestic,Coal,0.801177873
+City of London,2013,Domestic,Coal,0
+Croydon,2013,Domestic,Coal,2.819004963
+Ealing,2013,Domestic,Coal,2.46306103
+Enfield,2013,Domestic,Coal,2.103416383
+Greenwich,2013,Domestic,Coal,1.410468897
+Hackney,2013,Domestic,Coal,1.055731361
+Hammersmith and Fulham,2013,Domestic,Coal,0.367354591
+Haringey,2013,Domestic,Coal,0.984458978
+Harrow,2013,Domestic,Coal,0.925416014
+Havering,2013,Domestic,Coal,4.430926033
+Hillingdon,2013,Domestic,Coal,2.267738736
+Hounslow,2013,Domestic,Coal,1.88054715
+Islington,2013,Domestic,Coal,0.665503081
+Kensington and Chelsea,2013,Domestic,Coal,0.709100016
+Kingston,2013,Domestic,Coal,1.339876373
+Lambeth,2013,Domestic,Coal,1.105839765
+Lewisham,2013,Domestic,Coal,1.523600452
+Merton,2013,Domestic,Coal,0.866952377
+Newham,2013,Domestic,Coal,1.5217327
+Redbridge,2013,Domestic,Coal,1.452003696
+Richmond,2013,Domestic,Coal,1.626625008
+Southwark,2013,Domestic,Coal,0.983545371
+Sutton,2013,Domestic,Coal,2.086949851
+Tower Hamlets,2013,Domestic,Coal,0.984751559
+Waltham Forest,2013,Domestic,Coal,1.658131987
+Wandsworth,2013,Domestic,Coal,0.831996238
+Westminster,2013,Domestic,Coal,1.140758781
+Unapportioned,2013,Domestic,Coal,-
+Barking and Dagenham,2013,Domestic,Oil,0.677877886
+Barnet,2013,Domestic,Oil,2.275396727
+Bexley,2013,Domestic,Oil,1.580261696
+Brent,2013,Domestic,Oil,1.3603112
+Bromley,2013,Domestic,Oil,3.698877025
+Camden,2013,Domestic,Oil,2.685625675
+City of London,2013,Domestic,Oil,0.108252246
+Croydon,2013,Domestic,Oil,2.335464259
+Ealing,2013,Domestic,Oil,1.722336837
+Enfield,2013,Domestic,Oil,1.659567899
+Greenwich,2013,Domestic,Oil,1.226716401
+Hackney,2013,Domestic,Oil,0.815615567
+Hammersmith and Fulham,2013,Domestic,Oil,1.007731326
+Haringey,2013,Domestic,Oil,0.843688783
+Harrow,2013,Domestic,Oil,1.41705382
+Havering,2013,Domestic,Oil,2.01218738
+Hillingdon,2013,Domestic,Oil,2.426817294
+Hounslow,2013,Domestic,Oil,1.872218069
+Islington,2013,Domestic,Oil,0.85587817
+Kensington and Chelsea,2013,Domestic,Oil,2.585109079
+Kingston,2013,Domestic,Oil,0.882577921
+Lambeth,2013,Domestic,Oil,1.651216125
+Lewisham,2013,Domestic,Oil,1.085787694
+Merton,2013,Domestic,Oil,1.175463456
+Newham,2013,Domestic,Oil,0.507725241
+Redbridge,2013,Domestic,Oil,1.276658805
+Richmond,2013,Domestic,Oil,1.758143496
+Southwark,2013,Domestic,Oil,2.088954899
+Sutton,2013,Domestic,Oil,1.349726363
+Tower Hamlets,2013,Domestic,Oil,1.241847679
+Waltham Forest,2013,Domestic,Oil,0.792254422
+Wandsworth,2013,Domestic,Oil,1.519444183
+Westminster,2013,Domestic,Oil,3.78844773
+Unapportioned,2013,Domestic,Oil,-
+Barking and Dagenham,2013,Industrial and Commercial,Electricity w/o rail,185.8880687
+Barnet,2013,Industrial and Commercial,Electricity w/o rail,219.1744604
+Bexley,2013,Industrial and Commercial,Electricity w/o rail,184.6417551
+Brent,2013,Industrial and Commercial,Electricity w/o rail,351.9443144
+Bromley,2013,Industrial and Commercial,Electricity w/o rail,178.6829984
+Camden,2013,Industrial and Commercial,Electricity w/o rail,639.493564
+City of London,2013,Industrial and Commercial,Electricity w/o rail,1184.064963
+Croydon,2013,Industrial and Commercial,Electricity w/o rail,284.907168
+Ealing,2013,Industrial and Commercial,Electricity w/o rail,446.2138344
+Enfield,2013,Industrial and Commercial,Electricity w/o rail,250.6825165
+Greenwich,2013,Industrial and Commercial,Electricity w/o rail,202.889602
+Hackney,2013,Industrial and Commercial,Electricity w/o rail,263.7695549
+Hammersmith and Fulham,2013,Industrial and Commercial,Electricity w/o rail,332.9751927
+Haringey,2013,Industrial and Commercial,Electricity w/o rail,162.4593676
+Harrow,2013,Industrial and Commercial,Electricity w/o rail,100.8841972
+Havering,2013,Industrial and Commercial,Electricity w/o rail,178.3892576
+Hillingdon,2013,Industrial and Commercial,Electricity w/o rail,628.4361066
+Hounslow,2013,Industrial and Commercial,Electricity w/o rail,466.2490659
+Islington,2013,Industrial and Commercial,Electricity w/o rail,418.0486414
+Kensington and Chelsea,2013,Industrial and Commercial,Electricity w/o rail,495.9943845
+Kingston,2013,Industrial and Commercial,Electricity w/o rail,147.170883
+Lambeth,2013,Industrial and Commercial,Electricity w/o rail,278.7248517
+Lewisham,2013,Industrial and Commercial,Electricity w/o rail,124.9869537
+Merton,2013,Industrial and Commercial,Electricity w/o rail,211.2159386
+Newham,2013,Industrial and Commercial,Electricity w/o rail,482.0071013
+Redbridge,2013,Industrial and Commercial,Electricity w/o rail,113.2696408
+Richmond,2013,Industrial and Commercial,Electricity w/o rail,159.5711392
+Southwark,2013,Industrial and Commercial,Electricity w/o rail,552.1137815
+Sutton,2013,Industrial and Commercial,Electricity w/o rail,179.2464592
+Tower Hamlets,2013,Industrial and Commercial,Electricity w/o rail,1158.908821
+Waltham Forest,2013,Industrial and Commercial,Electricity w/o rail,154.4180303
+Wandsworth,2013,Industrial and Commercial,Electricity w/o rail,158.6346584
+Westminster,2013,Industrial and Commercial,Electricity w/o rail,1651.911933
+Unapportioned,2013,Industrial and Commercial,Electricity w/o rail,-49.59856987
+Barking and Dagenham,2013,Industrial and Commercial,Gas,42.13354256
+Barnet,2013,Industrial and Commercial,Gas,109.8382054
+Bexley,2013,Industrial and Commercial,Gas,146.4581866
+Brent,2013,Industrial and Commercial,Gas,112.9502526
+Bromley,2013,Industrial and Commercial,Gas,83.07316237
+Camden,2013,Industrial and Commercial,Gas,301.6757508
+City of London,2013,Industrial and Commercial,Gas,150.365039
+Croydon,2013,Industrial and Commercial,Gas,89.8355736
+Ealing,2013,Industrial and Commercial,Gas,149.2696563
+Enfield,2013,Industrial and Commercial,Gas,109.5112928
+Greenwich,2013,Industrial and Commercial,Gas,85.36286454
+Hackney,2013,Industrial and Commercial,Gas,68.59179164
+Hammersmith and Fulham,2013,Industrial and Commercial,Gas,116.5567009
+Haringey,2013,Industrial and Commercial,Gas,66.80081676
+Harrow,2013,Industrial and Commercial,Gas,84.35843656
+Havering,2013,Industrial and Commercial,Gas,45.65309779
+Hillingdon,2013,Industrial and Commercial,Gas,192.6875657
+Hounslow,2013,Industrial and Commercial,Gas,124.8633492
+Islington,2013,Industrial and Commercial,Gas,122.6315315
+Kensington and Chelsea,2013,Industrial and Commercial,Gas,183.8220889
+Kingston,2013,Industrial and Commercial,Gas,51.43833525
+Lambeth,2013,Industrial and Commercial,Gas,172.3024483
+Lewisham,2013,Industrial and Commercial,Gas,54.21283483
+Merton,2013,Industrial and Commercial,Gas,65.71726067
+Newham,2013,Industrial and Commercial,Gas,209.2255774
+Redbridge,2013,Industrial and Commercial,Gas,49.1377771
+Richmond,2013,Industrial and Commercial,Gas,76.94098814
+Southwark,2013,Industrial and Commercial,Gas,200.2306111
+Sutton,2013,Industrial and Commercial,Gas,48.32478731
+Tower Hamlets,2013,Industrial and Commercial,Gas,146.984155
+Waltham Forest,2013,Industrial and Commercial,Gas,62.36154545
+Wandsworth,2013,Industrial and Commercial,Gas,127.9577776
+Westminster,2013,Industrial and Commercial,Gas,545.4357248
+Unapportioned,2013,Industrial and Commercial,Gas,32.03689629
+Barking and Dagenham,2013,Industrial and Commercial,Coal,4.554095168
+Barnet,2013,Industrial and Commercial,Coal,0.07319051
+Bexley,2013,Industrial and Commercial,Coal,0.18290637
+Brent,2013,Industrial and Commercial,Coal,0.009632687
+Bromley,2013,Industrial and Commercial,Coal,0.022287374
+Camden,2013,Industrial and Commercial,Coal,0.021234039
+City of London,2013,Industrial and Commercial,Coal,0.023028284
+Croydon,2013,Industrial and Commercial,Coal,0.196436464
+Ealing,2013,Industrial and Commercial,Coal,0.507292038
+Enfield,2013,Industrial and Commercial,Coal,0.254293285
+Greenwich,2013,Industrial and Commercial,Coal,0.087692243
+Hackney,2013,Industrial and Commercial,Coal,0.042902534
+Hammersmith and Fulham,2013,Industrial and Commercial,Coal,0.005673576
+Haringey,2013,Industrial and Commercial,Coal,1.87569887
+Harrow,2013,Industrial and Commercial,Coal,0.185490673
+Havering,2013,Industrial and Commercial,Coal,0.246283831
+Hillingdon,2013,Industrial and Commercial,Coal,0.503747506
+Hounslow,2013,Industrial and Commercial,Coal,0.082493862
+Islington,2013,Industrial and Commercial,Coal,0.037330735
+Kensington and Chelsea,2013,Industrial and Commercial,Coal,0.015026782
+Kingston,2013,Industrial and Commercial,Coal,0.032406226
+Lambeth,2013,Industrial and Commercial,Coal,0.001711738
+Lewisham,2013,Industrial and Commercial,Coal,0.000405413
+Merton,2013,Industrial and Commercial,Coal,0.001202179
+Newham,2013,Industrial and Commercial,Coal,0.039515899
+Redbridge,2013,Industrial and Commercial,Coal,0.008850243
+Richmond,2013,Industrial and Commercial,Coal,0.001799619
+Southwark,2013,Industrial and Commercial,Coal,0.41422525
+Sutton,2013,Industrial and Commercial,Coal,1.578608809
+Tower Hamlets,2013,Industrial and Commercial,Coal,0.117302232
+Waltham Forest,2013,Industrial and Commercial,Coal,0.005762503
+Wandsworth,2013,Industrial and Commercial,Coal,0.001080535
+Westminster,2013,Industrial and Commercial,Coal,0.992298247
+Unapportioned,2013,Industrial and Commercial,Coal,-
+Barking and Dagenham,2013,Industrial and Commercial,Oil,31.04708644
+Barnet,2013,Industrial and Commercial,Oil,9.990452343
+Bexley,2013,Industrial and Commercial,Oil,36.42759011
+Brent,2013,Industrial and Commercial,Oil,18.33814332
+Bromley,2013,Industrial and Commercial,Oil,18.16277492
+Camden,2013,Industrial and Commercial,Oil,11.73424758
+City of London,2013,Industrial and Commercial,Oil,8.993438344
+Croydon,2013,Industrial and Commercial,Oil,7.371442868
+Ealing,2013,Industrial and Commercial,Oil,20.4632983
+Enfield,2013,Industrial and Commercial,Oil,21.10487083
+Greenwich,2013,Industrial and Commercial,Oil,9.92408396
+Hackney,2013,Industrial and Commercial,Oil,3.803492274
+Hammersmith and Fulham,2013,Industrial and Commercial,Oil,8.022111501
+Haringey,2013,Industrial and Commercial,Oil,5.936554317
+Harrow,2013,Industrial and Commercial,Oil,5.489195179
+Havering,2013,Industrial and Commercial,Oil,11.58577418
+Hillingdon,2013,Industrial and Commercial,Oil,103.3050498
+Hounslow,2013,Industrial and Commercial,Oil,15.70641108
+Islington,2013,Industrial and Commercial,Oil,8.100359592
+Kensington and Chelsea,2013,Industrial and Commercial,Oil,1.711084475
+Kingston,2013,Industrial and Commercial,Oil,9.115578719
+Lambeth,2013,Industrial and Commercial,Oil,2.356549441
+Lewisham,2013,Industrial and Commercial,Oil,2.142300482
+Merton,2013,Industrial and Commercial,Oil,6.369725594
+Newham,2013,Industrial and Commercial,Oil,30.13458445
+Redbridge,2013,Industrial and Commercial,Oil,5.562665169
+Richmond,2013,Industrial and Commercial,Oil,5.337653964
+Southwark,2013,Industrial and Commercial,Oil,4.597255409
+Sutton,2013,Industrial and Commercial,Oil,6.432653543
+Tower Hamlets,2013,Industrial and Commercial,Oil,6.852861562
+Waltham Forest,2013,Industrial and Commercial,Oil,7.606630313
+Wandsworth,2013,Industrial and Commercial,Oil,4.625175014
+Westminster,2013,Industrial and Commercial,Oil,53.93554032
+Unapportioned,2013,Industrial and Commercial,Oil,-
+Barking and Dagenham,2013,Industrial and Commercial,Waste and Renewables,3.177968833
+Barnet,2013,Industrial and Commercial,Waste and Renewables,0
+Bexley,2013,Industrial and Commercial,Waste and Renewables,4.014736989
+Brent,2013,Industrial and Commercial,Waste and Renewables,0
+Bromley,2013,Industrial and Commercial,Waste and Renewables,0.100274354
+Camden,2013,Industrial and Commercial,Waste and Renewables,0
+City of London,2013,Industrial and Commercial,Waste and Renewables,0
+Croydon,2013,Industrial and Commercial,Waste and Renewables,0.049451499
+Ealing,2013,Industrial and Commercial,Waste and Renewables,0
+Enfield,2013,Industrial and Commercial,Waste and Renewables,3.438950062
+Greenwich,2013,Industrial and Commercial,Waste and Renewables,0
+Hackney,2013,Industrial and Commercial,Waste and Renewables,0
+Hammersmith and Fulham,2013,Industrial and Commercial,Waste and Renewables,0
+Haringey,2013,Industrial and Commercial,Waste and Renewables,0
+Harrow,2013,Industrial and Commercial,Waste and Renewables,0.000240413
+Havering,2013,Industrial and Commercial,Waste and Renewables,0.011711151
+Hillingdon,2013,Industrial and Commercial,Waste and Renewables,31.37323762
+Hounslow,2013,Industrial and Commercial,Waste and Renewables,0
+Islington,2013,Industrial and Commercial,Waste and Renewables,0
+Kensington and Chelsea,2013,Industrial and Commercial,Waste and Renewables,0
+Kingston,2013,Industrial and Commercial,Waste and Renewables,0
+Lambeth,2013,Industrial and Commercial,Waste and Renewables,0
+Lewisham,2013,Industrial and Commercial,Waste and Renewables,0
+Merton,2013,Industrial and Commercial,Waste and Renewables,0
+Newham,2013,Industrial and Commercial,Waste and Renewables,0
+Redbridge,2013,Industrial and Commercial,Waste and Renewables,0
+Richmond,2013,Industrial and Commercial,Waste and Renewables,0
+Southwark,2013,Industrial and Commercial,Waste and Renewables,0
+Sutton,2013,Industrial and Commercial,Waste and Renewables,0
+Tower Hamlets,2013,Industrial and Commercial,Waste and Renewables,1.850021017
+Waltham Forest,2013,Industrial and Commercial,Waste and Renewables,0
+Wandsworth,2013,Industrial and Commercial,Waste and Renewables,0
+Westminster,2013,Industrial and Commercial,Waste and Renewables,0
+Unapportioned,2013,Industrial and Commercial,Waste and Renewables,-
+Barking and Dagenham,2013,Transport,Aviation,0
+Barnet,2013,Transport,Aviation,0.22734169
+Bexley,2013,Transport,Aviation,7.998026899
+Brent,2013,Transport,Aviation,0.337662503
+Bromley,2013,Transport,Aviation,1.410718042
+Camden,2013,Transport,Aviation,0
+City of London,2013,Transport,Aviation,1.240653664
+Croydon,2013,Transport,Aviation,0.282968317
+Ealing,2013,Transport,Aviation,0.185746162
+Enfield,2013,Transport,Aviation,0.314082198
+Greenwich,2013,Transport,Aviation,6.422499312
+Hackney,2013,Transport,Aviation,0.112999018
+Hammersmith and Fulham,2013,Transport,Aviation,15.44070527
+Haringey,2013,Transport,Aviation,0
+Harrow,2013,Transport,Aviation,0.23930293
+Havering,2013,Transport,Aviation,2.845304872
+Hillingdon,2013,Transport,Aviation,720.341329
+Hounslow,2013,Transport,Aviation,108.4985071
+Islington,2013,Transport,Aviation,0
+Kensington and Chelsea,2013,Transport,Aviation,1.952496305
+Kingston,2013,Transport,Aviation,0
+Lambeth,2013,Transport,Aviation,0
+Lewisham,2013,Transport,Aviation,0.009124144
+Merton,2013,Transport,Aviation,0
+Newham,2013,Transport,Aviation,36.84578173
+Redbridge,2013,Transport,Aviation,0.821253253
+Richmond,2013,Transport,Aviation,45.65728995
+Southwark,2013,Transport,Aviation,1.234963871
+Sutton,2013,Transport,Aviation,0.044179489
+Tower Hamlets,2013,Transport,Aviation,12.29899653
+Waltham Forest,2013,Transport,Aviation,0.569206233
+Wandsworth,2013,Transport,Aviation,13.78859628
+Westminster,2013,Transport,Aviation,0
+Unapportioned,2013,Transport,Aviation,-
+Barking and Dagenham,2013,Transport,Shipping,0.293778308
+Barnet,2013,Transport,Shipping,0
+Bexley,2013,Transport,Shipping,0.544239365
+Brent,2013,Transport,Shipping,0
+Bromley,2013,Transport,Shipping,0
+Camden,2013,Transport,Shipping,0
+City of London,2013,Transport,Shipping,2.391073103
+Croydon,2013,Transport,Shipping,0
+Ealing,2013,Transport,Shipping,0
+Enfield,2013,Transport,Shipping,0
+Greenwich,2013,Transport,Shipping,2.423136979
+Hackney,2013,Transport,Shipping,0
+Hammersmith and Fulham,2013,Transport,Shipping,0.221784116
+Haringey,2013,Transport,Shipping,0
+Harrow,2013,Transport,Shipping,0
+Havering,2013,Transport,Shipping,0.556677736
+Hillingdon,2013,Transport,Shipping,0
+Hounslow,2013,Transport,Shipping,0.098578412
+Islington,2013,Transport,Shipping,0
+Kensington and Chelsea,2013,Transport,Shipping,0.07511355
+Kingston,2013,Transport,Shipping,0.032413093
+Lambeth,2013,Transport,Shipping,1.914645523
+Lewisham,2013,Transport,Shipping,0.013845179
+Merton,2013,Transport,Shipping,0
+Newham,2013,Transport,Shipping,1.909445632
+Redbridge,2013,Transport,Shipping,0
+Richmond,2013,Transport,Shipping,0.253935196
+Southwark,2013,Transport,Shipping,2.26232471
+Sutton,2013,Transport,Shipping,0
+Tower Hamlets,2013,Transport,Shipping,4.532691761
+Waltham Forest,2013,Transport,Shipping,0
+Wandsworth,2013,Transport,Shipping,0.172250592
+Westminster,2013,Transport,Shipping,1.160347969
+Unapportioned,2013,Transport,Shipping,-
+Barking and Dagenham,2013,Transport,Railways diesel,3.475433097
+Barnet,2013,Transport,Railways diesel,7.298304538
+Bexley,2013,Transport,Railways diesel,1.269901041
+Brent,2013,Transport,Railways diesel,9.992877076
+Bromley,2013,Transport,Railways diesel,1.397640299
+Camden,2013,Transport,Railways diesel,9.534538662
+City of London,2013,Transport,Railways diesel,0.011921472
+Croydon,2013,Transport,Railways diesel,1.994960574
+Ealing,2013,Transport,Railways diesel,23.75448167
+Enfield,2013,Transport,Railways diesel,0.978141742
+Greenwich,2013,Transport,Railways diesel,0.733272019
+Hackney,2013,Transport,Railways diesel,0.775823776
+Hammersmith and Fulham,2013,Transport,Railways diesel,4.876310997
+Haringey,2013,Transport,Railways diesel,5.128421816
+Harrow,2013,Transport,Railways diesel,4.029286461
+Havering,2013,Transport,Railways diesel,2.60183026
+Hillingdon,2013,Transport,Railways diesel,17.14898697
+Hounslow,2013,Transport,Railways diesel,0.746957952
+Islington,2013,Transport,Railways diesel,2.006856065
+Kensington and Chelsea,2013,Transport,Railways diesel,4.602137111
+Kingston,2013,Transport,Railways diesel,0.695836644
+Lambeth,2013,Transport,Railways diesel,1.462464363
+Lewisham,2013,Transport,Railways diesel,2.336630459
+Merton,2013,Transport,Railways diesel,1.14887756
+Newham,2013,Transport,Railways diesel,3.721334802
+Redbridge,2013,Transport,Railways diesel,1.212236183
+Richmond,2013,Transport,Railways diesel,0.343654396
+Southwark,2013,Transport,Railways diesel,0.983991407
+Sutton,2013,Transport,Railways diesel,0.011673533
+Tower Hamlets,2013,Transport,Railways diesel,0.185884113
+Waltham Forest,2013,Transport,Railways diesel,4.499298935
+Wandsworth,2013,Transport,Railways diesel,2.604578046
+Westminster,2013,Transport,Railways diesel,4.012615767
+Unapportioned,2013,Transport,Railways diesel,-
+Barking and Dagenham,2013,Transport,Railways electric,25.69612528
+Barnet,2013,Transport,Railways electric,43.79374853
+Bexley,2013,Transport,Railways electric,14.74351397
+Brent,2013,Transport,Railways electric,58.47252164
+Bromley,2013,Transport,Railways electric,41.44415108
+Camden,2013,Transport,Railways electric,61.28684538
+City of London,2013,Transport,Railways electric,22.79947102
+Croydon,2013,Transport,Railways electric,54.10208155
+Ealing,2013,Transport,Railways electric,32.86985615
+Enfield,2013,Transport,Railways electric,25.19017288
+Greenwich,2013,Transport,Railways electric,18.07053429
+Hackney,2013,Transport,Railways electric,13.96620793
+Hammersmith and Fulham,2013,Transport,Railways electric,24.58579852
+Haringey,2013,Transport,Railways electric,36.11518273
+Harrow,2013,Transport,Railways electric,24.71383733
+Havering,2013,Transport,Railways electric,27.71721681
+Hillingdon,2013,Transport,Railways electric,26.70670836
+Hounslow,2013,Transport,Railways electric,21.90079414
+Islington,2013,Transport,Railways electric,32.14384244
+Kensington and Chelsea,2013,Transport,Railways electric,28.95431863
+Kingston,2013,Transport,Railways electric,14.83005425
+Lambeth,2013,Transport,Railways electric,63.44337915
+Lewisham,2013,Transport,Railways electric,38.58817719
+Merton,2013,Transport,Railways electric,32.95045772
+Newham,2013,Transport,Railways electric,56.97186235
+Redbridge,2013,Transport,Railways electric,24.41481622
+Richmond,2013,Transport,Railways electric,17.42649492
+Southwark,2013,Transport,Railways electric,39.36246999
+Sutton,2013,Transport,Railways electric,7.039568231
+Tower Hamlets,2013,Transport,Railways electric,50.20562817
+Waltham Forest,2013,Transport,Railways electric,16.96205609
+Wandsworth,2013,Transport,Railways electric,74.82464639
+Westminster,2013,Transport,Railways electric,77.7287208
+Unapportioned,2013,Transport,Railways electric,49.59856987
+Barking and Dagenham,2013,Transport,Road Transport,136.2881588
+Barnet,2013,Transport,Road Transport,373.1827747
+Bexley,2013,Transport,Road Transport,183.45089
+Brent,2013,Transport,Road Transport,198.8383529
+Bromley,2013,Transport,Road Transport,249.7036694
+Camden,2013,Transport,Road Transport,153.776865
+City of London,2013,Transport,Road Transport,48.54743253
+Croydon,2013,Transport,Road Transport,230.8067557
+Ealing,2013,Transport,Road Transport,277.3934238
+Enfield,2013,Transport,Road Transport,366.3274863
+Greenwich,2013,Transport,Road Transport,206.9504959
+Hackney,2013,Transport,Road Transport,121.1552863
+Hammersmith and Fulham,2013,Transport,Road Transport,105.6176196
+Haringey,2013,Transport,Road Transport,130.0695659
+Harrow,2013,Transport,Road Transport,134.5610421
+Havering,2013,Transport,Road Transport,336.7768533
+Hillingdon,2013,Transport,Road Transport,392.3346405
+Hounslow,2013,Transport,Road Transport,282.3583575
+Islington,2013,Transport,Road Transport,96.48472647
+Kensington and Chelsea,2013,Transport,Road Transport,112.3760602
+Kingston,2013,Transport,Road Transport,161.5861169
+Lambeth,2013,Transport,Road Transport,165.6161839
+Lewisham,2013,Transport,Road Transport,155.0089881
+Merton,2013,Transport,Road Transport,136.0375114
+Newham,2013,Transport,Road Transport,175.2632833
+Redbridge,2013,Transport,Road Transport,241.9206242
+Richmond,2013,Transport,Road Transport,160.200275
+Southwark,2013,Transport,Road Transport,164.7403958
+Sutton,2013,Transport,Road Transport,108.8458604
+Tower Hamlets,2013,Transport,Road Transport,158.8873022
+Waltham Forest,2013,Transport,Road Transport,165.9244856
+Wandsworth,2013,Transport,Road Transport,170.1217484
+Westminster,2013,Transport,Road Transport,255.2435713
+Unapportioned,2013,Transport,Road Transport,-
+Barking and Dagenham,2012,Domestic,Electricity,136.5475913
+Barnet,2012,Domestic,Electricity,317.2644494
+Bexley,2012,Domestic,Electricity,194.4181903
+Brent,2012,Domestic,Electricity,217.3212732
+Bromley,2012,Domestic,Electricity,286.2841545
+Camden,2012,Domestic,Electricity,178.8735505
+City of London,2012,Domestic,Electricity,13.16890868
+Croydon,2012,Domestic,Electricity,304.6556659
+Ealing,2012,Domestic,Electricity,245.3070994
+Enfield,2012,Domestic,Electricity,254.8422452
+Greenwich,2012,Domestic,Electricity,188.2678385
+Hackney,2012,Domestic,Electricity,173.757531
+Hammersmith and Fulham,2012,Domestic,Electricity,143.8575015
+Haringey,2012,Domestic,Electricity,187.1077562
+Harrow,2012,Domestic,Electricity,179.6317267
+Havering,2012,Domestic,Electricity,207.5111763
+Hillingdon,2012,Domestic,Electricity,217.460837
+Hounslow,2012,Domestic,Electricity,194.6568857
+Islington,2012,Domestic,Electricity,161.0506937
+Kensington and Chelsea,2012,Domestic,Electricity,191.3576902
+Kingston,2012,Domestic,Electricity,138.8225445
+Lambeth,2012,Domestic,Electricity,224.2827359
+Lewisham,2012,Domestic,Electricity,211.6269023
+Merton,2012,Domestic,Electricity,161.0318225
+Newham,2012,Domestic,Electricity,190.0816812
+Redbridge,2012,Domestic,Electricity,207.3681402
+Richmond,2012,Domestic,Electricity,174.793081
+Southwark,2012,Domestic,Electricity,227.0116578
+Sutton,2012,Domestic,Electricity,170.4386968
+Tower Hamlets,2012,Domestic,Electricity,203.0515305
+Waltham Forest,2012,Domestic,Electricity,180.9028017
+Wandsworth,2012,Domestic,Electricity,252.9528576
+Westminster,2012,Domestic,Electricity,249.4630075
+Unapportioned,2012,Domestic,Electricity,-
+Barking and Dagenham,2012,Domestic,Gas,148.8970814
+Barnet,2012,Domestic,Gas,437.9875678
+Bexley,2012,Domestic,Gas,251.51675
+Brent,2012,Domestic,Gas,307.3835519
+Bromley,2012,Domestic,Gas,410.6011965
+Camden,2012,Domestic,Gas,193.8239955
+City of London,2012,Domestic,Gas,6.218773127
+Croydon,2012,Domestic,Gas,407.7141716
+Ealing,2012,Domestic,Gas,337.4995954
+Enfield,2012,Domestic,Gas,313.6487808
+Greenwich,2012,Domestic,Gas,230.1545026
+Hackney,2012,Domestic,Gas,197.733491
+Hammersmith and Fulham,2012,Domestic,Gas,179.3169683
+Haringey,2012,Domestic,Gas,256.8492183
+Harrow,2012,Domestic,Gas,281.6828708
+Havering,2012,Domestic,Gas,273.6230548
+Hillingdon,2012,Domestic,Gas,288.2690482
+Hounslow,2012,Domestic,Gas,233.4104603
+Islington,2012,Domestic,Gas,184.8879783
+Kensington and Chelsea,2012,Domestic,Gas,178.9184658
+Kingston,2012,Domestic,Gas,179.485004
+Lambeth,2012,Domestic,Gas,282.1111192
+Lewisham,2012,Domestic,Gas,267.5043424
+Merton,2012,Domestic,Gas,214.1299979
+Newham,2012,Domestic,Gas,218.4323919
+Redbridge,2012,Domestic,Gas,289.4587818
+Richmond,2012,Domestic,Gas,241.9330227
+Southwark,2012,Domestic,Gas,210.9353225
+Sutton,2012,Domestic,Gas,209.9985791
+Tower Hamlets,2012,Domestic,Gas,143.0057846
+Waltham Forest,2012,Domestic,Gas,242.2192798
+Wandsworth,2012,Domestic,Gas,308.7742378
+Westminster,2012,Domestic,Gas,198.0117758
+Unapportioned,2012,Domestic,Gas,-
+Barking and Dagenham,2012,Domestic,Coal,1.622223343
+Barnet,2012,Domestic,Coal,1.270082178
+Bexley,2012,Domestic,Coal,1.119729771
+Brent,2012,Domestic,Coal,0.728022183
+Bromley,2012,Domestic,Coal,2.389811949
+Camden,2012,Domestic,Coal,0.621192841
+City of London,2012,Domestic,Coal,0
+Croydon,2012,Domestic,Coal,2.290895892
+Ealing,2012,Domestic,Coal,1.998104362
+Enfield,2012,Domestic,Coal,1.954581296
+Greenwich,2012,Domestic,Coal,1.206775902
+Hackney,2012,Domestic,Coal,0.846721452
+Hammersmith and Fulham,2012,Domestic,Coal,0.352141165
+Haringey,2012,Domestic,Coal,0.866504664
+Harrow,2012,Domestic,Coal,0.767588606
+Havering,2012,Domestic,Coal,3.833986389
+Hillingdon,2012,Domestic,Coal,1.946668012
+Hounslow,2012,Domestic,Coal,1.487697505
+Islington,2012,Domestic,Coal,0.502493572
+Kensington and Chelsea,2012,Domestic,Coal,0.546016637
+Kingston,2012,Domestic,Coal,1.076206706
+Lambeth,2012,Domestic,Coal,0.898157802
+Lewisham,2012,Domestic,Coal,1.345258382
+Merton,2012,Domestic,Coal,0.822981598
+Newham,2012,Domestic,Coal,1.333388455
+Redbridge,2012,Domestic,Coal,1.293822032
+Richmond,2012,Domestic,Coal,1.400651374
+Southwark,2012,Domestic,Coal,0.708238972
+Sutton,2012,Domestic,Coal,1.816098816
+Tower Hamlets,2012,Domestic,Coal,0.751762037
+Waltham Forest,2012,Domestic,Coal,1.539133855
+Wandsworth,2012,Domestic,Coal,0.672629191
+Westminster,2012,Domestic,Coal,0.811111672
+Unapportioned,2012,Domestic,Coal,-
+Barking and Dagenham,2012,Domestic,Oil,0.691369308
+Barnet,2012,Domestic,Oil,2.381024205
+Bexley,2012,Domestic,Oil,1.625040943
+Brent,2012,Domestic,Oil,1.37627722
+Bromley,2012,Domestic,Oil,3.870375845
+Camden,2012,Domestic,Oil,2.645941416
+City of London,2012,Domestic,Oil,0.109843722
+Croydon,2012,Domestic,Oil,2.42948467
+Ealing,2012,Domestic,Oil,1.767191642
+Enfield,2012,Domestic,Oil,1.712269781
+Greenwich,2012,Domestic,Oil,1.211511638
+Hackney,2012,Domestic,Oil,0.80121303
+Hammersmith and Fulham,2012,Domestic,Oil,0.972440008
+Haringey,2012,Domestic,Oil,0.846442797
+Harrow,2012,Domestic,Oil,1.46027536
+Havering,2012,Domestic,Oil,2.125799087
+Hillingdon,2012,Domestic,Oil,2.519944206
+Hounslow,2012,Domestic,Oil,1.864112573
+Islington,2012,Domestic,Oil,0.804443727
+Kensington and Chelsea,2012,Domestic,Oil,2.578096765
+Kingston,2012,Domestic,Oil,0.933671635
+Lambeth,2012,Domestic,Oil,1.589503268
+Lewisham,2012,Domestic,Oil,1.091975823
+Merton,2012,Domestic,Oil,1.195358149
+Newham,2012,Domestic,Oil,0.458759073
+Redbridge,2012,Domestic,Oil,1.285817685
+Richmond,2012,Domestic,Oil,1.802729317
+Southwark,2012,Domestic,Oil,1.670270711
+Sutton,2012,Domestic,Oil,1.402122802
+Tower Hamlets,2012,Domestic,Oil,1.224434428
+Waltham Forest,2012,Domestic,Oil,0.77213675
+Wandsworth,2012,Domestic,Oil,1.463506058
+Westminster,2012,Domestic,Oil,3.734686541
+Unapportioned,2012,Domestic,Oil,-
+Barking and Dagenham,2012,Industrial and Commercial,Electricity w/o rail,193.1685202
+Barnet,2012,Industrial and Commercial,Electricity w/o rail,223.6853607
+Bexley,2012,Industrial and Commercial,Electricity w/o rail,182.2544807
+Brent,2012,Industrial and Commercial,Electricity w/o rail,341.7701495
+Bromley,2012,Industrial and Commercial,Electricity w/o rail,174.4950028
+Camden,2012,Industrial and Commercial,Electricity w/o rail,645.389614
+City of London,2012,Industrial and Commercial,Electricity w/o rail,1192.370394
+Croydon,2012,Industrial and Commercial,Electricity w/o rail,285.6431199
+Ealing,2012,Industrial and Commercial,Electricity w/o rail,428.366548
+Enfield,2012,Industrial and Commercial,Electricity w/o rail,240.1894257
+Greenwich,2012,Industrial and Commercial,Electricity w/o rail,188.2633353
+Hackney,2012,Industrial and Commercial,Electricity w/o rail,262.6253571
+Hammersmith and Fulham,2012,Industrial and Commercial,Electricity w/o rail,333.2764733
+Haringey,2012,Industrial and Commercial,Electricity w/o rail,164.2746373
+Harrow,2012,Industrial and Commercial,Electricity w/o rail,97.98945857
+Havering,2012,Industrial and Commercial,Electricity w/o rail,168.1834225
+Hillingdon,2012,Industrial and Commercial,Electricity w/o rail,521.8273781
+Hounslow,2012,Industrial and Commercial,Electricity w/o rail,475.0712153
+Islington,2012,Industrial and Commercial,Electricity w/o rail,437.193606
+Kensington and Chelsea,2012,Industrial and Commercial,Electricity w/o rail,529.4636159
+Kingston,2012,Industrial and Commercial,Electricity w/o rail,138.3425228
+Lambeth,2012,Industrial and Commercial,Electricity w/o rail,274.4332853
+Lewisham,2012,Industrial and Commercial,Electricity w/o rail,122.3863546
+Merton,2012,Industrial and Commercial,Electricity w/o rail,192.2062574
+Newham,2012,Industrial and Commercial,Electricity w/o rail,483.5364878
+Redbridge,2012,Industrial and Commercial,Electricity w/o rail,113.8993687
+Richmond,2012,Industrial and Commercial,Electricity w/o rail,154.8657091
+Southwark,2012,Industrial and Commercial,Electricity w/o rail,554.3150788
+Sutton,2012,Industrial and Commercial,Electricity w/o rail,179.2909215
+Tower Hamlets,2012,Industrial and Commercial,Electricity w/o rail,1293.68311
+Waltham Forest,2012,Industrial and Commercial,Electricity w/o rail,160.667306
+Wandsworth,2012,Industrial and Commercial,Electricity w/o rail,154.8126543
+Westminster,2012,Industrial and Commercial,Electricity w/o rail,1667.507353
+Unapportioned,2012,Industrial and Commercial,Electricity w/o rail,-
+Barking and Dagenham,2012,Industrial and Commercial,Gas,42.85286224
+Barnet,2012,Industrial and Commercial,Gas,106.7064076
+Bexley,2012,Industrial and Commercial,Gas,142.4013907
+Brent,2012,Industrial and Commercial,Gas,104.3902016
+Bromley,2012,Industrial and Commercial,Gas,78.69407763
+Camden,2012,Industrial and Commercial,Gas,286.3723597
+City of London,2012,Industrial and Commercial,Gas,151.0238379
+Croydon,2012,Industrial and Commercial,Gas,90.05186405
+Ealing,2012,Industrial and Commercial,Gas,144.2761557
+Enfield,2012,Industrial and Commercial,Gas,99.87561779
+Greenwich,2012,Industrial and Commercial,Gas,144.5376438
+Hackney,2012,Industrial and Commercial,Gas,60.65007097
+Hammersmith and Fulham,2012,Industrial and Commercial,Gas,119.470514
+Haringey,2012,Industrial and Commercial,Gas,64.6485298
+Harrow,2012,Industrial and Commercial,Gas,98.98522986
+Havering,2012,Industrial and Commercial,Gas,49.26167986
+Hillingdon,2012,Industrial and Commercial,Gas,193.6493305
+Hounslow,2012,Industrial and Commercial,Gas,127.477197
+Islington,2012,Industrial and Commercial,Gas,122.9327175
+Kensington and Chelsea,2012,Industrial and Commercial,Gas,217.9269396
+Kingston,2012,Industrial and Commercial,Gas,49.40805008
+Lambeth,2012,Industrial and Commercial,Gas,156.0003521
+Lewisham,2012,Industrial and Commercial,Gas,54.03853606
+Merton,2012,Industrial and Commercial,Gas,62.54585634
+Newham,2012,Industrial and Commercial,Gas,198.3671013
+Redbridge,2012,Industrial and Commercial,Gas,50.47921183
+Richmond,2012,Industrial and Commercial,Gas,69.10774162
+Southwark,2012,Industrial and Commercial,Gas,191.853019
+Sutton,2012,Industrial and Commercial,Gas,48.02879566
+Tower Hamlets,2012,Industrial and Commercial,Gas,142.1965222
+Waltham Forest,2012,Industrial and Commercial,Gas,64.41044319
+Wandsworth,2012,Industrial and Commercial,Gas,118.2593896
+Westminster,2012,Industrial and Commercial,Gas,528.8830753
+Unapportioned,2012,Industrial and Commercial,Gas,31.05501194
+Barking and Dagenham,2012,Industrial and Commercial,Coal,3.136387239
+Barnet,2012,Industrial and Commercial,Coal,0.999105853
+Bexley,2012,Industrial and Commercial,Coal,0.947869656
+Brent,2012,Industrial and Commercial,Coal,0
+Bromley,2012,Industrial and Commercial,Coal,0.153708593
+Camden,2012,Industrial and Commercial,Coal,0
+City of London,2012,Industrial and Commercial,Coal,0.014638914
+Croydon,2012,Industrial and Commercial,Coal,0.351333926
+Ealing,2012,Industrial and Commercial,Coal,0.289118544
+Enfield,2012,Industrial and Commercial,Coal,0.106132124
+Greenwich,2012,Industrial and Commercial,Coal,1.196731187
+Hackney,2012,Industrial and Commercial,Coal,0.09149321
+Hammersmith and Fulham,2012,Industrial and Commercial,Coal,0
+Haringey,2012,Industrial and Commercial,Coal,0.025618099
+Harrow,2012,Industrial and Commercial,Coal,0.146389136
+Havering,2012,Industrial and Commercial,Coal,1.687134792
+Hillingdon,2012,Industrial and Commercial,Coal,3.798798079
+Hounslow,2012,Industrial and Commercial,Coal,0
+Islington,2012,Industrial and Commercial,Coal,0.065875111
+Kensington and Chelsea,2012,Industrial and Commercial,Coal,0.040257012
+Kingston,2012,Industrial and Commercial,Coal,0.029277827
+Lambeth,2012,Industrial and Commercial,Coal,0
+Lewisham,2012,Industrial and Commercial,Coal,0
+Merton,2012,Industrial and Commercial,Coal,0.036597284
+Newham,2012,Industrial and Commercial,Coal,3.75122161
+Redbridge,2012,Industrial and Commercial,Coal,2.828970053
+Richmond,2012,Industrial and Commercial,Coal,0
+Southwark,2012,Industrial and Commercial,Coal,0.062215383
+Sutton,2012,Industrial and Commercial,Coal,0
+Tower Hamlets,2012,Industrial and Commercial,Coal,0.120771037
+Waltham Forest,2012,Industrial and Commercial,Coal,0.219583704
+Wandsworth,2012,Industrial and Commercial,Coal,0
+Westminster,2012,Industrial and Commercial,Coal,0.036597284
+Unapportioned,2012,Industrial and Commercial,Coal,-
+Barking and Dagenham,2012,Industrial and Commercial,Oil,40.07465051
+Barnet,2012,Industrial and Commercial,Oil,9.896207974
+Bexley,2012,Industrial and Commercial,Oil,26.9930616
+Brent,2012,Industrial and Commercial,Oil,22.97467702
+Bromley,2012,Industrial and Commercial,Oil,21.57385818
+Camden,2012,Industrial and Commercial,Oil,10.2643519
+City of London,2012,Industrial and Commercial,Oil,3.179141212
+Croydon,2012,Industrial and Commercial,Oil,11.65581116
+Ealing,2012,Industrial and Commercial,Oil,29.83213766
+Enfield,2012,Industrial and Commercial,Oil,25.21161937
+Greenwich,2012,Industrial and Commercial,Oil,9.91804702
+Hackney,2012,Industrial and Commercial,Oil,5.781107621
+Hammersmith and Fulham,2012,Industrial and Commercial,Oil,10.07092035
+Haringey,2012,Industrial and Commercial,Oil,8.083567106
+Harrow,2012,Industrial and Commercial,Oil,7.103929873
+Havering,2012,Industrial and Commercial,Oil,15.95810334
+Hillingdon,2012,Industrial and Commercial,Oil,109.0922775
+Hounslow,2012,Industrial and Commercial,Oil,20.55990244
+Islington,2012,Industrial and Commercial,Oil,7.805899228
+Kensington and Chelsea,2012,Industrial and Commercial,Oil,2.439733492
+Kingston,2012,Industrial and Commercial,Oil,4.676675836
+Lambeth,2012,Industrial and Commercial,Oil,3.796874245
+Lewisham,2012,Industrial and Commercial,Oil,5.559597292
+Merton,2012,Industrial and Commercial,Oil,10.07092035
+Newham,2012,Industrial and Commercial,Oil,29.37351768
+Redbridge,2012,Industrial and Commercial,Oil,6.835621586
+Richmond,2012,Industrial and Commercial,Oil,7.721662905
+Southwark,2012,Industrial and Commercial,Oil,6.040056317
+Sutton,2012,Industrial and Commercial,Oil,12.61048948
+Tower Hamlets,2012,Industrial and Commercial,Oil,7.546950532
+Waltham Forest,2012,Industrial and Commercial,Oil,12.65416757
+Wandsworth,2012,Industrial and Commercial,Oil,6.389481062
+Westminster,2012,Industrial and Commercial,Oil,13.72116099
+Unapportioned,2012,Industrial and Commercial,Oil,-
+Barking and Dagenham,2012,Industrial and Commercial,Waste and Renewables,0
+Barnet,2012,Industrial and Commercial,Waste and Renewables,0
+Bexley,2012,Industrial and Commercial,Waste and Renewables,3.524875971
+Brent,2012,Industrial and Commercial,Waste and Renewables,0
+Bromley,2012,Industrial and Commercial,Waste and Renewables,0.0725947
+Camden,2012,Industrial and Commercial,Waste and Renewables,0
+City of London,2012,Industrial and Commercial,Waste and Renewables,0
+Croydon,2012,Industrial and Commercial,Waste and Renewables,0.027424664
+Ealing,2012,Industrial and Commercial,Waste and Renewables,0
+Enfield,2012,Industrial and Commercial,Waste and Renewables,3.10866636
+Greenwich,2012,Industrial and Commercial,Waste and Renewables,0
+Hackney,2012,Industrial and Commercial,Waste and Renewables,0
+Hammersmith and Fulham,2012,Industrial and Commercial,Waste and Renewables,0
+Haringey,2012,Industrial and Commercial,Waste and Renewables,0
+Harrow,2012,Industrial and Commercial,Waste and Renewables,0
+Havering,2012,Industrial and Commercial,Waste and Renewables,0.003226431
+Hillingdon,2012,Industrial and Commercial,Waste and Renewables,26.52932968
+Hounslow,2012,Industrial and Commercial,Waste and Renewables,1.343808551
+Islington,2012,Industrial and Commercial,Waste and Renewables,0
+Kensington and Chelsea,2012,Industrial and Commercial,Waste and Renewables,0
+Kingston,2012,Industrial and Commercial,Waste and Renewables,0
+Lambeth,2012,Industrial and Commercial,Waste and Renewables,0
+Lewisham,2012,Industrial and Commercial,Waste and Renewables,0
+Merton,2012,Industrial and Commercial,Waste and Renewables,0
+Newham,2012,Industrial and Commercial,Waste and Renewables,0
+Redbridge,2012,Industrial and Commercial,Waste and Renewables,0
+Richmond,2012,Industrial and Commercial,Waste and Renewables,0
+Southwark,2012,Industrial and Commercial,Waste and Renewables,0
+Sutton,2012,Industrial and Commercial,Waste and Renewables,0
+Tower Hamlets,2012,Industrial and Commercial,Waste and Renewables,1.108279081
+Waltham Forest,2012,Industrial and Commercial,Waste and Renewables,0
+Wandsworth,2012,Industrial and Commercial,Waste and Renewables,0
+Westminster,2012,Industrial and Commercial,Waste and Renewables,0
+Unapportioned,2012,Industrial and Commercial,Waste and Renewables,-
+Barking and Dagenham,2012,Transport,Aviation,0
+Barnet,2012,Transport,Aviation,0.22499158
+Bexley,2012,Transport,Aviation,7.579761456
+Brent,2012,Transport,Aviation,0.322564002
+Bromley,2012,Transport,Aviation,1.41119564
+Camden,2012,Transport,Aviation,0
+City of London,2012,Transport,Aviation,1.174656676
+Croydon,2012,Transport,Aviation,0.283064115
+Ealing,2012,Transport,Aviation,0.16597503
+Enfield,2012,Transport,Aviation,0.300234181
+Greenwich,2012,Transport,Aviation,6.078590646
+Hackney,2012,Transport,Aviation,0.107406571
+Hammersmith and Fulham,2012,Transport,Aviation,13.7971708
+Haringey,2012,Transport,Aviation,0
+Harrow,2012,Transport,Aviation,0.239383946
+Havering,2012,Transport,Aviation,2.695768551
+Hillingdon,2012,Transport,Aviation,650.8242279
+Hounslow,2012,Transport,Aviation,94.50651197
+Islington,2012,Transport,Aviation,0
+Kensington and Chelsea,2012,Transport,Aviation,1.744669336
+Kingston,2012,Transport,Aviation,0
+Lambeth,2012,Transport,Aviation,0
+Lewisham,2012,Transport,Aviation,0.00867258
+Merton,2012,Transport,Aviation,0
+Newham,2012,Transport,Aviation,34.35846877
+Redbridge,2012,Transport,Aviation,0.781032198
+Richmond,2012,Transport,Aviation,40.23768176
+Southwark,2012,Transport,Aviation,1.164580766
+Sutton,2012,Transport,Aviation,0.044194445
+Tower Hamlets,2012,Transport,Aviation,0.00061721
+Waltham Forest,2012,Transport,Aviation,0.757644913
+Wandsworth,2012,Transport,Aviation,12.33024414
+Westminster,2012,Transport,Aviation,0
+Unapportioned,2012,Transport,Aviation,-
+Barking and Dagenham,2012,Transport,Shipping,0.293778308
+Barnet,2012,Transport,Shipping,0
+Bexley,2012,Transport,Shipping,0.544239365
+Brent,2012,Transport,Shipping,0
+Bromley,2012,Transport,Shipping,0
+Camden,2012,Transport,Shipping,0
+City of London,2012,Transport,Shipping,2.451225323
+Croydon,2012,Transport,Shipping,1.158165432
+Ealing,2012,Transport,Shipping,0
+Enfield,2012,Transport,Shipping,0
+Greenwich,2012,Transport,Shipping,0.324060648
+Hackney,2012,Transport,Shipping,2.216593596
+Hammersmith and Fulham,2012,Transport,Shipping,0.01044974
+Haringey,2012,Transport,Shipping,0.216468994
+Harrow,2012,Transport,Shipping,0
+Havering,2012,Transport,Shipping,0.556677736
+Hillingdon,2012,Transport,Shipping,0
+Hounslow,2012,Transport,Shipping,0
+Islington,2012,Transport,Shipping,0.107684083
+Kensington and Chelsea,2012,Transport,Shipping,0.005091062
+Kingston,2012,Transport,Shipping,0.070466036
+Lambeth,2012,Transport,Shipping,0.057792654
+Lewisham,2012,Transport,Shipping,1.922473337
+Merton,2012,Transport,Shipping,0
+Newham,2012,Transport,Shipping,0.198184393
+Redbridge,2012,Transport,Shipping,1.830045437
+Richmond,2012,Transport,Shipping,0
+Southwark,2012,Transport,Shipping,0.360462221
+Sutton,2012,Transport,Shipping,2.217137348
+Tower Hamlets,2012,Transport,Shipping,0.124763997
+Waltham Forest,2012,Transport,Shipping,4.509016982
+Wandsworth,2012,Transport,Shipping,0.016083279
+Westminster,2012,Transport,Shipping,0.177314209
+Unapportioned,2012,Transport,Shipping,-
+Barking and Dagenham,2012,Transport,Railways diesel,3.147010376
+Barnet,2012,Transport,Railways diesel,6.499300709
+Bexley,2012,Transport,Railways diesel,1.149897478
+Brent,2012,Transport,Railways diesel,8.774775882
+Bromley,2012,Transport,Railways diesel,1.265565585
+Camden,2012,Transport,Railways diesel,8.427626564
+City of London,2012,Transport,Railways diesel,0.010794913
+Croydon,2012,Transport,Railways diesel,1.806440076
+Ealing,2012,Transport,Railways diesel,21.75708299
+Enfield,2012,Transport,Railways diesel,0.846621183
+Greenwich,2012,Transport,Railways diesel,0.663979018
+Hackney,2012,Transport,Railways diesel,0.702484814
+Hammersmith and Fulham,2012,Transport,Railways diesel,4.458165757
+Haringey,2012,Transport,Railways diesel,3.912250912
+Harrow,2012,Transport,Railways diesel,3.569959526
+Havering,2012,Transport,Railways diesel,2.355961573
+Hillingdon,2012,Transport,Railways diesel,15.39230842
+Hounslow,2012,Transport,Railways diesel,0.676371652
+Islington,2012,Transport,Railways diesel,1.5679355
+Kensington and Chelsea,2012,Transport,Railways diesel,4.225335862
+Kingston,2012,Transport,Railways diesel,0.630081223
+Lambeth,2012,Transport,Railways diesel,1.324263882
+Lewisham,2012,Transport,Railways diesel,2.115822718
+Merton,2012,Transport,Railways diesel,1.040310518
+Newham,2012,Transport,Railways diesel,3.13758104
+Redbridge,2012,Transport,Railways diesel,1.097681854
+Richmond,2012,Transport,Railways diesel,0.31117962
+Southwark,2012,Transport,Railways diesel,0.891005834
+Sutton,2012,Transport,Railways diesel,0.010570403
+Tower Hamlets,2012,Transport,Railways diesel,0.16831837
+Waltham Forest,2012,Transport,Railways diesel,3.244302588
+Wandsworth,2012,Transport,Railways diesel,2.358449697
+Westminster,2012,Transport,Railways diesel,3.634069863
+Unapportioned,2012,Transport,Railways diesel,-
+Barking and Dagenham,2012,Transport,Railways electric,25.27152026
+Barnet,2012,Transport,Railways electric,41.39932148
+Bexley,2012,Transport,Railways electric,18.00746379
+Brent,2012,Transport,Railways electric,69.09936524
+Bromley,2012,Transport,Railways electric,49.72888857
+Camden,2012,Transport,Railways electric,61.18219248
+City of London,2012,Transport,Railways electric,19.12360534
+Croydon,2012,Transport,Railways electric,63.00986409
+Ealing,2012,Transport,Railways electric,31.04554975
+Enfield,2012,Transport,Railways electric,27.02064528
+Greenwich,2012,Transport,Railways electric,19.3469172
+Hackney,2012,Transport,Railways electric,15.98549204
+Hammersmith and Fulham,2012,Transport,Railways electric,25.4321249
+Haringey,2012,Transport,Railways electric,35.82828494
+Harrow,2012,Transport,Railways electric,26.77431647
+Havering,2012,Transport,Railways electric,30.39406435
+Hillingdon,2012,Transport,Railways electric,23.08043167
+Hounslow,2012,Transport,Railways electric,21.78739763
+Islington,2012,Transport,Railways electric,31.29752683
+Kensington and Chelsea,2012,Transport,Railways electric,24.76781619
+Kingston,2012,Transport,Railways electric,18.21187896
+Lambeth,2012,Transport,Railways electric,61.84353119
+Lewisham,2012,Transport,Railways electric,45.98783213
+Merton,2012,Transport,Railways electric,36.51368909
+Newham,2012,Transport,Railways electric,54.00888129
+Redbridge,2012,Transport,Railways electric,23.31012787
+Richmond,2012,Transport,Railways electric,23.65406205
+Southwark,2012,Transport,Railways electric,41.43971931
+Sutton,2012,Transport,Railways electric,8.08819052
+Tower Hamlets,2012,Transport,Railways electric,45.72299606
+Waltham Forest,2012,Transport,Railways electric,16.19836692
+Wandsworth,2012,Transport,Railways electric,85.21744986
+Westminster,2012,Transport,Railways electric,64.71501208
+Unapportioned,2012,Transport,Railways electric,-
+Barking and Dagenham,2012,Transport,Road Transport,134.0141344
+Barnet,2012,Transport,Road Transport,374.2197153
+Bexley,2012,Transport,Road Transport,181.4564459
+Brent,2012,Transport,Road Transport,200.670595
+Bromley,2012,Transport,Road Transport,246.9776735
+Camden,2012,Transport,Road Transport,158.2182146
+City of London,2012,Transport,Road Transport,48.42569621
+Croydon,2012,Transport,Road Transport,227.7015204
+Ealing,2012,Transport,Road Transport,277.1821057
+Enfield,2012,Transport,Road Transport,362.4278309
+Greenwich,2012,Transport,Road Transport,208.8521412
+Hackney,2012,Transport,Road Transport,125.6911398
+Hammersmith and Fulham,2012,Transport,Road Transport,110.1548589
+Haringey,2012,Transport,Road Transport,135.2786396
+Harrow,2012,Transport,Road Transport,133.1858292
+Havering,2012,Transport,Road Transport,330.4598458
+Hillingdon,2012,Transport,Road Transport,388.5742524
+Hounslow,2012,Transport,Road Transport,281.0284626
+Islington,2012,Transport,Road Transport,99.26722461
+Kensington and Chelsea,2012,Transport,Road Transport,115.4677739
+Kingston,2012,Transport,Road Transport,160.9061249
+Lambeth,2012,Transport,Road Transport,169.5701458
+Lewisham,2012,Transport,Road Transport,159.1750254
+Merton,2012,Transport,Road Transport,134.2574952
+Newham,2012,Transport,Road Transport,182.580051
+Redbridge,2012,Transport,Road Transport,243.2372624
+Richmond,2012,Transport,Road Transport,159.6831857
+Southwark,2012,Transport,Road Transport,169.5751105
+Sutton,2012,Transport,Road Transport,107.5012731
+Tower Hamlets,2012,Transport,Road Transport,165.1387934
+Waltham Forest,2012,Transport,Road Transport,169.3806358
+Wandsworth,2012,Transport,Road Transport,173.3149694
+Westminster,2012,Transport,Road Transport,258.6086106
+Unapportioned,2012,Transport,Road Transport,-
+Barking and Dagenham,2011,Domestic,Electricity,138.596063
+Barnet,2011,Domestic,Electricity,316.4611381
+Bexley,2011,Domestic,Electricity,195.2370068
+Brent,2011,Domestic,Electricity,215.6259212
+Bromley,2011,Domestic,Electricity,286.9283121
+Camden,2011,Domestic,Electricity,178.3783935
+City of London,2011,Domestic,Electricity,12.54587416
+Croydon,2011,Domestic,Electricity,303.6426507
+Ealing,2011,Domestic,Electricity,244.2106886
+Enfield,2011,Domestic,Electricity,254.9200347
+Greenwich,2011,Domestic,Electricity,189.1793777
+Hackney,2011,Domestic,Electricity,174.0358963
+Hammersmith and Fulham,2011,Domestic,Electricity,142.7960292
+Haringey,2011,Domestic,Electricity,189.7882744
+Harrow,2011,Domestic,Electricity,180.5567351
+Havering,2011,Domestic,Electricity,208.5300436
+Hillingdon,2011,Domestic,Electricity,216.8988847
+Hounslow,2011,Domestic,Electricity,193.7863844
+Islington,2011,Domestic,Electricity,158.7254031
+Kensington and Chelsea,2011,Domestic,Electricity,188.568356
+Kingston,2011,Domestic,Electricity,137.1584002
+Lambeth,2011,Domestic,Electricity,223.4935583
+Lewisham,2011,Domestic,Electricity,210.7382837
+Merton,2011,Domestic,Electricity,160.3378839
+Newham,2011,Domestic,Electricity,189.3683725
+Redbridge,2011,Domestic,Electricity,207.5533658
+Richmond,2011,Domestic,Electricity,173.5455774
+Southwark,2011,Domestic,Electricity,226.7638835
+Sutton,2011,Domestic,Electricity,169.9933898
+Tower Hamlets,2011,Domestic,Electricity,197.11318
+Waltham Forest,2011,Domestic,Electricity,181.4714344
+Wandsworth,2011,Domestic,Electricity,249.5128638
+Westminster,2011,Domestic,Electricity,245.7344508
+Unapportioned,2011,Domestic,Electricity,-
+Barking and Dagenham,2011,Domestic,Gas,136.986029
+Barnet,2011,Domestic,Gas,399.0219232
+Bexley,2011,Domestic,Gas,227.4229944
+Brent,2011,Domestic,Gas,282.7408295
+Bromley,2011,Domestic,Gas,370.5594889
+Camden,2011,Domestic,Gas,178.2780525
+City of London,2011,Domestic,Gas,5.960543788
+Croydon,2011,Domestic,Gas,371.5721207
+Ealing,2011,Domestic,Gas,308.5232019
+Enfield,2011,Domestic,Gas,284.9098171
+Greenwich,2011,Domestic,Gas,210.4664329
+Hackney,2011,Domestic,Gas,182.7220591
+Hammersmith and Fulham,2011,Domestic,Gas,165.0869891
+Haringey,2011,Domestic,Gas,236.7942534
+Harrow,2011,Domestic,Gas,256.795834
+Havering,2011,Domestic,Gas,248.1791703
+Hillingdon,2011,Domestic,Gas,261.2168382
+Hounslow,2011,Domestic,Gas,213.0075759
+Islington,2011,Domestic,Gas,170.4508983
+Kensington and Chelsea,2011,Domestic,Gas,165.7059541
+Kingston,2011,Domestic,Gas,162.4562702
+Lambeth,2011,Domestic,Gas,259.4436894
+Lewisham,2011,Domestic,Gas,245.6482645
+Merton,2011,Domestic,Gas,195.2647355
+Newham,2011,Domestic,Gas,204.0271399
+Redbridge,2011,Domestic,Gas,263.8835871
+Richmond,2011,Domestic,Gas,219.1285262
+Southwark,2011,Domestic,Gas,194.7829367
+Sutton,2011,Domestic,Gas,189.96758
+Tower Hamlets,2011,Domestic,Gas,133.0592528
+Waltham Forest,2011,Domestic,Gas,221.4511787
+Wandsworth,2011,Domestic,Gas,280.9404971
+Westminster,2011,Domestic,Gas,183.3371765
+Unapportioned,2011,Domestic,Gas,-
+Barking and Dagenham,2011,Domestic,Coal,1.681572978
+Barnet,2011,Domestic,Coal,1.313605244
+Bexley,2011,Domestic,Coal,1.159296194
+Brent,2011,Domestic,Coal,0.755718679
+Bromley,2011,Domestic,Coal,2.480814722
+Camden,2011,Domestic,Coal,0.648889337
+City of London,2011,Domestic,Coal,0
+Croydon,2011,Domestic,Coal,2.377942022
+Ealing,2011,Domestic,Coal,2.073280565
+Enfield,2011,Domestic,Coal,2.021844215
+Greenwich,2011,Domestic,Coal,1.246342325
+Hackney,2011,Domestic,Coal,0.878374591
+Hammersmith and Fulham,2011,Domestic,Coal,0.367967734
+Haringey,2011,Domestic,Coal,0.898157802
+Harrow,2011,Domestic,Coal,0.795285102
+Havering,2011,Domestic,Coal,3.972468869
+Hillingdon,2011,Domestic,Coal,2.021844215
+Hounslow,2011,Domestic,Coal,1.543090497
+Islington,2011,Domestic,Coal,0.522276784
+Kensington and Chelsea,2011,Domestic,Coal,0.569756491
+Kingston,2011,Domestic,Coal,1.111816486
+Lambeth,2011,Domestic,Coal,0.929810941
+Lewisham,2011,Domestic,Coal,1.396694732
+Merton,2011,Domestic,Coal,0.854634737
+Newham,2011,Domestic,Coal,1.37691152
+Redbridge,2011,Domestic,Coal,1.337345097
+Richmond,2011,Domestic,Coal,1.452087724
+Southwark,2011,Domestic,Coal,0.731978826
+Sutton,2011,Domestic,Coal,1.879405093
+Tower Hamlets,2011,Domestic,Coal,0.783415175
+Waltham Forest,2011,Domestic,Coal,1.590570205
+Wandsworth,2011,Domestic,Coal,0.696369045
+Westminster,2011,Domestic,Coal,0.838808168
+Unapportioned,2011,Domestic,Coal,-
+Barking and Dagenham,2011,Domestic,Oil,0.684907912
+Barnet,2011,Domestic,Oil,2.355178623
+Bexley,2011,Domestic,Oil,1.608887455
+Brent,2011,Domestic,Oil,1.360123732
+Bromley,2011,Domestic,Oil,3.828376775
+Camden,2011,Domestic,Oil,2.613634439
+City of London,2011,Domestic,Oil,0.109843722
+Croydon,2011,Domestic,Oil,2.400408391
+Ealing,2011,Domestic,Oil,1.747807456
+Enfield,2011,Domestic,Oil,1.696116293
+Greenwich,2011,Domestic,Oil,1.198588847
+Hackney,2011,Domestic,Oil,0.791520937
+Hammersmith and Fulham,2011,Domestic,Oil,0.959517217
+Haringey,2011,Domestic,Oil,0.836750704
+Harrow,2011,Domestic,Oil,1.444121872
+Havering,2011,Domestic,Oil,2.099953505
+Hillingdon,2011,Domestic,Oil,2.490867927
+Hounslow,2011,Domestic,Oil,1.841497689
+Islington,2011,Domestic,Oil,0.794751634
+Kensington and Chelsea,2011,Domestic,Oil,2.549020485
+Kingston,2011,Domestic,Oil,0.923979542
+Lambeth,2011,Domestic,Oil,1.570119082
+Lewisham,2011,Domestic,Oil,1.079053032
+Merton,2011,Domestic,Oil,1.182435358
+Newham,2011,Domestic,Oil,0.455528376
+Redbridge,2011,Domestic,Oil,1.272894894
+Richmond,2011,Domestic,Oil,1.78334513
+Southwark,2011,Domestic,Oil,1.650886525
+Sutton,2011,Domestic,Oil,1.385969313
+Tower Hamlets,2011,Domestic,Oil,1.211511638
+Waltham Forest,2011,Domestic,Oil,0.762444657
+Wandsworth,2011,Domestic,Oil,1.44735257
+Westminster,2011,Domestic,Oil,3.689456773
+Unapportioned,2011,Domestic,Oil,-
+Barking and Dagenham,2011,Industrial and Commercial,Electricity w/o rail,187.4094936
+Barnet,2011,Industrial and Commercial,Electricity w/o rail,228.2875795
+Bexley,2011,Industrial and Commercial,Electricity w/o rail,170.5569393
+Brent,2011,Industrial and Commercial,Electricity w/o rail,221.8571971
+Bromley,2011,Industrial and Commercial,Electricity w/o rail,170.9577322
+Camden,2011,Industrial and Commercial,Electricity w/o rail,626.4951722
+City of London,2011,Industrial and Commercial,Electricity w/o rail,1139.67172
+Croydon,2011,Industrial and Commercial,Electricity w/o rail,276.0364413
+Ealing,2011,Industrial and Commercial,Electricity w/o rail,401.2798539
+Enfield,2011,Industrial and Commercial,Electricity w/o rail,216.4083075
+Greenwich,2011,Industrial and Commercial,Electricity w/o rail,163.6028313
+Hackney,2011,Industrial and Commercial,Electricity w/o rail,214.8864691
+Hammersmith and Fulham,2011,Industrial and Commercial,Electricity w/o rail,334.0004212
+Haringey,2011,Industrial and Commercial,Electricity w/o rail,158.0450667
+Harrow,2011,Industrial and Commercial,Electricity w/o rail,98.50522695
+Havering,2011,Industrial and Commercial,Electricity w/o rail,166.1075736
+Hillingdon,2011,Industrial and Commercial,Electricity w/o rail,492.043812
+Hounslow,2011,Industrial and Commercial,Electricity w/o rail,466.6762433
+Islington,2011,Industrial and Commercial,Electricity w/o rail,409.4811602
+Kensington and Chelsea,2011,Industrial and Commercial,Electricity w/o rail,599.2049455
+Kingston,2011,Industrial and Commercial,Electricity w/o rail,140.8269549
+Lambeth,2011,Industrial and Commercial,Electricity w/o rail,272.1033998
+Lewisham,2011,Industrial and Commercial,Electricity w/o rail,118.051962
+Merton,2011,Industrial and Commercial,Electricity w/o rail,193.4700486
+Newham,2011,Industrial and Commercial,Electricity w/o rail,429.1777864
+Redbridge,2011,Industrial and Commercial,Electricity w/o rail,114.4751246
+Richmond,2011,Industrial and Commercial,Electricity w/o rail,145.9561853
+Southwark,2011,Industrial and Commercial,Electricity w/o rail,513.1455129
+Sutton,2011,Industrial and Commercial,Electricity w/o rail,161.7271581
+Tower Hamlets,2011,Industrial and Commercial,Electricity w/o rail,1106.843914
+Waltham Forest,2011,Industrial and Commercial,Electricity w/o rail,163.058035
+Wandsworth,2011,Industrial and Commercial,Electricity w/o rail,147.9064456
+Westminster,2011,Industrial and Commercial,Electricity w/o rail,1605.052862
+Unapportioned,2011,Industrial and Commercial,Electricity w/o rail,-
+Barking and Dagenham,2011,Industrial and Commercial,Gas,42.62172663
+Barnet,2011,Industrial and Commercial,Gas,96.77280764
+Bexley,2011,Industrial and Commercial,Gas,136.32484
+Brent,2011,Industrial and Commercial,Gas,92.08287834
+Bromley,2011,Industrial and Commercial,Gas,69.51200085
+Camden,2011,Industrial and Commercial,Gas,258.4806202
+City of London,2011,Industrial and Commercial,Gas,140.8008695
+Croydon,2011,Industrial and Commercial,Gas,81.4957841
+Ealing,2011,Industrial and Commercial,Gas,134.0033177
+Enfield,2011,Industrial and Commercial,Gas,106.8560982
+Greenwich,2011,Industrial and Commercial,Gas,180.9482697
+Hackney,2011,Industrial and Commercial,Gas,49.03672085
+Hammersmith and Fulham,2011,Industrial and Commercial,Gas,108.7718751
+Haringey,2011,Industrial and Commercial,Gas,58.86245212
+Harrow,2011,Industrial and Commercial,Gas,84.07259259
+Havering,2011,Industrial and Commercial,Gas,38.91045981
+Hillingdon,2011,Industrial and Commercial,Gas,173.7292775
+Hounslow,2011,Industrial and Commercial,Gas,114.1358007
+Islington,2011,Industrial and Commercial,Gas,102.643342
+Kensington and Chelsea,2011,Industrial and Commercial,Gas,161.095048
+Kingston,2011,Industrial and Commercial,Gas,43.72297013
+Lambeth,2011,Industrial and Commercial,Gas,145.6893185
+Lewisham,2011,Industrial and Commercial,Gas,56.33413965
+Merton,2011,Industrial and Commercial,Gas,58.80339808
+Newham,2011,Industrial and Commercial,Gas,241.0016078
+Redbridge,2011,Industrial and Commercial,Gas,42.30589379
+Richmond,2011,Industrial and Commercial,Gas,61.5762509
+Southwark,2011,Industrial and Commercial,Gas,161.558363
+Sutton,2011,Industrial and Commercial,Gas,44.20268342
+Tower Hamlets,2011,Industrial and Commercial,Gas,131.0822622
+Waltham Forest,2011,Industrial and Commercial,Gas,52.19475317
+Wandsworth,2011,Industrial and Commercial,Gas,112.5427756
+Westminster,2011,Industrial and Commercial,Gas,473.7134069
+Unapportioned,2011,Industrial and Commercial,Gas,23.37829677
+Barking and Dagenham,2011,Industrial and Commercial,Coal,3.196673902
+Barnet,2011,Industrial and Commercial,Coal,0.853349389
+Bexley,2011,Industrial and Commercial,Coal,0.877053539
+Brent,2011,Industrial and Commercial,Coal,0
+Bromley,2011,Industrial and Commercial,Coal,0.12867967
+Camden,2011,Industrial and Commercial,Coal,0
+City of London,2011,Industrial and Commercial,Coal,0.020317843
+Croydon,2011,Industrial and Commercial,Coal,0.325085482
+Ealing,2011,Industrial and Commercial,Coal,0.399584238
+Enfield,2011,Industrial and Commercial,Coal,0.101589213
+Greenwich,2011,Industrial and Commercial,Coal,1.083618272
+Hackney,2011,Industrial and Commercial,Coal,0.135452284
+Hammersmith and Fulham,2011,Industrial and Commercial,Coal,0
+Haringey,2011,Industrial and Commercial,Coal,0.037249378
+Harrow,2011,Industrial and Commercial,Coal,0.155770127
+Havering,2011,Industrial and Commercial,Coal,1.425635289
+Hillingdon,2011,Industrial and Commercial,Coal,3.156038217
+Hounslow,2011,Industrial and Commercial,Coal,0
+Islington,2011,Industrial and Commercial,Coal,0.094816599
+Kensington and Chelsea,2011,Industrial and Commercial,Coal,0.057567221
+Kingston,2011,Industrial and Commercial,Coal,0.040635685
+Lambeth,2011,Industrial and Commercial,Coal,0
+Lewisham,2011,Industrial and Commercial,Coal,0
+Merton,2011,Industrial and Commercial,Coal,0.037249378
+Newham,2011,Industrial and Commercial,Coal,3.880707937
+Redbridge,2011,Industrial and Commercial,Coal,2.363642356
+Richmond,2011,Industrial and Commercial,Coal,0
+Southwark,2011,Industrial and Commercial,Coal,0.074498756
+Sutton,2011,Industrial and Commercial,Coal,0
+Tower Hamlets,2011,Industrial and Commercial,Coal,0.172701662
+Waltham Forest,2011,Industrial and Commercial,Coal,0.237041497
+Wandsworth,2011,Industrial and Commercial,Coal,0
+Westminster,2011,Industrial and Commercial,Coal,0.037249378
+Unapportioned,2011,Industrial and Commercial,Coal,-
+Barking and Dagenham,2011,Industrial and Commercial,Oil,42.57678128
+Barnet,2011,Industrial and Commercial,Oil,9.655978461
+Bexley,2011,Industrial and Commercial,Oil,32.16579578
+Brent,2011,Industrial and Commercial,Oil,22.57221459
+Bromley,2011,Industrial and Commercial,Oil,22.05743707
+Camden,2011,Industrial and Commercial,Oil,11.76500639
+City of London,2011,Industrial and Commercial,Oil,3.266497399
+Croydon,2011,Industrial and Commercial,Oil,11.27830764
+Ealing,2011,Industrial and Commercial,Oil,29.48583277
+Enfield,2011,Industrial and Commercial,Oil,25.58912289
+Greenwich,2011,Industrial and Commercial,Oil,9.871249063
+Hackney,2011,Industrial and Commercial,Oil,5.709350754
+Hammersmith and Fulham,2011,Industrial and Commercial,Oil,10.89768425
+Haringey,2011,Industrial and Commercial,Oil,8.008690375
+Harrow,2011,Industrial and Commercial,Oil,7.022813414
+Havering,2011,Industrial and Commercial,Oil,16.20457258
+Hillingdon,2011,Industrial and Commercial,Oil,108.2592739
+Hounslow,2011,Industrial and Commercial,Oil,25.22721869
+Islington,2011,Industrial and Commercial,Oil,7.840217729
+Kensington and Chelsea,2011,Industrial and Commercial,Oil,2.792278101
+Kingston,2011,Industrial and Commercial,Oil,4.45828537
+Lambeth,2011,Industrial and Commercial,Oil,3.89982975
+Lewisham,2011,Industrial and Commercial,Oil,5.696871299
+Merton,2011,Industrial and Commercial,Oil,9.777653149
+Newham,2011,Industrial and Commercial,Oil,28.30340439
+Redbridge,2011,Industrial and Commercial,Oil,6.595392073
+Richmond,2011,Industrial and Commercial,Oil,7.39719707
+Southwark,2011,Industrial and Commercial,Oil,6.124292639
+Sutton,2011,Industrial and Commercial,Oil,12.48569493
+Tower Hamlets,2011,Industrial and Commercial,Oil,7.837097866
+Waltham Forest,2011,Industrial and Commercial,Oil,12.6947258
+Wandsworth,2011,Industrial and Commercial,Oil,6.514275614
+Westminster,2011,Industrial and Commercial,Oil,15.20933603
+Unapportioned,2011,Industrial and Commercial,Oil,-
+Barking and Dagenham,2011,Industrial and Commercial,Waste and Renewables,0
+Barnet,2011,Industrial and Commercial,Waste and Renewables,0
+Bexley,2011,Industrial and Commercial,Waste and Renewables,3.524875971
+Brent,2011,Industrial and Commercial,Waste and Renewables,0
+Bromley,2011,Industrial and Commercial,Waste and Renewables,0.067755053
+Camden,2011,Industrial and Commercial,Waste and Renewables,0
+City of London,2011,Industrial and Commercial,Waste and Renewables,0
+Croydon,2011,Industrial and Commercial,Waste and Renewables,0.025811449
+Ealing,2011,Industrial and Commercial,Waste and Renewables,0
+Enfield,2011,Industrial and Commercial,Waste and Renewables,3.10866636
+Greenwich,2011,Industrial and Commercial,Waste and Renewables,0
+Hackney,2011,Industrial and Commercial,Waste and Renewables,0
+Hammersmith and Fulham,2011,Industrial and Commercial,Waste and Renewables,0
+Haringey,2011,Industrial and Commercial,Waste and Renewables,0
+Harrow,2011,Industrial and Commercial,Waste and Renewables,0
+Havering,2011,Industrial and Commercial,Waste and Renewables,0.003226431
+Hillingdon,2011,Industrial and Commercial,Waste and Renewables,28.87494508
+Hounslow,2011,Industrial and Commercial,Waste and Renewables,0
+Islington,2011,Industrial and Commercial,Waste and Renewables,0
+Kensington and Chelsea,2011,Industrial and Commercial,Waste and Renewables,0
+Kingston,2011,Industrial and Commercial,Waste and Renewables,0
+Lambeth,2011,Industrial and Commercial,Waste and Renewables,0
+Lewisham,2011,Industrial and Commercial,Waste and Renewables,0
+Merton,2011,Industrial and Commercial,Waste and Renewables,0
+Newham,2011,Industrial and Commercial,Waste and Renewables,3.076402049
+Redbridge,2011,Industrial and Commercial,Waste and Renewables,0
+Richmond,2011,Industrial and Commercial,Waste and Renewables,0
+Southwark,2011,Industrial and Commercial,Waste and Renewables,0
+Sutton,2011,Industrial and Commercial,Waste and Renewables,0
+Tower Hamlets,2011,Industrial and Commercial,Waste and Renewables,0.288765583
+Waltham Forest,2011,Industrial and Commercial,Waste and Renewables,0
+Wandsworth,2011,Industrial and Commercial,Waste and Renewables,0
+Westminster,2011,Industrial and Commercial,Waste and Renewables,0
+Unapportioned,2011,Industrial and Commercial,Waste and Renewables,-
+Barking and Dagenham,2011,Transport,Aviation,0
+Barnet,2011,Transport,Aviation,0.22499158
+Bexley,2011,Transport,Aviation,7.579761456
+Brent,2011,Transport,Aviation,0.322564002
+Bromley,2011,Transport,Aviation,1.41119564
+Camden,2011,Transport,Aviation,0
+City of London,2011,Transport,Aviation,1.174656676
+Croydon,2011,Transport,Aviation,0.283064115
+Ealing,2011,Transport,Aviation,0.16597503
+Enfield,2011,Transport,Aviation,0.300234181
+Greenwich,2011,Transport,Aviation,6.078590646
+Hackney,2011,Transport,Aviation,0.107406571
+Hammersmith and Fulham,2011,Transport,Aviation,13.7971708
+Haringey,2011,Transport,Aviation,0
+Harrow,2011,Transport,Aviation,0.239383946
+Havering,2011,Transport,Aviation,2.695768551
+Hillingdon,2011,Transport,Aviation,650.8242279
+Hounslow,2011,Transport,Aviation,94.50651197
+Islington,2011,Transport,Aviation,0
+Kensington and Chelsea,2011,Transport,Aviation,1.744669336
+Kingston,2011,Transport,Aviation,0
+Lambeth,2011,Transport,Aviation,0
+Lewisham,2011,Transport,Aviation,0.00867258
+Merton,2011,Transport,Aviation,0
+Newham,2011,Transport,Aviation,34.35846877
+Redbridge,2011,Transport,Aviation,0.781032198
+Richmond,2011,Transport,Aviation,40.23768176
+Southwark,2011,Transport,Aviation,1.164580766
+Sutton,2011,Transport,Aviation,0.044194445
+Tower Hamlets,2011,Transport,Aviation,0.00061721
+Waltham Forest,2011,Transport,Aviation,0.757644913
+Wandsworth,2011,Transport,Aviation,12.33024414
+Westminster,2011,Transport,Aviation,0
+Unapportioned,2011,Transport,Aviation,-
+Barking and Dagenham,2011,Transport,Shipping,0.293778308
+Barnet,2011,Transport,Shipping,0
+Bexley,2011,Transport,Shipping,0.544239365
+Brent,2011,Transport,Shipping,0
+Bromley,2011,Transport,Shipping,0
+Camden,2011,Transport,Shipping,0
+City of London,2011,Transport,Shipping,2.451225323
+Croydon,2011,Transport,Shipping,1.158165432
+Ealing,2011,Transport,Shipping,0
+Enfield,2011,Transport,Shipping,0
+Greenwich,2011,Transport,Shipping,0.324060648
+Hackney,2011,Transport,Shipping,2.216593596
+Hammersmith and Fulham,2011,Transport,Shipping,0.01044974
+Haringey,2011,Transport,Shipping,0.216468994
+Harrow,2011,Transport,Shipping,0
+Havering,2011,Transport,Shipping,0.556677736
+Hillingdon,2011,Transport,Shipping,0
+Hounslow,2011,Transport,Shipping,0
+Islington,2011,Transport,Shipping,0.107684083
+Kensington and Chelsea,2011,Transport,Shipping,0.005091062
+Kingston,2011,Transport,Shipping,0.070466036
+Lambeth,2011,Transport,Shipping,0.057792654
+Lewisham,2011,Transport,Shipping,1.922473337
+Merton,2011,Transport,Shipping,0
+Newham,2011,Transport,Shipping,0.198184393
+Redbridge,2011,Transport,Shipping,1.830045437
+Richmond,2011,Transport,Shipping,0
+Southwark,2011,Transport,Shipping,0.360462221
+Sutton,2011,Transport,Shipping,2.217137348
+Tower Hamlets,2011,Transport,Shipping,0.124763997
+Waltham Forest,2011,Transport,Shipping,4.509016982
+Wandsworth,2011,Transport,Shipping,0.016083279
+Westminster,2011,Transport,Shipping,0.177314209
+Unapportioned,2011,Transport,Shipping,-
+Barking and Dagenham,2011,Transport,Railways diesel,3.147010376
+Barnet,2011,Transport,Railways diesel,6.499300709
+Bexley,2011,Transport,Railways diesel,1.149897478
+Brent,2011,Transport,Railways diesel,8.774775882
+Bromley,2011,Transport,Railways diesel,1.265565585
+Camden,2011,Transport,Railways diesel,8.427626564
+City of London,2011,Transport,Railways diesel,0.010794913
+Croydon,2011,Transport,Railways diesel,1.806440076
+Ealing,2011,Transport,Railways diesel,21.75708299
+Enfield,2011,Transport,Railways diesel,0.846621183
+Greenwich,2011,Transport,Railways diesel,0.663979018
+Hackney,2011,Transport,Railways diesel,0.702484814
+Hammersmith and Fulham,2011,Transport,Railways diesel,4.458165757
+Haringey,2011,Transport,Railways diesel,3.912250912
+Harrow,2011,Transport,Railways diesel,3.569959526
+Havering,2011,Transport,Railways diesel,2.355961573
+Hillingdon,2011,Transport,Railways diesel,15.39230842
+Hounslow,2011,Transport,Railways diesel,0.676371652
+Islington,2011,Transport,Railways diesel,1.5679355
+Kensington and Chelsea,2011,Transport,Railways diesel,4.225335862
+Kingston,2011,Transport,Railways diesel,0.630081223
+Lambeth,2011,Transport,Railways diesel,1.324263882
+Lewisham,2011,Transport,Railways diesel,2.115822718
+Merton,2011,Transport,Railways diesel,1.040310518
+Newham,2011,Transport,Railways diesel,3.13758104
+Redbridge,2011,Transport,Railways diesel,1.097681854
+Richmond,2011,Transport,Railways diesel,0.31117962
+Southwark,2011,Transport,Railways diesel,0.891005834
+Sutton,2011,Transport,Railways diesel,0.010570403
+Tower Hamlets,2011,Transport,Railways diesel,0.16831837
+Waltham Forest,2011,Transport,Railways diesel,3.244302588
+Wandsworth,2011,Transport,Railways diesel,2.358449697
+Westminster,2011,Transport,Railways diesel,3.634069863
+Unapportioned,2011,Transport,Railways diesel,-
+Barking and Dagenham,2011,Transport,Railways electric,25.27152026
+Barnet,2011,Transport,Railways electric,41.39932148
+Bexley,2011,Transport,Railways electric,18.00746379
+Brent,2011,Transport,Railways electric,69.09936524
+Bromley,2011,Transport,Railways electric,49.72888857
+Camden,2011,Transport,Railways electric,61.18219248
+City of London,2011,Transport,Railways electric,19.12360534
+Croydon,2011,Transport,Railways electric,63.00986409
+Ealing,2011,Transport,Railways electric,31.04554975
+Enfield,2011,Transport,Railways electric,27.02064528
+Greenwich,2011,Transport,Railways electric,19.3469172
+Hackney,2011,Transport,Railways electric,15.98549204
+Hammersmith and Fulham,2011,Transport,Railways electric,25.4321249
+Haringey,2011,Transport,Railways electric,35.82828494
+Harrow,2011,Transport,Railways electric,26.77431647
+Havering,2011,Transport,Railways electric,30.39406435
+Hillingdon,2011,Transport,Railways electric,23.08043167
+Hounslow,2011,Transport,Railways electric,21.78739763
+Islington,2011,Transport,Railways electric,31.29752683
+Kensington and Chelsea,2011,Transport,Railways electric,24.76781619
+Kingston,2011,Transport,Railways electric,18.21187896
+Lambeth,2011,Transport,Railways electric,61.84353119
+Lewisham,2011,Transport,Railways electric,45.98783213
+Merton,2011,Transport,Railways electric,36.51368909
+Newham,2011,Transport,Railways electric,54.00888129
+Redbridge,2011,Transport,Railways electric,23.31012787
+Richmond,2011,Transport,Railways electric,23.65406205
+Southwark,2011,Transport,Railways electric,41.43971931
+Sutton,2011,Transport,Railways electric,8.08819052
+Tower Hamlets,2011,Transport,Railways electric,45.72299606
+Waltham Forest,2011,Transport,Railways electric,16.19836692
+Wandsworth,2011,Transport,Railways electric,85.21744986
+Westminster,2011,Transport,Railways electric,64.71501208
+Unapportioned,2011,Transport,Railways electric,-
+Barking and Dagenham,2011,Transport,Road Transport,134.0141344
+Barnet,2011,Transport,Road Transport,374.2197153
+Bexley,2011,Transport,Road Transport,181.4564459
+Brent,2011,Transport,Road Transport,200.670595
+Bromley,2011,Transport,Road Transport,246.9776735
+Camden,2011,Transport,Road Transport,158.2182146
+City of London,2011,Transport,Road Transport,48.42569621
+Croydon,2011,Transport,Road Transport,227.7015204
+Ealing,2011,Transport,Road Transport,277.1821057
+Enfield,2011,Transport,Road Transport,362.4278309
+Greenwich,2011,Transport,Road Transport,208.8521412
+Hackney,2011,Transport,Road Transport,125.6911398
+Hammersmith and Fulham,2011,Transport,Road Transport,110.1548589
+Haringey,2011,Transport,Road Transport,135.2786396
+Harrow,2011,Transport,Road Transport,133.1858292
+Havering,2011,Transport,Road Transport,330.4598458
+Hillingdon,2011,Transport,Road Transport,388.5742524
+Hounslow,2011,Transport,Road Transport,281.0284626
+Islington,2011,Transport,Road Transport,99.26722461
+Kensington and Chelsea,2011,Transport,Road Transport,115.4677739
+Kingston,2011,Transport,Road Transport,160.9061249
+Lambeth,2011,Transport,Road Transport,169.5701458
+Lewisham,2011,Transport,Road Transport,159.1750254
+Merton,2011,Transport,Road Transport,134.2574952
+Newham,2011,Transport,Road Transport,182.580051
+Redbridge,2011,Transport,Road Transport,243.2372624
+Richmond,2011,Transport,Road Transport,159.6831857
+Southwark,2011,Transport,Road Transport,169.5751105
+Sutton,2011,Transport,Road Transport,107.5012731
+Tower Hamlets,2011,Transport,Road Transport,165.1387934
+Waltham Forest,2011,Transport,Road Transport,169.3806358
+Wandsworth,2011,Transport,Road Transport,173.3149694
+Westminster,2011,Transport,Road Transport,258.6086106
+Unapportioned,2011,Transport,Road Transport,-
+Barking and Dagenham,2010,Domestic,Electricity,149.5826148
+Barnet,2010,Domestic,Electricity,341.5083457
+Bexley,2010,Domestic,Electricity,211.0928616
+Brent,2010,Domestic,Electricity,234.3313957
+Bromley,2010,Domestic,Electricity,307.7834642
+Camden,2010,Domestic,Electricity,192.5183383
+City of London,2010,Domestic,Electricity,13.85617527
+Croydon,2010,Domestic,Electricity,322.6542002
+Ealing,2010,Domestic,Electricity,264.0626191
+Enfield,2010,Domestic,Electricity,276.4277401
+Greenwich,2010,Domestic,Electricity,203.8873387
+Hackney,2010,Domestic,Electricity,184.0576537
+Hammersmith and Fulham,2010,Domestic,Electricity,154.0784885
+Haringey,2010,Domestic,Electricity,203.6852736
+Harrow,2010,Domestic,Electricity,195.7905571
+Havering,2010,Domestic,Electricity,226.3398005
+Hillingdon,2010,Domestic,Electricity,232.3654251
+Hounslow,2010,Domestic,Electricity,208.7722832
+Islington,2010,Domestic,Electricity,171.9753328
+Kensington and Chelsea,2010,Domestic,Electricity,202.6699648
+Kingston,2010,Domestic,Electricity,148.4732707
+Lambeth,2010,Domestic,Electricity,240.0722009
+Lewisham,2010,Domestic,Electricity,224.7840578
+Merton,2010,Domestic,Electricity,173.0346929
+Newham,2010,Domestic,Electricity,202.2692091
+Redbridge,2010,Domestic,Electricity,223.2501348
+Richmond,2010,Domestic,Electricity,186.5972876
+Southwark,2010,Domestic,Electricity,243.078808
+Sutton,2010,Domestic,Electricity,181.7877241
+Tower Hamlets,2010,Domestic,Electricity,211.1618241
+Waltham Forest,2010,Domestic,Electricity,193.6245078
+Wandsworth,2010,Domestic,Electricity,269.304517
+Westminster,2010,Domestic,Electricity,267.8656964
+Unapportioned,2010,Domestic,Electricity,-
+Barking and Dagenham,2010,Domestic,Gas,167.8915773
+Barnet,2010,Domestic,Gas,485.657769
+Bexley,2010,Domestic,Gas,280.7204517
+Brent,2010,Domestic,Gas,345.9001263
+Bromley,2010,Domestic,Gas,454.0329057
+Camden,2010,Domestic,Gas,217.7138685
+City of London,2010,Domestic,Gas,7.220146358
+Croydon,2010,Domestic,Gas,452.6313607
+Ealing,2010,Domestic,Gas,378.5123388
+Enfield,2010,Domestic,Gas,350.5517915
+Greenwich,2010,Domestic,Gas,258.6715569
+Hackney,2010,Domestic,Gas,224.4593122
+Hammersmith and Fulham,2010,Domestic,Gas,204.3726782
+Haringey,2010,Domestic,Gas,291.7847918
+Harrow,2010,Domestic,Gas,312.0750692
+Havering,2010,Domestic,Gas,307.0535808
+Hillingdon,2010,Domestic,Gas,320.1625445
+Hounslow,2010,Domestic,Gas,260.8241024
+Islington,2010,Domestic,Gas,210.4539325
+Kensington and Chelsea,2010,Domestic,Gas,202.3197842
+Kingston,2010,Domestic,Gas,198.4606449
+Lambeth,2010,Domestic,Gas,316.5681714
+Lewisham,2010,Domestic,Gas,301.4427152
+Merton,2010,Domestic,Gas,237.4839108
+Newham,2010,Domestic,Gas,247.6930535
+Redbridge,2010,Domestic,Gas,322.7973225
+Richmond,2010,Domestic,Gas,268.8888389
+Southwark,2010,Domestic,Gas,237.726385
+Sutton,2010,Domestic,Gas,231.8912063
+Tower Hamlets,2010,Domestic,Gas,162.2160458
+Waltham Forest,2010,Domestic,Gas,269.9452891
+Wandsworth,2010,Domestic,Gas,342.7931844
+Westminster,2010,Domestic,Gas,223.4018706
+Unapportioned,2010,Domestic,Gas,-
+Barking and Dagenham,2010,Domestic,Coal,1.816098816
+Barnet,2010,Domestic,Coal,1.420434586
+Bexley,2010,Domestic,Coal,1.250298967
+Brent,2010,Domestic,Coal,0.819024956
+Bromley,2010,Domestic,Coal,2.662820268
+Camden,2010,Domestic,Coal,0.700325687
+City of London,2010,Domestic,Coal,0
+Croydon,2010,Domestic,Coal,2.559947568
+Ealing,2010,Domestic,Coal,2.239459542
+Enfield,2010,Domestic,Coal,2.18406655
+Greenwich,2010,Domestic,Coal,1.349215024
+Hackney,2010,Domestic,Coal,0.949594152
+Hammersmith and Fulham,2010,Domestic,Coal,0.39566423
+Haringey,2010,Domestic,Coal,0.973334006
+Harrow,2010,Domestic,Coal,0.862548021
+Havering,2010,Domestic,Coal,4.289000253
+Hillingdon,2010,Domestic,Coal,2.180109907
+Hounslow,2010,Domestic,Coal,1.665746408
+Islington,2010,Domestic,Coal,0.565799849
+Kensington and Chelsea,2010,Domestic,Coal,0.613279557
+Kingston,2010,Domestic,Coal,1.198862617
+Lambeth,2010,Domestic,Coal,1.004987144
+Lewisham,2010,Domestic,Coal,1.507480716
+Merton,2010,Domestic,Coal,0.921897656
+Newham,2010,Domestic,Coal,1.487697505
+Redbridge,2010,Domestic,Coal,1.44417444
+Richmond,2010,Domestic,Coal,1.570786993
+Southwark,2010,Domestic,Coal,0.79132846
+Sutton,2010,Domestic,Coal,2.0297575
+Tower Hamlets,2010,Domestic,Coal,0.84276481
+Waltham Forest,2010,Domestic,Coal,1.717182758
+Wandsworth,2010,Domestic,Coal,0.751762037
+Westminster,2010,Domestic,Coal,0.906071087
+Unapportioned,2010,Domestic,Coal,-
+Barking and Dagenham,2010,Domestic,Oil,0.713984192
+Barnet,2010,Domestic,Oil,2.507021415
+Bexley,2010,Domestic,Oil,1.673501409
+Brent,2010,Domestic,Oil,1.48935164
+Bromley,2010,Domestic,Oil,4.303289336
+Camden,2010,Domestic,Oil,3.347002817
+City of London,2010,Domestic,Oil,0.138920001
+Croydon,2010,Domestic,Oil,2.549020485
+Ealing,2010,Domestic,Oil,1.935187922
+Enfield,2010,Domestic,Oil,1.857651178
+Greenwich,2010,Domestic,Oil,1.282586987
+Hackney,2010,Domestic,Oil,0.995054892
+Hammersmith and Fulham,2010,Domestic,Oil,1.201819544
+Haringey,2010,Domestic,Oil,0.953055822
+Harrow,2010,Domestic,Oil,1.499043733
+Havering,2010,Domestic,Oil,2.297026065
+Hillingdon,2010,Domestic,Oil,2.649172114
+Hounslow,2010,Domestic,Oil,2.041800946
+Islington,2010,Domestic,Oil,1.001516287
+Kensington and Chelsea,2010,Domestic,Oil,3.285619561
+Kingston,2010,Domestic,Oil,0.978901403
+Lambeth,2010,Domestic,Oil,1.880266061
+Lewisham,2010,Domestic,Oil,1.13720559
+Merton,2010,Domestic,Oil,1.263202801
+Newham,2010,Domestic,Oil,0.507219539
+Redbridge,2010,Domestic,Oil,1.382738616
+Richmond,2010,Domestic,Oil,1.986879086
+Southwark,2010,Domestic,Oil,2.012724667
+Sutton,2010,Domestic,Oil,1.463506058
+Tower Hamlets,2010,Domestic,Oil,1.524889314
+Waltham Forest,2010,Domestic,Oil,0.839981402
+Wandsworth,2010,Domestic,Oil,1.712269781
+Westminster,2010,Domestic,Oil,4.758817712
+Unapportioned,2010,Domestic,Oil,-
+Barking and Dagenham,2010,Industrial and Commercial,Electricity w/o rail,222.1775638
+Barnet,2010,Industrial and Commercial,Electricity w/o rail,253.3829438
+Bexley,2010,Industrial and Commercial,Electricity w/o rail,194.0296359
+Brent,2010,Industrial and Commercial,Electricity w/o rail,266.0162088
+Bromley,2010,Industrial and Commercial,Electricity w/o rail,191.767109
+Camden,2010,Industrial and Commercial,Electricity w/o rail,704.2380585
+City of London,2010,Industrial and Commercial,Electricity w/o rail,1374.345398
+Croydon,2010,Industrial and Commercial,Electricity w/o rail,315.5878641
+Ealing,2010,Industrial and Commercial,Electricity w/o rail,419.4469514
+Enfield,2010,Industrial and Commercial,Electricity w/o rail,258.901975
+Greenwich,2010,Industrial and Commercial,Electricity w/o rail,199.7315834
+Hackney,2010,Industrial and Commercial,Electricity w/o rail,222.5289406
+Hammersmith and Fulham,2010,Industrial and Commercial,Electricity w/o rail,369.3441915
+Haringey,2010,Industrial and Commercial,Electricity w/o rail,182.4054044
+Harrow,2010,Industrial and Commercial,Electricity w/o rail,106.5825192
+Havering,2010,Industrial and Commercial,Electricity w/o rail,217.6887736
+Hillingdon,2010,Industrial and Commercial,Electricity w/o rail,574.9279869
+Hounslow,2010,Industrial and Commercial,Electricity w/o rail,504.5393106
+Islington,2010,Industrial and Commercial,Electricity w/o rail,484.5961471
+Kensington and Chelsea,2010,Industrial and Commercial,Electricity w/o rail,634.7404121
+Kingston,2010,Industrial and Commercial,Electricity w/o rail,150.2527646
+Lambeth,2010,Industrial and Commercial,Electricity w/o rail,303.5004623
+Lewisham,2010,Industrial and Commercial,Electricity w/o rail,144.7943764
+Merton,2010,Industrial and Commercial,Electricity w/o rail,222.3523621
+Newham,2010,Industrial and Commercial,Electricity w/o rail,453.1769865
+Redbridge,2010,Industrial and Commercial,Electricity w/o rail,127.5621002
+Richmond,2010,Industrial and Commercial,Electricity w/o rail,174.7637519
+Southwark,2010,Industrial and Commercial,Electricity w/o rail,593.8742586
+Sutton,2010,Industrial and Commercial,Electricity w/o rail,195.9401188
+Tower Hamlets,2010,Industrial and Commercial,Electricity w/o rail,1402.830505
+Waltham Forest,2010,Industrial and Commercial,Electricity w/o rail,186.8214897
+Wandsworth,2010,Industrial and Commercial,Electricity w/o rail,175.8015114
+Westminster,2010,Industrial and Commercial,Electricity w/o rail,1798.474398
+Unapportioned,2010,Industrial and Commercial,Electricity w/o rail,-
+Barking and Dagenham,2010,Industrial and Commercial,Gas,44.9767287
+Barnet,2010,Industrial and Commercial,Gas,119.8080646
+Bexley,2010,Industrial and Commercial,Gas,150.131376
+Brent,2010,Industrial and Commercial,Gas,105.2131771
+Bromley,2010,Industrial and Commercial,Gas,84.21665767
+Camden,2010,Industrial and Commercial,Gas,291.7871459
+City of London,2010,Industrial and Commercial,Gas,175.7737722
+Croydon,2010,Industrial and Commercial,Gas,100.2911986
+Ealing,2010,Industrial and Commercial,Gas,151.9313896
+Enfield,2010,Industrial and Commercial,Gas,115.0410266
+Greenwich,2010,Industrial and Commercial,Gas,220.5790748
+Hackney,2010,Industrial and Commercial,Gas,55.74078461
+Hammersmith and Fulham,2010,Industrial and Commercial,Gas,129.6915127
+Haringey,2010,Industrial and Commercial,Gas,68.24421674
+Harrow,2010,Industrial and Commercial,Gas,110.9126236
+Havering,2010,Industrial and Commercial,Gas,47.20752184
+Hillingdon,2010,Industrial and Commercial,Gas,275.0117567
+Hounslow,2010,Industrial and Commercial,Gas,137.0261022
+Islington,2010,Industrial and Commercial,Gas,125.1761378
+Kensington and Chelsea,2010,Industrial and Commercial,Gas,193.1207826
+Kingston,2010,Industrial and Commercial,Gas,56.70250777
+Lambeth,2010,Industrial and Commercial,Gas,161.7111717
+Lewisham,2010,Industrial and Commercial,Gas,55.4283858
+Merton,2010,Industrial and Commercial,Gas,71.32636561
+Newham,2010,Industrial and Commercial,Gas,267.7450911
+Redbridge,2010,Industrial and Commercial,Gas,53.45688067
+Richmond,2010,Industrial and Commercial,Gas,75.72439512
+Southwark,2010,Industrial and Commercial,Gas,204.4101171
+Sutton,2010,Industrial and Commercial,Gas,52.66953764
+Tower Hamlets,2010,Industrial and Commercial,Gas,142.9658447
+Waltham Forest,2010,Industrial and Commercial,Gas,67.63251296
+Wandsworth,2010,Industrial and Commercial,Gas,138.8290405
+Westminster,2010,Industrial and Commercial,Gas,572.2293079
+Unapportioned,2010,Industrial and Commercial,Gas,67.88765717
+Barking and Dagenham,2010,Industrial and Commercial,Coal,3.203446517
+Barnet,2010,Industrial and Commercial,Coal,0.78223694
+Bexley,2010,Industrial and Commercial,Coal,1.036209973
+Brent,2010,Industrial and Commercial,Coal,0
+Bromley,2010,Industrial and Commercial,Coal,0.15238382
+Camden,2010,Industrial and Commercial,Coal,0.006772614
+City of London,2010,Industrial and Commercial,Coal,0.020317843
+Croydon,2010,Industrial and Commercial,Coal,0.348789631
+Ealing,2010,Industrial and Commercial,Coal,0.409743159
+Enfield,2010,Industrial and Commercial,Coal,0.098202906
+Greenwich,2010,Industrial and Commercial,Coal,1.029437358
+Hackney,2010,Industrial and Commercial,Coal,0.138838591
+Hammersmith and Fulham,2010,Industrial and Commercial,Coal,0
+Haringey,2010,Industrial and Commercial,Coal,0.040635685
+Harrow,2010,Industrial and Commercial,Coal,0.155770127
+Havering,2010,Industrial and Commercial,Coal,1.689767243
+Hillingdon,2010,Industrial and Commercial,Coal,3.901025779
+Hounslow,2010,Industrial and Commercial,Coal,0
+Islington,2010,Industrial and Commercial,Coal,0.098202906
+Kensington and Chelsea,2010,Industrial and Commercial,Coal,0.060953528
+Kingston,2010,Industrial and Commercial,Coal,0.040635685
+Lambeth,2010,Industrial and Commercial,Coal,0
+Lewisham,2010,Industrial and Commercial,Coal,0
+Merton,2010,Industrial and Commercial,Coal,0.037249378
+Newham,2010,Industrial and Commercial,Coal,3.894253165
+Redbridge,2010,Industrial and Commercial,Coal,2.468617876
+Richmond,2010,Industrial and Commercial,Coal,0
+Southwark,2010,Industrial and Commercial,Coal,0.077885063
+Sutton,2010,Industrial and Commercial,Coal,0
+Tower Hamlets,2010,Industrial and Commercial,Coal,0.176087969
+Waltham Forest,2010,Industrial and Commercial,Coal,0.274290875
+Wandsworth,2010,Industrial and Commercial,Coal,0
+Westminster,2010,Industrial and Commercial,Coal,0.044021992
+Unapportioned,2010,Industrial and Commercial,Coal,-
+Barking and Dagenham,2010,Industrial and Commercial,Oil,46.40485416
+Barnet,2010,Industrial and Commercial,Oil,10.97256098
+Bexley,2010,Industrial and Commercial,Oil,33.5603749
+Brent,2010,Industrial and Commercial,Oil,27.89470224
+Bromley,2010,Industrial and Commercial,Oil,23.13690994
+Camden,2010,Industrial and Commercial,Oil,12.35466065
+City of London,2010,Industrial and Commercial,Oil,3.581603642
+Croydon,2010,Industrial and Commercial,Oil,12.80392104
+Ealing,2010,Industrial and Commercial,Oil,35.86907411
+Enfield,2010,Industrial and Commercial,Oil,28.97105525
+Greenwich,2010,Industrial and Commercial,Oil,11.08799595
+Hackney,2010,Industrial and Commercial,Oil,6.473717385
+Hammersmith and Fulham,2010,Industrial and Commercial,Oil,13.32493829
+Haringey,2010,Industrial and Commercial,Oil,9.434468131
+Harrow,2010,Industrial and Commercial,Oil,8.461070626
+Havering,2010,Industrial and Commercial,Oil,18.11704909
+Hillingdon,2010,Industrial and Commercial,Oil,110.3776614
+Hounslow,2010,Industrial and Commercial,Oil,22.14167339
+Islington,2010,Industrial and Commercial,Oil,8.819854963
+Kensington and Chelsea,2010,Industrial and Commercial,Oil,2.792278101
+Kingston,2010,Industrial and Commercial,Oil,5.063538947
+Lambeth,2010,Industrial and Commercial,Oil,4.30229218
+Lewisham,2010,Industrial and Commercial,Oil,6.242847464
+Merton,2010,Industrial and Commercial,Oil,11.25022886
+Newham,2010,Industrial and Commercial,Oil,31.24543596
+Redbridge,2010,Industrial and Commercial,Oil,7.493912848
+Richmond,2010,Industrial and Commercial,Oil,8.367474712
+Southwark,2010,Industrial and Commercial,Oil,6.720186625
+Sutton,2010,Industrial and Commercial,Oil,13.82099663
+Tower Hamlets,2010,Industrial and Commercial,Oil,9.016406382
+Waltham Forest,2010,Industrial and Commercial,Oil,14.51984613
+Wandsworth,2010,Industrial and Commercial,Oil,7.497032711
+Westminster,2010,Industrial and Commercial,Oil,17.61787088
+Unapportioned,2010,Industrial and Commercial,Oil,-
+Barking and Dagenham,2010,Industrial and Commercial,Waste and Renewables,0
+Barnet,2010,Industrial and Commercial,Waste and Renewables,0
+Bexley,2010,Industrial and Commercial,Waste and Renewables,3.524875971
+Brent,2010,Industrial and Commercial,Waste and Renewables,0
+Bromley,2010,Industrial and Commercial,Waste and Renewables,0.059688975
+Camden,2010,Industrial and Commercial,Waste and Renewables,0
+City of London,2010,Industrial and Commercial,Waste and Renewables,0
+Croydon,2010,Industrial and Commercial,Waste and Renewables,0.022585018
+Ealing,2010,Industrial and Commercial,Waste and Renewables,0
+Enfield,2010,Industrial and Commercial,Waste and Renewables,6.480286854
+Greenwich,2010,Industrial and Commercial,Waste and Renewables,0
+Hackney,2010,Industrial and Commercial,Waste and Renewables,0
+Hammersmith and Fulham,2010,Industrial and Commercial,Waste and Renewables,0
+Haringey,2010,Industrial and Commercial,Waste and Renewables,0
+Harrow,2010,Industrial and Commercial,Waste and Renewables,0
+Havering,2010,Industrial and Commercial,Waste and Renewables,0.003226431
+Hillingdon,2010,Industrial and Commercial,Waste and Renewables,9.814803391
+Hounslow,2010,Industrial and Commercial,Waste and Renewables,0
+Islington,2010,Industrial and Commercial,Waste and Renewables,0
+Kensington and Chelsea,2010,Industrial and Commercial,Waste and Renewables,0
+Kingston,2010,Industrial and Commercial,Waste and Renewables,0
+Lambeth,2010,Industrial and Commercial,Waste and Renewables,0
+Lewisham,2010,Industrial and Commercial,Waste and Renewables,0
+Merton,2010,Industrial and Commercial,Waste and Renewables,0
+Newham,2010,Industrial and Commercial,Waste and Renewables,2.795702544
+Redbridge,2010,Industrial and Commercial,Waste and Renewables,0
+Richmond,2010,Industrial and Commercial,Waste and Renewables,0
+Southwark,2010,Industrial and Commercial,Waste and Renewables,0
+Sutton,2010,Industrial and Commercial,Waste and Renewables,0
+Tower Hamlets,2010,Industrial and Commercial,Waste and Renewables,0
+Waltham Forest,2010,Industrial and Commercial,Waste and Renewables,0
+Wandsworth,2010,Industrial and Commercial,Waste and Renewables,0
+Westminster,2010,Industrial and Commercial,Waste and Renewables,0
+Unapportioned,2010,Industrial and Commercial,Waste and Renewables,-
+Barking and Dagenham,2010,Transport,Aviation,0
+Barnet,2010,Transport,Aviation,0.22499158
+Bexley,2010,Transport,Aviation,7.579761456
+Brent,2010,Transport,Aviation,0.322564002
+Bromley,2010,Transport,Aviation,1.41119564
+Camden,2010,Transport,Aviation,0
+City of London,2010,Transport,Aviation,1.174656676
+Croydon,2010,Transport,Aviation,0.283064115
+Ealing,2010,Transport,Aviation,0.16597503
+Enfield,2010,Transport,Aviation,0.300234181
+Greenwich,2010,Transport,Aviation,6.078590646
+Hackney,2010,Transport,Aviation,0.107406571
+Hammersmith and Fulham,2010,Transport,Aviation,13.7971708
+Haringey,2010,Transport,Aviation,0
+Harrow,2010,Transport,Aviation,0.239383946
+Havering,2010,Transport,Aviation,2.695768551
+Hillingdon,2010,Transport,Aviation,650.8242279
+Hounslow,2010,Transport,Aviation,94.50651197
+Islington,2010,Transport,Aviation,0
+Kensington and Chelsea,2010,Transport,Aviation,1.744669336
+Kingston,2010,Transport,Aviation,0
+Lambeth,2010,Transport,Aviation,0
+Lewisham,2010,Transport,Aviation,0.00867258
+Merton,2010,Transport,Aviation,0
+Newham,2010,Transport,Aviation,34.35846877
+Redbridge,2010,Transport,Aviation,0.781032198
+Richmond,2010,Transport,Aviation,40.23768176
+Southwark,2010,Transport,Aviation,1.164580766
+Sutton,2010,Transport,Aviation,0.044194445
+Tower Hamlets,2010,Transport,Aviation,0.00061721
+Waltham Forest,2010,Transport,Aviation,0.757644913
+Wandsworth,2010,Transport,Aviation,12.33024414
+Westminster,2010,Transport,Aviation,0
+Unapportioned,2010,Transport,Aviation,-
+Barking and Dagenham,2010,Transport,Shipping,0.293778308
+Barnet,2010,Transport,Shipping,0
+Bexley,2010,Transport,Shipping,0.544239365
+Brent,2010,Transport,Shipping,0
+Bromley,2010,Transport,Shipping,0
+Camden,2010,Transport,Shipping,0
+City of London,2010,Transport,Shipping,2.451225323
+Croydon,2010,Transport,Shipping,1.158165432
+Ealing,2010,Transport,Shipping,0
+Enfield,2010,Transport,Shipping,0
+Greenwich,2010,Transport,Shipping,0.324060648
+Hackney,2010,Transport,Shipping,2.216593596
+Hammersmith and Fulham,2010,Transport,Shipping,0.01044974
+Haringey,2010,Transport,Shipping,0.216468994
+Harrow,2010,Transport,Shipping,0
+Havering,2010,Transport,Shipping,0.556677736
+Hillingdon,2010,Transport,Shipping,0
+Hounslow,2010,Transport,Shipping,0
+Islington,2010,Transport,Shipping,0.107684083
+Kensington and Chelsea,2010,Transport,Shipping,0.005091062
+Kingston,2010,Transport,Shipping,0.070466036
+Lambeth,2010,Transport,Shipping,0.057792654
+Lewisham,2010,Transport,Shipping,1.922473337
+Merton,2010,Transport,Shipping,0
+Newham,2010,Transport,Shipping,0.198184393
+Redbridge,2010,Transport,Shipping,1.830045437
+Richmond,2010,Transport,Shipping,0
+Southwark,2010,Transport,Shipping,0.360462221
+Sutton,2010,Transport,Shipping,2.217137348
+Tower Hamlets,2010,Transport,Shipping,0.124763997
+Waltham Forest,2010,Transport,Shipping,4.509016982
+Wandsworth,2010,Transport,Shipping,0.016083279
+Westminster,2010,Transport,Shipping,0.177314209
+Unapportioned,2010,Transport,Shipping,-
+Barking and Dagenham,2010,Transport,Railways diesel,3.147010376
+Barnet,2010,Transport,Railways diesel,6.499300709
+Bexley,2010,Transport,Railways diesel,1.149897478
+Brent,2010,Transport,Railways diesel,8.774775882
+Bromley,2010,Transport,Railways diesel,1.265565585
+Camden,2010,Transport,Railways diesel,8.427626564
+City of London,2010,Transport,Railways diesel,0.010794913
+Croydon,2010,Transport,Railways diesel,1.806440076
+Ealing,2010,Transport,Railways diesel,21.75708299
+Enfield,2010,Transport,Railways diesel,0.846621183
+Greenwich,2010,Transport,Railways diesel,0.663979018
+Hackney,2010,Transport,Railways diesel,0.702484814
+Hammersmith and Fulham,2010,Transport,Railways diesel,4.458165757
+Haringey,2010,Transport,Railways diesel,3.912250912
+Harrow,2010,Transport,Railways diesel,3.569959526
+Havering,2010,Transport,Railways diesel,2.355961573
+Hillingdon,2010,Transport,Railways diesel,15.39230842
+Hounslow,2010,Transport,Railways diesel,0.676371652
+Islington,2010,Transport,Railways diesel,1.5679355
+Kensington and Chelsea,2010,Transport,Railways diesel,4.225335862
+Kingston,2010,Transport,Railways diesel,0.630081223
+Lambeth,2010,Transport,Railways diesel,1.324263882
+Lewisham,2010,Transport,Railways diesel,2.115822718
+Merton,2010,Transport,Railways diesel,1.040310518
+Newham,2010,Transport,Railways diesel,3.13758104
+Redbridge,2010,Transport,Railways diesel,1.097681854
+Richmond,2010,Transport,Railways diesel,0.31117962
+Southwark,2010,Transport,Railways diesel,0.891005834
+Sutton,2010,Transport,Railways diesel,0.010570403
+Tower Hamlets,2010,Transport,Railways diesel,0.16831837
+Waltham Forest,2010,Transport,Railways diesel,3.244302588
+Wandsworth,2010,Transport,Railways diesel,2.358449697
+Westminster,2010,Transport,Railways diesel,3.634069863
+Unapportioned,2010,Transport,Railways diesel,-
+Barking and Dagenham,2010,Transport,Railways electric,25.27152026
+Barnet,2010,Transport,Railways electric,41.39932148
+Bexley,2010,Transport,Railways electric,18.00746379
+Brent,2010,Transport,Railways electric,69.09936524
+Bromley,2010,Transport,Railways electric,49.72888857
+Camden,2010,Transport,Railways electric,61.18219248
+City of London,2010,Transport,Railways electric,19.12360534
+Croydon,2010,Transport,Railways electric,63.00986409
+Ealing,2010,Transport,Railways electric,31.04554975
+Enfield,2010,Transport,Railways electric,27.02064528
+Greenwich,2010,Transport,Railways electric,19.3469172
+Hackney,2010,Transport,Railways electric,15.98549204
+Hammersmith and Fulham,2010,Transport,Railways electric,25.4321249
+Haringey,2010,Transport,Railways electric,35.82828494
+Harrow,2010,Transport,Railways electric,26.77431647
+Havering,2010,Transport,Railways electric,30.39406435
+Hillingdon,2010,Transport,Railways electric,23.08043167
+Hounslow,2010,Transport,Railways electric,21.78739763
+Islington,2010,Transport,Railways electric,31.29752683
+Kensington and Chelsea,2010,Transport,Railways electric,24.76781619
+Kingston,2010,Transport,Railways electric,18.21187896
+Lambeth,2010,Transport,Railways electric,61.84353119
+Lewisham,2010,Transport,Railways electric,45.98783213
+Merton,2010,Transport,Railways electric,36.51368909
+Newham,2010,Transport,Railways electric,54.00888129
+Redbridge,2010,Transport,Railways electric,23.31012787
+Richmond,2010,Transport,Railways electric,23.65406205
+Southwark,2010,Transport,Railways electric,41.43971931
+Sutton,2010,Transport,Railways electric,8.08819052
+Tower Hamlets,2010,Transport,Railways electric,45.72299606
+Waltham Forest,2010,Transport,Railways electric,16.19836692
+Wandsworth,2010,Transport,Railways electric,85.21744986
+Westminster,2010,Transport,Railways electric,64.71501208
+Unapportioned,2010,Transport,Railways electric,-
+Barking and Dagenham,2010,Transport,Road Transport,134.0141344
+Barnet,2010,Transport,Road Transport,374.2197153
+Bexley,2010,Transport,Road Transport,181.4564459
+Brent,2010,Transport,Road Transport,200.670595
+Bromley,2010,Transport,Road Transport,246.9776735
+Camden,2010,Transport,Road Transport,158.2182146
+City of London,2010,Transport,Road Transport,48.42569621
+Croydon,2010,Transport,Road Transport,227.7015204
+Ealing,2010,Transport,Road Transport,277.1821057
+Enfield,2010,Transport,Road Transport,362.4278309
+Greenwich,2010,Transport,Road Transport,208.8521412
+Hackney,2010,Transport,Road Transport,125.6911398
+Hammersmith and Fulham,2010,Transport,Road Transport,110.1548589
+Haringey,2010,Transport,Road Transport,135.2786396
+Harrow,2010,Transport,Road Transport,133.1858292
+Havering,2010,Transport,Road Transport,330.4598458
+Hillingdon,2010,Transport,Road Transport,388.5742524
+Hounslow,2010,Transport,Road Transport,281.0284626
+Islington,2010,Transport,Road Transport,99.26722461
+Kensington and Chelsea,2010,Transport,Road Transport,115.4677739
+Kingston,2010,Transport,Road Transport,160.9061249
+Lambeth,2010,Transport,Road Transport,169.5701458
+Lewisham,2010,Transport,Road Transport,159.1750254
+Merton,2010,Transport,Road Transport,134.2574952
+Newham,2010,Transport,Road Transport,182.580051
+Redbridge,2010,Transport,Road Transport,243.2372624
+Richmond,2010,Transport,Road Transport,159.6831857
+Southwark,2010,Transport,Road Transport,169.5751105
+Sutton,2010,Transport,Road Transport,107.5012731
+Tower Hamlets,2010,Transport,Road Transport,165.1387934
+Waltham Forest,2010,Transport,Road Transport,169.3806358
+Wandsworth,2010,Transport,Road Transport,173.3149694
+Westminster,2010,Transport,Road Transport,258.6086106
+Unapportioned,2010,Transport,Road Transport,-

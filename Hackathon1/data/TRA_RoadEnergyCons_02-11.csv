@@ -1,0 +1,2311 @@
+Code,Area,Count,Year,Mode,Type
+00AA,City of London,2.0,2002,Buses,Personal
+00AB,Barking and Dagenham,3.1,2002,Buses,Personal
+00AC,Barnet,9.6,2002,Buses,Personal
+00AD,Bexley,6.3,2002,Buses,Personal
+00AE,Brent,5.3,2002,Buses,Personal
+00AF,Bromley,9.6,2002,Buses,Personal
+00AG,Camden,8.1,2002,Buses,Personal
+00AH,Croydon,8.8,2002,Buses,Personal
+00AJ,Ealing,6.5,2002,Buses,Personal
+00AK,Enfield,7.1,2002,Buses,Personal
+00AL,Greenwich,6.4,2002,Buses,Personal
+00AM,Hackney,6.2,2002,Buses,Personal
+00AN,Hammersmith and Fulham,5.2,2002,Buses,Personal
+00AP,Haringey,8.0,2002,Buses,Personal
+00AQ,Harrow,4.3,2002,Buses,Personal
+00AR,Havering,6.8,2002,Buses,Personal
+00AS,Hillingdon,8.1,2002,Buses,Personal
+00AT,Hounslow,7.9,2002,Buses,Personal
+00AU,Islington,5.9,2002,Buses,Personal
+00AW,Kensington and Chelsea,6.2,2002,Buses,Personal
+00AX,Kingston upon Thames,3.9,2002,Buses,Personal
+00AY,Lambeth,10.8,2002,Buses,Personal
+00AZ,Lewisham,10.2,2002,Buses,Personal
+00BA,Merton,4.4,2002,Buses,Personal
+00BB,Newham,8.7,2002,Buses,Personal
+00BC,Redbridge,6.9,2002,Buses,Personal
+00BD,Richmond upon Thames,6.1,2002,Buses,Personal
+00BE,Southwark,11.4,2002,Buses,Personal
+00BF,Sutton,4.4,2002,Buses,Personal
+00BG,Tower Hamlets,7.3,2002,Buses,Personal
+00BH,Waltham Forest,5.0,2002,Buses,Personal
+00BJ,Wandsworth,9.2,2002,Buses,Personal
+00BK,Westminster,15.0,2002,Buses,Personal
+00AA,City of London,2.0,2002,Diesel Cars,Personal
+00AB,Barking and Dagenham,6.0,2002,Diesel Cars,Personal
+00AC,Barnet,17.5,2002,Diesel Cars,Personal
+00AD,Bexley,10.6,2002,Diesel Cars,Personal
+00AE,Brent,8.8,2002,Diesel Cars,Personal
+00AF,Bromley,15.1,2002,Diesel Cars,Personal
+00AG,Camden,7.0,2002,Diesel Cars,Personal
+00AH,Croydon,13.5,2002,Diesel Cars,Personal
+00AJ,Ealing,12.1,2002,Diesel Cars,Personal
+00AK,Enfield,12.7,2002,Diesel Cars,Personal
+00AL,Greenwich,9.4,2002,Diesel Cars,Personal
+00AM,Hackney,5.9,2002,Diesel Cars,Personal
+00AN,Hammersmith and Fulham,5.7,2002,Diesel Cars,Personal
+00AP,Haringey,7.7,2002,Diesel Cars,Personal
+00AQ,Harrow,7.8,2002,Diesel Cars,Personal
+00AR,Havering,13.0,2002,Diesel Cars,Personal
+00AS,Hillingdon,18.4,2002,Diesel Cars,Personal
+00AT,Hounslow,15.1,2002,Diesel Cars,Personal
+00AU,Islington,5.5,2002,Diesel Cars,Personal
+00AW,Kensington and Chelsea,6.8,2002,Diesel Cars,Personal
+00AX,Kingston upon Thames,8.0,2002,Diesel Cars,Personal
+00AY,Lambeth,8.9,2002,Diesel Cars,Personal
+00AZ,Lewisham,9.7,2002,Diesel Cars,Personal
+00BA,Merton,7.1,2002,Diesel Cars,Personal
+00BB,Newham,10.8,2002,Diesel Cars,Personal
+00BC,Redbridge,12.8,2002,Diesel Cars,Personal
+00BD,Richmond upon Thames,9.1,2002,Diesel Cars,Personal
+00BE,Southwark,9.3,2002,Diesel Cars,Personal
+00BF,Sutton,7.6,2002,Diesel Cars,Personal
+00BG,Tower Hamlets,8.6,2002,Diesel Cars,Personal
+00BH,Waltham Forest,8.1,2002,Diesel Cars,Personal
+00BJ,Wandsworth,10.2,2002,Diesel Cars,Personal
+00BK,Westminster,11.3,2002,Diesel Cars,Personal
+00AA,City of London,12.6,2002,Petrol Cars,Personal
+00AB,Barking and Dagenham,35.0,2002,Petrol Cars,Personal
+00AC,Barnet,102.5,2002,Petrol Cars,Personal
+00AD,Bexley,62.2,2002,Petrol Cars,Personal
+00AE,Brent,51.3,2002,Petrol Cars,Personal
+00AF,Bromley,88.7,2002,Petrol Cars,Personal
+00AG,Camden,42.1,2002,Petrol Cars,Personal
+00AH,Croydon,79.1,2002,Petrol Cars,Personal
+00AJ,Ealing,70.7,2002,Petrol Cars,Personal
+00AK,Enfield,74.8,2002,Petrol Cars,Personal
+00AL,Greenwich,55.2,2002,Petrol Cars,Personal
+00AM,Hackney,34.9,2002,Petrol Cars,Personal
+00AN,Hammersmith and Fulham,33.8,2002,Petrol Cars,Personal
+00AP,Haringey,46.0,2002,Petrol Cars,Personal
+00AQ,Harrow,45.9,2002,Petrol Cars,Personal
+00AR,Havering,76.4,2002,Petrol Cars,Personal
+00AS,Hillingdon,108.0,2002,Petrol Cars,Personal
+00AT,Hounslow,88.5,2002,Petrol Cars,Personal
+00AU,Islington,32.8,2002,Petrol Cars,Personal
+00AW,Kensington and Chelsea,40.5,2002,Petrol Cars,Personal
+00AX,Kingston upon Thames,47.3,2002,Petrol Cars,Personal
+00AY,Lambeth,52.9,2002,Petrol Cars,Personal
+00AZ,Lewisham,57.9,2002,Petrol Cars,Personal
+00BA,Merton,41.4,2002,Petrol Cars,Personal
+00BB,Newham,63.9,2002,Petrol Cars,Personal
+00BC,Redbridge,74.9,2002,Petrol Cars,Personal
+00BD,Richmond upon Thames,53.3,2002,Petrol Cars,Personal
+00BE,Southwark,55.4,2002,Petrol Cars,Personal
+00BF,Sutton,44.6,2002,Petrol Cars,Personal
+00BG,Tower Hamlets,51.4,2002,Petrol Cars,Personal
+00BH,Waltham Forest,47.7,2002,Petrol Cars,Personal
+00BJ,Wandsworth,60.6,2002,Petrol Cars,Personal
+00BK,Westminster,68.9,2002,Petrol Cars,Personal
+00AA,City of London,0.7,2002,Motor-cycles,Personal
+00AB,Barking and Dagenham,0.5,2002,Motor-cycles,Personal
+00AC,Barnet,1.3,2002,Motor-cycles,Personal
+00AD,Bexley,0.9,2002,Motor-cycles,Personal
+00AE,Brent,0.6,2002,Motor-cycles,Personal
+00AF,Bromley,1.3,2002,Motor-cycles,Personal
+00AG,Camden,1.4,2002,Motor-cycles,Personal
+00AH,Croydon,1.2,2002,Motor-cycles,Personal
+00AJ,Ealing,1,2002,Motor-cycles,Personal
+00AK,Enfield,0.8,2002,Motor-cycles,Personal
+00AL,Greenwich,1,2002,Motor-cycles,Personal
+00AM,Hackney,0.7,2002,Motor-cycles,Personal
+00AN,Hammersmith and Fulham,0.9,2002,Motor-cycles,Personal
+00AP,Haringey,0.8,2002,Motor-cycles,Personal
+00AQ,Harrow,0.5,2002,Motor-cycles,Personal
+00AR,Havering,1,2002,Motor-cycles,Personal
+00AS,Hillingdon,1.1,2002,Motor-cycles,Personal
+00AT,Hounslow,1.2,2002,Motor-cycles,Personal
+00AU,Islington,1,2002,Motor-cycles,Personal
+00AW,Kensington and Chelsea,1.1,2002,Motor-cycles,Personal
+00AX,Kingston upon Thames,0.7,2002,Motor-cycles,Personal
+00AY,Lambeth,1.4,2002,Motor-cycles,Personal
+00AZ,Lewisham,1.1,2002,Motor-cycles,Personal
+00BA,Merton,0.7,2002,Motor-cycles,Personal
+00BB,Newham,1,2002,Motor-cycles,Personal
+00BC,Redbridge,0.9,2002,Motor-cycles,Personal
+00BD,Richmond upon Thames,0.9,2002,Motor-cycles,Personal
+00BE,Southwark,1.5,2002,Motor-cycles,Personal
+00BF,Sutton,0.7,2002,Motor-cycles,Personal
+00BG,Tower Hamlets,1.6,2002,Motor-cycles,Personal
+00BH,Waltham Forest,0.7,2002,Motor-cycles,Personal
+00BJ,Wandsworth,1.5,2002,Motor-cycles,Personal
+00BK,Westminster,2.5,2002,Motor-cycles,Personal
+00AA,City of London,2.3,2002,HGV,Freight
+00AB,Barking and Dagenham,8.8,2002,HGV,Freight
+00AC,Barnet,15.4,2002,HGV,Freight
+00AD,Bexley,11.4,2002,HGV,Freight
+00AE,Brent,7.6,2002,HGV,Freight
+00AF,Bromley,12.3,2002,HGV,Freight
+00AG,Camden,6.8,2002,HGV,Freight
+00AH,Croydon,11.9,2002,HGV,Freight
+00AJ,Ealing,12.5,2002,HGV,Freight
+00AK,Enfield,19.4,2002,HGV,Freight
+00AL,Greenwich,12.0,2002,HGV,Freight
+00AM,Hackney,5.2,2002,HGV,Freight
+00AN,Hammersmith and Fulham,4.5,2002,HGV,Freight
+00AP,Haringey,6.5,2002,HGV,Freight
+00AQ,Harrow,5.3,2002,HGV,Freight
+00AR,Havering,27.2,2002,HGV,Freight
+00AS,Hillingdon,26.2,2002,HGV,Freight
+00AT,Hounslow,15.5,2002,HGV,Freight
+00AU,Islington,5.3,2002,HGV,Freight
+00AW,Kensington and Chelsea,6.1,2002,HGV,Freight
+00AX,Kingston upon Thames,6.7,2002,HGV,Freight
+00AY,Lambeth,8.1,2002,HGV,Freight
+00AZ,Lewisham,8.5,2002,HGV,Freight
+00BA,Merton,6.5,2002,HGV,Freight
+00BB,Newham,13.5,2002,HGV,Freight
+00BC,Redbridge,13.6,2002,HGV,Freight
+00BD,Richmond upon Thames,6.8,2002,HGV,Freight
+00BE,Southwark,8.1,2002,HGV,Freight
+00BF,Sutton,5.7,2002,HGV,Freight
+00BG,Tower Hamlets,11.8,2002,HGV,Freight
+00BH,Waltham Forest,8.7,2002,HGV,Freight
+00BJ,Wandsworth,9.0,2002,HGV,Freight
+00BK,Westminster,11.1,2002,HGV,Freight
+00AA,City of London,2.7,2002,Diesel LGV ,Freight
+00AB,Barking and Dagenham,7.9,2002,Diesel LGV ,Freight
+00AC,Barnet,21.7,2002,Diesel LGV ,Freight
+00AD,Bexley,14.0,2002,Diesel LGV ,Freight
+00AE,Brent,10.9,2002,Diesel LGV ,Freight
+00AF,Bromley,19.0,2002,Diesel LGV ,Freight
+00AG,Camden,9.5,2002,Diesel LGV ,Freight
+00AH,Croydon,17.1,2002,Diesel LGV ,Freight
+00AJ,Ealing,15.0,2002,Diesel LGV ,Freight
+00AK,Enfield,16.7,2002,Diesel LGV ,Freight
+00AL,Greenwich,13.1,2002,Diesel LGV ,Freight
+00AM,Hackney,7.9,2002,Diesel LGV ,Freight
+00AN,Hammersmith and Fulham,7.2,2002,Diesel LGV ,Freight
+00AP,Haringey,10.1,2002,Diesel LGV ,Freight
+00AQ,Harrow,8.9,2002,Diesel LGV ,Freight
+00AR,Havering,16.9,2002,Diesel LGV ,Freight
+00AS,Hillingdon,21.1,2002,Diesel LGV ,Freight
+00AT,Hounslow,16.9,2002,Diesel LGV ,Freight
+00AU,Islington,7.8,2002,Diesel LGV ,Freight
+00AW,Kensington and Chelsea,8.8,2002,Diesel LGV ,Freight
+00AX,Kingston upon Thames,8.8,2002,Diesel LGV ,Freight
+00AY,Lambeth,11.9,2002,Diesel LGV ,Freight
+00AZ,Lewisham,12.7,2002,Diesel LGV ,Freight
+00BA,Merton,8.9,2002,Diesel LGV ,Freight
+00BB,Newham,14.3,2002,Diesel LGV ,Freight
+00BC,Redbridge,17.1,2002,Diesel LGV ,Freight
+00BD,Richmond upon Thames,10.5,2002,Diesel LGV ,Freight
+00BE,Southwark,12.5,2002,Diesel LGV ,Freight
+00BF,Sutton,9.6,2002,Diesel LGV ,Freight
+00BG,Tower Hamlets,13.0,2002,Diesel LGV ,Freight
+00BH,Waltham Forest,11.3,2002,Diesel LGV ,Freight
+00BJ,Wandsworth,13.2,2002,Diesel LGV ,Freight
+00BK,Westminster,14.1,2002,Diesel LGV ,Freight
+00AA,City of London,0.5,2002,Petrol LGV,Freight
+00AB,Barking and Dagenham,1.3,2002,Petrol LGV,Freight
+00AC,Barnet,3.5,2002,Petrol LGV,Freight
+00AD,Bexley,2.2,2002,Petrol LGV,Freight
+00AE,Brent,1.7,2002,Petrol LGV,Freight
+00AF,Bromley,3.0,2002,Petrol LGV,Freight
+00AG,Camden,1.5,2002,Petrol LGV,Freight
+00AH,Croydon,2.7,2002,Petrol LGV,Freight
+00AJ,Ealing,2.4,2002,Petrol LGV,Freight
+00AK,Enfield,2.7,2002,Petrol LGV,Freight
+00AL,Greenwich,2.1,2002,Petrol LGV,Freight
+00AM,Hackney,1.3,2002,Petrol LGV,Freight
+00AN,Hammersmith and Fulham,1.2,2002,Petrol LGV,Freight
+00AP,Haringey,1.6,2002,Petrol LGV,Freight
+00AQ,Harrow,1.4,2002,Petrol LGV,Freight
+00AR,Havering,2.7,2002,Petrol LGV,Freight
+00AS,Hillingdon,3.3,2002,Petrol LGV,Freight
+00AT,Hounslow,2.7,2002,Petrol LGV,Freight
+00AU,Islington,1.3,2002,Petrol LGV,Freight
+00AW,Kensington and Chelsea,1.4,2002,Petrol LGV,Freight
+00AX,Kingston upon Thames,1.4,2002,Petrol LGV,Freight
+00AY,Lambeth,1.9,2002,Petrol LGV,Freight
+00AZ,Lewisham,2.1,2002,Petrol LGV,Freight
+00BA,Merton,1.4,2002,Petrol LGV,Freight
+00BB,Newham,2.3,2002,Petrol LGV,Freight
+00BC,Redbridge,2.7,2002,Petrol LGV,Freight
+00BD,Richmond upon Thames,1.7,2002,Petrol LGV,Freight
+00BE,Southwark,2.0,2002,Petrol LGV,Freight
+00BF,Sutton,1.5,2002,Petrol LGV,Freight
+00BG,Tower Hamlets,2.1,2002,Petrol LGV,Freight
+00BH,Waltham Forest,1.8,2002,Petrol LGV,Freight
+00BJ,Wandsworth,2.1,2002,Petrol LGV,Freight
+00BK,Westminster,2.3,2002,Petrol LGV,Freight
+00AA,City of London,2.1,2003,Buses,Personal
+00AB,Barking and Dagenham,2.9,2003,Buses,Personal
+00AC,Barnet,9.7,2003,Buses,Personal
+00AD,Bexley,6.3,2003,Buses,Personal
+00AE,Brent,5.4,2003,Buses,Personal
+00AF,Bromley,9.6,2003,Buses,Personal
+00AG,Camden,8.4,2003,Buses,Personal
+00AH,Croydon,8.8,2003,Buses,Personal
+00AJ,Ealing,6.6,2003,Buses,Personal
+00AK,Enfield,7.1,2003,Buses,Personal
+00AL,Greenwich,6.5,2003,Buses,Personal
+00AM,Hackney,6.7,2003,Buses,Personal
+00AN,Hammersmith and Fulham,5.4,2003,Buses,Personal
+00AP,Haringey,8.3,2003,Buses,Personal
+00AQ,Harrow,4.3,2003,Buses,Personal
+00AR,Havering,6.7,2003,Buses,Personal
+00AS,Hillingdon,8.0,2003,Buses,Personal
+00AT,Hounslow,8.1,2003,Buses,Personal
+00AU,Islington,6.4,2003,Buses,Personal
+00AW,Kensington and Chelsea,6.5,2003,Buses,Personal
+00AX,Kingston upon Thames,4.0,2003,Buses,Personal
+00AY,Lambeth,11.8,2003,Buses,Personal
+00AZ,Lewisham,10.2,2003,Buses,Personal
+00BA,Merton,4.5,2003,Buses,Personal
+00BB,Newham,9.3,2003,Buses,Personal
+00BC,Redbridge,6.7,2003,Buses,Personal
+00BD,Richmond upon Thames,6.3,2003,Buses,Personal
+00BE,Southwark,11.8,2003,Buses,Personal
+00BF,Sutton,4.4,2003,Buses,Personal
+00BG,Tower Hamlets,7.6,2003,Buses,Personal
+00BH,Waltham Forest,4.7,2003,Buses,Personal
+00BJ,Wandsworth,9.7,2003,Buses,Personal
+00BK,Westminster,15.3,2003,Buses,Personal
+00AA,City of London,2.3,2003,Diesel Cars,Personal
+00AB,Barking and Dagenham,6.4,2003,Diesel Cars,Personal
+00AC,Barnet,18.8,2003,Diesel Cars,Personal
+00AD,Bexley,11.5,2003,Diesel Cars,Personal
+00AE,Brent,9.4,2003,Diesel Cars,Personal
+00AF,Bromley,16.4,2003,Diesel Cars,Personal
+00AG,Camden,7.6,2003,Diesel Cars,Personal
+00AH,Croydon,14.5,2003,Diesel Cars,Personal
+00AJ,Ealing,12.9,2003,Diesel Cars,Personal
+00AK,Enfield,14.0,2003,Diesel Cars,Personal
+00AL,Greenwich,10.2,2003,Diesel Cars,Personal
+00AM,Hackney,6.2,2003,Diesel Cars,Personal
+00AN,Hammersmith and Fulham,6.0,2003,Diesel Cars,Personal
+00AP,Haringey,8.3,2003,Diesel Cars,Personal
+00AQ,Harrow,8.3,2003,Diesel Cars,Personal
+00AR,Havering,13.4,2003,Diesel Cars,Personal
+00AS,Hillingdon,19.5,2003,Diesel Cars,Personal
+00AT,Hounslow,16.1,2003,Diesel Cars,Personal
+00AU,Islington,5.9,2003,Diesel Cars,Personal
+00AW,Kensington and Chelsea,7.1,2003,Diesel Cars,Personal
+00AX,Kingston upon Thames,8.7,2003,Diesel Cars,Personal
+00AY,Lambeth,9.3,2003,Diesel Cars,Personal
+00AZ,Lewisham,10.4,2003,Diesel Cars,Personal
+00BA,Merton,7.5,2003,Diesel Cars,Personal
+00BB,Newham,11.7,2003,Diesel Cars,Personal
+00BC,Redbridge,13.6,2003,Diesel Cars,Personal
+00BD,Richmond upon Thames,9.7,2003,Diesel Cars,Personal
+00BE,Southwark,9.7,2003,Diesel Cars,Personal
+00BF,Sutton,8.1,2003,Diesel Cars,Personal
+00BG,Tower Hamlets,9.3,2003,Diesel Cars,Personal
+00BH,Waltham Forest,8.7,2003,Diesel Cars,Personal
+00BJ,Wandsworth,10.7,2003,Diesel Cars,Personal
+00BK,Westminster,11.9,2003,Diesel Cars,Personal
+00AA,City of London,12.2,2003,Petrol Cars,Personal
+00AB,Barking and Dagenham,33.6,2003,Petrol Cars,Personal
+00AC,Barnet,97.6,2003,Petrol Cars,Personal
+00AD,Bexley,59.8,2003,Petrol Cars,Personal
+00AE,Brent,48.7,2003,Petrol Cars,Personal
+00AF,Bromley,85.2,2003,Petrol Cars,Personal
+00AG,Camden,40.5,2003,Petrol Cars,Personal
+00AH,Croydon,75.5,2003,Petrol Cars,Personal
+00AJ,Ealing,67.3,2003,Petrol Cars,Personal
+00AK,Enfield,73.0,2003,Petrol Cars,Personal
+00AL,Greenwich,53.1,2003,Petrol Cars,Personal
+00AM,Hackney,32.9,2003,Petrol Cars,Personal
+00AN,Hammersmith and Fulham,31.7,2003,Petrol Cars,Personal
+00AP,Haringey,44.0,2003,Petrol Cars,Personal
+00AQ,Harrow,43.2,2003,Petrol Cars,Personal
+00AR,Havering,70.2,2003,Petrol Cars,Personal
+00AS,Hillingdon,101.7,2003,Petrol Cars,Personal
+00AT,Hounslow,83.7,2003,Petrol Cars,Personal
+00AU,Islington,31.2,2003,Petrol Cars,Personal
+00AW,Kensington and Chelsea,37.7,2003,Petrol Cars,Personal
+00AX,Kingston upon Thames,45.6,2003,Petrol Cars,Personal
+00AY,Lambeth,49.2,2003,Petrol Cars,Personal
+00AZ,Lewisham,55.1,2003,Petrol Cars,Personal
+00BA,Merton,38.8,2003,Petrol Cars,Personal
+00BB,Newham,61.8,2003,Petrol Cars,Personal
+00BC,Redbridge,71.0,2003,Petrol Cars,Personal
+00BD,Richmond upon Thames,50.6,2003,Petrol Cars,Personal
+00BE,Southwark,51.3,2003,Petrol Cars,Personal
+00BF,Sutton,42.3,2003,Petrol Cars,Personal
+00BG,Tower Hamlets,49.1,2003,Petrol Cars,Personal
+00BH,Waltham Forest,45.5,2003,Petrol Cars,Personal
+00BJ,Wandsworth,56.6,2003,Petrol Cars,Personal
+00BK,Westminster,63.9,2003,Petrol Cars,Personal
+00AA,City of London,0.7,2003,Motor-cycles,Personal
+00AB,Barking and Dagenham,0.5,2003,Motor-cycles,Personal
+00AC,Barnet,1.3,2003,Motor-cycles,Personal
+00AD,Bexley,0.9,2003,Motor-cycles,Personal
+00AE,Brent,0.7,2003,Motor-cycles,Personal
+00AF,Bromley,1.3,2003,Motor-cycles,Personal
+00AG,Camden,1.5,2003,Motor-cycles,Personal
+00AH,Croydon,1.2,2003,Motor-cycles,Personal
+00AJ,Ealing,1,2003,Motor-cycles,Personal
+00AK,Enfield,0.8,2003,Motor-cycles,Personal
+00AL,Greenwich,1,2003,Motor-cycles,Personal
+00AM,Hackney,0.7,2003,Motor-cycles,Personal
+00AN,Hammersmith and Fulham,0.9,2003,Motor-cycles,Personal
+00AP,Haringey,0.9,2003,Motor-cycles,Personal
+00AQ,Harrow,0.5,2003,Motor-cycles,Personal
+00AR,Havering,1,2003,Motor-cycles,Personal
+00AS,Hillingdon,1.2,2003,Motor-cycles,Personal
+00AT,Hounslow,1.2,2003,Motor-cycles,Personal
+00AU,Islington,1.1,2003,Motor-cycles,Personal
+00AW,Kensington and Chelsea,1.2,2003,Motor-cycles,Personal
+00AX,Kingston upon Thames,0.7,2003,Motor-cycles,Personal
+00AY,Lambeth,1.5,2003,Motor-cycles,Personal
+00AZ,Lewisham,1.1,2003,Motor-cycles,Personal
+00BA,Merton,0.7,2003,Motor-cycles,Personal
+00BB,Newham,1.1,2003,Motor-cycles,Personal
+00BC,Redbridge,0.9,2003,Motor-cycles,Personal
+00BD,Richmond upon Thames,0.9,2003,Motor-cycles,Personal
+00BE,Southwark,1.6,2003,Motor-cycles,Personal
+00BF,Sutton,0.7,2003,Motor-cycles,Personal
+00BG,Tower Hamlets,1.8,2003,Motor-cycles,Personal
+00BH,Waltham Forest,0.7,2003,Motor-cycles,Personal
+00BJ,Wandsworth,1.6,2003,Motor-cycles,Personal
+00BK,Westminster,3,2003,Motor-cycles,Personal
+00AA,City of London,2.2,2003,HGV,Freight
+00AB,Barking and Dagenham,9.7,2003,HGV,Freight
+00AC,Barnet,16.0,2003,HGV,Freight
+00AD,Bexley,11.7,2003,HGV,Freight
+00AE,Brent,8.3,2003,HGV,Freight
+00AF,Bromley,11.5,2003,HGV,Freight
+00AG,Camden,6.5,2003,HGV,Freight
+00AH,Croydon,12.3,2003,HGV,Freight
+00AJ,Ealing,12.5,2003,HGV,Freight
+00AK,Enfield,20.8,2003,HGV,Freight
+00AL,Greenwich,12.1,2003,HGV,Freight
+00AM,Hackney,5.2,2003,HGV,Freight
+00AN,Hammersmith and Fulham,4.6,2003,HGV,Freight
+00AP,Haringey,6.4,2003,HGV,Freight
+00AQ,Harrow,5.2,2003,HGV,Freight
+00AR,Havering,26.8,2003,HGV,Freight
+00AS,Hillingdon,26.7,2003,HGV,Freight
+00AT,Hounslow,15.5,2003,HGV,Freight
+00AU,Islington,5.2,2003,HGV,Freight
+00AW,Kensington and Chelsea,6.0,2003,HGV,Freight
+00AX,Kingston upon Thames,6.5,2003,HGV,Freight
+00AY,Lambeth,7.8,2003,HGV,Freight
+00AZ,Lewisham,8.5,2003,HGV,Freight
+00BA,Merton,6.7,2003,HGV,Freight
+00BB,Newham,14.2,2003,HGV,Freight
+00BC,Redbridge,14.8,2003,HGV,Freight
+00BD,Richmond upon Thames,7.0,2003,HGV,Freight
+00BE,Southwark,8.1,2003,HGV,Freight
+00BF,Sutton,6.2,2003,HGV,Freight
+00BG,Tower Hamlets,11.2,2003,HGV,Freight
+00BH,Waltham Forest,9.7,2003,HGV,Freight
+00BJ,Wandsworth,9.2,2003,HGV,Freight
+00BK,Westminster,10.8,2003,HGV,Freight
+00AA,City of London,3.0,2003,Diesel LGV,Freight
+00AB,Barking and Dagenham,8.2,2003,Diesel LGV,Freight
+00AC,Barnet,23.1,2003,Diesel LGV,Freight
+00AD,Bexley,15.1,2003,Diesel LGV,Freight
+00AE,Brent,11.8,2003,Diesel LGV,Freight
+00AF,Bromley,20.4,2003,Diesel LGV,Freight
+00AG,Camden,10.0,2003,Diesel LGV,Freight
+00AH,Croydon,18.3,2003,Diesel LGV,Freight
+00AJ,Ealing,16.3,2003,Diesel LGV,Freight
+00AK,Enfield,18.3,2003,Diesel LGV,Freight
+00AL,Greenwich,13.9,2003,Diesel LGV,Freight
+00AM,Hackney,8.2,2003,Diesel LGV,Freight
+00AN,Hammersmith and Fulham,7.6,2003,Diesel LGV,Freight
+00AP,Haringey,10.6,2003,Diesel LGV,Freight
+00AQ,Harrow,9.4,2003,Diesel LGV,Freight
+00AR,Havering,17.3,2003,Diesel LGV,Freight
+00AS,Hillingdon,22.1,2003,Diesel LGV,Freight
+00AT,Hounslow,17.7,2003,Diesel LGV,Freight
+00AU,Islington,8.1,2003,Diesel LGV,Freight
+00AW,Kensington and Chelsea,9.6,2003,Diesel LGV,Freight
+00AX,Kingston upon Thames,9.6,2003,Diesel LGV,Freight
+00AY,Lambeth,12.5,2003,Diesel LGV,Freight
+00AZ,Lewisham,13.1,2003,Diesel LGV,Freight
+00BA,Merton,9.4,2003,Diesel LGV,Freight
+00BB,Newham,15.1,2003,Diesel LGV,Freight
+00BC,Redbridge,17.6,2003,Diesel LGV,Freight
+00BD,Richmond upon Thames,11.1,2003,Diesel LGV,Freight
+00BE,Southwark,13.4,2003,Diesel LGV,Freight
+00BF,Sutton,9.9,2003,Diesel LGV,Freight
+00BG,Tower Hamlets,13.6,2003,Diesel LGV,Freight
+00BH,Waltham Forest,12.4,2003,Diesel LGV,Freight
+00BJ,Wandsworth,13.5,2003,Diesel LGV,Freight
+00BK,Westminster,15.6,2003,Diesel LGV,Freight
+00AA,City of London,0.4,2003,Petrol LGV,Freight
+00AB,Barking and Dagenham,1.1,2003,Petrol LGV,Freight
+00AC,Barnet,3.0,2003,Petrol LGV,Freight
+00AD,Bexley,1.9,2003,Petrol LGV,Freight
+00AE,Brent,1.5,2003,Petrol LGV,Freight
+00AF,Bromley,2.6,2003,Petrol LGV,Freight
+00AG,Camden,1.3,2003,Petrol LGV,Freight
+00AH,Croydon,2.4,2003,Petrol LGV,Freight
+00AJ,Ealing,2.1,2003,Petrol LGV,Freight
+00AK,Enfield,2.4,2003,Petrol LGV,Freight
+00AL,Greenwich,1.8,2003,Petrol LGV,Freight
+00AM,Hackney,1.1,2003,Petrol LGV,Freight
+00AN,Hammersmith and Fulham,1.0,2003,Petrol LGV,Freight
+00AP,Haringey,1.4,2003,Petrol LGV,Freight
+00AQ,Harrow,1.2,2003,Petrol LGV,Freight
+00AR,Havering,2.2,2003,Petrol LGV,Freight
+00AS,Hillingdon,2.8,2003,Petrol LGV,Freight
+00AT,Hounslow,2.3,2003,Petrol LGV,Freight
+00AU,Islington,1.1,2003,Petrol LGV,Freight
+00AW,Kensington and Chelsea,1.2,2003,Petrol LGV,Freight
+00AX,Kingston upon Thames,1.2,2003,Petrol LGV,Freight
+00AY,Lambeth,1.6,2003,Petrol LGV,Freight
+00AZ,Lewisham,1.7,2003,Petrol LGV,Freight
+00BA,Merton,1.2,2003,Petrol LGV,Freight
+00BB,Newham,2.0,2003,Petrol LGV,Freight
+00BC,Redbridge,2.3,2003,Petrol LGV,Freight
+00BD,Richmond upon Thames,1.4,2003,Petrol LGV,Freight
+00BE,Southwark,1.8,2003,Petrol LGV,Freight
+00BF,Sutton,1.3,2003,Petrol LGV,Freight
+00BG,Tower Hamlets,1.8,2003,Petrol LGV,Freight
+00BH,Waltham Forest,1.6,2003,Petrol LGV,Freight
+00BJ,Wandsworth,1.8,2003,Petrol LGV,Freight
+00BK,Westminster,2.1,2003,Petrol LGV,Freight
+00AA,City of London,1.6,2004,Buses,Personal
+00AB,Barking and Dagenham,3.3,2004,Buses,Personal
+00AC,Barnet,9.7,2004,Buses,Personal
+00AD,Bexley,6.4,2004,Buses,Personal
+00AE,Brent,5.7,2004,Buses,Personal
+00AF,Bromley,10.3,2004,Buses,Personal
+00AG,Camden,7.9,2004,Buses,Personal
+00AH,Croydon,9.6,2004,Buses,Personal
+00AJ,Ealing,6.8,2004,Buses,Personal
+00AK,Enfield,7.3,2004,Buses,Personal
+00AL,Greenwich,6.7,2004,Buses,Personal
+00AM,Hackney,7.5,2004,Buses,Personal
+00AN,Hammersmith and Fulham,6.0,2004,Buses,Personal
+00AP,Haringey,8.4,2004,Buses,Personal
+00AQ,Harrow,4.6,2004,Buses,Personal
+00AR,Havering,6.6,2004,Buses,Personal
+00AS,Hillingdon,7.9,2004,Buses,Personal
+00AT,Hounslow,8.5,2004,Buses,Personal
+00AU,Islington,6.4,2004,Buses,Personal
+00AW,Kensington and Chelsea,6.7,2004,Buses,Personal
+00AX,Kingston upon Thames,4.1,2004,Buses,Personal
+00AY,Lambeth,12.6,2004,Buses,Personal
+00AZ,Lewisham,10.6,2004,Buses,Personal
+00BA,Merton,4.9,2004,Buses,Personal
+00BB,Newham,8.8,2004,Buses,Personal
+00BC,Redbridge,6.7,2004,Buses,Personal
+00BD,Richmond upon Thames,6.6,2004,Buses,Personal
+00BE,Southwark,12.3,2004,Buses,Personal
+00BF,Sutton,4.6,2004,Buses,Personal
+00BG,Tower Hamlets,7.3,2004,Buses,Personal
+00BH,Waltham Forest,5.0,2004,Buses,Personal
+00BJ,Wandsworth,10.1,2004,Buses,Personal
+00BK,Westminster,16.2,2004,Buses,Personal
+00AA,City of London,1.6,2004,Diesel Cars,Personal
+00AB,Barking and Dagenham,7.0,2004,Diesel Cars,Personal
+00AC,Barnet,19.8,2004,Diesel Cars,Personal
+00AD,Bexley,12.1,2004,Diesel Cars,Personal
+00AE,Brent,10.0,2004,Diesel Cars,Personal
+00AF,Bromley,18.1,2004,Diesel Cars,Personal
+00AG,Camden,7.8,2004,Diesel Cars,Personal
+00AH,Croydon,15.7,2004,Diesel Cars,Personal
+00AJ,Ealing,13.4,2004,Diesel Cars,Personal
+00AK,Enfield,15.7,2004,Diesel Cars,Personal
+00AL,Greenwich,11.0,2004,Diesel Cars,Personal
+00AM,Hackney,6.9,2004,Diesel Cars,Personal
+00AN,Hammersmith and Fulham,7.3,2004,Diesel Cars,Personal
+00AP,Haringey,8.7,2004,Diesel Cars,Personal
+00AQ,Harrow,9.0,2004,Diesel Cars,Personal
+00AR,Havering,14.5,2004,Diesel Cars,Personal
+00AS,Hillingdon,20.1,2004,Diesel Cars,Personal
+00AT,Hounslow,17.7,2004,Diesel Cars,Personal
+00AU,Islington,5.8,2004,Diesel Cars,Personal
+00AW,Kensington and Chelsea,7.4,2004,Diesel Cars,Personal
+00AX,Kingston upon Thames,9.4,2004,Diesel Cars,Personal
+00AY,Lambeth,10.1,2004,Diesel Cars,Personal
+00AZ,Lewisham,11.0,2004,Diesel Cars,Personal
+00BA,Merton,7.8,2004,Diesel Cars,Personal
+00BB,Newham,12.1,2004,Diesel Cars,Personal
+00BC,Redbridge,14.2,2004,Diesel Cars,Personal
+00BD,Richmond upon Thames,10.5,2004,Diesel Cars,Personal
+00BE,Southwark,10.7,2004,Diesel Cars,Personal
+00BF,Sutton,8.6,2004,Diesel Cars,Personal
+00BG,Tower Hamlets,9.6,2004,Diesel Cars,Personal
+00BH,Waltham Forest,9.4,2004,Diesel Cars,Personal
+00BJ,Wandsworth,11.6,2004,Diesel Cars,Personal
+00BK,Westminster,12.8,2004,Diesel Cars,Personal
+00AA,City of London,7.6,2004,Petrol Cars,Personal
+00AB,Barking and Dagenham,33.1,2004,Petrol Cars,Personal
+00AC,Barnet,93.8,2004,Petrol Cars,Personal
+00AD,Bexley,57.8,2004,Petrol Cars,Personal
+00AE,Brent,47.6,2004,Petrol Cars,Personal
+00AF,Bromley,86.1,2004,Petrol Cars,Personal
+00AG,Camden,38.0,2004,Petrol Cars,Personal
+00AH,Croydon,74.9,2004,Petrol Cars,Personal
+00AJ,Ealing,63.9,2004,Petrol Cars,Personal
+00AK,Enfield,74.7,2004,Petrol Cars,Personal
+00AL,Greenwich,52.3,2004,Petrol Cars,Personal
+00AM,Hackney,33.0,2004,Petrol Cars,Personal
+00AN,Hammersmith and Fulham,34.9,2004,Petrol Cars,Personal
+00AP,Haringey,41.9,2004,Petrol Cars,Personal
+00AQ,Harrow,42.9,2004,Petrol Cars,Personal
+00AR,Havering,69.4,2004,Petrol Cars,Personal
+00AS,Hillingdon,95.4,2004,Petrol Cars,Personal
+00AT,Hounslow,83.4,2004,Petrol Cars,Personal
+00AU,Islington,27.9,2004,Petrol Cars,Personal
+00AW,Kensington and Chelsea,35.5,2004,Petrol Cars,Personal
+00AX,Kingston upon Thames,44.6,2004,Petrol Cars,Personal
+00AY,Lambeth,48.5,2004,Petrol Cars,Personal
+00AZ,Lewisham,53.2,2004,Petrol Cars,Personal
+00BA,Merton,37.3,2004,Petrol Cars,Personal
+00BB,Newham,57.8,2004,Petrol Cars,Personal
+00BC,Redbridge,67.2,2004,Petrol Cars,Personal
+00BD,Richmond upon Thames,49.6,2004,Petrol Cars,Personal
+00BE,Southwark,51.4,2004,Petrol Cars,Personal
+00BF,Sutton,41.0,2004,Petrol Cars,Personal
+00BG,Tower Hamlets,46.0,2004,Petrol Cars,Personal
+00BH,Waltham Forest,44.7,2004,Petrol Cars,Personal
+00BJ,Wandsworth,55.5,2004,Petrol Cars,Personal
+00BK,Westminster,62.3,2004,Petrol Cars,Personal
+00AA,City of London,0.4,2004,Motor-cycles,Personal
+00AB,Barking and Dagenham,0.5,2004,Motor-cycles,Personal
+00AC,Barnet,1.2,2004,Motor-cycles,Personal
+00AD,Bexley,0.8,2004,Motor-cycles,Personal
+00AE,Brent,0.6,2004,Motor-cycles,Personal
+00AF,Bromley,1.3,2004,Motor-cycles,Personal
+00AG,Camden,1.3,2004,Motor-cycles,Personal
+00AH,Croydon,1.2,2004,Motor-cycles,Personal
+00AJ,Ealing,0.9,2004,Motor-cycles,Personal
+00AK,Enfield,0.8,2004,Motor-cycles,Personal
+00AL,Greenwich,0.9,2004,Motor-cycles,Personal
+00AM,Hackney,0.7,2004,Motor-cycles,Personal
+00AN,Hammersmith and Fulham,1.1,2004,Motor-cycles,Personal
+00AP,Haringey,0.8,2004,Motor-cycles,Personal
+00AQ,Harrow,0.5,2004,Motor-cycles,Personal
+00AR,Havering,0.9,2004,Motor-cycles,Personal
+00AS,Hillingdon,1.1,2004,Motor-cycles,Personal
+00AT,Hounslow,1.2,2004,Motor-cycles,Personal
+00AU,Islington,1,2004,Motor-cycles,Personal
+00AW,Kensington and Chelsea,1.2,2004,Motor-cycles,Personal
+00AX,Kingston upon Thames,0.7,2004,Motor-cycles,Personal
+00AY,Lambeth,1.7,2004,Motor-cycles,Personal
+00AZ,Lewisham,1.2,2004,Motor-cycles,Personal
+00BA,Merton,0.7,2004,Motor-cycles,Personal
+00BB,Newham,1,2004,Motor-cycles,Personal
+00BC,Redbridge,0.9,2004,Motor-cycles,Personal
+00BD,Richmond upon Thames,0.9,2004,Motor-cycles,Personal
+00BE,Southwark,1.7,2004,Motor-cycles,Personal
+00BF,Sutton,0.7,2004,Motor-cycles,Personal
+00BG,Tower Hamlets,1.6,2004,Motor-cycles,Personal
+00BH,Waltham Forest,0.6,2004,Motor-cycles,Personal
+00BJ,Wandsworth,1.8,2004,Motor-cycles,Personal
+00BK,Westminster,3.1,2004,Motor-cycles,Personal
+00AA,City of London,1.2,2004,HGV,Freight
+00AB,Barking and Dagenham,9.4,2004,HGV,Freight
+00AC,Barnet,16.1,2004,HGV,Freight
+00AD,Bexley,11.3,2004,HGV,Freight
+00AE,Brent,8.2,2004,HGV,Freight
+00AF,Bromley,12.6,2004,HGV,Freight
+00AG,Camden,6.7,2004,HGV,Freight
+00AH,Croydon,13.5,2004,HGV,Freight
+00AJ,Ealing,12.9,2004,HGV,Freight
+00AK,Enfield,27.3,2004,HGV,Freight
+00AL,Greenwich,12.0,2004,HGV,Freight
+00AM,Hackney,6.5,2004,HGV,Freight
+00AN,Hammersmith and Fulham,5.7,2004,HGV,Freight
+00AP,Haringey,6.7,2004,HGV,Freight
+00AQ,Harrow,6.0,2004,HGV,Freight
+00AR,Havering,30.1,2004,HGV,Freight
+00AS,Hillingdon,25.9,2004,HGV,Freight
+00AT,Hounslow,17.2,2004,HGV,Freight
+00AU,Islington,5.3,2004,HGV,Freight
+00AW,Kensington and Chelsea,5.8,2004,HGV,Freight
+00AX,Kingston upon Thames,7.2,2004,HGV,Freight
+00AY,Lambeth,8.4,2004,HGV,Freight
+00AZ,Lewisham,9.4,2004,HGV,Freight
+00BA,Merton,7.0,2004,HGV,Freight
+00BB,Newham,14.3,2004,HGV,Freight
+00BC,Redbridge,14.9,2004,HGV,Freight
+00BD,Richmond upon Thames,7.6,2004,HGV,Freight
+00BE,Southwark,9.4,2004,HGV,Freight
+00BF,Sutton,6.4,2004,HGV,Freight
+00BG,Tower Hamlets,11.0,2004,HGV,Freight
+00BH,Waltham Forest,9.5,2004,HGV,Freight
+00BJ,Wandsworth,10.5,2004,HGV,Freight
+00BK,Westminster,11.0,2004,HGV,Freight
+00AA,City of London,1.9,2004,Diesel LGV ,Freight
+00AB,Barking and Dagenham,8.3,2004,Diesel LGV ,Freight
+00AC,Barnet,22.5,2004,Diesel LGV ,Freight
+00AD,Bexley,14.7,2004,Diesel LGV ,Freight
+00AE,Brent,11.6,2004,Diesel LGV ,Freight
+00AF,Bromley,21.3,2004,Diesel LGV ,Freight
+00AG,Camden,10.0,2004,Diesel LGV ,Freight
+00AH,Croydon,18.8,2004,Diesel LGV ,Freight
+00AJ,Ealing,15.4,2004,Diesel LGV ,Freight
+00AK,Enfield,18.2,2004,Diesel LGV ,Freight
+00AL,Greenwich,13.8,2004,Diesel LGV ,Freight
+00AM,Hackney,9.2,2004,Diesel LGV ,Freight
+00AN,Hammersmith and Fulham,9.1,2004,Diesel LGV ,Freight
+00AP,Haringey,10.9,2004,Diesel LGV ,Freight
+00AQ,Harrow,9.7,2004,Diesel LGV ,Freight
+00AR,Havering,18.1,2004,Diesel LGV ,Freight
+00AS,Hillingdon,21.5,2004,Diesel LGV ,Freight
+00AT,Hounslow,18.0,2004,Diesel LGV ,Freight
+00AU,Islington,8.1,2004,Diesel LGV ,Freight
+00AW,Kensington and Chelsea,9.3,2004,Diesel LGV ,Freight
+00AX,Kingston upon Thames,9.8,2004,Diesel LGV ,Freight
+00AY,Lambeth,13.8,2004,Diesel LGV ,Freight
+00AZ,Lewisham,14.1,2004,Diesel LGV ,Freight
+00BA,Merton,9.5,2004,Diesel LGV ,Freight
+00BB,Newham,15.0,2004,Diesel LGV ,Freight
+00BC,Redbridge,16.8,2004,Diesel LGV ,Freight
+00BD,Richmond upon Thames,11.1,2004,Diesel LGV ,Freight
+00BE,Southwark,14.4,2004,Diesel LGV ,Freight
+00BF,Sutton,10.2,2004,Diesel LGV ,Freight
+00BG,Tower Hamlets,14.0,2004,Diesel LGV ,Freight
+00BH,Waltham Forest,11.9,2004,Diesel LGV ,Freight
+00BJ,Wandsworth,14.8,2004,Diesel LGV ,Freight
+00BK,Westminster,15.7,2004,Diesel LGV ,Freight
+00AA,City of London,0.2,2004,Petrol LGV,Freight
+00AB,Barking and Dagenham,1.0,2004,Petrol LGV,Freight
+00AC,Barnet,2.6,2004,Petrol LGV,Freight
+00AD,Bexley,1.7,2004,Petrol LGV,Freight
+00AE,Brent,1.3,2004,Petrol LGV,Freight
+00AF,Bromley,2.5,2004,Petrol LGV,Freight
+00AG,Camden,1.2,2004,Petrol LGV,Freight
+00AH,Croydon,2.2,2004,Petrol LGV,Freight
+00AJ,Ealing,1.8,2004,Petrol LGV,Freight
+00AK,Enfield,2.1,2004,Petrol LGV,Freight
+00AL,Greenwich,1.6,2004,Petrol LGV,Freight
+00AM,Hackney,1.1,2004,Petrol LGV,Freight
+00AN,Hammersmith and Fulham,1.0,2004,Petrol LGV,Freight
+00AP,Haringey,1.3,2004,Petrol LGV,Freight
+00AQ,Harrow,1.1,2004,Petrol LGV,Freight
+00AR,Havering,2.1,2004,Petrol LGV,Freight
+00AS,Hillingdon,2.4,2004,Petrol LGV,Freight
+00AT,Hounslow,2.0,2004,Petrol LGV,Freight
+00AU,Islington,0.9,2004,Petrol LGV,Freight
+00AW,Kensington and Chelsea,1.1,2004,Petrol LGV,Freight
+00AX,Kingston upon Thames,1.1,2004,Petrol LGV,Freight
+00AY,Lambeth,1.6,2004,Petrol LGV,Freight
+00AZ,Lewisham,1.6,2004,Petrol LGV,Freight
+00BA,Merton,1.1,2004,Petrol LGV,Freight
+00BB,Newham,1.7,2004,Petrol LGV,Freight
+00BC,Redbridge,1.9,2004,Petrol LGV,Freight
+00BD,Richmond upon Thames,1.3,2004,Petrol LGV,Freight
+00BE,Southwark,1.7,2004,Petrol LGV,Freight
+00BF,Sutton,1.2,2004,Petrol LGV,Freight
+00BG,Tower Hamlets,1.6,2004,Petrol LGV,Freight
+00BH,Waltham Forest,1.4,2004,Petrol LGV,Freight
+00BJ,Wandsworth,1.7,2004,Petrol LGV,Freight
+00BK,Westminster,1.8,2004,Petrol LGV,Freight
+00AA,City of London,1.7,2005,Buses,Personal
+00AB,Barking and Dagenham,1.8,2005,Buses,Personal
+00AC,Barnet,5.2,2005,Buses,Personal
+00AD,Bexley,3.3,2005,Buses,Personal
+00AE,Brent,3.8,2005,Buses,Personal
+00AF,Bromley,5.4,2005,Buses,Personal
+00AG,Camden,4.4,2005,Buses,Personal
+00AH,Croydon,5.3,2005,Buses,Personal
+00AJ,Ealing,4.3,2005,Buses,Personal
+00AK,Enfield,4.1,2005,Buses,Personal
+00AL,Greenwich,4.9,2005,Buses,Personal
+00AM,Hackney,4.3,2005,Buses,Personal
+00AN,Hammersmith and Fulham,3.5,2005,Buses,Personal
+00AP,Haringey,4.3,2005,Buses,Personal
+00AQ,Harrow,2.4,2005,Buses,Personal
+00AR,Havering,3.7,2005,Buses,Personal
+00AS,Hillingdon,6.4,2005,Buses,Personal
+00AT,Hounslow,5.7,2005,Buses,Personal
+00AU,Islington,3.8,2005,Buses,Personal
+00AW,Kensington and Chelsea,3.8,2005,Buses,Personal
+00AX,Kingston upon Thames,3.0,2005,Buses,Personal
+00AY,Lambeth,7.7,2005,Buses,Personal
+00AZ,Lewisham,5.7,2005,Buses,Personal
+00BA,Merton,3.0,2005,Buses,Personal
+00BB,Newham,4.3,2005,Buses,Personal
+00BC,Redbridge,3.2,2005,Buses,Personal
+00BD,Richmond upon Thames,4.0,2005,Buses,Personal
+00BE,Southwark,7.4,2005,Buses,Personal
+00BF,Sutton,2.7,2005,Buses,Personal
+00BG,Tower Hamlets,4.3,2005,Buses,Personal
+00BH,Waltham Forest,2.6,2005,Buses,Personal
+00BJ,Wandsworth,4.7,2005,Buses,Personal
+00BK,Westminster,11.3,2005,Buses,Personal
+00AA,City of London,2.2,2005,Diesel Cars,Personal
+00AB,Barking and Dagenham,6.4,2005,Diesel Cars,Personal
+00AC,Barnet,19.1,2005,Diesel Cars,Personal
+00AD,Bexley,9.7,2005,Diesel Cars,Personal
+00AE,Brent,9.8,2005,Diesel Cars,Personal
+00AF,Bromley,14.4,2005,Diesel Cars,Personal
+00AG,Camden,5.9,2005,Diesel Cars,Personal
+00AH,Croydon,13.6,2005,Diesel Cars,Personal
+00AJ,Ealing,13.2,2005,Diesel Cars,Personal
+00AK,Enfield,17.8,2005,Diesel Cars,Personal
+00AL,Greenwich,11.7,2005,Diesel Cars,Personal
+00AM,Hackney,6.0,2005,Diesel Cars,Personal
+00AN,Hammersmith and Fulham,6.6,2005,Diesel Cars,Personal
+00AP,Haringey,7.1,2005,Diesel Cars,Personal
+00AQ,Harrow,7.3,2005,Diesel Cars,Personal
+00AR,Havering,17.3,2005,Diesel Cars,Personal
+00AS,Hillingdon,27.5,2005,Diesel Cars,Personal
+00AT,Hounslow,20.2,2005,Diesel Cars,Personal
+00AU,Islington,5.0,2005,Diesel Cars,Personal
+00AW,Kensington and Chelsea,6.3,2005,Diesel Cars,Personal
+00AX,Kingston upon Thames,10.3,2005,Diesel Cars,Personal
+00AY,Lambeth,9.6,2005,Diesel Cars,Personal
+00AZ,Lewisham,9.9,2005,Diesel Cars,Personal
+00BA,Merton,6.7,2005,Diesel Cars,Personal
+00BB,Newham,10.4,2005,Diesel Cars,Personal
+00BC,Redbridge,11.3,2005,Diesel Cars,Personal
+00BD,Richmond upon Thames,9.1,2005,Diesel Cars,Personal
+00BE,Southwark,9.5,2005,Diesel Cars,Personal
+00BF,Sutton,7.4,2005,Diesel Cars,Personal
+00BG,Tower Hamlets,10.4,2005,Diesel Cars,Personal
+00BH,Waltham Forest,7.4,2005,Diesel Cars,Personal
+00BJ,Wandsworth,9.8,2005,Diesel Cars,Personal
+00BK,Westminster,11.4,2005,Diesel Cars,Personal
+00AA,City of London,9.3,2005,Petrol Cars,Personal
+00AB,Barking and Dagenham,25.0,2005,Petrol Cars,Personal
+00AC,Barnet,62.9,2005,Petrol Cars,Personal
+00AD,Bexley,37.3,2005,Petrol Cars,Personal
+00AE,Brent,39.4,2005,Petrol Cars,Personal
+00AF,Bromley,55.4,2005,Petrol Cars,Personal
+00AG,Camden,24.4,2005,Petrol Cars,Personal
+00AH,Croydon,54.5,2005,Petrol Cars,Personal
+00AJ,Ealing,52.2,2005,Petrol Cars,Personal
+00AK,Enfield,54.9,2005,Petrol Cars,Personal
+00AL,Greenwich,46.9,2005,Petrol Cars,Personal
+00AM,Hackney,24.6,2005,Petrol Cars,Personal
+00AN,Hammersmith and Fulham,26.8,2005,Petrol Cars,Personal
+00AP,Haringey,29.2,2005,Petrol Cars,Personal
+00AQ,Harrow,27.9,2005,Petrol Cars,Personal
+00AR,Havering,51.7,2005,Petrol Cars,Personal
+00AS,Hillingdon,86.0,2005,Petrol Cars,Personal
+00AT,Hounslow,64.1,2005,Petrol Cars,Personal
+00AU,Islington,20.4,2005,Petrol Cars,Personal
+00AW,Kensington and Chelsea,25.6,2005,Petrol Cars,Personal
+00AX,Kingston upon Thames,40.1,2005,Petrol Cars,Personal
+00AY,Lambeth,39.2,2005,Petrol Cars,Personal
+00AZ,Lewisham,40.3,2005,Petrol Cars,Personal
+00BA,Merton,27.1,2005,Petrol Cars,Personal
+00BB,Newham,42.6,2005,Petrol Cars,Personal
+00BC,Redbridge,42.0,2005,Petrol Cars,Personal
+00BD,Richmond upon Thames,36.7,2005,Petrol Cars,Personal
+00BE,Southwark,38.9,2005,Petrol Cars,Personal
+00BF,Sutton,29.8,2005,Petrol Cars,Personal
+00BG,Tower Hamlets,42.7,2005,Petrol Cars,Personal
+00BH,Waltham Forest,29.8,2005,Petrol Cars,Personal
+00BJ,Wandsworth,40.1,2005,Petrol Cars,Personal
+00BK,Westminster,47.1,2005,Petrol Cars,Personal
+00AA,City of London,0.7,2005,Motor-cycles,Personal
+00AB,Barking and Dagenham,0.4,2005,Motor-cycles,Personal
+00AC,Barnet,0.9,2005,Motor-cycles,Personal
+00AD,Bexley,0.6,2005,Motor-cycles,Personal
+00AE,Brent,0.6,2005,Motor-cycles,Personal
+00AF,Bromley,1.0,2005,Motor-cycles,Personal
+00AG,Camden,1.2,2005,Motor-cycles,Personal
+00AH,Croydon,1.0,2005,Motor-cycles,Personal
+00AJ,Ealing,0.9,2005,Motor-cycles,Personal
+00AK,Enfield,0.7,2005,Motor-cycles,Personal
+00AL,Greenwich,1.0,2005,Motor-cycles,Personal
+00AM,Hackney,0.8,2005,Motor-cycles,Personal
+00AN,Hammersmith and Fulham,1.1,2005,Motor-cycles,Personal
+00AP,Haringey,0.8,2005,Motor-cycles,Personal
+00AQ,Harrow,0.4,2005,Motor-cycles,Personal
+00AR,Havering,0.8,2005,Motor-cycles,Personal
+00AS,Hillingdon,1.3,2005,Motor-cycles,Personal
+00AT,Hounslow,1.1,2005,Motor-cycles,Personal
+00AU,Islington,1.0,2005,Motor-cycles,Personal
+00AW,Kensington and Chelsea,1.3,2005,Motor-cycles,Personal
+00AX,Kingston upon Thames,0.8,2005,Motor-cycles,Personal
+00AY,Lambeth,1.7,2005,Motor-cycles,Personal
+00AZ,Lewisham,1.2,2005,Motor-cycles,Personal
+00BA,Merton,0.6,2005,Motor-cycles,Personal
+00BB,Newham,0.8,2005,Motor-cycles,Personal
+00BC,Redbridge,0.6,2005,Motor-cycles,Personal
+00BD,Richmond upon Thames,0.7,2005,Motor-cycles,Personal
+00BE,Southwark,1.6,2005,Motor-cycles,Personal
+00BF,Sutton,0.6,2005,Motor-cycles,Personal
+00BG,Tower Hamlets,1.8,2005,Motor-cycles,Personal
+00BH,Waltham Forest,0.4,2005,Motor-cycles,Personal
+00BJ,Wandsworth,1.6,2005,Motor-cycles,Personal
+00BK,Westminster,3.1,2005,Motor-cycles,Personal
+00AA,City of London,1.3,2005,HGV,Freight
+00AB,Barking and Dagenham,8.3,2005,HGV,Freight
+00AC,Barnet,11.7,2005,HGV,Freight
+00AD,Bexley,7.1,2005,HGV,Freight
+00AE,Brent,6.7,2005,HGV,Freight
+00AF,Bromley,6.4,2005,HGV,Freight
+00AG,Camden,3.4,2005,HGV,Freight
+00AH,Croydon,7.7,2005,HGV,Freight
+00AJ,Ealing,10.6,2005,HGV,Freight
+00AK,Enfield,29.3,2005,HGV,Freight
+00AL,Greenwich,10.2,2005,HGV,Freight
+00AM,Hackney,4.0,2005,HGV,Freight
+00AN,Hammersmith and Fulham,4.0,2005,HGV,Freight
+00AP,Haringey,3.8,2005,HGV,Freight
+00AQ,Harrow,3.0,2005,HGV,Freight
+00AR,Havering,33.0,2005,HGV,Freight
+00AS,Hillingdon,20.3,2005,HGV,Freight
+00AT,Hounslow,11.9,2005,HGV,Freight
+00AU,Islington,3.0,2005,HGV,Freight
+00AW,Kensington and Chelsea,3.5,2005,HGV,Freight
+00AX,Kingston upon Thames,5.0,2005,HGV,Freight
+00AY,Lambeth,5.0,2005,HGV,Freight
+00AZ,Lewisham,5.1,2005,HGV,Freight
+00BA,Merton,4.1,2005,HGV,Freight
+00BB,Newham,9.7,2005,HGV,Freight
+00BC,Redbridge,11.0,2005,HGV,Freight
+00BD,Richmond upon Thames,4.6,2005,HGV,Freight
+00BE,Southwark,5.3,2005,HGV,Freight
+00BF,Sutton,3.4,2005,HGV,Freight
+00BG,Tower Hamlets,8.8,2005,HGV,Freight
+00BH,Waltham Forest,7.2,2005,HGV,Freight
+00BJ,Wandsworth,5.8,2005,HGV,Freight
+00BK,Westminster,6.9,2005,HGV,Freight
+00AA,City of London,2.9,2005,Diesel LGV,Freight
+00AB,Barking and Dagenham,5.9,2005,Diesel LGV,Freight
+00AC,Barnet,16.5,2005,Diesel LGV,Freight
+00AD,Bexley,9.2,2005,Diesel LGV,Freight
+00AE,Brent,9.0,2005,Diesel LGV,Freight
+00AF,Bromley,13.3,2005,Diesel LGV,Freight
+00AG,Camden,7.3,2005,Diesel LGV,Freight
+00AH,Croydon,13.0,2005,Diesel LGV,Freight
+00AJ,Ealing,12.3,2005,Diesel LGV,Freight
+00AK,Enfield,15.5,2005,Diesel LGV,Freight
+00AL,Greenwich,12.7,2005,Diesel LGV,Freight
+00AM,Hackney,7.8,2005,Diesel LGV,Freight
+00AN,Hammersmith and Fulham,8.2,2005,Diesel LGV,Freight
+00AP,Haringey,8.5,2005,Diesel LGV,Freight
+00AQ,Harrow,5.9,2005,Diesel LGV,Freight
+00AR,Havering,15.0,2005,Diesel LGV,Freight
+00AS,Hillingdon,20.0,2005,Diesel LGV,Freight
+00AT,Hounslow,14.8,2005,Diesel LGV,Freight
+00AU,Islington,6.5,2005,Diesel LGV,Freight
+00AW,Kensington and Chelsea,8.4,2005,Diesel LGV,Freight
+00AX,Kingston upon Thames,8.6,2005,Diesel LGV,Freight
+00AY,Lambeth,12.2,2005,Diesel LGV,Freight
+00AZ,Lewisham,11.9,2005,Diesel LGV,Freight
+00BA,Merton,6.8,2005,Diesel LGV,Freight
+00BB,Newham,12.4,2005,Diesel LGV,Freight
+00BC,Redbridge,11.0,2005,Diesel LGV,Freight
+00BD,Richmond upon Thames,7.8,2005,Diesel LGV,Freight
+00BE,Southwark,12.8,2005,Diesel LGV,Freight
+00BF,Sutton,7.3,2005,Diesel LGV,Freight
+00BG,Tower Hamlets,14.4,2005,Diesel LGV,Freight
+00BH,Waltham Forest,7.4,2005,Diesel LGV,Freight
+00BJ,Wandsworth,11.1,2005,Diesel LGV,Freight
+00BK,Westminster,15.3,2005,Diesel LGV,Freight
+00AA,City of London,0.3,2005,Petrol LGV,Freight
+00AB,Barking and Dagenham,0.5,2005,Petrol LGV,Freight
+00AC,Barnet,1.4,2005,Petrol LGV,Freight
+00AD,Bexley,0.8,2005,Petrol LGV,Freight
+00AE,Brent,0.8,2005,Petrol LGV,Freight
+00AF,Bromley,1.2,2005,Petrol LGV,Freight
+00AG,Camden,0.6,2005,Petrol LGV,Freight
+00AH,Croydon,1.1,2005,Petrol LGV,Freight
+00AJ,Ealing,1.1,2005,Petrol LGV,Freight
+00AK,Enfield,1.3,2005,Petrol LGV,Freight
+00AL,Greenwich,1.1,2005,Petrol LGV,Freight
+00AM,Hackney,0.7,2005,Petrol LGV,Freight
+00AN,Hammersmith and Fulham,0.7,2005,Petrol LGV,Freight
+00AP,Haringey,0.7,2005,Petrol LGV,Freight
+00AQ,Harrow,0.5,2005,Petrol LGV,Freight
+00AR,Havering,1.3,2005,Petrol LGV,Freight
+00AS,Hillingdon,1.7,2005,Petrol LGV,Freight
+00AT,Hounslow,1.3,2005,Petrol LGV,Freight
+00AU,Islington,0.6,2005,Petrol LGV,Freight
+00AW,Kensington and Chelsea,0.7,2005,Petrol LGV,Freight
+00AX,Kingston upon Thames,0.8,2005,Petrol LGV,Freight
+00AY,Lambeth,1.1,2005,Petrol LGV,Freight
+00AZ,Lewisham,1.0,2005,Petrol LGV,Freight
+00BA,Merton,0.6,2005,Petrol LGV,Freight
+00BB,Newham,1.1,2005,Petrol LGV,Freight
+00BC,Redbridge,1.0,2005,Petrol LGV,Freight
+00BD,Richmond upon Thames,0.7,2005,Petrol LGV,Freight
+00BE,Southwark,1.1,2005,Petrol LGV,Freight
+00BF,Sutton,0.6,2005,Petrol LGV,Freight
+00BG,Tower Hamlets,1.3,2005,Petrol LGV,Freight
+00BH,Waltham Forest,0.6,2005,Petrol LGV,Freight
+00BJ,Wandsworth,1.0,2005,Petrol LGV,Freight
+00BK,Westminster,1.4,2005,Petrol LGV,Freight
+00AA,City of London,1.7,2006,Buses,Personal
+00AB,Barking and Dagenham,1.9,2006,Buses,Personal
+00AC,Barnet,5.5,2006,Buses,Personal
+00AD,Bexley,3.5,2006,Buses,Personal
+00AE,Brent,3.9,2006,Buses,Personal
+00AF,Bromley,5.6,2006,Buses,Personal
+00AG,Camden,4.5,2006,Buses,Personal
+00AH,Croydon,5.1,2006,Buses,Personal
+00AJ,Ealing,4.5,2006,Buses,Personal
+00AK,Enfield,3.9,2006,Buses,Personal
+00AL,Greenwich,5.0,2006,Buses,Personal
+00AM,Hackney,4.4,2006,Buses,Personal
+00AN,Hammersmith and Fulham,3.7,2006,Buses,Personal
+00AP,Haringey,4.3,2006,Buses,Personal
+00AQ,Harrow,2.4,2006,Buses,Personal
+00AR,Havering,4.2,2006,Buses,Personal
+00AS,Hillingdon,6.3,2006,Buses,Personal
+00AT,Hounslow,5.8,2006,Buses,Personal
+00AU,Islington,3.9,2006,Buses,Personal
+00AW,Kensington and Chelsea,4.0,2006,Buses,Personal
+00AX,Kingston upon Thames,2.9,2006,Buses,Personal
+00AY,Lambeth,7.9,2006,Buses,Personal
+00AZ,Lewisham,5.8,2006,Buses,Personal
+00BA,Merton,2.9,2006,Buses,Personal
+00BB,Newham,4.5,2006,Buses,Personal
+00BC,Redbridge,3.4,2006,Buses,Personal
+00BD,Richmond upon Thames,4.0,2006,Buses,Personal
+00BE,Southwark,7.6,2006,Buses,Personal
+00BF,Sutton,2.6,2006,Buses,Personal
+00BG,Tower Hamlets,4.5,2006,Buses,Personal
+00BH,Waltham Forest,2.6,2006,Buses,Personal
+00BJ,Wandsworth,4.8,2006,Buses,Personal
+00BK,Westminster,11.4,2006,Buses,Personal
+00AA,City of London,2.3,2006,Diesel Cars,Personal
+00AB,Barking and Dagenham,7.1,2006,Diesel Cars,Personal
+00AC,Barnet,20.7,2006,Diesel Cars,Personal
+00AD,Bexley,10.4,2006,Diesel Cars,Personal
+00AE,Brent,10.4,2006,Diesel Cars,Personal
+00AF,Bromley,15.7,2006,Diesel Cars,Personal
+00AG,Camden,6.5,2006,Diesel Cars,Personal
+00AH,Croydon,14.6,2006,Diesel Cars,Personal
+00AJ,Ealing,14.0,2006,Diesel Cars,Personal
+00AK,Enfield,19.9,2006,Diesel Cars,Personal
+00AL,Greenwich,12.6,2006,Diesel Cars,Personal
+00AM,Hackney,6.6,2006,Diesel Cars,Personal
+00AN,Hammersmith and Fulham,7.0,2006,Diesel Cars,Personal
+00AP,Haringey,7.8,2006,Diesel Cars,Personal
+00AQ,Harrow,7.8,2006,Diesel Cars,Personal
+00AR,Havering,19.6,2006,Diesel Cars,Personal
+00AS,Hillingdon,29.5,2006,Diesel Cars,Personal
+00AT,Hounslow,22.4,2006,Diesel Cars,Personal
+00AU,Islington,5.4,2006,Diesel Cars,Personal
+00AW,Kensington and Chelsea,6.8,2006,Diesel Cars,Personal
+00AX,Kingston upon Thames,10.8,2006,Diesel Cars,Personal
+00AY,Lambeth,10.3,2006,Diesel Cars,Personal
+00AZ,Lewisham,10.6,2006,Diesel Cars,Personal
+00BA,Merton,7.2,2006,Diesel Cars,Personal
+00BB,Newham,11.5,2006,Diesel Cars,Personal
+00BC,Redbridge,12.3,2006,Diesel Cars,Personal
+00BD,Richmond upon Thames,9.7,2006,Diesel Cars,Personal
+00BE,Southwark,10.3,2006,Diesel Cars,Personal
+00BF,Sutton,7.8,2006,Diesel Cars,Personal
+00BG,Tower Hamlets,11.5,2006,Diesel Cars,Personal
+00BH,Waltham Forest,7.8,2006,Diesel Cars,Personal
+00BJ,Wandsworth,10.6,2006,Diesel Cars,Personal
+00BK,Westminster,12.3,2006,Diesel Cars,Personal
+00AA,City of London,8.8,2006,Petrol Cars,Personal
+00AB,Barking and Dagenham,25.4,2006,Petrol Cars,Personal
+00AC,Barnet,62.0,2006,Petrol Cars,Personal
+00AD,Bexley,36.2,2006,Petrol Cars,Personal
+00AE,Brent,38.1,2006,Petrol Cars,Personal
+00AF,Bromley,54.7,2006,Petrol Cars,Personal
+00AG,Camden,24.0,2006,Petrol Cars,Personal
+00AH,Croydon,53.1,2006,Petrol Cars,Personal
+00AJ,Ealing,50.3,2006,Petrol Cars,Personal
+00AK,Enfield,54.9,2006,Petrol Cars,Personal
+00AL,Greenwich,45.7,2006,Petrol Cars,Personal
+00AM,Hackney,24.3,2006,Petrol Cars,Personal
+00AN,Hammersmith and Fulham,26.0,2006,Petrol Cars,Personal
+00AP,Haringey,28.8,2006,Petrol Cars,Personal
+00AQ,Harrow,26.9,2006,Petrol Cars,Personal
+00AR,Havering,51.8,2006,Petrol Cars,Personal
+00AS,Hillingdon,83.2,2006,Petrol Cars,Personal
+00AT,Hounslow,63.8,2006,Petrol Cars,Personal
+00AU,Islington,20.0,2006,Petrol Cars,Personal
+00AW,Kensington and Chelsea,25.3,2006,Petrol Cars,Personal
+00AX,Kingston upon Thames,38.1,2006,Petrol Cars,Personal
+00AY,Lambeth,38.1,2006,Petrol Cars,Personal
+00AZ,Lewisham,39.3,2006,Petrol Cars,Personal
+00BA,Merton,26.4,2006,Petrol Cars,Personal
+00BB,Newham,42.6,2006,Petrol Cars,Personal
+00BC,Redbridge,41.4,2006,Petrol Cars,Personal
+00BD,Richmond upon Thames,35.6,2006,Petrol Cars,Personal
+00BE,Southwark,38.1,2006,Petrol Cars,Personal
+00BF,Sutton,28.6,2006,Petrol Cars,Personal
+00BG,Tower Hamlets,42.5,2006,Petrol Cars,Personal
+00BH,Waltham Forest,28.5,2006,Petrol Cars,Personal
+00BJ,Wandsworth,39.1,2006,Petrol Cars,Personal
+00BK,Westminster,45.8,2006,Petrol Cars,Personal
+00AA,City of London,0.7,2006,Motor-cycles,Personal
+00AB,Barking and Dagenham,0.4,2006,Motor-cycles,Personal
+00AC,Barnet,0.9,2006,Motor-cycles,Personal
+00AD,Bexley,0.6,2006,Motor-cycles,Personal
+00AE,Brent,0.6,2006,Motor-cycles,Personal
+00AF,Bromley,0.9,2006,Motor-cycles,Personal
+00AG,Camden,1.2,2006,Motor-cycles,Personal
+00AH,Croydon,1.0,2006,Motor-cycles,Personal
+00AJ,Ealing,0.9,2006,Motor-cycles,Personal
+00AK,Enfield,0.6,2006,Motor-cycles,Personal
+00AL,Greenwich,1.0,2006,Motor-cycles,Personal
+00AM,Hackney,0.8,2006,Motor-cycles,Personal
+00AN,Hammersmith and Fulham,1.2,2006,Motor-cycles,Personal
+00AP,Haringey,0.7,2006,Motor-cycles,Personal
+00AQ,Harrow,0.4,2006,Motor-cycles,Personal
+00AR,Havering,0.8,2006,Motor-cycles,Personal
+00AS,Hillingdon,1.2,2006,Motor-cycles,Personal
+00AT,Hounslow,1.1,2006,Motor-cycles,Personal
+00AU,Islington,1.0,2006,Motor-cycles,Personal
+00AW,Kensington and Chelsea,1.3,2006,Motor-cycles,Personal
+00AX,Kingston upon Thames,0.7,2006,Motor-cycles,Personal
+00AY,Lambeth,1.6,2006,Motor-cycles,Personal
+00AZ,Lewisham,1.2,2006,Motor-cycles,Personal
+00BA,Merton,0.6,2006,Motor-cycles,Personal
+00BB,Newham,0.8,2006,Motor-cycles,Personal
+00BC,Redbridge,0.5,2006,Motor-cycles,Personal
+00BD,Richmond upon Thames,0.7,2006,Motor-cycles,Personal
+00BE,Southwark,1.6,2006,Motor-cycles,Personal
+00BF,Sutton,0.6,2006,Motor-cycles,Personal
+00BG,Tower Hamlets,1.7,2006,Motor-cycles,Personal
+00BH,Waltham Forest,0.4,2006,Motor-cycles,Personal
+00BJ,Wandsworth,1.5,2006,Motor-cycles,Personal
+00BK,Westminster,3.0,2006,Motor-cycles,Personal
+00AA,City of London,1.3,2006,HGV,Freight
+00AB,Barking and Dagenham,9.2,2006,HGV,Freight
+00AC,Barnet,12.1,2006,HGV,Freight
+00AD,Bexley,7.0,2006,HGV,Freight
+00AE,Brent,7.0,2006,HGV,Freight
+00AF,Bromley,6.7,2006,HGV,Freight
+00AG,Camden,3.4,2006,HGV,Freight
+00AH,Croydon,8.0,2006,HGV,Freight
+00AJ,Ealing,10.3,2006,HGV,Freight
+00AK,Enfield,27.9,2006,HGV,Freight
+00AL,Greenwich,9.9,2006,HGV,Freight
+00AM,Hackney,4.2,2006,HGV,Freight
+00AN,Hammersmith and Fulham,4.1,2006,HGV,Freight
+00AP,Haringey,3.8,2006,HGV,Freight
+00AQ,Harrow,3.1,2006,HGV,Freight
+00AR,Havering,34.6,2006,HGV,Freight
+00AS,Hillingdon,19.3,2006,HGV,Freight
+00AT,Hounslow,12.0,2006,HGV,Freight
+00AU,Islington,3.0,2006,HGV,Freight
+00AW,Kensington and Chelsea,3.5,2006,HGV,Freight
+00AX,Kingston upon Thames,4.9,2006,HGV,Freight
+00AY,Lambeth,5.0,2006,HGV,Freight
+00AZ,Lewisham,5.3,2006,HGV,Freight
+00BA,Merton,4.1,2006,HGV,Freight
+00BB,Newham,9.4,2006,HGV,Freight
+00BC,Redbridge,11.3,2006,HGV,Freight
+00BD,Richmond upon Thames,4.6,2006,HGV,Freight
+00BE,Southwark,5.3,2006,HGV,Freight
+00BF,Sutton,3.6,2006,HGV,Freight
+00BG,Tower Hamlets,8.9,2006,HGV,Freight
+00BH,Waltham Forest,6.9,2006,HGV,Freight
+00BJ,Wandsworth,5.5,2006,HGV,Freight
+00BK,Westminster,6.9,2006,HGV,Freight
+00AA,City of London,3.0,2006,Diesel LGV,Freight
+00AB,Barking and Dagenham,6.4,2006,Diesel LGV,Freight
+00AC,Barnet,17.2,2006,Diesel LGV,Freight
+00AD,Bexley,9.2,2006,Diesel LGV,Freight
+00AE,Brent,9.1,2006,Diesel LGV,Freight
+00AF,Bromley,13.9,2006,Diesel LGV,Freight
+00AG,Camden,7.6,2006,Diesel LGV,Freight
+00AH,Croydon,13.2,2006,Diesel LGV,Freight
+00AJ,Ealing,12.8,2006,Diesel LGV,Freight
+00AK,Enfield,16.0,2006,Diesel LGV,Freight
+00AL,Greenwich,13.0,2006,Diesel LGV,Freight
+00AM,Hackney,8.3,2006,Diesel LGV,Freight
+00AN,Hammersmith and Fulham,8.4,2006,Diesel LGV,Freight
+00AP,Haringey,8.7,2006,Diesel LGV,Freight
+00AQ,Harrow,5.8,2006,Diesel LGV,Freight
+00AR,Havering,16.1,2006,Diesel LGV,Freight
+00AS,Hillingdon,21.3,2006,Diesel LGV,Freight
+00AT,Hounslow,15.1,2006,Diesel LGV,Freight
+00AU,Islington,6.8,2006,Diesel LGV,Freight
+00AW,Kensington and Chelsea,8.6,2006,Diesel LGV,Freight
+00AX,Kingston upon Thames,8.7,2006,Diesel LGV,Freight
+00AY,Lambeth,12.6,2006,Diesel LGV,Freight
+00AZ,Lewisham,12.1,2006,Diesel LGV,Freight
+00BA,Merton,6.5,2006,Diesel LGV,Freight
+00BB,Newham,12.7,2006,Diesel LGV,Freight
+00BC,Redbridge,11.5,2006,Diesel LGV,Freight
+00BD,Richmond upon Thames,7.7,2006,Diesel LGV,Freight
+00BE,Southwark,13.1,2006,Diesel LGV,Freight
+00BF,Sutton,7.4,2006,Diesel LGV,Freight
+00BG,Tower Hamlets,14.9,2006,Diesel LGV,Freight
+00BH,Waltham Forest,7.7,2006,Diesel LGV,Freight
+00BJ,Wandsworth,11.5,2006,Diesel LGV,Freight
+00BK,Westminster,16.2,2006,Diesel LGV,Freight
+00AA,City of London,0.3,2006,Petrol LGV,Freight
+00AB,Barking and Dagenham,0.5,2006,Petrol LGV,Freight
+00AC,Barnet,1.4,2006,Petrol LGV,Freight
+00AD,Bexley,0.8,2006,Petrol LGV,Freight
+00AE,Brent,0.8,2006,Petrol LGV,Freight
+00AF,Bromley,1.2,2006,Petrol LGV,Freight
+00AG,Camden,0.6,2006,Petrol LGV,Freight
+00AH,Croydon,1.1,2006,Petrol LGV,Freight
+00AJ,Ealing,1.1,2006,Petrol LGV,Freight
+00AK,Enfield,1.4,2006,Petrol LGV,Freight
+00AL,Greenwich,1.1,2006,Petrol LGV,Freight
+00AM,Hackney,0.7,2006,Petrol LGV,Freight
+00AN,Hammersmith and Fulham,0.7,2006,Petrol LGV,Freight
+00AP,Haringey,0.7,2006,Petrol LGV,Freight
+00AQ,Harrow,0.5,2006,Petrol LGV,Freight
+00AR,Havering,1.4,2006,Petrol LGV,Freight
+00AS,Hillingdon,1.8,2006,Petrol LGV,Freight
+00AT,Hounslow,1.3,2006,Petrol LGV,Freight
+00AU,Islington,0.6,2006,Petrol LGV,Freight
+00AW,Kensington and Chelsea,0.7,2006,Petrol LGV,Freight
+00AX,Kingston upon Thames,0.7,2006,Petrol LGV,Freight
+00AY,Lambeth,1.1,2006,Petrol LGV,Freight
+00AZ,Lewisham,1.0,2006,Petrol LGV,Freight
+00BA,Merton,0.6,2006,Petrol LGV,Freight
+00BB,Newham,1.1,2006,Petrol LGV,Freight
+00BC,Redbridge,1.0,2006,Petrol LGV,Freight
+00BD,Richmond upon Thames,0.7,2006,Petrol LGV,Freight
+00BE,Southwark,1.1,2006,Petrol LGV,Freight
+00BF,Sutton,0.6,2006,Petrol LGV,Freight
+00BG,Tower Hamlets,1.3,2006,Petrol LGV,Freight
+00BH,Waltham Forest,0.7,2006,Petrol LGV,Freight
+00BJ,Wandsworth,1.0,2006,Petrol LGV,Freight
+00BK,Westminster,1.4,2006,Petrol LGV,Freight
+00AA,City of London,1.7,2007,Buses,Personal
+00AB,Barking and Dagenham,2.0,2007,Buses,Personal
+00AC,Barnet,5.5,2007,Buses,Personal
+00AD,Bexley,3.4,2007,Buses,Personal
+00AE,Brent,4.0,2007,Buses,Personal
+00AF,Bromley,5.8,2007,Buses,Personal
+00AG,Camden,4.5,2007,Buses,Personal
+00AH,Croydon,5.4,2007,Buses,Personal
+00AJ,Ealing,4.7,2007,Buses,Personal
+00AK,Enfield,4.3,2007,Buses,Personal
+00AL,Greenwich,5.1,2007,Buses,Personal
+00AM,Hackney,4.5,2007,Buses,Personal
+00AN,Hammersmith and Fulham,3.6,2007,Buses,Personal
+00AP,Haringey,4.5,2007,Buses,Personal
+00AQ,Harrow,2.5,2007,Buses,Personal
+00AR,Havering,4.0,2007,Buses,Personal
+00AS,Hillingdon,6.8,2007,Buses,Personal
+00AT,Hounslow,5.8,2007,Buses,Personal
+00AU,Islington,3.9,2007,Buses,Personal
+00AW,Kensington and Chelsea,3.9,2007,Buses,Personal
+00AX,Kingston upon Thames,3.0,2007,Buses,Personal
+00AY,Lambeth,7.7,2007,Buses,Personal
+00AZ,Lewisham,5.9,2007,Buses,Personal
+00BA,Merton,3.0,2007,Buses,Personal
+00BB,Newham,4.6,2007,Buses,Personal
+00BC,Redbridge,3.5,2007,Buses,Personal
+00BD,Richmond upon Thames,4.1,2007,Buses,Personal
+00BE,Southwark,7.5,2007,Buses,Personal
+00BF,Sutton,2.9,2007,Buses,Personal
+00BG,Tower Hamlets,4.6,2007,Buses,Personal
+00BH,Waltham Forest,2.8,2007,Buses,Personal
+00BJ,Wandsworth,4.7,2007,Buses,Personal
+00BK,Westminster,11.7,2007,Buses,Personal
+00AA,City of London,2.5,2007,Diesel Cars,Personal
+00AB,Barking and Dagenham,7.2,2007,Diesel Cars,Personal
+00AC,Barnet,21.1,2007,Diesel Cars,Personal
+00AD,Bexley,10.6,2007,Diesel Cars,Personal
+00AE,Brent,10.6,2007,Diesel Cars,Personal
+00AF,Bromley,16.0,2007,Diesel Cars,Personal
+00AG,Camden,6.8,2007,Diesel Cars,Personal
+00AH,Croydon,15.5,2007,Diesel Cars,Personal
+00AJ,Ealing,14.2,2007,Diesel Cars,Personal
+00AK,Enfield,20.4,2007,Diesel Cars,Personal
+00AL,Greenwich,12.8,2007,Diesel Cars,Personal
+00AM,Hackney,6.9,2007,Diesel Cars,Personal
+00AN,Hammersmith and Fulham,7.4,2007,Diesel Cars,Personal
+00AP,Haringey,8.2,2007,Diesel Cars,Personal
+00AQ,Harrow,8.1,2007,Diesel Cars,Personal
+00AR,Havering,19.9,2007,Diesel Cars,Personal
+00AS,Hillingdon,30.5,2007,Diesel Cars,Personal
+00AT,Hounslow,21.9,2007,Diesel Cars,Personal
+00AU,Islington,5.7,2007,Diesel Cars,Personal
+00AW,Kensington and Chelsea,7.0,2007,Diesel Cars,Personal
+00AX,Kingston upon Thames,11.4,2007,Diesel Cars,Personal
+00AY,Lambeth,10.9,2007,Diesel Cars,Personal
+00AZ,Lewisham,11.3,2007,Diesel Cars,Personal
+00BA,Merton,7.6,2007,Diesel Cars,Personal
+00BB,Newham,12.3,2007,Diesel Cars,Personal
+00BC,Redbridge,12.8,2007,Diesel Cars,Personal
+00BD,Richmond upon Thames,10.2,2007,Diesel Cars,Personal
+00BE,Southwark,10.7,2007,Diesel Cars,Personal
+00BF,Sutton,8.4,2007,Diesel Cars,Personal
+00BG,Tower Hamlets,12.3,2007,Diesel Cars,Personal
+00BH,Waltham Forest,8.0,2007,Diesel Cars,Personal
+00BJ,Wandsworth,11.5,2007,Diesel Cars,Personal
+00BK,Westminster,12.4,2007,Diesel Cars,Personal
+00AA,City of London,8.4,2007,Petrol Cars,Personal
+00AB,Barking and Dagenham,23.3,2007,Petrol Cars,Personal
+00AC,Barnet,58.1,2007,Petrol Cars,Personal
+00AD,Bexley,33.6,2007,Petrol Cars,Personal
+00AE,Brent,35.4,2007,Petrol Cars,Personal
+00AF,Bromley,50.7,2007,Petrol Cars,Personal
+00AG,Camden,22.8,2007,Petrol Cars,Personal
+00AH,Croydon,51.2,2007,Petrol Cars,Personal
+00AJ,Ealing,46.3,2007,Petrol Cars,Personal
+00AK,Enfield,51.3,2007,Petrol Cars,Personal
+00AL,Greenwich,42.4,2007,Petrol Cars,Personal
+00AM,Hackney,23.4,2007,Petrol Cars,Personal
+00AN,Hammersmith and Fulham,24.8,2007,Petrol Cars,Personal
+00AP,Haringey,27.6,2007,Petrol Cars,Personal
+00AQ,Harrow,25.5,2007,Petrol Cars,Personal
+00AR,Havering,48.3,2007,Petrol Cars,Personal
+00AS,Hillingdon,78.3,2007,Petrol Cars,Personal
+00AT,Hounslow,58.3,2007,Petrol Cars,Personal
+00AU,Islington,19.1,2007,Petrol Cars,Personal
+00AW,Kensington and Chelsea,23.5,2007,Petrol Cars,Personal
+00AX,Kingston upon Thames,36.8,2007,Petrol Cars,Personal
+00AY,Lambeth,36.7,2007,Petrol Cars,Personal
+00AZ,Lewisham,38.1,2007,Petrol Cars,Personal
+00BA,Merton,25.3,2007,Petrol Cars,Personal
+00BB,Newham,41.4,2007,Petrol Cars,Personal
+00BC,Redbridge,39.1,2007,Petrol Cars,Personal
+00BD,Richmond upon Thames,33.9,2007,Petrol Cars,Personal
+00BE,Southwark,36.1,2007,Petrol Cars,Personal
+00BF,Sutton,28.0,2007,Petrol Cars,Personal
+00BG,Tower Hamlets,41.4,2007,Petrol Cars,Personal
+00BH,Waltham Forest,26.6,2007,Petrol Cars,Personal
+00BJ,Wandsworth,38.6,2007,Petrol Cars,Personal
+00BK,Westminster,42.3,2007,Petrol Cars,Personal
+00AA,City of London,0.7,2007,Motor-cycles,Personal
+00AB,Barking and Dagenham,0.5,2007,Motor-cycles,Personal
+00AC,Barnet,1.1,2007,Motor-cycles,Personal
+00AD,Bexley,0.6,2007,Motor-cycles,Personal
+00AE,Brent,0.7,2007,Motor-cycles,Personal
+00AF,Bromley,1.0,2007,Motor-cycles,Personal
+00AG,Camden,1.3,2007,Motor-cycles,Personal
+00AH,Croydon,1.1,2007,Motor-cycles,Personal
+00AJ,Ealing,1.0,2007,Motor-cycles,Personal
+00AK,Enfield,0.7,2007,Motor-cycles,Personal
+00AL,Greenwich,1.2,2007,Motor-cycles,Personal
+00AM,Hackney,0.9,2007,Motor-cycles,Personal
+00AN,Hammersmith and Fulham,1.3,2007,Motor-cycles,Personal
+00AP,Haringey,0.8,2007,Motor-cycles,Personal
+00AQ,Harrow,0.4,2007,Motor-cycles,Personal
+00AR,Havering,0.9,2007,Motor-cycles,Personal
+00AS,Hillingdon,1.3,2007,Motor-cycles,Personal
+00AT,Hounslow,1.2,2007,Motor-cycles,Personal
+00AU,Islington,1.1,2007,Motor-cycles,Personal
+00AW,Kensington and Chelsea,1.3,2007,Motor-cycles,Personal
+00AX,Kingston upon Thames,0.8,2007,Motor-cycles,Personal
+00AY,Lambeth,1.8,2007,Motor-cycles,Personal
+00AZ,Lewisham,1.3,2007,Motor-cycles,Personal
+00BA,Merton,0.6,2007,Motor-cycles,Personal
+00BB,Newham,1.0,2007,Motor-cycles,Personal
+00BC,Redbridge,0.6,2007,Motor-cycles,Personal
+00BD,Richmond upon Thames,0.8,2007,Motor-cycles,Personal
+00BE,Southwark,1.7,2007,Motor-cycles,Personal
+00BF,Sutton,0.6,2007,Motor-cycles,Personal
+00BG,Tower Hamlets,1.9,2007,Motor-cycles,Personal
+00BH,Waltham Forest,0.5,2007,Motor-cycles,Personal
+00BJ,Wandsworth,1.7,2007,Motor-cycles,Personal
+00BK,Westminster,2.8,2007,Motor-cycles,Personal
+00AA,City of London,1.5,2007,HGV,Freight
+00AB,Barking and Dagenham,9.0,2007,HGV,Freight
+00AC,Barnet,12.8,2007,HGV,Freight
+00AD,Bexley,7.5,2007,HGV,Freight
+00AE,Brent,6.6,2007,HGV,Freight
+00AF,Bromley,6.6,2007,HGV,Freight
+00AG,Camden,3.5,2007,HGV,Freight
+00AH,Croydon,8.4,2007,HGV,Freight
+00AJ,Ealing,10.0,2007,HGV,Freight
+00AK,Enfield,28.8,2007,HGV,Freight
+00AL,Greenwich,10.2,2007,HGV,Freight
+00AM,Hackney,4.2,2007,HGV,Freight
+00AN,Hammersmith and Fulham,4.2,2007,HGV,Freight
+00AP,Haringey,3.7,2007,HGV,Freight
+00AQ,Harrow,3.2,2007,HGV,Freight
+00AR,Havering,35.5,2007,HGV,Freight
+00AS,Hillingdon,20.5,2007,HGV,Freight
+00AT,Hounslow,12.9,2007,HGV,Freight
+00AU,Islington,3.1,2007,HGV,Freight
+00AW,Kensington and Chelsea,3.7,2007,HGV,Freight
+00AX,Kingston upon Thames,5.4,2007,HGV,Freight
+00AY,Lambeth,5.0,2007,HGV,Freight
+00AZ,Lewisham,5.2,2007,HGV,Freight
+00BA,Merton,4.4,2007,HGV,Freight
+00BB,Newham,10.0,2007,HGV,Freight
+00BC,Redbridge,11.7,2007,HGV,Freight
+00BD,Richmond upon Thames,4.4,2007,HGV,Freight
+00BE,Southwark,5.4,2007,HGV,Freight
+00BF,Sutton,3.6,2007,HGV,Freight
+00BG,Tower Hamlets,8.7,2007,HGV,Freight
+00BH,Waltham Forest,7.1,2007,HGV,Freight
+00BJ,Wandsworth,5.8,2007,HGV,Freight
+00BK,Westminster,7.0,2007,HGV,Freight
+00AA,City of London,3.5,2007,Diesel LGV,Freight
+00AB,Barking and Dagenham,7.7,2007,Diesel LGV,Freight
+00AC,Barnet,19.0,2007,Diesel LGV,Freight
+00AD,Bexley,10.6,2007,Diesel LGV,Freight
+00AE,Brent,10.4,2007,Diesel LGV,Freight
+00AF,Bromley,15.0,2007,Diesel LGV,Freight
+00AG,Camden,8.5,2007,Diesel LGV,Freight
+00AH,Croydon,14.2,2007,Diesel LGV,Freight
+00AJ,Ealing,13.9,2007,Diesel LGV,Freight
+00AK,Enfield,17.7,2007,Diesel LGV,Freight
+00AL,Greenwich,14.5,2007,Diesel LGV,Freight
+00AM,Hackney,9.0,2007,Diesel LGV,Freight
+00AN,Hammersmith and Fulham,9.4,2007,Diesel LGV,Freight
+00AP,Haringey,9.4,2007,Diesel LGV,Freight
+00AQ,Harrow,6.3,2007,Diesel LGV,Freight
+00AR,Havering,17.3,2007,Diesel LGV,Freight
+00AS,Hillingdon,22.2,2007,Diesel LGV,Freight
+00AT,Hounslow,15.8,2007,Diesel LGV,Freight
+00AU,Islington,7.2,2007,Diesel LGV,Freight
+00AW,Kensington and Chelsea,9.1,2007,Diesel LGV,Freight
+00AX,Kingston upon Thames,9.4,2007,Diesel LGV,Freight
+00AY,Lambeth,13.3,2007,Diesel LGV,Freight
+00AZ,Lewisham,12.9,2007,Diesel LGV,Freight
+00BA,Merton,7.2,2007,Diesel LGV,Freight
+00BB,Newham,13.9,2007,Diesel LGV,Freight
+00BC,Redbridge,13.0,2007,Diesel LGV,Freight
+00BD,Richmond upon Thames,8.7,2007,Diesel LGV,Freight
+00BE,Southwark,13.8,2007,Diesel LGV,Freight
+00BF,Sutton,7.9,2007,Diesel LGV,Freight
+00BG,Tower Hamlets,16.1,2007,Diesel LGV,Freight
+00BH,Waltham Forest,8.7,2007,Diesel LGV,Freight
+00BJ,Wandsworth,12.6,2007,Diesel LGV,Freight
+00BK,Westminster,17.6,2007,Diesel LGV,Freight
+00AA,City of London,0.3,2007,Petrol LGV,Freight
+00AB,Barking and Dagenham,0.6,2007,Petrol LGV,Freight
+00AC,Barnet,1.4,2007,Petrol LGV,Freight
+00AD,Bexley,0.8,2007,Petrol LGV,Freight
+00AE,Brent,0.8,2007,Petrol LGV,Freight
+00AF,Bromley,1.1,2007,Petrol LGV,Freight
+00AG,Camden,0.6,2007,Petrol LGV,Freight
+00AH,Croydon,1.1,2007,Petrol LGV,Freight
+00AJ,Ealing,1.0,2007,Petrol LGV,Freight
+00AK,Enfield,1.3,2007,Petrol LGV,Freight
+00AL,Greenwich,1.1,2007,Petrol LGV,Freight
+00AM,Hackney,0.7,2007,Petrol LGV,Freight
+00AN,Hammersmith and Fulham,0.7,2007,Petrol LGV,Freight
+00AP,Haringey,0.7,2007,Petrol LGV,Freight
+00AQ,Harrow,0.5,2007,Petrol LGV,Freight
+00AR,Havering,1.3,2007,Petrol LGV,Freight
+00AS,Hillingdon,1.6,2007,Petrol LGV,Freight
+00AT,Hounslow,1.1,2007,Petrol LGV,Freight
+00AU,Islington,0.5,2007,Petrol LGV,Freight
+00AW,Kensington and Chelsea,0.7,2007,Petrol LGV,Freight
+00AX,Kingston upon Thames,0.7,2007,Petrol LGV,Freight
+00AY,Lambeth,1.0,2007,Petrol LGV,Freight
+00AZ,Lewisham,1.0,2007,Petrol LGV,Freight
+00BA,Merton,0.5,2007,Petrol LGV,Freight
+00BB,Newham,1.0,2007,Petrol LGV,Freight
+00BC,Redbridge,1.0,2007,Petrol LGV,Freight
+00BD,Richmond upon Thames,0.6,2007,Petrol LGV,Freight
+00BE,Southwark,1.0,2007,Petrol LGV,Freight
+00BF,Sutton,0.6,2007,Petrol LGV,Freight
+00BG,Tower Hamlets,1.2,2007,Petrol LGV,Freight
+00BH,Waltham Forest,0.6,2007,Petrol LGV,Freight
+00BJ,Wandsworth,0.9,2007,Petrol LGV,Freight
+00BK,Westminster,1.3,2007,Petrol LGV,Freight
+00AA,City of London,2.1,2008,Buses,Personal
+00AB,Barking and Dagenham,2.8,2008,Buses,Personal
+00AC,Barnet,8.1,2008,Buses,Personal
+00AD,Bexley,4.7,2008,Buses,Personal
+00AE,Brent,5.7,2008,Buses,Personal
+00AF,Bromley,7.6,2008,Buses,Personal
+00AG,Camden,5.8,2008,Buses,Personal
+00AH,Croydon,7.1,2008,Buses,Personal
+00AJ,Ealing,6.3,2008,Buses,Personal
+00AK,Enfield,6.0,2008,Buses,Personal
+00AL,Greenwich,7.1,2008,Buses,Personal
+00AM,Hackney,6.0,2008,Buses,Personal
+00AN,Hammersmith and Fulham,4.9,2008,Buses,Personal
+00AP,Haringey,6.0,2008,Buses,Personal
+00AQ,Harrow,3.4,2008,Buses,Personal
+00AR,Havering,5.3,2008,Buses,Personal
+00AS,Hillingdon,9.3,2008,Buses,Personal
+00AT,Hounslow,7.6,2008,Buses,Personal
+00AU,Islington,5.0,2008,Buses,Personal
+00AW,Kensington and Chelsea,5.0,2008,Buses,Personal
+00AX,Kingston upon Thames,4.3,2008,Buses,Personal
+00AY,Lambeth,9.9,2008,Buses,Personal
+00AZ,Lewisham,7.2,2008,Buses,Personal
+00BA,Merton,4.2,2008,Buses,Personal
+00BB,Newham,6.1,2008,Buses,Personal
+00BC,Redbridge,4.4,2008,Buses,Personal
+00BD,Richmond upon Thames,5.8,2008,Buses,Personal
+00BE,Southwark,9.4,2008,Buses,Personal
+00BF,Sutton,3.4,2008,Buses,Personal
+00BG,Tower Hamlets,5.7,2008,Buses,Personal
+00BH,Waltham Forest,4.0,2008,Buses,Personal
+00BJ,Wandsworth,6.4,2008,Buses,Personal
+00BK,Westminster,13.9,2008,Buses,Personal
+00AA,City of London,2.8,2008,Diesel Cars,Personal
+00AB,Barking and Dagenham,8.1,2008,Diesel Cars,Personal
+00AC,Barnet,24.3,2008,Diesel Cars,Personal
+00AD,Bexley,12.9,2008,Diesel Cars,Personal
+00AE,Brent,12.4,2008,Diesel Cars,Personal
+00AF,Bromley,18.5,2008,Diesel Cars,Personal
+00AG,Camden,8.1,2008,Diesel Cars,Personal
+00AH,Croydon,18.1,2008,Diesel Cars,Personal
+00AJ,Ealing,17.9,2008,Diesel Cars,Personal
+00AK,Enfield,20.9,2008,Diesel Cars,Personal
+00AL,Greenwich,15.2,2008,Diesel Cars,Personal
+00AM,Hackney,8.4,2008,Diesel Cars,Personal
+00AN,Hammersmith and Fulham,9.1,2008,Diesel Cars,Personal
+00AP,Haringey,9.6,2008,Diesel Cars,Personal
+00AQ,Harrow,9.4,2008,Diesel Cars,Personal
+00AR,Havering,20.7,2008,Diesel Cars,Personal
+00AS,Hillingdon,32.8,2008,Diesel Cars,Personal
+00AT,Hounslow,24.1,2008,Diesel Cars,Personal
+00AU,Islington,6.7,2008,Diesel Cars,Personal
+00AW,Kensington and Chelsea,8.3,2008,Diesel Cars,Personal
+00AX,Kingston upon Thames,13.3,2008,Diesel Cars,Personal
+00AY,Lambeth,12.9,2008,Diesel Cars,Personal
+00AZ,Lewisham,13.5,2008,Diesel Cars,Personal
+00BA,Merton,9.0,2008,Diesel Cars,Personal
+00BB,Newham,15.2,2008,Diesel Cars,Personal
+00BC,Redbridge,14.5,2008,Diesel Cars,Personal
+00BD,Richmond upon Thames,12.1,2008,Diesel Cars,Personal
+00BE,Southwark,12.5,2008,Diesel Cars,Personal
+00BF,Sutton,9.6,2008,Diesel Cars,Personal
+00BG,Tower Hamlets,14.7,2008,Diesel Cars,Personal
+00BH,Waltham Forest,9.6,2008,Diesel Cars,Personal
+00BJ,Wandsworth,13.9,2008,Diesel Cars,Personal
+00BK,Westminster,14.5,2008,Diesel Cars,Personal
+00AA,City of London,7.1,2008,Petrol Cars,Personal
+00AB,Barking and Dagenham,19.2,2008,Petrol Cars,Personal
+00AC,Barnet,53.9,2008,Petrol Cars,Personal
+00AD,Bexley,30.6,2008,Petrol Cars,Personal
+00AE,Brent,29.0,2008,Petrol Cars,Personal
+00AF,Bromley,43.1,2008,Petrol Cars,Personal
+00AG,Camden,19.7,2008,Petrol Cars,Personal
+00AH,Croydon,42.1,2008,Petrol Cars,Personal
+00AJ,Ealing,42.3,2008,Petrol Cars,Personal
+00AK,Enfield,44.8,2008,Petrol Cars,Personal
+00AL,Greenwich,35.9,2008,Petrol Cars,Personal
+00AM,Hackney,20.5,2008,Petrol Cars,Personal
+00AN,Hammersmith and Fulham,22.2,2008,Petrol Cars,Personal
+00AP,Haringey,23.2,2008,Petrol Cars,Personal
+00AQ,Harrow,21.6,2008,Petrol Cars,Personal
+00AR,Havering,43.3,2008,Petrol Cars,Personal
+00AS,Hillingdon,69.2,2008,Petrol Cars,Personal
+00AT,Hounslow,52.0,2008,Petrol Cars,Personal
+00AU,Islington,16.4,2008,Petrol Cars,Personal
+00AW,Kensington and Chelsea,20.3,2008,Petrol Cars,Personal
+00AX,Kingston upon Thames,31.4,2008,Petrol Cars,Personal
+00AY,Lambeth,31.2,2008,Petrol Cars,Personal
+00AZ,Lewisham,32.3,2008,Petrol Cars,Personal
+00BA,Merton,21.2,2008,Petrol Cars,Personal
+00BB,Newham,37.2,2008,Petrol Cars,Personal
+00BC,Redbridge,33.7,2008,Petrol Cars,Personal
+00BD,Richmond upon Thames,28.4,2008,Petrol Cars,Personal
+00BE,Southwark,30.1,2008,Petrol Cars,Personal
+00BF,Sutton,22.2,2008,Petrol Cars,Personal
+00BG,Tower Hamlets,35.7,2008,Petrol Cars,Personal
+00BH,Waltham Forest,22.9,2008,Petrol Cars,Personal
+00BJ,Wandsworth,33.7,2008,Petrol Cars,Personal
+00BK,Westminster,36.2,2008,Petrol Cars,Personal
+00AA,City of London,0.6,2008,Motor-cycles,Personal
+00AB,Barking and Dagenham,0.3,2008,Motor-cycles,Personal
+00AC,Barnet,1.0,2008,Motor-cycles,Personal
+00AD,Bexley,0.6,2008,Motor-cycles,Personal
+00AE,Brent,0.5,2008,Motor-cycles,Personal
+00AF,Bromley,0.8,2008,Motor-cycles,Personal
+00AG,Camden,1.2,2008,Motor-cycles,Personal
+00AH,Croydon,0.8,2008,Motor-cycles,Personal
+00AJ,Ealing,0.8,2008,Motor-cycles,Personal
+00AK,Enfield,0.6,2008,Motor-cycles,Personal
+00AL,Greenwich,1.0,2008,Motor-cycles,Personal
+00AM,Hackney,0.8,2008,Motor-cycles,Personal
+00AN,Hammersmith and Fulham,1.1,2008,Motor-cycles,Personal
+00AP,Haringey,0.6,2008,Motor-cycles,Personal
+00AQ,Harrow,0.3,2008,Motor-cycles,Personal
+00AR,Havering,0.7,2008,Motor-cycles,Personal
+00AS,Hillingdon,1.1,2008,Motor-cycles,Personal
+00AT,Hounslow,1.0,2008,Motor-cycles,Personal
+00AU,Islington,1.0,2008,Motor-cycles,Personal
+00AW,Kensington and Chelsea,1.2,2008,Motor-cycles,Personal
+00AX,Kingston upon Thames,0.7,2008,Motor-cycles,Personal
+00AY,Lambeth,1.6,2008,Motor-cycles,Personal
+00AZ,Lewisham,1.0,2008,Motor-cycles,Personal
+00BA,Merton,0.5,2008,Motor-cycles,Personal
+00BB,Newham,0.8,2008,Motor-cycles,Personal
+00BC,Redbridge,0.5,2008,Motor-cycles,Personal
+00BD,Richmond upon Thames,0.7,2008,Motor-cycles,Personal
+00BE,Southwark,1.5,2008,Motor-cycles,Personal
+00BF,Sutton,0.5,2008,Motor-cycles,Personal
+00BG,Tower Hamlets,1.7,2008,Motor-cycles,Personal
+00BH,Waltham Forest,0.4,2008,Motor-cycles,Personal
+00BJ,Wandsworth,1.4,2008,Motor-cycles,Personal
+00BK,Westminster,2.4,2008,Motor-cycles,Personal
+00AA,City of London,1.6,2008,HGV,Freight
+00AB,Barking and Dagenham,8.7,2008,HGV,Freight
+00AC,Barnet,14.0,2008,HGV,Freight
+00AD,Bexley,8.9,2008,HGV,Freight
+00AE,Brent,7.2,2008,HGV,Freight
+00AF,Bromley,7.2,2008,HGV,Freight
+00AG,Camden,3.8,2008,HGV,Freight
+00AH,Croydon,8.9,2008,HGV,Freight
+00AJ,Ealing,12.8,2008,HGV,Freight
+00AK,Enfield,32.8,2008,HGV,Freight
+00AL,Greenwich,11.3,2008,HGV,Freight
+00AM,Hackney,5.2,2008,HGV,Freight
+00AN,Hammersmith and Fulham,4.4,2008,HGV,Freight
+00AP,Haringey,4.3,2008,HGV,Freight
+00AQ,Harrow,3.7,2008,HGV,Freight
+00AR,Havering,34.7,2008,HGV,Freight
+00AS,Hillingdon,21.1,2008,HGV,Freight
+00AT,Hounslow,13.2,2008,HGV,Freight
+00AU,Islington,3.6,2008,HGV,Freight
+00AW,Kensington and Chelsea,4.2,2008,HGV,Freight
+00AX,Kingston upon Thames,6.2,2008,HGV,Freight
+00AY,Lambeth,6.0,2008,HGV,Freight
+00AZ,Lewisham,6.1,2008,HGV,Freight
+00BA,Merton,4.8,2008,HGV,Freight
+00BB,Newham,12.1,2008,HGV,Freight
+00BC,Redbridge,11.8,2008,HGV,Freight
+00BD,Richmond upon Thames,4.9,2008,HGV,Freight
+00BE,Southwark,6.1,2008,HGV,Freight
+00BF,Sutton,3.9,2008,HGV,Freight
+00BG,Tower Hamlets,10.4,2008,HGV,Freight
+00BH,Waltham Forest,8.2,2008,HGV,Freight
+00BJ,Wandsworth,6.9,2008,HGV,Freight
+00BK,Westminster,7.6,2008,HGV,Freight
+00AA,City of London,2.5,2008,Diesel LGV,Freight
+00AB,Barking and Dagenham,4.8,2008,Diesel LGV,Freight
+00AC,Barnet,14.5,2008,Diesel LGV,Freight
+00AD,Bexley,8.0,2008,Diesel LGV,Freight
+00AE,Brent,6.5,2008,Diesel LGV,Freight
+00AF,Bromley,10.7,2008,Diesel LGV,Freight
+00AG,Camden,6.6,2008,Diesel LGV,Freight
+00AH,Croydon,9.6,2008,Diesel LGV,Freight
+00AJ,Ealing,9.5,2008,Diesel LGV,Freight
+00AK,Enfield,13.4,2008,Diesel LGV,Freight
+00AL,Greenwich,10.1,2008,Diesel LGV,Freight
+00AM,Hackney,6.6,2008,Diesel LGV,Freight
+00AN,Hammersmith and Fulham,6.7,2008,Diesel LGV,Freight
+00AP,Haringey,6.8,2008,Diesel LGV,Freight
+00AQ,Harrow,4.4,2008,Diesel LGV,Freight
+00AR,Havering,12.9,2008,Diesel LGV,Freight
+00AS,Hillingdon,15.6,2008,Diesel LGV,Freight
+00AT,Hounslow,11.2,2008,Diesel LGV,Freight
+00AU,Islington,5.5,2008,Diesel LGV,Freight
+00AW,Kensington and Chelsea,6.7,2008,Diesel LGV,Freight
+00AX,Kingston upon Thames,6.7,2008,Diesel LGV,Freight
+00AY,Lambeth,10.1,2008,Diesel LGV,Freight
+00AZ,Lewisham,9.6,2008,Diesel LGV,Freight
+00BA,Merton,5.1,2008,Diesel LGV,Freight
+00BB,Newham,9.5,2008,Diesel LGV,Freight
+00BC,Redbridge,8.4,2008,Diesel LGV,Freight
+00BD,Richmond upon Thames,5.8,2008,Diesel LGV,Freight
+00BE,Southwark,10.1,2008,Diesel LGV,Freight
+00BF,Sutton,5.2,2008,Diesel LGV,Freight
+00BG,Tower Hamlets,12.0,2008,Diesel LGV,Freight
+00BH,Waltham Forest,5.5,2008,Diesel LGV,Freight
+00BJ,Wandsworth,9.2,2008,Diesel LGV,Freight
+00BK,Westminster,12.8,2008,Diesel LGV,Freight
+00AA,City of London,0.2,2008,Petrol LGV,Freight
+00AB,Barking and Dagenham,0.4,2008,Petrol LGV,Freight
+00AC,Barnet,1.0,2008,Petrol LGV,Freight
+00AD,Bexley,0.6,2008,Petrol LGV,Freight
+00AE,Brent,0.5,2008,Petrol LGV,Freight
+00AF,Bromley,0.8,2008,Petrol LGV,Freight
+00AG,Camden,0.5,2008,Petrol LGV,Freight
+00AH,Croydon,0.7,2008,Petrol LGV,Freight
+00AJ,Ealing,0.7,2008,Petrol LGV,Freight
+00AK,Enfield,1.0,2008,Petrol LGV,Freight
+00AL,Greenwich,0.8,2008,Petrol LGV,Freight
+00AM,Hackney,0.5,2008,Petrol LGV,Freight
+00AN,Hammersmith and Fulham,0.5,2008,Petrol LGV,Freight
+00AP,Haringey,0.5,2008,Petrol LGV,Freight
+00AQ,Harrow,0.3,2008,Petrol LGV,Freight
+00AR,Havering,0.9,2008,Petrol LGV,Freight
+00AS,Hillingdon,1.1,2008,Petrol LGV,Freight
+00AT,Hounslow,0.8,2008,Petrol LGV,Freight
+00AU,Islington,0.4,2008,Petrol LGV,Freight
+00AW,Kensington and Chelsea,0.5,2008,Petrol LGV,Freight
+00AX,Kingston upon Thames,0.5,2008,Petrol LGV,Freight
+00AY,Lambeth,0.8,2008,Petrol LGV,Freight
+00AZ,Lewisham,0.7,2008,Petrol LGV,Freight
+00BA,Merton,0.4,2008,Petrol LGV,Freight
+00BB,Newham,0.7,2008,Petrol LGV,Freight
+00BC,Redbridge,0.6,2008,Petrol LGV,Freight
+00BD,Richmond upon Thames,0.4,2008,Petrol LGV,Freight
+00BE,Southwark,0.8,2008,Petrol LGV,Freight
+00BF,Sutton,0.4,2008,Petrol LGV,Freight
+00BG,Tower Hamlets,0.9,2008,Petrol LGV,Freight
+00BH,Waltham Forest,0.4,2008,Petrol LGV,Freight
+00BJ,Wandsworth,0.7,2008,Petrol LGV,Freight
+00BK,Westminster,1.0,2008,Petrol LGV,Freight
+00AA,City of London,2.0,2009,Buses,Personal
+00AB,Barking and Dagenham,2.8,2009,Buses,Personal
+00AC,Barnet,8.0,2009,Buses,Personal
+00AD,Bexley,4.8,2009,Buses,Personal
+00AE,Brent,5.6,2009,Buses,Personal
+00AF,Bromley,7.5,2009,Buses,Personal
+00AG,Camden,5.9,2009,Buses,Personal
+00AH,Croydon,7.1,2009,Buses,Personal
+00AJ,Ealing,6.2,2009,Buses,Personal
+00AK,Enfield,6.0,2009,Buses,Personal
+00AL,Greenwich,6.9,2009,Buses,Personal
+00AM,Hackney,6.2,2009,Buses,Personal
+00AN,Hammersmith and Fulham,5.4,2009,Buses,Personal
+00AP,Haringey,5.9,2009,Buses,Personal
+00AQ,Harrow,3.3,2009,Buses,Personal
+00AR,Havering,5.2,2009,Buses,Personal
+00AS,Hillingdon,9.1,2009,Buses,Personal
+00AT,Hounslow,7.6,2009,Buses,Personal
+00AU,Islington,5.2,2009,Buses,Personal
+00AW,Kensington and Chelsea,5.1,2009,Buses,Personal
+00AX,Kingston upon Thames,4.2,2009,Buses,Personal
+00AY,Lambeth,9.9,2009,Buses,Personal
+00AZ,Lewisham,7.1,2009,Buses,Personal
+00BA,Merton,4.1,2009,Buses,Personal
+00BB,Newham,5.9,2009,Buses,Personal
+00BC,Redbridge,4.4,2009,Buses,Personal
+00BD,Richmond upon Thames,5.5,2009,Buses,Personal
+00BE,Southwark,9.5,2009,Buses,Personal
+00BF,Sutton,3.6,2009,Buses,Personal
+00BG,Tower Hamlets,5.9,2009,Buses,Personal
+00BH,Waltham Forest,3.9,2009,Buses,Personal
+00BJ,Wandsworth,6.2,2009,Buses,Personal
+00BK,Westminster,14.0,2009,Buses,Personal
+00AA,City of London,2.8,2009,Diesel Cars,Personal
+00AB,Barking and Dagenham,8.8,2009,Diesel Cars,Personal
+00AC,Barnet,24.1,2009,Diesel Cars,Personal
+00AD,Bexley,13.3,2009,Diesel Cars,Personal
+00AE,Brent,12.5,2009,Diesel Cars,Personal
+00AF,Bromley,18.7,2009,Diesel Cars,Personal
+00AG,Camden,8.3,2009,Diesel Cars,Personal
+00AH,Croydon,18.2,2009,Diesel Cars,Personal
+00AJ,Ealing,18.3,2009,Diesel Cars,Personal
+00AK,Enfield,21.6,2009,Diesel Cars,Personal
+00AL,Greenwich,15.6,2009,Diesel Cars,Personal
+00AM,Hackney,8.5,2009,Diesel Cars,Personal
+00AN,Hammersmith and Fulham,9.3,2009,Diesel Cars,Personal
+00AP,Haringey,9.5,2009,Diesel Cars,Personal
+00AQ,Harrow,9.3,2009,Diesel Cars,Personal
+00AR,Havering,21.9,2009,Diesel Cars,Personal
+00AS,Hillingdon,34.1,2009,Diesel Cars,Personal
+00AT,Hounslow,24.2,2009,Diesel Cars,Personal
+00AU,Islington,6.7,2009,Diesel Cars,Personal
+00AW,Kensington and Chelsea,8.5,2009,Diesel Cars,Personal
+00AX,Kingston upon Thames,13.8,2009,Diesel Cars,Personal
+00AY,Lambeth,12.8,2009,Diesel Cars,Personal
+00AZ,Lewisham,13.7,2009,Diesel Cars,Personal
+00BA,Merton,9.1,2009,Diesel Cars,Personal
+00BB,Newham,16.2,2009,Diesel Cars,Personal
+00BC,Redbridge,14.9,2009,Diesel Cars,Personal
+00BD,Richmond upon Thames,12.1,2009,Diesel Cars,Personal
+00BE,Southwark,12.7,2009,Diesel Cars,Personal
+00BF,Sutton,9.8,2009,Diesel Cars,Personal
+00BG,Tower Hamlets,15.2,2009,Diesel Cars,Personal
+00BH,Waltham Forest,9.9,2009,Diesel Cars,Personal
+00BJ,Wandsworth,13.6,2009,Diesel Cars,Personal
+00BK,Westminster,14.5,2009,Diesel Cars,Personal
+00AA,City of London,6.6,2009,Petrol Cars,Personal
+00AB,Barking and Dagenham,19.8,2009,Petrol Cars,Personal
+00AC,Barnet,51.4,2009,Petrol Cars,Personal
+00AD,Bexley,29.9,2009,Petrol Cars,Personal
+00AE,Brent,27.8,2009,Petrol Cars,Personal
+00AF,Bromley,41.4,2009,Petrol Cars,Personal
+00AG,Camden,19.2,2009,Petrol Cars,Personal
+00AH,Croydon,40.1,2009,Petrol Cars,Personal
+00AJ,Ealing,41.0,2009,Petrol Cars,Personal
+00AK,Enfield,44.3,2009,Petrol Cars,Personal
+00AL,Greenwich,35.0,2009,Petrol Cars,Personal
+00AM,Hackney,19.7,2009,Petrol Cars,Personal
+00AN,Hammersmith and Fulham,21.7,2009,Petrol Cars,Personal
+00AP,Haringey,21.9,2009,Petrol Cars,Personal
+00AQ,Harrow,20.4,2009,Petrol Cars,Personal
+00AR,Havering,44.1,2009,Petrol Cars,Personal
+00AS,Hillingdon,69.0,2009,Petrol Cars,Personal
+00AT,Hounslow,50.0,2009,Petrol Cars,Personal
+00AU,Islington,15.6,2009,Petrol Cars,Personal
+00AW,Kensington and Chelsea,19.9,2009,Petrol Cars,Personal
+00AX,Kingston upon Thames,30.8,2009,Petrol Cars,Personal
+00AY,Lambeth,29.5,2009,Petrol Cars,Personal
+00AZ,Lewisham,31.1,2009,Petrol Cars,Personal
+00BA,Merton,20.3,2009,Petrol Cars,Personal
+00BB,Newham,37.7,2009,Petrol Cars,Personal
+00BC,Redbridge,32.8,2009,Petrol Cars,Personal
+00BD,Richmond upon Thames,27.0,2009,Petrol Cars,Personal
+00BE,Southwark,29.0,2009,Petrol Cars,Personal
+00BF,Sutton,21.4,2009,Petrol Cars,Personal
+00BG,Tower Hamlets,35.2,2009,Petrol Cars,Personal
+00BH,Waltham Forest,22.4,2009,Petrol Cars,Personal
+00BJ,Wandsworth,31.4,2009,Petrol Cars,Personal
+00BK,Westminster,34.5,2009,Petrol Cars,Personal
+00AA,City of London,0.6,2009,Motor-cycles,Personal
+00AB,Barking and Dagenham,0.4,2009,Motor-cycles,Personal
+00AC,Barnet,1.0,2009,Motor-cycles,Personal
+00AD,Bexley,0.6,2009,Motor-cycles,Personal
+00AE,Brent,0.5,2009,Motor-cycles,Personal
+00AF,Bromley,0.8,2009,Motor-cycles,Personal
+00AG,Camden,1.2,2009,Motor-cycles,Personal
+00AH,Croydon,0.9,2009,Motor-cycles,Personal
+00AJ,Ealing,0.9,2009,Motor-cycles,Personal
+00AK,Enfield,0.6,2009,Motor-cycles,Personal
+00AL,Greenwich,1.1,2009,Motor-cycles,Personal
+00AM,Hackney,0.8,2009,Motor-cycles,Personal
+00AN,Hammersmith and Fulham,1.1,2009,Motor-cycles,Personal
+00AP,Haringey,0.7,2009,Motor-cycles,Personal
+00AQ,Harrow,0.3,2009,Motor-cycles,Personal
+00AR,Havering,0.7,2009,Motor-cycles,Personal
+00AS,Hillingdon,1.1,2009,Motor-cycles,Personal
+00AT,Hounslow,1.0,2009,Motor-cycles,Personal
+00AU,Islington,0.9,2009,Motor-cycles,Personal
+00AW,Kensington and Chelsea,1.2,2009,Motor-cycles,Personal
+00AX,Kingston upon Thames,0.6,2009,Motor-cycles,Personal
+00AY,Lambeth,1.6,2009,Motor-cycles,Personal
+00AZ,Lewisham,1.0,2009,Motor-cycles,Personal
+00BA,Merton,0.5,2009,Motor-cycles,Personal
+00BB,Newham,0.8,2009,Motor-cycles,Personal
+00BC,Redbridge,0.6,2009,Motor-cycles,Personal
+00BD,Richmond upon Thames,0.7,2009,Motor-cycles,Personal
+00BE,Southwark,1.5,2009,Motor-cycles,Personal
+00BF,Sutton,0.5,2009,Motor-cycles,Personal
+00BG,Tower Hamlets,1.5,2009,Motor-cycles,Personal
+00BH,Waltham Forest,0.4,2009,Motor-cycles,Personal
+00BJ,Wandsworth,1.4,2009,Motor-cycles,Personal
+00BK,Westminster,2.2,2009,Motor-cycles,Personal
+00AA,City of London,1.5,2009,HGV,Freight
+00AB,Barking and Dagenham,8.9,2009,HGV,Freight
+00AC,Barnet,14.6,2009,HGV,Freight
+00AD,Bexley,8.2,2009,HGV,Freight
+00AE,Brent,7.0,2009,HGV,Freight
+00AF,Bromley,6.6,2009,HGV,Freight
+00AG,Camden,3.8,2009,HGV,Freight
+00AH,Croydon,8.1,2009,HGV,Freight
+00AJ,Ealing,11.6,2009,HGV,Freight
+00AK,Enfield,31.3,2009,HGV,Freight
+00AL,Greenwich,10.1,2009,HGV,Freight
+00AM,Hackney,5.1,2009,HGV,Freight
+00AN,Hammersmith and Fulham,4.6,2009,HGV,Freight
+00AP,Haringey,4.2,2009,HGV,Freight
+00AQ,Harrow,3.4,2009,HGV,Freight
+00AR,Havering,32.6,2009,HGV,Freight
+00AS,Hillingdon,18.9,2009,HGV,Freight
+00AT,Hounslow,11.9,2009,HGV,Freight
+00AU,Islington,3.6,2009,HGV,Freight
+00AW,Kensington and Chelsea,4.2,2009,HGV,Freight
+00AX,Kingston upon Thames,5.2,2009,HGV,Freight
+00AY,Lambeth,5.8,2009,HGV,Freight
+00AZ,Lewisham,5.9,2009,HGV,Freight
+00BA,Merton,4.4,2009,HGV,Freight
+00BB,Newham,10.9,2009,HGV,Freight
+00BC,Redbridge,11.5,2009,HGV,Freight
+00BD,Richmond upon Thames,4.4,2009,HGV,Freight
+00BE,Southwark,5.9,2009,HGV,Freight
+00BF,Sutton,3.7,2009,HGV,Freight
+00BG,Tower Hamlets,10.2,2009,HGV,Freight
+00BH,Waltham Forest,8.0,2009,HGV,Freight
+00BJ,Wandsworth,6.0,2009,HGV,Freight
+00BK,Westminster,7.1,2009,HGV,Freight
+00AA,City of London,2.3,2009,Diesel LGV,Freight
+00AB,Barking and Dagenham,4.8,2009,Diesel LGV,Freight
+00AC,Barnet,13.1,2009,Diesel LGV,Freight
+00AD,Bexley,7.7,2009,Diesel LGV,Freight
+00AE,Brent,6.2,2009,Diesel LGV,Freight
+00AF,Bromley,10.3,2009,Diesel LGV,Freight
+00AG,Camden,6.4,2009,Diesel LGV,Freight
+00AH,Croydon,9.3,2009,Diesel LGV,Freight
+00AJ,Ealing,9.2,2009,Diesel LGV,Freight
+00AK,Enfield,12.8,2009,Diesel LGV,Freight
+00AL,Greenwich,9.9,2009,Diesel LGV,Freight
+00AM,Hackney,6.1,2009,Diesel LGV,Freight
+00AN,Hammersmith and Fulham,6.6,2009,Diesel LGV,Freight
+00AP,Haringey,6.5,2009,Diesel LGV,Freight
+00AQ,Harrow,4.3,2009,Diesel LGV,Freight
+00AR,Havering,12.7,2009,Diesel LGV,Freight
+00AS,Hillingdon,15.6,2009,Diesel LGV,Freight
+00AT,Hounslow,10.9,2009,Diesel LGV,Freight
+00AU,Islington,5.4,2009,Diesel LGV,Freight
+00AW,Kensington and Chelsea,6.6,2009,Diesel LGV,Freight
+00AX,Kingston upon Thames,6.2,2009,Diesel LGV,Freight
+00AY,Lambeth,9.6,2009,Diesel LGV,Freight
+00AZ,Lewisham,9.2,2009,Diesel LGV,Freight
+00BA,Merton,4.8,2009,Diesel LGV,Freight
+00BB,Newham,9.2,2009,Diesel LGV,Freight
+00BC,Redbridge,8.2,2009,Diesel LGV,Freight
+00BD,Richmond upon Thames,5.4,2009,Diesel LGV,Freight
+00BE,Southwark,9.8,2009,Diesel LGV,Freight
+00BF,Sutton,5.1,2009,Diesel LGV,Freight
+00BG,Tower Hamlets,10.9,2009,Diesel LGV,Freight
+00BH,Waltham Forest,5.4,2009,Diesel LGV,Freight
+00BJ,Wandsworth,8.7,2009,Diesel LGV,Freight
+00BK,Westminster,11.5,2009,Diesel LGV,Freight
+00AA,City of London,0.2,2009,Petrol LGV,Freight
+00AB,Barking and Dagenham,0.3,2009,Petrol LGV,Freight
+00AC,Barnet,0.9,2009,Petrol LGV,Freight
+00AD,Bexley,0.5,2009,Petrol LGV,Freight
+00AE,Brent,0.4,2009,Petrol LGV,Freight
+00AF,Bromley,0.7,2009,Petrol LGV,Freight
+00AG,Camden,0.5,2009,Petrol LGV,Freight
+00AH,Croydon,0.6,2009,Petrol LGV,Freight
+00AJ,Ealing,0.6,2009,Petrol LGV,Freight
+00AK,Enfield,0.8,2009,Petrol LGV,Freight
+00AL,Greenwich,0.7,2009,Petrol LGV,Freight
+00AM,Hackney,0.4,2009,Petrol LGV,Freight
+00AN,Hammersmith and Fulham,0.5,2009,Petrol LGV,Freight
+00AP,Haringey,0.5,2009,Petrol LGV,Freight
+00AQ,Harrow,0.3,2009,Petrol LGV,Freight
+00AR,Havering,0.8,2009,Petrol LGV,Freight
+00AS,Hillingdon,1.0,2009,Petrol LGV,Freight
+00AT,Hounslow,0.7,2009,Petrol LGV,Freight
+00AU,Islington,0.4,2009,Petrol LGV,Freight
+00AW,Kensington and Chelsea,0.5,2009,Petrol LGV,Freight
+00AX,Kingston upon Thames,0.4,2009,Petrol LGV,Freight
+00AY,Lambeth,0.7,2009,Petrol LGV,Freight
+00AZ,Lewisham,0.6,2009,Petrol LGV,Freight
+00BA,Merton,0.3,2009,Petrol LGV,Freight
+00BB,Newham,0.7,2009,Petrol LGV,Freight
+00BC,Redbridge,0.6,2009,Petrol LGV,Freight
+00BD,Richmond upon Thames,0.4,2009,Petrol LGV,Freight
+00BE,Southwark,0.7,2009,Petrol LGV,Freight
+00BF,Sutton,0.4,2009,Petrol LGV,Freight
+00BG,Tower Hamlets,0.8,2009,Petrol LGV,Freight
+00BH,Waltham Forest,0.4,2009,Petrol LGV,Freight
+00BJ,Wandsworth,0.6,2009,Petrol LGV,Freight
+00BK,Westminster,0.8,2009,Petrol LGV,Freight
+00AA,City of London,2.1,2010,Buses,Personal
+00AB,Barking and Dagenham,2.6,2010,Buses,Personal
+00AC,Barnet,8.1,2010,Buses,Personal
+00AD,Bexley,4.6,2010,Buses,Personal
+00AE,Brent,5.3,2010,Buses,Personal
+00AF,Bromley,7.6,2010,Buses,Personal
+00AG,Camden,5.8,2010,Buses,Personal
+00AH,Croydon,7.1,2010,Buses,Personal
+00AJ,Ealing,5.9,2010,Buses,Personal
+00AK,Enfield,5.7,2010,Buses,Personal
+00AL,Greenwich,6.9,2010,Buses,Personal
+00AM,Hackney,5.9,2010,Buses,Personal
+00AN,Hammersmith and Fulham,5.0,2010,Buses,Personal
+00AP,Haringey,5.8,2010,Buses,Personal
+00AQ,Harrow,3.2,2010,Buses,Personal
+00AR,Havering,5.2,2010,Buses,Personal
+00AS,Hillingdon,8.6,2010,Buses,Personal
+00AT,Hounslow,7.3,2010,Buses,Personal
+00AU,Islington,5.1,2010,Buses,Personal
+00AW,Kensington and Chelsea,4.9,2010,Buses,Personal
+00AX,Kingston upon Thames,4.2,2010,Buses,Personal
+00AY,Lambeth,9.5,2010,Buses,Personal
+00AZ,Lewisham,7.1,2010,Buses,Personal
+00BA,Merton,4.1,2010,Buses,Personal
+00BB,Newham,5.6,2010,Buses,Personal
+00BC,Redbridge,4.4,2010,Buses,Personal
+00BD,Richmond upon Thames,5.6,2010,Buses,Personal
+00BE,Southwark,9.3,2010,Buses,Personal
+00BF,Sutton,3.5,2010,Buses,Personal
+00BG,Tower Hamlets,5.8,2010,Buses,Personal
+00BH,Waltham Forest,3.7,2010,Buses,Personal
+00BJ,Wandsworth,6.2,2010,Buses,Personal
+00BK,Westminster,14.3,2010,Buses,Personal
+00AA,City of London,2.9,2010,Diesel Cars,Personal
+00AB,Barking and Dagenham,9.0,2010,Diesel Cars,Personal
+00AC,Barnet,25.3,2010,Diesel Cars,Personal
+00AD,Bexley,13.3,2010,Diesel Cars,Personal
+00AE,Brent,13.7,2010,Diesel Cars,Personal
+00AF,Bromley,18.8,2010,Diesel Cars,Personal
+00AG,Camden,8.2,2010,Diesel Cars,Personal
+00AH,Croydon,18.3,2010,Diesel Cars,Personal
+00AJ,Ealing,18.5,2010,Diesel Cars,Personal
+00AK,Enfield,23.1,2010,Diesel Cars,Personal
+00AL,Greenwich,15.8,2010,Diesel Cars,Personal
+00AM,Hackney,8.7,2010,Diesel Cars,Personal
+00AN,Hammersmith and Fulham,9.4,2010,Diesel Cars,Personal
+00AP,Haringey,9.7,2010,Diesel Cars,Personal
+00AQ,Harrow,9.4,2010,Diesel Cars,Personal
+00AR,Havering,21.8,2010,Diesel Cars,Personal
+00AS,Hillingdon,33.0,2010,Diesel Cars,Personal
+00AT,Hounslow,24.1,2010,Diesel Cars,Personal
+00AU,Islington,6.8,2010,Diesel Cars,Personal
+00AW,Kensington and Chelsea,8.8,2010,Diesel Cars,Personal
+00AX,Kingston upon Thames,15.0,2010,Diesel Cars,Personal
+00AY,Lambeth,12.9,2010,Diesel Cars,Personal
+00AZ,Lewisham,13.8,2010,Diesel Cars,Personal
+00BA,Merton,9.3,2010,Diesel Cars,Personal
+00BB,Newham,16.2,2010,Diesel Cars,Personal
+00BC,Redbridge,15.6,2010,Diesel Cars,Personal
+00BD,Richmond upon Thames,12.2,2010,Diesel Cars,Personal
+00BE,Southwark,12.7,2010,Diesel Cars,Personal
+00BF,Sutton,9.8,2010,Diesel Cars,Personal
+00BG,Tower Hamlets,16.1,2010,Diesel Cars,Personal
+00BH,Waltham Forest,10.4,2010,Diesel Cars,Personal
+00BJ,Wandsworth,14.2,2010,Diesel Cars,Personal
+00BK,Westminster,14.9,2010,Diesel Cars,Personal
+00AA,City of London,6.3,2010,Petrol Cars,Personal
+00AB,Barking and Dagenham,18.7,2010,Petrol Cars,Personal
+00AC,Barnet,50.0,2010,Petrol Cars,Personal
+00AD,Bexley,27.5,2010,Petrol Cars,Personal
+00AE,Brent,28.3,2010,Petrol Cars,Personal
+00AF,Bromley,38.5,2010,Petrol Cars,Personal
+00AG,Camden,17.6,2010,Petrol Cars,Personal
+00AH,Croydon,37.4,2010,Petrol Cars,Personal
+00AJ,Ealing,38.3,2010,Petrol Cars,Personal
+00AK,Enfield,43.5,2010,Petrol Cars,Personal
+00AL,Greenwich,32.6,2010,Petrol Cars,Personal
+00AM,Hackney,18.6,2010,Petrol Cars,Personal
+00AN,Hammersmith and Fulham,20.3,2010,Petrol Cars,Personal
+00AP,Haringey,20.5,2010,Petrol Cars,Personal
+00AQ,Harrow,18.9,2010,Petrol Cars,Personal
+00AR,Havering,41.2,2010,Petrol Cars,Personal
+00AS,Hillingdon,62.8,2010,Petrol Cars,Personal
+00AT,Hounslow,46.5,2010,Petrol Cars,Personal
+00AU,Islington,14.4,2010,Petrol Cars,Personal
+00AW,Kensington and Chelsea,18.9,2010,Petrol Cars,Personal
+00AX,Kingston upon Thames,31.0,2010,Petrol Cars,Personal
+00AY,Lambeth,27.4,2010,Petrol Cars,Personal
+00AZ,Lewisham,29.1,2010,Petrol Cars,Personal
+00BA,Merton,19.2,2010,Petrol Cars,Personal
+00BB,Newham,34.8,2010,Petrol Cars,Personal
+00BC,Redbridge,31.7,2010,Petrol Cars,Personal
+00BD,Richmond upon Thames,25.1,2010,Petrol Cars,Personal
+00BE,Southwark,27.0,2010,Petrol Cars,Personal
+00BF,Sutton,19.9,2010,Petrol Cars,Personal
+00BG,Tower Hamlets,34.4,2010,Petrol Cars,Personal
+00BH,Waltham Forest,21.5,2010,Petrol Cars,Personal
+00BJ,Wandsworth,30.2,2010,Petrol Cars,Personal
+00BK,Westminster,32.5,2010,Petrol Cars,Personal
+00AA,City of London,0.5,2010,Motor-cycles,Personal
+00AB,Barking and Dagenham,0.3,2010,Motor-cycles,Personal
+00AC,Barnet,0.8,2010,Motor-cycles,Personal
+00AD,Bexley,0.5,2010,Motor-cycles,Personal
+00AE,Brent,0.5,2010,Motor-cycles,Personal
+00AF,Bromley,0.7,2010,Motor-cycles,Personal
+00AG,Camden,1.1,2010,Motor-cycles,Personal
+00AH,Croydon,0.7,2010,Motor-cycles,Personal
+00AJ,Ealing,0.8,2010,Motor-cycles,Personal
+00AK,Enfield,0.5,2010,Motor-cycles,Personal
+00AL,Greenwich,1.0,2010,Motor-cycles,Personal
+00AM,Hackney,0.7,2010,Motor-cycles,Personal
+00AN,Hammersmith and Fulham,1.0,2010,Motor-cycles,Personal
+00AP,Haringey,0.6,2010,Motor-cycles,Personal
+00AQ,Harrow,0.3,2010,Motor-cycles,Personal
+00AR,Havering,0.7,2010,Motor-cycles,Personal
+00AS,Hillingdon,1.0,2010,Motor-cycles,Personal
+00AT,Hounslow,0.9,2010,Motor-cycles,Personal
+00AU,Islington,0.9,2010,Motor-cycles,Personal
+00AW,Kensington and Chelsea,1.1,2010,Motor-cycles,Personal
+00AX,Kingston upon Thames,0.6,2010,Motor-cycles,Personal
+00AY,Lambeth,1.5,2010,Motor-cycles,Personal
+00AZ,Lewisham,1.0,2010,Motor-cycles,Personal
+00BA,Merton,0.5,2010,Motor-cycles,Personal
+00BB,Newham,0.7,2010,Motor-cycles,Personal
+00BC,Redbridge,0.5,2010,Motor-cycles,Personal
+00BD,Richmond upon Thames,0.6,2010,Motor-cycles,Personal
+00BE,Southwark,1.4,2010,Motor-cycles,Personal
+00BF,Sutton,0.4,2010,Motor-cycles,Personal
+00BG,Tower Hamlets,1.3,2010,Motor-cycles,Personal
+00BH,Waltham Forest,0.4,2010,Motor-cycles,Personal
+00BJ,Wandsworth,1.3,2010,Motor-cycles,Personal
+00BK,Westminster,2.0,2010,Motor-cycles,Personal
+00AA,City of London,1.6,2010,HGV,Freight
+00AB,Barking and Dagenham,8.4,2010,HGV,Freight
+00AC,Barnet,15.5,2010,HGV,Freight
+00AD,Bexley,8.1,2010,HGV,Freight
+00AE,Brent,8.2,2010,HGV,Freight
+00AF,Bromley,6.5,2010,HGV,Freight
+00AG,Camden,3.7,2010,HGV,Freight
+00AH,Croydon,7.8,2010,HGV,Freight
+00AJ,Ealing,13.0,2010,HGV,Freight
+00AK,Enfield,30.0,2010,HGV,Freight
+00AL,Greenwich,10.0,2010,HGV,Freight
+00AM,Hackney,6.1,2010,HGV,Freight
+00AN,Hammersmith and Fulham,4.6,2010,HGV,Freight
+00AP,Haringey,4.1,2010,HGV,Freight
+00AQ,Harrow,3.6,2010,HGV,Freight
+00AR,Havering,31.7,2010,HGV,Freight
+00AS,Hillingdon,22.7,2010,HGV,Freight
+00AT,Hounslow,12.2,2010,HGV,Freight
+00AU,Islington,3.6,2010,HGV,Freight
+00AW,Kensington and Chelsea,4.2,2010,HGV,Freight
+00AX,Kingston upon Thames,5.7,2010,HGV,Freight
+00AY,Lambeth,5.8,2010,HGV,Freight
+00AZ,Lewisham,5.8,2010,HGV,Freight
+00BA,Merton,4.3,2010,HGV,Freight
+00BB,Newham,10.9,2010,HGV,Freight
+00BC,Redbridge,11.4,2010,HGV,Freight
+00BD,Richmond upon Thames,4.7,2010,HGV,Freight
+00BE,Southwark,6.0,2010,HGV,Freight
+00BF,Sutton,3.5,2010,HGV,Freight
+00BG,Tower Hamlets,9.9,2010,HGV,Freight
+00BH,Waltham Forest,7.4,2010,HGV,Freight
+00BJ,Wandsworth,6.2,2010,HGV,Freight
+00BK,Westminster,7.2,2010,HGV,Freight
+00AA,City of London,2.3,2010,Diesel LGV,Freight
+00AB,Barking and Dagenham,4.6,2010,Diesel LGV,Freight
+00AC,Barnet,13.0,2010,Diesel LGV,Freight
+00AD,Bexley,7.9,2010,Diesel LGV,Freight
+00AE,Brent,6.5,2010,Diesel LGV,Freight
+00AF,Bromley,10.5,2010,Diesel LGV,Freight
+00AG,Camden,6.1,2010,Diesel LGV,Freight
+00AH,Croydon,9.4,2010,Diesel LGV,Freight
+00AJ,Ealing,9.1,2010,Diesel LGV,Freight
+00AK,Enfield,11.8,2010,Diesel LGV,Freight
+00AL,Greenwich,10.2,2010,Diesel LGV,Freight
+00AM,Hackney,6.1,2010,Diesel LGV,Freight
+00AN,Hammersmith and Fulham,6.6,2010,Diesel LGV,Freight
+00AP,Haringey,6.5,2010,Diesel LGV,Freight
+00AQ,Harrow,4.2,2010,Diesel LGV,Freight
+00AR,Havering,11.3,2010,Diesel LGV,Freight
+00AS,Hillingdon,16.5,2010,Diesel LGV,Freight
+00AT,Hounslow,11.3,2010,Diesel LGV,Freight
+00AU,Islington,5.3,2010,Diesel LGV,Freight
+00AW,Kensington and Chelsea,6.6,2010,Diesel LGV,Freight
+00AX,Kingston upon Thames,6.7,2010,Diesel LGV,Freight
+00AY,Lambeth,9.5,2010,Diesel LGV,Freight
+00AZ,Lewisham,9.3,2010,Diesel LGV,Freight
+00BA,Merton,4.9,2010,Diesel LGV,Freight
+00BB,Newham,8.8,2010,Diesel LGV,Freight
+00BC,Redbridge,7.7,2010,Diesel LGV,Freight
+00BD,Richmond upon Thames,5.5,2010,Diesel LGV,Freight
+00BE,Southwark,9.8,2010,Diesel LGV,Freight
+00BF,Sutton,5.1,2010,Diesel LGV,Freight
+00BG,Tower Hamlets,11.0,2010,Diesel LGV,Freight
+00BH,Waltham Forest,5.7,2010,Diesel LGV,Freight
+00BJ,Wandsworth,8.4,2010,Diesel LGV,Freight
+00BK,Westminster,11.5,2010,Diesel LGV,Freight
+00AA,City of London,0.1,2010,Petrol LGV,Freight
+00AB,Barking and Dagenham,0.3,2010,Petrol LGV,Freight
+00AC,Barnet,0.8,2010,Petrol LGV,Freight
+00AD,Bexley,0.5,2010,Petrol LGV,Freight
+00AE,Brent,0.4,2010,Petrol LGV,Freight
+00AF,Bromley,0.6,2010,Petrol LGV,Freight
+00AG,Camden,0.4,2010,Petrol LGV,Freight
+00AH,Croydon,0.6,2010,Petrol LGV,Freight
+00AJ,Ealing,0.6,2010,Petrol LGV,Freight
+00AK,Enfield,0.7,2010,Petrol LGV,Freight
+00AL,Greenwich,0.6,2010,Petrol LGV,Freight
+00AM,Hackney,0.4,2010,Petrol LGV,Freight
+00AN,Hammersmith and Fulham,0.4,2010,Petrol LGV,Freight
+00AP,Haringey,0.4,2010,Petrol LGV,Freight
+00AQ,Harrow,0.3,2010,Petrol LGV,Freight
+00AR,Havering,0.7,2010,Petrol LGV,Freight
+00AS,Hillingdon,1.0,2010,Petrol LGV,Freight
+00AT,Hounslow,0.7,2010,Petrol LGV,Freight
+00AU,Islington,0.3,2010,Petrol LGV,Freight
+00AW,Kensington and Chelsea,0.4,2010,Petrol LGV,Freight
+00AX,Kingston upon Thames,0.4,2010,Petrol LGV,Freight
+00AY,Lambeth,0.6,2010,Petrol LGV,Freight
+00AZ,Lewisham,0.6,2010,Petrol LGV,Freight
+00BA,Merton,0.3,2010,Petrol LGV,Freight
+00BB,Newham,0.6,2010,Petrol LGV,Freight
+00BC,Redbridge,0.5,2010,Petrol LGV,Freight
+00BD,Richmond upon Thames,0.3,2010,Petrol LGV,Freight
+00BE,Southwark,0.6,2010,Petrol LGV,Freight
+00BF,Sutton,0.3,2010,Petrol LGV,Freight
+00BG,Tower Hamlets,0.7,2010,Petrol LGV,Freight
+00BH,Waltham Forest,0.4,2010,Petrol LGV,Freight
+00BJ,Wandsworth,0.5,2010,Petrol LGV,Freight
+00BK,Westminster,0.7,2010,Petrol LGV,Freight
+00AA,City of London,2.1,2011,Buses,Personal
+00AB,Barking and Dagenham,2.6,2011,Buses,Personal
+00AC,Barnet,7.7,2011,Buses,Personal
+00AD,Bexley,4.6,2011,Buses,Personal
+00AE,Brent,5.4,2011,Buses,Personal
+00AF,Bromley,7.1,2011,Buses,Personal
+00AG,Camden,5.8,2011,Buses,Personal
+00AH,Croydon,6.8,2011,Buses,Personal
+00AJ,Ealing,6.0,2011,Buses,Personal
+00AK,Enfield,6.1,2011,Buses,Personal
+00AL,Greenwich,6.6,2011,Buses,Personal
+00AM,Hackney,5.8,2011,Buses,Personal
+00AN,Hammersmith and Fulham,4.8,2011,Buses,Personal
+00AP,Haringey,5.6,2011,Buses,Personal
+00AQ,Harrow,3.2,2011,Buses,Personal
+00AR,Havering,4.8,2011,Buses,Personal
+00AS,Hillingdon,8.6,2011,Buses,Personal
+00AT,Hounslow,7.3,2011,Buses,Personal
+00AU,Islington,5.1,2011,Buses,Personal
+00AW,Kensington and Chelsea,4.7,2011,Buses,Personal
+00AX,Kingston upon Thames,4.1,2011,Buses,Personal
+00AY,Lambeth,9.3,2011,Buses,Personal
+00AZ,Lewisham,6.7,2011,Buses,Personal
+00BA,Merton,3.9,2011,Buses,Personal
+00BB,Newham,5.2,2011,Buses,Personal
+00BC,Redbridge,4.5,2011,Buses,Personal
+00BD,Richmond upon Thames,5.4,2011,Buses,Personal
+00BE,Southwark,9.2,2011,Buses,Personal
+00BF,Sutton,3.4,2011,Buses,Personal
+00BG,Tower Hamlets,5.5,2011,Buses,Personal
+00BH,Waltham Forest,3.8,2011,Buses,Personal
+00BJ,Wandsworth,6.1,2011,Buses,Personal
+00BK,Westminster,14.1,2011,Buses,Personal
+00AA,City of London,2.9,2011,Diesel Cars,Personal
+00AB,Barking and Dagenham,9.1,2011,Diesel Cars,Personal
+00AC,Barnet,24.8,2011,Diesel Cars,Personal
+00AD,Bexley,13.5,2011,Diesel Cars,Personal
+00AE,Brent,13.5,2011,Diesel Cars,Personal
+00AF,Bromley,19.4,2011,Diesel Cars,Personal
+00AG,Camden,8.4,2011,Diesel Cars,Personal
+00AH,Croydon,18.9,2011,Diesel Cars,Personal
+00AJ,Ealing,18.9,2011,Diesel Cars,Personal
+00AK,Enfield,22.0,2011,Diesel Cars,Personal
+00AL,Greenwich,16.6,2011,Diesel Cars,Personal
+00AM,Hackney,8.8,2011,Diesel Cars,Personal
+00AN,Hammersmith and Fulham,9.4,2011,Diesel Cars,Personal
+00AP,Haringey,10.0,2011,Diesel Cars,Personal
+00AQ,Harrow,9.8,2011,Diesel Cars,Personal
+00AR,Havering,22.1,2011,Diesel Cars,Personal
+00AS,Hillingdon,34.0,2011,Diesel Cars,Personal
+00AT,Hounslow,25.0,2011,Diesel Cars,Personal
+00AU,Islington,6.9,2011,Diesel Cars,Personal
+00AW,Kensington and Chelsea,9.1,2011,Diesel Cars,Personal
+00AX,Kingston upon Thames,14.4,2011,Diesel Cars,Personal
+00AY,Lambeth,13.2,2011,Diesel Cars,Personal
+00AZ,Lewisham,14.4,2011,Diesel Cars,Personal
+00BA,Merton,9.4,2011,Diesel Cars,Personal
+00BB,Newham,16.2,2011,Diesel Cars,Personal
+00BC,Redbridge,16.9,2011,Diesel Cars,Personal
+00BD,Richmond upon Thames,12.5,2011,Diesel Cars,Personal
+00BE,Southwark,13.1,2011,Diesel Cars,Personal
+00BF,Sutton,10.0,2011,Diesel Cars,Personal
+00BG,Tower Hamlets,16.0,2011,Diesel Cars,Personal
+00BH,Waltham Forest,10.1,2011,Diesel Cars,Personal
+00BJ,Wandsworth,14.2,2011,Diesel Cars,Personal
+00BK,Westminster,15.2,2011,Diesel Cars,Personal
+00AA,City of London,5.9,2011,Petrol Cars,Personal
+00AB,Barking and Dagenham,17.4,2011,Petrol Cars,Personal
+00AC,Barnet,44.7,2011,Petrol Cars,Personal
+00AD,Bexley,25.7,2011,Petrol Cars,Personal
+00AE,Brent,25.6,2011,Petrol Cars,Personal
+00AF,Bromley,36.6,2011,Petrol Cars,Personal
+00AG,Camden,16.5,2011,Petrol Cars,Personal
+00AH,Croydon,35.6,2011,Petrol Cars,Personal
+00AJ,Ealing,36.0,2011,Petrol Cars,Personal
+00AK,Enfield,38.0,2011,Petrol Cars,Personal
+00AL,Greenwich,31.5,2011,Petrol Cars,Personal
+00AM,Hackney,17.3,2011,Petrol Cars,Personal
+00AN,Hammersmith and Fulham,18.5,2011,Petrol Cars,Personal
+00AP,Haringey,19.5,2011,Petrol Cars,Personal
+00AQ,Harrow,18.3,2011,Petrol Cars,Personal
+00AR,Havering,37.9,2011,Petrol Cars,Personal
+00AS,Hillingdon,58.6,2011,Petrol Cars,Personal
+00AT,Hounslow,43.7,2011,Petrol Cars,Personal
+00AU,Islington,13.6,2011,Petrol Cars,Personal
+00AW,Kensington and Chelsea,17.9,2011,Petrol Cars,Personal
+00AX,Kingston upon Thames,27.2,2011,Petrol Cars,Personal
+00AY,Lambeth,25.8,2011,Petrol Cars,Personal
+00AZ,Lewisham,27.9,2011,Petrol Cars,Personal
+00BA,Merton,17.8,2011,Petrol Cars,Personal
+00BB,Newham,31.9,2011,Petrol Cars,Personal
+00BC,Redbridge,31.5,2011,Petrol Cars,Personal
+00BD,Richmond upon Thames,23.7,2011,Petrol Cars,Personal
+00BE,Southwark,25.6,2011,Petrol Cars,Personal
+00BF,Sutton,18.8,2011,Petrol Cars,Personal
+00BG,Tower Hamlets,31.3,2011,Petrol Cars,Personal
+00BH,Waltham Forest,19.3,2011,Petrol Cars,Personal
+00BJ,Wandsworth,27.8,2011,Petrol Cars,Personal
+00BK,Westminster,30.4,2011,Petrol Cars,Personal
+00AA,City of London,0.5,2011,Motor-cycles,Personal
+00AB,Barking and Dagenham,0.3,2011,Motor-cycles,Personal
+00AC,Barnet,0.8,2011,Motor-cycles,Personal
+00AD,Bexley,0.5,2011,Motor-cycles,Personal
+00AE,Brent,0.5,2011,Motor-cycles,Personal
+00AF,Bromley,0.7,2011,Motor-cycles,Personal
+00AG,Camden,1.0,2011,Motor-cycles,Personal
+00AH,Croydon,0.7,2011,Motor-cycles,Personal
+00AJ,Ealing,0.8,2011,Motor-cycles,Personal
+00AK,Enfield,0.6,2011,Motor-cycles,Personal
+00AL,Greenwich,0.9,2011,Motor-cycles,Personal
+00AM,Hackney,0.7,2011,Motor-cycles,Personal
+00AN,Hammersmith and Fulham,0.9,2011,Motor-cycles,Personal
+00AP,Haringey,0.6,2011,Motor-cycles,Personal
+00AQ,Harrow,0.3,2011,Motor-cycles,Personal
+00AR,Havering,0.7,2011,Motor-cycles,Personal
+00AS,Hillingdon,1.0,2011,Motor-cycles,Personal
+00AT,Hounslow,0.9,2011,Motor-cycles,Personal
+00AU,Islington,0.8,2011,Motor-cycles,Personal
+00AW,Kensington and Chelsea,1.0,2011,Motor-cycles,Personal
+00AX,Kingston upon Thames,0.6,2011,Motor-cycles,Personal
+00AY,Lambeth,1.4,2011,Motor-cycles,Personal
+00AZ,Lewisham,0.9,2011,Motor-cycles,Personal
+00BA,Merton,0.4,2011,Motor-cycles,Personal
+00BB,Newham,0.7,2011,Motor-cycles,Personal
+00BC,Redbridge,0.5,2011,Motor-cycles,Personal
+00BD,Richmond upon Thames,0.6,2011,Motor-cycles,Personal
+00BE,Southwark,1.3,2011,Motor-cycles,Personal
+00BF,Sutton,0.4,2011,Motor-cycles,Personal
+00BG,Tower Hamlets,1.3,2011,Motor-cycles,Personal
+00BH,Waltham Forest,0.3,2011,Motor-cycles,Personal
+00BJ,Wandsworth,1.2,2011,Motor-cycles,Personal
+00BK,Westminster,1.9,2011,Motor-cycles,Personal
+00AA,City of London,1.6,2011,HGV,Freight
+00AB,Barking and Dagenham,9.5,2011,HGV,Freight
+00AC,Barnet,15.4,2011,HGV,Freight
+00AD,Bexley,8.1,2011,HGV,Freight
+00AE,Brent,8.0,2011,HGV,Freight
+00AF,Bromley,6.4,2011,HGV,Freight
+00AG,Camden,3.7,2011,HGV,Freight
+00AH,Croydon,7.8,2011,HGV,Freight
+00AJ,Ealing,13.6,2011,HGV,Freight
+00AK,Enfield,28.7,2011,HGV,Freight
+00AL,Greenwich,10.9,2011,HGV,Freight
+00AM,Hackney,5.0,2011,HGV,Freight
+00AN,Hammersmith and Fulham,4.6,2011,HGV,Freight
+00AP,Haringey,4.0,2011,HGV,Freight
+00AQ,Harrow,3.6,2011,HGV,Freight
+00AR,Havering,35.2,2011,HGV,Freight
+00AS,Hillingdon,19.2,2011,HGV,Freight
+00AT,Hounslow,11.5,2011,HGV,Freight
+00AU,Islington,3.5,2011,HGV,Freight
+00AW,Kensington and Chelsea,4.3,2011,HGV,Freight
+00AX,Kingston upon Thames,5.5,2011,HGV,Freight
+00AY,Lambeth,5.6,2011,HGV,Freight
+00AZ,Lewisham,5.5,2011,HGV,Freight
+00BA,Merton,4.2,2011,HGV,Freight
+00BB,Newham,11.0,2011,HGV,Freight
+00BC,Redbridge,14.4,2011,HGV,Freight
+00BD,Richmond upon Thames,4.6,2011,HGV,Freight
+00BE,Southwark,5.6,2011,HGV,Freight
+00BF,Sutton,3.3,2011,HGV,Freight
+00BG,Tower Hamlets,9.8,2011,HGV,Freight
+00BH,Waltham Forest,7.5,2011,HGV,Freight
+00BJ,Wandsworth,5.9,2011,HGV,Freight
+00BK,Westminster,7.1,2011,HGV,Freight
+00AA,City of London,2.2,2011,Diesel LGV,Freight
+00AB,Barking and Dagenham,4.9,2011,Diesel LGV,Freight
+00AC,Barnet,12.2,2011,Diesel LGV,Freight
+00AD,Bexley,7.3,2011,Diesel LGV,Freight
+00AE,Brent,6.8,2011,Diesel LGV,Freight
+00AF,Bromley,10.4,2011,Diesel LGV,Freight
+00AG,Camden,5.8,2011,Diesel LGV,Freight
+00AH,Croydon,9.4,2011,Diesel LGV,Freight
+00AJ,Ealing,9.7,2011,Diesel LGV,Freight
+00AK,Enfield,12.2,2011,Diesel LGV,Freight
+00AL,Greenwich,9.9,2011,Diesel LGV,Freight
+00AM,Hackney,6.0,2011,Diesel LGV,Freight
+00AN,Hammersmith and Fulham,6.4,2011,Diesel LGV,Freight
+00AP,Haringey,6.4,2011,Diesel LGV,Freight
+00AQ,Harrow,4.2,2011,Diesel LGV,Freight
+00AR,Havering,13.4,2011,Diesel LGV,Freight
+00AS,Hillingdon,15.6,2011,Diesel LGV,Freight
+00AT,Hounslow,11.4,2011,Diesel LGV,Freight
+00AU,Islington,5.2,2011,Diesel LGV,Freight
+00AW,Kensington and Chelsea,6.5,2011,Diesel LGV,Freight
+00AX,Kingston upon Thames,6.6,2011,Diesel LGV,Freight
+00AY,Lambeth,9.4,2011,Diesel LGV,Freight
+00AZ,Lewisham,9.2,2011,Diesel LGV,Freight
+00BA,Merton,4.9,2011,Diesel LGV,Freight
+00BB,Newham,8.9,2011,Diesel LGV,Freight
+00BC,Redbridge,8.4,2011,Diesel LGV,Freight
+00BD,Richmond upon Thames,5.5,2011,Diesel LGV,Freight
+00BE,Southwark,9.7,2011,Diesel LGV,Freight
+00BF,Sutton,5.2,2011,Diesel LGV,Freight
+00BG,Tower Hamlets,11.0,2011,Diesel LGV,Freight
+00BH,Waltham Forest,5.5,2011,Diesel LGV,Freight
+00BJ,Wandsworth,8.2,2011,Diesel LGV,Freight
+00BK,Westminster,11.2,2011,Diesel LGV,Freight
+00AA,City of London,0.1,2011,Petrol LGV,Freight
+00AB,Barking and Dagenham,0.3,2011,Petrol LGV,Freight
+00AC,Barnet,0.7,2011,Petrol LGV,Freight
+00AD,Bexley,0.4,2011,Petrol LGV,Freight
+00AE,Brent,0.4,2011,Petrol LGV,Freight
+00AF,Bromley,0.6,2011,Petrol LGV,Freight
+00AG,Camden,0.3,2011,Petrol LGV,Freight
+00AH,Croydon,0.5,2011,Petrol LGV,Freight
+00AJ,Ealing,0.6,2011,Petrol LGV,Freight
+00AK,Enfield,0.6,2011,Petrol LGV,Freight
+00AL,Greenwich,0.6,2011,Petrol LGV,Freight
+00AM,Hackney,0.4,2011,Petrol LGV,Freight
+00AN,Hammersmith and Fulham,0.4,2011,Petrol LGV,Freight
+00AP,Haringey,0.4,2011,Petrol LGV,Freight
+00AQ,Harrow,0.2,2011,Petrol LGV,Freight
+00AR,Havering,0.7,2011,Petrol LGV,Freight
+00AS,Hillingdon,0.8,2011,Petrol LGV,Freight
+00AT,Hounslow,0.6,2011,Petrol LGV,Freight
+00AU,Islington,0.3,2011,Petrol LGV,Freight
+00AW,Kensington and Chelsea,0.4,2011,Petrol LGV,Freight
+00AX,Kingston upon Thames,0.4,2011,Petrol LGV,Freight
+00AY,Lambeth,0.6,2011,Petrol LGV,Freight
+00AZ,Lewisham,0.5,2011,Petrol LGV,Freight
+00BA,Merton,0.3,2011,Petrol LGV,Freight
+00BB,Newham,0.5,2011,Petrol LGV,Freight
+00BC,Redbridge,0.5,2011,Petrol LGV,Freight
+00BD,Richmond upon Thames,0.3,2011,Petrol LGV,Freight
+00BE,Southwark,0.6,2011,Petrol LGV,Freight
+00BF,Sutton,0.3,2011,Petrol LGV,Freight
+00BG,Tower Hamlets,0.7,2011,Petrol LGV,Freight
+00BH,Waltham Forest,0.3,2011,Petrol LGV,Freight
+00BJ,Wandsworth,0.5,2011,Petrol LGV,Freight
+00BK,Westminster,0.7,2011,Petrol LGV,Freight
