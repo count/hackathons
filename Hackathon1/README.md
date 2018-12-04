@@ -52,4 +52,5 @@ Datasources:
 
 This is our first meet-up, so we would love to get your feedback (good and bad). If you wouldn't mind, could you fill out a survey here: [https://www.surveymonkey.co.uk/r/VFCRCK7](https://www.surveymonkey.co.uk/r/VFCRCK7)
 
-Join our Slack channel where we regularly post datasets we find and the latest news about Count:[Slack Link] (https://join.slack.com/t/countcommunity/shared_invite/enQtNDk1Mzc1MjcwODUyLTNmODYzNGMzODdmNzUzZjU0MTAwYWQ2OTBjZDc3ODEyZjk2ZWFlNWI3YzVmMjFiNTI2MTYxYjlhNDNjYzljN2U)
+Join our Slack channel where we regularly post datasets we find and the latest news about Count:
+[Slack Link](https://join.slack.com/t/countcommunity/shared_invite/enQtNDk1Mzc1MjcwODUyLTNmODYzNGMzODdmNzUzZjU0MTAwYWQ2OTBjZDc3ODEyZjk2ZWFlNWI3YzVmMjFiNTI2MTYxYjlhNDNjYzljN2U)
