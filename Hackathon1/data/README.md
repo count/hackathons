@@ -6,10 +6,13 @@ Contents:
   - **DEM_MigrationByBorough_03-16.csv**: Migration statistics per borough from 2003-2016
 
 - Economics
+  - **ECON_BusinessByBorough_09-18.csv**: Number of business by Industry in each borough from 2009-2018
+  - **ECON_BusSurvivalRate_02-16.csv**: Business survival rate (2-5 years) by Borough from 2002-2016
   - **ECON_EconByBorough_99-15.csv**: Economic indicators by Borough from 1999-2015
   - **ECON_EconForecast_15-20.csv**: Short term economic forecast (3 years each) from 2015-2018 for 20 different industries
   - **ECON_GenderGabybyOccup_04-17.csv**: Gender representation by occupation from 2004-2017 by Borough
   - **ECON_HousingByBorough_04-40.csv**: Housing indicators by borough from 2008-2018 + projections through 2040
+  - **ECON_UnempRate_quarteryly_92-18.csv**: Unemployment rate for London and the UK quarterly from 1992-2018
 
 - Environment/Energy
   - **ENV_AirQuality_hourly_08-18.csv**: Hourly London air quality measures from 2008 to 2018
@@ -44,7 +47,7 @@ Contents:
   - **TRA_TFLJourneyTypes_monthly_10-18.csv**: Monthly totals for each journey type (bus, underground, etc.) from 2010-2018
 
 - Combinations (Per-merged datasets)
-  - **COMBO_Animals&Weater.csv**: Animal Rescue data + weather data
+  - **COMBO_Animals&Weather.csv**: Animal Rescue data + weather data
   - **COMBO_Weather&CycleHires.csv**: Weather and Cycle hire data
   - **COMBO_Weather&Water.csv**: Weather and Reservoir Levels data
 
