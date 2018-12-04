@@ -20,6 +20,7 @@ Join the hackathon slack channel here: [Slack link](https://join.slack.com/t/cou
 - The next "hip" Borough: Find out where you should be investing
 - A Clean Commute: A look at transportation and enviromental data to find the cleanest way to commute to work
 - The London Economy: A deep dive into the London economy past and future. Try to find how your industry is trending
+- Have something else you want to explore? Feel free to work on your own, or if you're up for it, start your own team!
 
 # The Rules 👩‍🏫:
 
