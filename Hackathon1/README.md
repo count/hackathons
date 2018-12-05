@@ -45,7 +45,7 @@ Agenda:
 The data is housed in a few locations. Each one has all of the data, so pick whichever you prefer: 
 
 1. [https://play.count.co/admin/tables](https://play.count.co/admin/tables)
-2. Python starter scripts: [Binder](https://mybinder.org/v2/gh/count/hackathons/master)
+2. Python starter scripts: [Binder](https://hub.mybinder.org/user/count-hackathons-41cez9e6/tree)
 3. WeTransfer link: [Download link](https://wetransfer.com/downloads/30144c3cae4608328717d9ea5fbf7ca320181205151552/3d831926fe2bcf22be28800c90e2e1b820181205151552/ea61a4)
 
 Datasources: 
