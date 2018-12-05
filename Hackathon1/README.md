@@ -9,10 +9,15 @@ Join the hackathon slack channel here to win prizes: [Slack link](https://join.s
 Agenda: 
 
 6:30 Arrive
+
 6:45 Intro & Kick-off
+
 7:00 Start Working
+
 8:30 Start wrapping up
+
 8:40 Presentations (optional)
+
 8:55 Prizes & Closing remarks
 
 # The Task 👨‍💻:
