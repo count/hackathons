@@ -16,6 +16,12 @@ Join the hackathon slack channel here: [Slack link](https://join.slack.com/t/cou
 - At the end, we'll give anyone a chance to share parts of their analysis, and their findings (last chance to get votes)
 - Lastly, we'll announce the winners!
 
+# The Topics 🇬🇧: 
+- The next "hip" Borough: Find out where you should be investing
+- A Clean Commute: A look at transportation and enviromental data to find the cleanest way to commute to work
+- The London Economy: A deep dive into the London economy past and future. Try to find how your industry is trending
+- Have something else you want to explore? Feel free to work on your own, or if you're up for it, start your own team!
+
 # The Rules 👩‍🏫:
 
 - If you use data you've found, please make sure it's allowed to be shared with others
@@ -38,13 +44,13 @@ Datasources:
 # The Prizes 🏆:
 
 - People's Choice: Most votes from the Slack Channel
-- Most Useful: An insight we can all use in our daily lives
-- Interesting but useless: The complete opposite from above, but no less interesting
+- Host's Choice: The Count team's favourite visual
 
 ---
 
 # The Ask ❓:
 
-This is our first meet-up, so we would love to get your feedback (good and bad). If you wouldn't mind, would you fill out a survey here: [https://www.surveymonkey.co.uk/r/VFCRCK7](https://www.surveymonkey.co.uk/r/VFCRCK7)
+This is our first meet-up, so we would love to get your feedback (good and bad). If you wouldn't mind, could you fill out a survey here: [https://www.surveymonkey.co.uk/r/VFCRCK7](https://www.surveymonkey.co.uk/r/VFCRCK7)
 
 Join our Slack channel where we regularly post datasets we find and the latest news about Count:
+[Slack Link](https://join.slack.com/t/countcommunity/shared_invite/enQtNDk1Mzc1MjcwODUyLTNmODYzNGMzODdmNzUzZjU0MTAwYWQ2OTBjZDc3ODEyZjk2ZWFlNWI3YzVmMjFiNTI2MTYxYjlhNDNjYzljN2U)
