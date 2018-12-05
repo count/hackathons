@@ -1,4 +1,4 @@
-Period beginning,Period ending,Days in period,Journey type,Passengers (m),Beginning Month,Beginning Year,Ending Month,Ending Year
+Period beginning,Period ending,Days in period,Journey type,Passengers Mill,Beginning Month,Beginning Year,Ending Month,Ending Year
 2010-04-01,2010-05-01,31,Bus journeys (m),189.1,4,2010,5,2010
 2010-05-02,2010-05-29,28,Bus journeys (m),181.6,5,2010,5,2010
 2010-05-30,2010-06-26,28,Bus journeys (m),175.9,5,2010,6,2010
