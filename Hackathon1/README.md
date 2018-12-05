@@ -46,7 +46,7 @@ The data is housed in a few locations. Each one has all of the data, so pick whi
 
 1. [https://play.count.co/admin/tables](https://play.count.co/admin/tables)
 2. Python starter scripts: [Binder](https://mybinder.org/v2/gh/count/hackathons/master)
-3. WeTransfer link: [Download link](https://wetransfer.com/downloads/6f900f0344a79dd64e407379ed6b5f8320181205105007/218ef02f066f5bead4e36a93deba655b20181205105007/2ba39c)
+3. WeTransfer link: [Download link](https://wetransfer.com/downloads/30144c3cae4608328717d9ea5fbf7ca320181205151552/3d831926fe2bcf22be28800c90e2e1b820181205151552/ea61a4)
 
 Datasources: 
 
@@ -66,3 +66,5 @@ This is our first meet-up, so we would love to get your feedback (good and bad).
 
 Join our Slack channel where we regularly post datasets we find and the latest news about Count:
 [Slack Link](https://join.slack.com/t/countcommunity/shared_invite/enQtNDk1Mzc1MjcwODUyLTNmODYzNGMzODdmNzUzZjU0MTAwYWQ2OTBjZDc3ODEyZjk2ZWFlNWI3YzVmMjFiNTI2MTYxYjlhNDNjYzljN2U)
+
+Or Join our Meetup group to find out about the next Hackathon: [Meetup Link](https://www.meetup.com/London-Open-Data-Hackathons/)
