@@ -33,8 +33,8 @@ Join the hackathon slack channel here: [Slack link](https://join.slack.com/t/cou
 The data is housed in a few locations. Each one has all of the data, so pick whichever you prefer: 
 
 1. [https://play.count.co/admin/tables](https://play.count.co/admin/tables)
-2. Python starter scripts: [https://mybinder.org/v2/gh/count/hackathons/master](https://mybinder.org/v2/gh/count/hackathons/master)
-3. WeTransfer link: [https://github.com/count/hackathons/tree/master/Hackathon1(5.12.18)/data](https://wetransfer.com/downloads/6f900f0344a79dd64e407379ed6b5f8320181205105007/218ef02f066f5bead4e36a93deba655b20181205105007/2ba39c)
+2. Python starter scripts: [Binder](https://mybinder.org/v2/gh/count/hackathons/master)
+3. WeTransfer link: [Download link](https://wetransfer.com/downloads/6f900f0344a79dd64e407379ed6b5f8320181205105007/218ef02f066f5bead4e36a93deba655b20181205105007/2ba39c)
 
 Datasources: 
 
