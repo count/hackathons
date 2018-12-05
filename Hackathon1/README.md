@@ -4,9 +4,21 @@
 
 ## This document should be everything you need for today's session :D
 
-Slack Channel (for prizes): 
+Join the hackathon slack channel here to win prizes: [Slack link](https://join.slack.com/t/counthackathons/shared_invite/enQtNDg5MTI2NzM0NzI0LTIyOTI0ZmUwOTY3M2Q1MmUwYjEzYjRkNzMxNTkzNTM1YTUyNzgxY2I5YzU0ZGI4YTAxYjYxOWNhNzU1NTE1Yzk)
 
-Join the hackathon slack channel here: [Slack link](https://join.slack.com/t/counthackathons/shared_invite/enQtNDg5MTI2NzM0NzI0LTIyOTI0ZmUwOTY3M2Q1MmUwYjEzYjRkNzMxNTkzNTM1YTUyNzgxY2I5YzU0ZGI4YTAxYjYxOWNhNzU1NTE1Yzk)
+Agenda: 
+
+6:30 Arrive
+
+6:45 Intro & Kick-off
+
+7:00 Start Working
+
+8:30 Start wrapping up
+
+8:40 Presentations (optional)
+
+8:55 Prizes & Closing remarks
 
 # The Task 👨‍💻:
 
@@ -17,9 +29,9 @@ Join the hackathon slack channel here: [Slack link](https://join.slack.com/t/cou
 - Lastly, we'll announce the winners!
 
 # The Topics 🇬🇧: 
-- The next "big" Borough: Find out where you should be investing
-- A Clean Commute: A look at transportation and enviromental data to find the cleanest way to commute to work
-- The London Economy: A deep dive into the London economy past and future. Try to find how your industry is trending
+- **The next "big" Borough**: Find out where you should be investing
+- **A Clean Commute**: A look at transportation and enviromental data to find the cleanest way to commute to work
+- **The London Economy**: A deep dive into the London economy past and future. Try to find how your industry is trending
 - Have something else you want to explore? Feel free to work on your own, or if you're up for it, start your own team!
 
 # The Rules 👩‍🏫:
