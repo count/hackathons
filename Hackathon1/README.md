@@ -28,20 +28,17 @@ Agenda:
 - At the end, we'll give anyone a chance to share parts of their analysis, and their findings (last chance to get votes)
 - Lastly, we'll announce the winners!
 
-# The Topic 🇬🇧: A cleaner commute
+# The Topics 🇬🇧: 
 - **1. Understanding Air Quality and Commuting today ⭐️**: Looking at existing datasests to answer the follow questions: 
  
     - How do most Londoner's commute? How has that changed over time?
     - What is London's air quality like now? in the past? How does that change by time of the day, or weather?
-- **2. Predicting the future ⭐️⭐️**: Using basic Python (or substitute) to find the following:
+- **2. A deeper understanding ⭐️⭐️**: Using basic Python (or substitute) to find the following:
  
-    - Which stations are growing the fastest? Which mode of transport is growing the fastest? slowest?
-    - What are the factors that could be impacting commuter behaviour changes?
-    - Can we predict future air quality, or at least identify potential factors?
-- **3. Build your own optimal commute ⭐️⭐️⭐️⭐️**: Use advanced programming to design the following: 
+   - What correlates will with crime? Which areas are seeing the steepest increases?
+- **3. Build a predictive model⭐️⭐️⭐️**: Use advanced programming to design the following: 
  
-    - The cleanest and/or safest commute for yourself, or others
-    - If London were to build another cycle-way through London, where should it go to avoid poor air quality?
+   - A predictive model for crimes by Borough
     
 - Have something else you want to explore? Feel free to work on your own, or if you're up for it, start your own team!
 
