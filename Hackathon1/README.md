@@ -1,4 +1,4 @@
-# Hackathon 1: 5 Dec
+# Hackathon 1: 6 Dec
 
 # Welcome to the London Open Data Hackathon!
 
@@ -28,10 +28,21 @@ Agenda:
 - At the end, we'll give anyone a chance to share parts of their analysis, and their findings (last chance to get votes)
 - Lastly, we'll announce the winners!
 
-# The Topics 🇬🇧: 
-- **The next "big" Borough**: Find out where you should be investing
-- **A Clean Commute**: A look at transportation and enviromental data to find the cleanest way to commute to work
-- **The London Economy**: A deep dive into the London economy past and future. Try to find how your industry is trending
+# The Topic 🇬🇧: A cleaner commute
+- **1. Understanding Air Quality and Commuting today ⭐️**: Looking at existing datasest to answer the follow questions: 
+ 
+    - How do most Londoner's commute? How has that changed over time?
+    - What is London's air quality like now? in the past? How does that change by time of the day, or weather?
+- **2. Predicting the future ⭐️⭐️**: Using basic Python (or substitute) to find the following:
+ 
+    - Which stations are growing the fastest? Which mode of transport is growing the fastest? slowest?
+    - What are the factors that could be impacting commuter behaviour changes?
+    - Can we predict future air quality, or at least identify potential factors?
+- **3. Build your own optimal commute ⭐️⭐️⭐️⭐️**: Use advanced programming to design the following: 
+ 
+    - The cleanest and/or safest commute for yourself, or others
+    - If London were to build another cycle-way through London, where should it go to avoid poor air quality?
+    
 - Have something else you want to explore? Feel free to work on your own, or if you're up for it, start your own team!
 
 # The Rules 👩‍🏫:
@@ -67,4 +78,3 @@ This is our first meet-up, so we would love to get your feedback (good and bad).
 Join our Slack channel where we regularly post datasets we find and the latest news about Count:
 [Slack Link](https://join.slack.com/t/countcommunity/shared_invite/enQtNDk1Mzc1MjcwODUyLTNmODYzNGMzODdmNzUzZjU0MTAwYWQ2OTBjZDc3ODEyZjk2ZWFlNWI3YzVmMjFiNTI2MTYxYjlhNDNjYzljN2U)
 
-Or Join our Meetup group to find out about the next Hackathon: [Meetup Link](https://www.meetup.com/London-Open-Data-Hackathons/)
