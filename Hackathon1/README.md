@@ -29,7 +29,7 @@ Agenda:
 - Lastly, we'll announce the winners!
 
 # The Topic 🇬🇧: A cleaner commute
-- **1. Understanding Air Quality and Commuting today ⭐️**: Looking at existing datasest to answer the follow questions: 
+- **1. Understanding Air Quality and Commuting today ⭐️**: Looking at existing datasests to answer the follow questions: 
  
     - How do most Londoner's commute? How has that changed over time?
     - What is London's air quality like now? in the past? How does that change by time of the day, or weather?
@@ -67,7 +67,7 @@ Datasources:
 # The Prizes 🏆:
 
 - People's Choice: Most votes from the Slack Channel
-- Host's Choice: The Count team's favourite visual
+- Host's Choice: The Count team's favourite analysis
 
 ---
 
