@@ -10,8 +10,8 @@
 
 Work in groups of up to 4 (or individually) to compete on one of the two challenges: 
 
-1. **Data Viz:** Create a compelling visual that communicates something about climate change that can be hard to explain, or not readily understood. (e.g. What sources of meat have the largest carbon footprint?)
-2. **Data Product:** Create a prototype of a product (e.g. model) that could be used in climate research, mitigation efforts, or general understanding. (For example, a model that predicts wind energy outputs could make the industry run more efficiently and make it a more viable source of energy). 
+1. **Data Story:** Create a compelling data story that communicates something about climate change that can be hard to explain, or not readily understood. (e.g. How does the food we eat affect the emissions?)
+2. **Data Product:** Create a prototype of a product (e.g. model) that could be used in climate research, mitigation efforts, or general understanding. (e.g. a model that predicts wind energy outputs could make the industry run more efficiently and make it a more viable source of energy). 
 
 # The Agenda 👩‍🏫:
 
