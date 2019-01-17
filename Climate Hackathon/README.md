@@ -38,7 +38,7 @@ Work in groups of up to 4 (or individually) to compete on the following challeng
     - Copernicus: [https://cds.climate.copernicus.eu/cdsapp#!/home](https://cds.climate.copernicus.eu/cdsapp#!/home)
         - Good for mapping global climate and general weather indicators (e.g. wind speed, pressure, temperature, etc.)
         
-- Pre-cleaned data can be found in the "Datasets" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/4bf009823d245824b54f25a29cfc5f8620190117103547/6a8cbf01cc4a126d7443f5f0a3ddeb2a20190117103547/caf5e2).
+- Pre-cleaned data can be found in the "Datasets" folder of this repo, or at this wetransfer [link](https://we.tl/t-kST04j2kcm).
 
 - Example notebooks can be found in the "Example Notebook" folder, or on our [hosted notebooks](https://play.count.co/jupyter/tree/work)
   - Password: 8c6da70ba148583459eaaaae5428b734c0fe0a5d83b9ebe6
