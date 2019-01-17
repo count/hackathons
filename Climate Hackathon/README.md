@@ -40,7 +40,8 @@ Work in groups of up to 4 (or individually) to compete on the following challeng
         
 - Pre-cleaned data can be found in the "Datasets" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/4bf009823d245824b54f25a29cfc5f8620190117103547/6a8cbf01cc4a126d7443f5f0a3ddeb2a20190117103547/caf5e2).
 
-- Example notebooks can be found in the "Example Notebook" folder, or on our [hosted notebooks](https://play.count.co/jupyter/tree/work) Password: 5257b6c121e4a458a977998d402c939f04939791c42c16f4
+- Example notebooks can be found in the "Example Notebook" folder, or on our [hosted notebooks](https://play.count.co/jupyter/tree/work)
+  - Password: 8c6da70ba148583459eaaaae5428b734c0fe0a5d83b9ebe6
 
 # The Prizes 🏆:
 
