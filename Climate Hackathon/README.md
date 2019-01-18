@@ -49,6 +49,6 @@ Work in groups of up to 4 (or individually) to compete on the following challeng
 
 # Stay in touch!🤙:
 
-We're committed to making these events as great as possible, so if you have any ideas on how to improve the next one, please let us know here: https://goo.gl/forms/wdoctUzqbibk3yHQ2
+We're committed to making these events as great as possible, so if you have any ideas on how to improve the next one, please let us know here: https://goo.gl/forms/Uhm1n0feuDPCI9BK2
 
 If you're interested in learning more about Count and our mission, check us out here: https://count.co/
