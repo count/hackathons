@@ -14,9 +14,9 @@ Work in groups or individually to explore pre-prepared datasets related to clima
 
 6:45: Intro talk & welcome
 
-7:15: Start reviewing data
+7:10: Start reviewing data
 
-9:00: Wrap up
+8:45: Wrap up
 
 # The Data 📈:
 
