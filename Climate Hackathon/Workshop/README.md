@@ -34,7 +34,7 @@ Work in groups or individually to explore pre-prepared datasets related to clima
 
 Example notebooks can be found in this GitHub folder, or you can run them interactively hosted by us:
 
-## [📔 Hosted notebooks 📔](https://play.count.co/jupyter/tree/work)
+### [Hosted notebooks](https://play.count.co/jupyter/tree/work)
 
 Password: ```8c6da70ba148583459eaaaae5428b734c0fe0a5d83b9ebe6```
 
