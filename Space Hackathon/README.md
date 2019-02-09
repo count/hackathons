@@ -2,9 +2,7 @@
 
 ## #SpaceOpenDataHack
 
-# The Topic 🌍:
-
-**Space:** From UFOs to Exoplanets
+# The Topic 🚀:**Space:** From UFOs to Exoplanets
 
 # The Challenge 👨‍💻:
 
