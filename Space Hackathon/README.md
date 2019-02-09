@@ -1,16 +1,17 @@
-# Hackathon 2: 17 Jan
+# Hackathon 3: 11 Feb
 
-## #ClimateOpenDataHack
+## #SpaceOpenDataHack
 
 # The Topic 🌍:
 
-**Climate Change:** Drivers, Mitigation, & Impact
+**Space:** From UFOs to Exoplanets
 
 # The Challenge 👨‍💻:
 
 Work in groups of up to 4 (or individually) to compete on the following challenge: 
 
-**Data Story:** Create a compelling data story that communicates something about climate change that can be hard to explain, or not readily understood. (e.g. What is the impact of diet on climate drivers?)
+**Data Story:** Create a compelling data story that communicates something about space that 
+ is not readily understood. (e.g. Why do UFO sightings in the US peak on election years?)
 
 # The Agenda 👩‍🏫:
 
@@ -31,12 +32,11 @@ Work in groups of up to 4 (or individually) to compete on the following challeng
 # The Data 📈:
 
 - Sources:
-    - Eurostat: [https://ec.europa.eu/eurostat/data/database](https://ec.europa.eu/eurostat/data/database)
-        - Good for aggregated data over time and by EU country. Covers a wide range of topics
-        - Please note, many of these have ambigious coded variables. I've included the dictionaries for most of these in the "eurostat_dict" folder, but if you need more check out this site: http://dd.eionet.europa.eu/vocabularies
+    - NASA: [https://data.nasa.gov/](https://data.nasa.gov/)
+        - Good source for all things space related. Usually full of technical jargon.
         
-    - Copernicus: [https://cds.climate.copernicus.eu/cdsapp#!/home](https://cds.climate.copernicus.eu/cdsapp#!/home)
-        - Good for mapping global climate and general weather indicators (e.g. wind speed, pressure, temperature, etc.)
+    - NUFORC: [http://www.nuforc.org/](http://www.nuforc.org/)
+        - UFO Reports
         
 - Pre-cleaned data can be found in the "Datasets" folder of this repo, or at this wetransfer [link](https://we.tl/t-kST04j2kcm).
 
