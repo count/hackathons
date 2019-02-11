@@ -38,9 +38,11 @@ Work in groups of up to 4 (or individually) to compete on the following challeng
         - UFO Reports
         
 - Pre-cleaned data can be found in the "Datasets" folder of this repo, or at this wetransfer [link](https://we.tl/t-kST04j2kcm).
+- Tip - if downloading from GitHub, select the file, right-click the 'Download' button, and click 'Save link as'.
+- Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
 
 - Example notebooks can be found in the "Example Notebook" folder, or on our [hosted notebooks](https://play.count.co/jupyter/tree/work)
-  - Password: 8c6da70ba148583459eaaaae5428b734c0fe0a5d83b9ebe6
+  - Password: `8c6da70ba148583459eaaaae5428b734c0fe0a5d83b9ebe6`
 
 # The Prizes 🏆:
 
