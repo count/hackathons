@@ -1,6 +1,6 @@
 # Competition Announcement
 
-### Description
+### Description 🏅
 
 Many of you have told us you wished you had more time with the data to come up with something really interesting. Well now, you've got it!
 
@@ -11,7 +11,7 @@ In this competition, we'll use the same Space data you've seen at our last 2 [ev
 - How compelling is the overall story
 - How well the story was told (e.g. how clear are the visuals in conveying the point)
 
-### The Details
+### The Details 🤓
 
 The competition closes at **23:55 03/03/2019**.
 
@@ -23,13 +23,13 @@ If you prefer, you can do your work on our [hosted notebooks](https://play.count
 
 Password: ```fa0ab42a993f4959211f28916bbe1ab76412272a77ee78d6```
 
-### The Rules
+### The Rules 📜
 
 1. If you use additional data in your submission, please make sure it is something we can access (e.g. no proprietary data)
 2. Make sure all work is your own
 3. You may analyse the data using any tool(s) you wish
 
-### The Submission
+### The Submission 💾
 
 Submit your entry [here](https://www.surveygizmo.com/s3/4851828/Space-Data-Competition-Entry-Form)!
 
