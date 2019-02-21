@@ -23,7 +23,7 @@ Work in groups or individually to explore our pre-prepared datasets related to s
     - NUFORC: [http://www.nuforc.org/](http://www.nuforc.org/)
         - UFO Reports
         
-- Pre-cleaned data can be found in the "Datasets" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/774ce83a5ade3848f36ca751372c353520190211123247/1284d3003d18d808d8b2044224bf05fc20190211123247/0383b7).
+- Pre-cleaned data can be found in the "Datasets" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/403dfd857ea6d03fc984657b46c3017f20190220184446/c345dc1b8377581daea622a1e46bfbb720190220184446/03698e).
 - Tip - if downloading from GitHub, select the file, right-click the 'Download' button, and click 'Save link as'.
 - Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
 
