@@ -35,8 +35,11 @@ Submit your entry [here](https://www.surveygizmo.com/s3/4851828/Space-Data-Compe
 
 1. Ensure your files start with: “Count_Space_Competition_Firstname_Lastname”
 2. Your submission should include:
+
     a) Your visualisation(s) in a format readable by us (e.g. `.png`, `.jpeg`, `.pdf`, `.docx`, URL if hosted online etc.)
+    
     b) A list of questions you sought to answer and your thought process in answering them. 
+    
     c) Your code in plain-text format (e.g. `.html`,`.ipynb`, `.py`, URL etc.):
 
 Note: It is possible for (b) and (c) to be contained in a single file, but your visual submission should be separate as this is the main item being judged.
