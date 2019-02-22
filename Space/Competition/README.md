@@ -21,7 +21,7 @@ The competition data can be accessed from [WeTransfer](https://wetransfer.com/do
 
 If you prefer, you can do your work on our [hosted notebooks](https://play.count.co/jupyter/tree/work) which have the usual scientific and data science packages installed.
 
-Password: ```fa0ab42a993f4959211f28916bbe1ab76412272a77ee78d6```
+Password: ```bffb10a21d4aa0afa723ae4bcfda4c1bc9156aac3c0834f4```
 
 ### The Rules 📜
 
