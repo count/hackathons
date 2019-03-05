@@ -1,3 +1,5 @@
+PLEASE NOTE THIS COMPETITION IS NOW CLOSED
+
 # Competition Announcement
 
 ### Description 🏅
@@ -14,8 +16,6 @@ In this competition, we'll use the same Space data you've seen at our last 2 [ev
 ### The Details 🤓
 
 The competition closes at **23:55 03/03/2019**.
-
-Winners will be revealed on the 4th of March from [@DataHackathons](https://twitter.com/DataHackathons).
 
 The competition data can be accessed from [WeTransfer](https://wetransfer.com/downloads/774ce83a5ade3848f36ca751372c353520190211123247/1284d3003d18d808d8b2044224bf05fc20190211123247/0383b7) or from [GitHub](https://github.com/count/hackathons/tree/master/Space/Data) (make sure you have [git-lfs](https://help.github.com/articles/installing-git-large-file-storage/) installed if cloning the repository). 
 
