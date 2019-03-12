@@ -30,7 +30,7 @@ Work in groups of up to 4 (or individually) to compete on the following challeng
 # The Data 📈:
 
 - Sources:
-    - Football: 
+    - Football:         
           - [football-data.co.uk](http://www.football-data.co.uk/)
           - [fantasy.premierleague.com](https://fantasy.premierleague.com/drf/)
     - Rugby:    
