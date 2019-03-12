@@ -1,6 +1,6 @@
 # Hackathon 4: 14 Mar
 
-## #SpaceOpenDataHack
+## #SportOpenDataHack
 
 # The Topic 🏆:
 **Sports:** From Chess to Football
@@ -50,12 +50,16 @@ Work in groups of up to 4 (or individually) to compete on the following challeng
 
 - Example notebooks can be found in the "Example Notebook" folder, or on our [hosted notebooks](https://play.count.co/jupyter/tree/work/Sport)
   - Password: `172776596e6b706a2f989a79835adb839f52cf06b08c6b3c`
+  
+- Join the conversation on [Slack](https://join.slack.com/t/counthackathons/shared_invite/enQtNTc1MzMwMjQyNDIzLTYzNmVmMDkyNGJjNzU3ODY0NjBiZTVjYmNmMGVmN2MxZGVkODM0ZjM5YTczYjE5OWVjMzM5ZThhYThiMjBkMGU)!
 
 # The Prizes 🏆:
 
 - The crowd will vote on the top project, and there will be a prize for the best planned project!
 
 # Stay in touch!🤙:
+
+Are you on Twitter? You simply have to be these days! [@DataHackathons](https://twitter.com/DataHackathons)
 
 We're committed to making these events as great as possible, so if you have any ideas on how to improve the next one, please let us know here: https://goo.gl/forms/Uhm1n0feuDPCI9BK2
 
