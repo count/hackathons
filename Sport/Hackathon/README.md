@@ -46,7 +46,7 @@ Work in groups of up to 4 (or individually) to compete on the following challeng
 - Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
 
 - Example notebooks can be found in the "Example Notebook" folder, or on our [hosted notebooks](https://play.count.co/jupyter/tree/work)
-  - Password: `fa0ab42a993f4959211f28916bbe1ab76412272a77ee78d6`
+  - Password: `172776596e6b706a2f989a79835adb839f52cf06b08c6b3c`
 
 # The Prizes 🏆:
 
