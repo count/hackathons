@@ -30,15 +30,17 @@ Work in groups of up to 4 (or individually) to compete on the following challeng
 # The Data 📈:
 
 - Sources:
-    - Football:         
+    - ⚽:         
           - [football-data.co.uk](http://www.football-data.co.uk/)      
           - [fantasy.premierleague.com](https://fantasy.premierleague.com/drf/)
-    - Rugby:    
+    - 🏉:    
           - [pulselive API](https://www.pulselive.com/)
-    - Basketball:   
+    - 🏀:   
           - NBA:[Basketball-reference.com](https://www.basketball-reference.com/)
-    - Tennis:   
+    - 🎾:   
           - [tennis-data.co.uk](http://www.tennis-data.co.uk/)
+    - ♟️:    
+          - [Kaggle](https://www.kaggle.com/datasnaek/chess)
           
         
 - Pre-cleaned data can be found in the "Data" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/774ce83a5ade3848f36ca751372c353520190211123247/1284d3003d18d808d8b2044224bf05fc20190211123247/0383b7).
