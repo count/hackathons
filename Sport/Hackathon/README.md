@@ -30,14 +30,14 @@ Work in groups of up to 4 (or individually) to compete on the following challeng
 # The Data 📈:
 
 - Sources:
-    - Football:
+    - Football: 
           - [football-data.co.uk](http://www.football-data.co.uk/)
           - [fantasy.premierleague.com](https://fantasy.premierleague.com/drf/)
-    - Rugby:
+    - Rugby:    
           - [pulselive API](https://www.pulselive.com/)
-    - Basketball
+    - Basketball:   
           - NBA:[Basketball-reference.com](https://www.basketball-reference.com/)
-    - Tennis
+    - Tennis:   
           - [tennis-data.co.uk](http://www.tennis-data.co.uk/)
           
         
