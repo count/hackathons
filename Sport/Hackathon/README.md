@@ -48,7 +48,7 @@ Work in groups of up to 4 (or individually) to compete on the following challeng
 - Tip - if downloading from GitHub, select the file, right-click the 'Download' button, and click 'Save link as'.
 - Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
 
-- Example notebooks can be found in the "Example Notebook" folder, or on our [hosted notebooks](https://play.count.co/jupyter/tree/work)
+- Example notebooks can be found in the "Example Notebook" folder, or on our [hosted notebooks](https://play.count.co/jupyter/tree/work/Sport)
   - Password: `172776596e6b706a2f989a79835adb839f52cf06b08c6b3c`
 
 # The Prizes 🏆:
