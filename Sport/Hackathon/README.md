@@ -31,18 +31,13 @@ Work in groups of up to 4 (or individually) to compete on the following challeng
 
 - Sources:
     - Football:
-    
           - [football-data.co.uk](http://www.football-data.co.uk/)
-          
           - [fantasy.premierleague.com](https://fantasy.premierleague.com/drf/)
     - Rugby:
-    
           - [pulselive API](https://www.pulselive.com/)
     - Basketball
-    
           - NBA:[Basketball-reference.com](https://www.basketball-reference.com/)
     - Tennis
-    
           - [tennis-data.co.uk](http://www.tennis-data.co.uk/)
           
         
