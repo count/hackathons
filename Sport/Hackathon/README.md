@@ -1,4 +1,4 @@
-# Hackathon 3: 14 Mar
+# Hackathon 4: 14 Mar
 
 ## #SpaceOpenDataHack
 
