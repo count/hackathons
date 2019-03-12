@@ -1,16 +1,15 @@
-# Hackathon 3: 11 Feb
+# Hackathon 3: 14 Mar
 
 ## #SpaceOpenDataHack
 
-# The Topic 🚀:
-**Space:** From UFOs to Exoplanets
+# The Topic 🏆:
+**Sports:** From Chess to Football
 
 # The Challenge 👨‍💻:
 
 Work in groups of up to 4 (or individually) to compete on the following challenge: 
 
-**Data Story:** Create a compelling data story that communicates something about space that 
- is not readily understood. (e.g. Why do UFO sightings in the US peak on election years?)
+**Data Story:**  Create a compelling data story that communicates something about sports that is not readily understood.
 
 # The Agenda 👩‍🏫:
 
@@ -31,13 +30,18 @@ Work in groups of up to 4 (or individually) to compete on the following challeng
 # The Data 📈:
 
 - Sources:
-    - NASA: [https://data.nasa.gov/](https://data.nasa.gov/)
-        - Good source for all things space related. Usually full of technical jargon.
+    - Football:
+          - [football-data.co.uk](http://www.football-data.co.uk/)
+          - [fantasy.premierleague.com](https://fantasy.premierleague.com/drf/)
+    - Rugby:
+          - [pulselive API](https://www.pulselive.com/)
+    - Basketball
+          - NBA:[Basketball-reference.com](https://www.basketball-reference.com/)
+    - Tennis
+          - [tennis-data.co.uk](http://www.tennis-data.co.uk/)
+          
         
-    - NUFORC: [http://www.nuforc.org/](http://www.nuforc.org/)
-        - UFO Reports
-        
-- Pre-cleaned data can be found in the "Datasets" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/774ce83a5ade3848f36ca751372c353520190211123247/1284d3003d18d808d8b2044224bf05fc20190211123247/0383b7).
+- Pre-cleaned data can be found in the "Data" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/774ce83a5ade3848f36ca751372c353520190211123247/1284d3003d18d808d8b2044224bf05fc20190211123247/0383b7).
 - Tip - if downloading from GitHub, select the file, right-click the 'Download' button, and click 'Save link as'.
 - Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
 
