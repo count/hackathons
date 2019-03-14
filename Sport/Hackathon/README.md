@@ -44,7 +44,7 @@ Work in groups of up to 4 (or individually) to compete on the following challeng
           - [Kaggle](https://www.kaggle.com/datasnaek/chess)
           
         
-- Pre-cleaned data can be found in the "Data" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/774ce83a5ade3848f36ca751372c353520190211123247/1284d3003d18d808d8b2044224bf05fc20190211123247/0383b7).
+- Pre-cleaned data can be found in the "Data" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/b8d6b521ad5dfc3aaf1a6629ee2aac2820190314145535/355b3651569a8573341e69b8f504fe2a20190314145535/f55683).
 - Tip - if downloading from GitHub, select the file, right-click the 'Download' button, and click 'Save link as'.
 - Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
 
