@@ -31,7 +31,7 @@ Work in groups or individually to explore our pre-prepared datasets related to s
           - [Kaggle](https://www.kaggle.com/datasnaek/chess)
           
         
-- Pre-cleaned data can be found in the "Data" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/b8d6b521ad5dfc3aaf1a6629ee2aac2820190314145535/355b3651569a8573341e69b8f504fe2a20190314145535/f55683).
+- Pre-cleaned data can be found in the "Data" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/12e26e2cf3a75a395cc7b188fa43113e20190326112044/cd0adc8cb30912dabf5fd85d75b6b45b20190326112044/ceda90).
 - Tip - if downloading from GitHub, select the file, right-click the 'Download' button, and click 'Save link as'.
 - Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
 
