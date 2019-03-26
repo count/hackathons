@@ -1,11 +1,11 @@
-# Data Analysis Workshop: 20th Feb
+# Data Analysis Workshop: 26th March
 
-## The Topic 🚀
-**Space:** From UFOs to Exoplanets
+## The Topic ♟️⚽
+**Sports:** From Chess to Premier League
 
 ## The Challenge 👨‍💻
 
-Work in groups or individually to explore our pre-prepared datasets related to space. Use our example notebooks as inspiration for what to explore, and guides for how to prepare and visualise your data. The challenges interspersed within the notebooks will help you understand the examples better. The adventurous amongst you are encouraged to start playing with fitting models to your data.
+Work in groups or individually to explore our pre-prepared datasets related to sports. Use our example notebook as inspiration for what to explore, and guides for how to prepare and visualise your data. The adventurous amongst you are encouraged to start playing with fitting models to your data.
 
 ## The Agenda 👩‍🏫
 
@@ -17,26 +17,37 @@ Work in groups or individually to explore our pre-prepared datasets related to s
 ## The Data 📈
 
 - Sources:
-    - NASA: [https://data.nasa.gov/](https://data.nasa.gov/)
-        - Good source for all things space related. Usually full of technical jargon.
+    - ⚽:         
+          - [football-data.co.uk](http://www.football-data.co.uk/)      
+          - [fantasy.premierleague.com](https://fantasy.premierleague.com/drf/)
+    - 🏉:    
+          - [pulselive API](https://www.pulselive.com/)
+    - 🏀:   
+          - NBA:[Basketball-reference.com](https://www.basketball-reference.com/)       
+          - NCAA: [GoogleBigQuery](https://console.cloud.google.com/marketplace/details/ncaa-bb-public/ncaa-basketball)
+    - 🎾:   
+          - [tennis-data.co.uk](http://www.tennis-data.co.uk/)
+    - ♟️:    
+          - [Kaggle](https://www.kaggle.com/datasnaek/chess)
+          
         
-    - NUFORC: [http://www.nuforc.org/](http://www.nuforc.org/)
-        - UFO Reports
-        
-- Pre-cleaned data can be found in the "Datasets" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/403dfd857ea6d03fc984657b46c3017f20190220184446/c345dc1b8377581daea622a1e46bfbb720190220184446/03698e).
+- Pre-cleaned data can be found in the "Data" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/b8d6b521ad5dfc3aaf1a6629ee2aac2820190314145535/355b3651569a8573341e69b8f504fe2a20190314145535/f55683).
 - Tip - if downloading from GitHub, select the file, right-click the 'Download' button, and click 'Save link as'.
 - Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
 
-## The Example Notebooks 📔:
+## The Example Notebook 📔:
 
-Example notebooks can be found in this GitHub folder, or you can run them interactively hosted by us:
+- Example notebook can be found in the "Example Notebook" folder, or on our [hosted notebooks](https://play.count.co/jupyter/tree/work/Sport)
+  - Password: `172776596e6b706a2f989a79835adb839f52cf06b08c6b3c`
+  
+  
+- Join the conversation on [Slack](https://join.slack.com/t/opendatahackathons/shared_invite/enQtNTc1MzMwMjQyNDIzLTYzNmVmMDkyNGJjNzU3ODY0NjBiZTVjYmNmMGVmN2MxZGVkODM0ZjM5YTczYjE5OWVjMzM5ZThhYThiMjBkMGU)!
 
-### [Hosted notebooks](https://play.count.co/jupyter/tree/work/Space/Space%20Example%20Scripts)
-
-Password: ```bffb10a21d4aa0afa723ae4bcfda4c1bc9156aac3c0834f4```
 
 ## Stay in touch!🤙:
 
-We're committed to making these events as great as possible, so if you have any ideas on how to improve the next one, please let us know [here](https://www.meetup.com/London-Open-Data-Hackathons/events/258667500/).
+Are you on Twitter? You simply have to be these days! [@DataHackathons](https://twitter.com/DataHackathons)
+
+We're committed to making these events as great as possible, so if you have any ideas on how to improve the next one, please let us know [here](https://www.meetup.com/London-Open-Data-Hackathons/events/259593015/).
 
 If you're interested in learning more about Count and our mission, check us out here: https://count.co/
