@@ -38,7 +38,7 @@ Work in groups or individually to explore our pre-prepared datasets related to s
 ## The Example Notebook 📔:
 
 - Example notebook can be found in the "Example Notebook" folder, or on our [hosted notebooks](https://play.count.co/jupyter/tree/work/Sport)
-  - Password: `172dddf2dc7e453bfbb791efd05c51ad6a57c9e26d29bead`
+  - Password: `a78e0e5bd4bc28da8de4b23de9cced5623e06826eda90e24`
   
   
 - Join the conversation on [Slack](https://join.slack.com/t/opendatahackathons/shared_invite/enQtNTc1MzMwMjQyNDIzLTYzNmVmMDkyNGJjNzU3ODY0NjBiZTVjYmNmMGVmN2MxZGVkODM0ZjM5YTczYjE5OWVjMzM5ZThhYThiMjBkMGU)!
