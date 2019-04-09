@@ -2,7 +2,7 @@
 
 ## [#MusicOpenDataHack](https://twitter.com/DataHackathons?lang=en-gb)
 
-# The Topic 🎵:
+# The Topic 🎹🎸🎤:
 **Music:** Understand the hits
 
 # The Challenge 👨‍💻:
@@ -53,6 +53,10 @@ Work at your table to compete on the following challenge:
 
 # Stay in touch!🤙:
 
-We're committed to making these events as great as possible, so if you have any ideas on how to improve the next one, please let us know here: https://goo.gl/forms/Uhm1n0feuDPCI9BK2
-
 If you're interested in learning more about Count and our mission, check us out here: https://count.co/
+
+We run data workshops with organisations, so get in touch with us at hello@count.co if you would like to run one within your own organisation. 
+
+Check out our future events at: [https://www.meetup.com/London-Open-Data-Hackathons/](https://www.meetup.com/London-Open-Data-Hackathons/)
+
+And keep up to date by following us on Twitter [@DataHackathons](https://twitter.com/DataHackathons)
