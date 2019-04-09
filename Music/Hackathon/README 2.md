@@ -1,16 +1,20 @@
-# Hackathon 3: 11 Feb
+# Hackathon 5: 9 April
 
-## #SpaceOpenDataHack
+## #MusicOpenDataHack
 
-# The Topic 🚀:
-**Space:** From UFOs to Exoplanets
+# The Topic 🎵:
+**Music:** 
 
 # The Challenge 👨‍💻:
 
-Work in groups of up to 4 (or individually) to compete on the following challenge: 
+Work at your table to compete on the following challenge: 
 
-**Data Story:** Create a compelling data story that communicates something about space that 
- is not readily understood. (e.g. Why do UFO sightings in the US peak on election years?)
+**Data Story:** Create a compelling data story that communicates something about music that 
+ is not readily understood. (e.g. What song attributes make the most successful hits)
+ 
+ 
+**Join the Conversation** Use our Slack channel to share any interesting findings or communicate within your team. 
+[Invite Link](https://join.slack.com/t/opendatahackathons/shared_invite/enQtNTc1MzMwMjQyNDIzLTYzNmVmMDkyNGJjNzU3ODY0NjBiZTVjYmNmMGVmN2MxZGVkODM0ZjM5YTczYjE5OWVjMzM5ZThhYThiMjBkMGU)
 
 # The Agenda 👩‍🏫:
 
@@ -20,22 +24,20 @@ Work in groups of up to 4 (or individually) to compete on the following challeng
 
 7:00: Start reviewing data
 
-7:10: Find your teams
-
 7:15: Begin!
 
-9:15: Presentations Start
+9:00: Presentations Start
 
 9:45: Prizes & Wrap-up
 
 # The Data 📈:
 
 - Sources:
-    - NASA: [https://data.nasa.gov/](https://data.nasa.gov/)
-        - Good source for all things space related. Usually full of technical jargon.
+    - [Spotify Hits:](https://spotifycharts.com/regional/global/daily/)
+        - Daily hits scraped for Global, UK, US and IE (Ireland)
         
-    - NUFORC: [http://www.nuforc.org/](http://www.nuforc.org/)
-        - UFO Reports
+    - [Spotify API:](https://developer.spotify.com/documentation/web-api/)
+        - Track, Artist, and Album metadata gathered from the API
         
 - Pre-cleaned data can be found in the "Datasets" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/774ce83a5ade3848f36ca751372c353520190211123247/1284d3003d18d808d8b2044224bf05fc20190211123247/0383b7).
 - Tip - if downloading from GitHub, select the file, right-click the 'Download' button, and click 'Save link as'.
@@ -46,7 +48,8 @@ Work in groups of up to 4 (or individually) to compete on the following challeng
 
 # The Prizes 🏆:
 
-- The crowd will vote on the top project, and there will be a prize for the best planned project!
+- 1. People's Choice: The crowd will vote on the top project
+- 2. Host's Choice: We'll pick our favourite project too ;)
 
 # Stay in touch!🤙:
 
