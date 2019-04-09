@@ -34,12 +34,12 @@ Work at your table to compete on the following challenge:
 
 - Sources:
     - [Spotify Hits:](https://spotifycharts.com/regional/global/daily/)
-        - Daily hits scraped for Global, UK, US and IE (Ireland)
+        - Daily hits scraped for Global, UK, US and IE (Ireland) from 1/1/2007 to date
         
     - [Spotify API:](https://developer.spotify.com/documentation/web-api/)
         - Track, Artist, and Album metadata gathered from the API
         
-- Pre-cleaned data can be found in the "Datasets" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/774ce83a5ade3848f36ca751372c353520190211123247/1284d3003d18d808d8b2044224bf05fc20190211123247/0383b7).
+- Pre-cleaned data can be found in the "Datasets" folder of this repo, or at this wetransfer [link](https://we.tl/t-o9EzWktqKR).
 - Tip - if downloading from GitHub, select the file, right-click the 'Download' button, and click 'Save link as'.
 - Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
 
