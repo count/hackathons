@@ -22,13 +22,13 @@ Work at your table to compete on the following challenge:
 
 6:45: Intro talk & welcome
 
-7:00: Start reviewing data
+7:00: Review the available data as a group
 
-7:15: Begin!
+7:10: Begin!
 
-9:00: Presentations Start
+8:40: Presentations Start
 
-9:45: Prizes & Wrap-up
+9:00: Prizes & Wrap-up
 
 # The Data 📈:
 
@@ -48,8 +48,8 @@ Work at your table to compete on the following challenge:
 
 # The Prizes 🏆:
 
-- 1. People's Choice: The crowd will vote on the top project
-- 2. Host's Choice: We'll pick our favourite project too ;)
+- 1. **People's Choice**: The crowd will vote on the top project
+- 2. **Host's Choice**: We'll pick our favourite project too ;)
 
 # Stay in touch!🤙:
 
