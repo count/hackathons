@@ -36,7 +36,7 @@ Work at your table to compete on the following challenge:
     - [Spotify Hits:](https://spotifycharts.com/regional/global/daily/)
         - Daily hits scraped for Global, UK, US and IE (Ireland) from 1/1/2007 to date
         
-    - [Spotify API:](https://developer.spotify.com/documentation/web-api/)
+    - [Spotify API:](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)
         - Track, Artist, and Album metadata gathered from the API
         
 - Pre-cleaned data can be found in the "Datasets" folder of this repo, or at this wetransfer [link](https://we.tl/t-o9EzWktqKR).
