@@ -3,7 +3,7 @@
 ## [#MusicOpenDataHack](https://twitter.com/DataHackathons?lang=en-gb)
 
 # The Topic 🎵:
-**Music:** 
+**Music:** Understand the hits
 
 # The Challenge 👨‍💻:
 
