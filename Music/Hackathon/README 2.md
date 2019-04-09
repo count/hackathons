@@ -1,6 +1,6 @@
 # Hackathon 5: 9 April
 
-## #MusicOpenDataHack
+## [#MusicOpenDataHack](https://twitter.com/DataHackathons?lang=en-gb)
 
 # The Topic 🎵:
 **Music:** 
