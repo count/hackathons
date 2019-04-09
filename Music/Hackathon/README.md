@@ -44,7 +44,7 @@ Work at your table to compete on the following challenge:
 - Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
 
 - Example notebooks can be found in the "Example Notebook" folder, or on our [hosted notebooks](https://play.count.co/jupyter/tree/work)
-  - Password: `fa0ab42a993f4959211f28916bbe1ab76412272a77ee78d6`
+  - Password: `097f8f4ff73dec050ae40db726fc7eb4b4bf036c99a2f481`
 
 # The Prizes 🏆:
 
