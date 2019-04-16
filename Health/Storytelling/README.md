@@ -44,7 +44,7 @@ Increase your confidence understanding and analysing data. We will work together
     
     - [ONS:](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration)
     
-- See the data details [here] (https://github.com/count/hackathons/blob/master/Health/Data/README.md).
+- See the data details [here](https://github.com/count/hackathons/blob/master/Health/Data/README.md).
     
     
 **To access the data you have 3 options:**
