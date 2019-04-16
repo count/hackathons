@@ -44,6 +44,8 @@ Increase your confidence understanding and analysing data. We will work together
     
     - [ONS:](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration)
     
+- See the data details [here] (https://github.com/count/hackathons/blob/master/Health/Data/README.md).
+    
 - Pre-cleaned data can be found in the "Datasets" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/e65e88df2b6e397ab4e28b691ee1434a20190416084439/d0666f7815c54675197c51d74c8834e220190416084439/f6a318).
 - Tip - if downloading from GitHub, select the file, right-click the 'Download' button, and click 'Save link as'.
 - Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
