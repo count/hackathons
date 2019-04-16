@@ -3,7 +3,7 @@
 ## [#HealthDataStorytelling](https://twitter.com/DataHackathons?lang=en-gb)
 
 # The Topic 👩‍⚕️👨‍⚕️🏥💊🌡️:
-**Health:** 
+**Health** 
 
 # The Challenge 👨‍💻:
 Today we'll be exploring two prominent themes within public health data: 
