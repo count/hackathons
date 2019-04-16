@@ -110,9 +110,9 @@ File containing the populations for each County, and Sex from 2001-2016.
 - **AreaName**
 - **CountyCode**
 - **Year**
-- **Sex**
-- **Population**
+- **Sex**: Male, Female, Persons (Male + Female)
+- **Population**:
 
 6. Alltogether.csv
 
-This is a pre-merged file that contains all of the indicators listed above at the level of AreaName, Year: 
+This is a pre-merged file that contains all of the indicators listed above at the level of AreaName, Year. 
