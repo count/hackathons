@@ -1,16 +1,17 @@
-# Hackathon 5: 9 April
+# Data Storytelling 1: 16 April
 
-## [#MusicOpenDataHack](https://twitter.com/DataHackathons?lang=en-gb)
+## [#HealthDataStorytelling](https://twitter.com/DataHackathons?lang=en-gb)
 
-# The Topic 🎹🎸🎤:
-**Music:** Understand the hits
+# The Topic 👩‍⚕️👨‍⚕️🏥💊🌡️:
+**Health:** 
 
 # The Challenge 👨‍💻:
+Today we'll be exploring two prominent themes within public health data: 
+- Respiratory health
+- Obesity and Diabetes
 
-Work at your table to compete on the following challenge: 
-
-**Data Story:** Create a compelling data story that communicates something about music that 
- is not readily understood. (e.g. What song attributes make the most successful hits)
+# The Purpose:
+Increase your confidence understanding and analysing data. We will work together to build up data stories and uncover new insights about today's topic.
  
  
 **Join the Conversation** Use our Slack channel to share any interesting findings or communicate within your team. 
@@ -20,26 +21,30 @@ Work at your table to compete on the following challenge:
 
 6:30: Arrive, get comfortable
 
-6:45: Intro talk & welcome
+6:40: Intro talk & welcome
 
-7:00: Review the available data as a group
+6:50: Familiarising ourselves with new data
 
-7:10: Begin!
+7:10: Identify the questions you want to answer in your group
 
-8:40: Presentations Start
+7:30: Build your data story: analyse, interpret, and review
 
-9:00: Prizes & Wrap-up
+8:50: Share back stories at each table
+
+9:10: Wrap up
 
 # The Data 📈:
 
 - Sources:
-    - [Spotify Hits:](https://spotifycharts.com/regional/global/daily/)
-        - Daily hits scraped for Global, UK, US and IE (Ireland) from 1/1/2007 to date
+    - [Public Health England:](https://fingertips.phe.org.uk/)
         
-    - [Spotify API:](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)
-        - Track, Artist, and Album metadata gathered from the API
-        
-- Pre-cleaned data can be found in the "Datasets" folder of this repo, or at this wetransfer [link](https://we.tl/t-o9EzWktqKR).
+    - [NHS England:](https://digital.nhs.uk/data-and-information/publications/statistical/quality-and-outcomes-framework-achievement-prevalence-and-exceptions-data)
+    
+    - [Data UK:](https://data.gov.uk/dataset/91b301b2-ecfa-4066-9a2b-59511264ff76/ccg-map)
+    
+    - [ONS:](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration)
+    
+- Pre-cleaned data can be found in the "Datasets" folder of this repo, or at this wetransfer [link](https://wetransfer.com/downloads/e65e88df2b6e397ab4e28b691ee1434a20190416084439/d0666f7815c54675197c51d74c8834e220190416084439/f6a318).
 - Tip - if downloading from GitHub, select the file, right-click the 'Download' button, and click 'Save link as'.
 - Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
 
