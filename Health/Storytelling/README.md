@@ -1,6 +1,6 @@
 # Data Storytelling 1: 16 April
 
-## [#HealthDataStorytelling](https://twitter.com/DataHackathons?lang=en-gb)
+## [#HealthDataStorytelling](https://twitter.com/DataHackathons?lang=en-gb){:target="_blank"}
 
 # The Topic 👩‍⚕️👨‍⚕️🏥💊🌡️:
 **Health** 
@@ -15,7 +15,7 @@ Increase your confidence understanding and analysing data. We will work together
  
  
 **Join the Conversation** Use our Slack channel to share any interesting findings or communicate within your team. 
-[Invite Link](https://join.slack.com/t/opendatahackathons/shared_invite/enQtNTc1MzMwMjQyNDIzLTYzNmVmMDkyNGJjNzU3ODY0NjBiZTVjYmNmMGVmN2MxZGVkODM0ZjM5YTczYjE5OWVjMzM5ZThhYThiMjBkMGU)
+[Invite Link](https://join.slack.com/t/opendatahackathons/shared_invite/enQtNTc1MzMwMjQyNDIzLTYzNmVmMDkyNGJjNzU3ODY0NjBiZTVjYmNmMGVmN2MxZGVkODM0ZjM5YTczYjE5OWVjMzM5ZThhYThiMjBkMGU){:target="_blank"}
 
 # The Agenda 👩‍🏫:
 
