@@ -113,21 +113,6 @@ File containing the populations for each County, and Sex from 2001-2016.
 - **Sex**
 - **Population**
 
-6. pre_merged_resp
+6. Alltogether.csv
 
-This is a pre-merged file that contains a subset of the indicators listed above. In particular: 
-
-- **AreaName**
-- **Year**
-- **CountyCode**
-- **RegionName**
-- **asmr_all**
-- **resp_death_per_all**
-- **diupr_resp_rate**
-- **mortality_attributable_to_air_pollution**
-- **access_to_woodlands**
-- **air_pollution_particulate_mat**
-- **deprivation_score**
-- **asthma_prev_rate**
-- **copd_prev_rate**
-- **smoker_count**
+This is a pre-merged file that contains all of the indicators listed above at the level of AreaName, Year: 
