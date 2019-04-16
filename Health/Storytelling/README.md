@@ -15,7 +15,7 @@ Increase your confidence understanding and analysing data. We will work together
  
  
 **Join the Conversation** Use our Slack channel to share any interesting findings or communicate within your team. 
-[Invite Link](https://join.slack.com/t/opendatahackathons/shared_invite/enQtNTc1MzMwMjQyNDIzLTYzNmVmMDkyNGJjNzU3ODY0NjBiZTVjYmNmMGVmN2MxZGVkODM0ZjM5YTczYjE5OWVjMzM5ZThhYThiMjBkMGU)
+[Invite Link](https://join.slack.com/t/opendatahackathons/shared_invite/enQtNTk4NDM0NjMyNjI3LTUwN2UwNTFjYTQ1ZDc5N2RiNDdkYWVhMzljNzJjOGEzY2ZmMzk2NDRjODYwNDE5YWZmNTdiMzdlZWUyM2YyZTI)
 
 # The Agenda 👩‍🏫:
 
