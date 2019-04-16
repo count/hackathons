@@ -1,7 +1,6 @@
 # Data Storytelling 1: 16 April
 
-## [#HealthDataStorytelling](
-`html'<a>href ="https://twitter.com/DataHackathons?lang=en-gb/" target="_blank">#HealthDataStorytelling</a>'/html`
+## [#HealthDataStorytelling](https://twitter.com/DataHackathons?lang=en-gb/)
 
 # The Topic 👩‍⚕️👨‍⚕️🏥💊🌡️:
 **Health** 
