@@ -60,8 +60,8 @@ Increase your confidence understanding and analysing data. We will work together
 
 # The Prizes 🏆:
 
-- 1. **People's Choice**: The crowd will vote on the top project
-- 2. **Host's Choice**: We'll pick our favourite project too ;)
+- 1. **Most surprising or interesting finding each round**: There will be multiple opportunities to win a small prize during the rounds of analysis.
+- 2. **People's choice for final presentations**: You have the chance to share one of your charts and present for up to two minutes on what it contributed to your data story. The crowd will vote for their favourite.
 
 # Stay in touch!🤙:
 
