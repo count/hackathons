@@ -51,7 +51,7 @@ Increase your confidence understanding and analysing data. We will work together
     - Tip - if downloading from GitHub, select the file, right-click the 'Download' button, and click 'Save link as'.
     - Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
     
-2. WeTransfer [link](https://wetransfer.com/downloads/e65e88df2b6e397ab4e28b691ee1434a20190416084439/d0666f7815c54675197c51d74c8834e220190416084439/f6a318)
+2. WeTransfer [link](https://we.tl/t-FqmzZqoUic)
 
 3. **(Recommended option)** [Hosted Python Notebooks](https://play.count.co/jupyter/tree/work/Health)
   - Password: `838b58dc73c093e5678bd0bd08086995b92bdd95cb56babb`
