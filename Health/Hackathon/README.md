@@ -1,4 +1,4 @@
-# Data Storytelling 1: 16 April
+# Data Hackathon: 24 April
 
 ## [#HealthDataStorytelling](https://twitter.com/DataHackathons?lang=en-gb/)
 
@@ -6,9 +6,9 @@
 **Health** 
 
 # The Challenge 👨‍💻:
-Today we'll be exploring two prominent themes within public health data: 
-- Respiratory health
-- Obesity and Diabetes
+Work in groups of up to 4 (or individually) to compete on the following challenge:
+
+**Can you come up with a policy suggestion that would help either respiratory or obesity-related health outcomes?**
 
 # The Purpose:
 Increase your confidence understanding and analysing data. We will work together to build up data stories and uncover new insights about today's topic.
@@ -21,17 +21,15 @@ Increase your confidence understanding and analysing data. We will work together
 
 6:30: Arrive, get comfortable
 
-6:40: Intro talk & welcome
+6:45: Welcome and introduction
 
-6:50: Familiarising ourselves with new data
+7:00: Get to know the data and agree your group's scope
 
-7:10: Identify the questions you want to answer in your group
+7:20: Rounds of analysis: Analyse, interpret, and review
 
-7:30: Build your data story: analyse, interpret, and review
+9:10: Share back findings from each table
 
-8:50: Share back stories at each table
-
-9:10: Wrap up
+9:30: Prizes and wrap=up
 
 # The Data 📈:
 
