@@ -15,7 +15,11 @@
 
 This file contains social indicators by Year, and County. 
 
-- **AreaName**: County Name (e.g. Barnet, Barnsley)
+- **AreaCode**: Unique area code intentifier
+- **AreaType**: Upper Authority Level (ULTA) or Lower Authority Level (LTA)
+- **AreaName**: Name of the Area
+- **UtlaName**: Upper Authority Level Name (will be the same as AreaName, if the area in question is a ULTA)
+- **UtlaCode**: Upper Authority Level Code
 - **Year**: 2010-2017
 - **mortality_attributable_to_air_pollution**: Fraction of mortality attributable to particulate air pollution.
     - Fraction of annual all-cause adult mortality attributable to anthropogenic (human-made) particulate air pollution (measured as fine particulate matter, PM2.5*).
@@ -58,10 +62,13 @@ This file contains social indicators by Year, and County.
 
 This file contains data by Year, County, Age Group, and Sex
 
-- **AreaName**
-- **Year**
+- **AreaCode**: Unique area code intentifier
+- **AreaType**: Upper Authority Level (ULTA) or Lower Authority Level (LTA)
+- **AreaName**: Name of the Area
+- **UtlaName**: Upper Authority Level Name (will be the same as AreaName, if the area in question is a ULTA)
+- **UtlaCode**: Upper Authority Level Code
+- **Year**: 2010-2017
 - **Age:** Age groups
-- **Sex**
 - **diupr_resp_rate**: DiUPR - Respiratory disease (%), Persons, All Ages
     - Place of death indicator calculated as: (Deaths at usual residence/All Deaths) x 100%
     - Usual residence is defined as: home, care homes (local authority and non-local authority) and religious establishments.
@@ -88,8 +95,9 @@ This file contains data by Year, County, Age Group, and Sex
 This file contains data by CCG Code, and Year
 
 - **ccg code:** Clinical commissioning groups
-- **Year**
-- **asthma_prev_rate:** Asthma prevelance rate	****
+- **UtlaCode**: Upper Authority Level Code
+- **Year**: 2014-2017
+- **asthma_prev_rate:** Asthma prevelance rate
 - **copd_prev_rate:** COPD (Chronic Obstructive Pulmonary Disease) prevalence rate
 - **diabetes_prev_rate:** Diabetes prevalence rate
 - **obesity_prev_rate:** Obesity prevalence rate
@@ -101,18 +109,20 @@ This file contains data by CCG Code, and Year
 This file contains the mapping from CCG to County.
 
 - **ccg_code:** Clinical commissioning groups
-- **county_code:** Unique county code
+- **UtlaCode:** Unique Upper Authority Level Code
 
 5. CountyPopulations.csv
 
 File containing the populations for each County, and Sex from 2001-2016.
 
-- **AreaName**
-- **CountyCode**
+- **AreaName**: LAD Name
+- **LadCode**: LAD Code
+- **UtlaCode**: UTLA Code
+- **UtlaName**: UTLA Name
 - **Year**
 - **Sex**: Male, Female, Persons (Male + Female)
 - **Population**:
 
 6. Alltogether.csv
 
-This is a pre-merged file that contains all of the indicators listed above at the level of AreaName, Year. 
+This is a pre-merged file that contains all of the indicators listed above at the level of UtlaCode,UtlaName, Year. 
