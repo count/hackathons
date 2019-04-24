@@ -54,7 +54,7 @@ Increase your confidence understanding and analysing data. We will work together
 2. WeTransfer [link](https://wetransfer.com/downloads/e65e88df2b6e397ab4e28b691ee1434a20190416084439/d0666f7815c54675197c51d74c8834e220190416084439/f6a318)
 
 3. **(Recommended option)** [Hosted Python Notebooks](https://play.count.co/jupyter/tree/work/Health)
-  - Password: `92b1803de110133a3b0173f4271e6d981d0785b6e585272b`
+  - Password: `838b58dc73c093e5678bd0bd08086995b92bdd95cb56babb`
 
 # The Prizes 🏆:
 
