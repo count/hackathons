@@ -1,12 +1,12 @@
-# Data Storytelling 1: 16 April
+# Data Storytelling 2: 13 May
 
-## [#HealthDataStorytelling](https://twitter.com/DataHackathons?lang=en-gb/)
+## [#AirBnBDataStorytelling](https://twitter.com/DataHackathons?lang=en-gb/)
 
-# The Topic 👩‍⚕️👨‍⚕️🏥💊🌡️:
-**Health** 
+# The Topic :
+**The effects of AirBnB on London** 
 
 # The Challenge 👨‍💻:
-Today we'll be exploring two prominent themes within public health data: 
+Today we'll be exploring two prominent questions: 
 - Respiratory health
 - Obesity and Diabetes
 
