@@ -1,11 +1,11 @@
-# Health Data Details
+# AirBnB Data Details
 
 ### Data Sources:
 
-1. [Public Health England](https://fingertips.phe.org.uk/)
-2. [NHS England](https://digital.nhs.uk/data-and-information/publications/statistical/quality-and-outcomes-framework-achievement-prevalence-and-exceptions-data)
-3. [Data.uk (for ccg to county mapping)](http://data.UKhttps://data.gov.uk/dataset/d304a541-c315-42af-883f-558b8de9228c/lower-layer-super-output-area-2011-to-clinical-commissioning-group-to-local-authority-district-april-2017-lookup-in-england-version-4)
-4. [ONS (for population data)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration)
+1. [Inside AirBnB](http://insideairbnb.com/about.html)
+2. [Companies House (businesses)](http://download.companieshouse.gov.uk/en_output.html)
+3. [London Datastore (crime data)](https://data.london.gov.uk/dataset/recorded_crime_summary)
+4. [HM Land Registry (house prices)](http://landregistry.data.gov.uk/)
 
 ---
 
