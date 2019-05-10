@@ -26,6 +26,8 @@ The other 2 tables are information that changes over time for each listing.
 To see how London neighborhoods have changed over time, we've included the following context datasets: 
 
 - **Housing:** Median housing prices, and count of houses sold for each borough and month
+- **Businesses:** Businesses by type and neighbourhood
+- **Crimes:** Monthly crimes by type, neighbourhood
 
 Key:
 
@@ -124,3 +126,18 @@ Key:
 - countTerraced
 - medianOverall
 - countOverall
+
+### Businesses
+
+- 🔑neighbourhood (a.k.a. borough)
+- 🔑incorpYear: Year business was incorporated
+- 🔑company status: {e.g. Active}
+- 🔑company type: {e.g. Construction}
+- companyCount
+
+### Crimes
+
+- 🔑crime type 
+- 🔑neighbourhood
+- 🔑mon_yr
+- crimes
