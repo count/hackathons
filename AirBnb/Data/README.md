@@ -1,128 +1,142 @@
-# Health Data Details
+# AirBnB Data Details
 
 ### Data Sources:
 
-1. [Public Health England](https://fingertips.phe.org.uk/)
-2. [NHS England](https://digital.nhs.uk/data-and-information/publications/statistical/quality-and-outcomes-framework-achievement-prevalence-and-exceptions-data)
-3. [Data.uk (for ccg to county mapping)](http://data.UKhttps://data.gov.uk/dataset/d304a541-c315-42af-883f-558b8de9228c/lower-layer-super-output-area-2011-to-clinical-commissioning-group-to-local-authority-district-april-2017-lookup-in-england-version-4)
-4. [ONS (for population data)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration)
+1. [Inside AirBnB](http://insideairbnb.com/about.html)
+2. [Companies House (businesses)](http://download.companieshouse.gov.uk/en_output.html)
+3. [London Datastore (crime data)](https://data.london.gov.uk/dataset/recorded_crime_summary)
+4. [HM Land Registry (house prices)](http://landregistry.data.gov.uk/)
 
 ---
 
-### File Schemas
+# Tables:
 
-1. SocialStats.csv
+There are 6 tables provided. 
 
-This file contains social indicators by Year, and County. 
+The main table is **AllListings**. Each row is a unique listing on AirBnB. It contains information like the number of beds, the location, and the cancellation policy. 
 
-- **AreaCode**: Unique area code intentifier
-- **AreaType**: Upper Authority Level (ULTA) or Lower Authority Level (LTA)
-- **AreaName**: Name of the Area
-- **UtlaName**: Upper Authority Level Name (will be the same as AreaName, if the area in question is a ULTA)
-- **UtlaCode**: Upper Authority Level Code
-- **Year**: 2010-2017
-- **mortality_attributable_to_air_pollution**: Fraction of mortality attributable to particulate air pollution.
-    - Fraction of annual all-cause adult mortality attributable to anthropogenic (human-made) particulate air pollution (measured as fine particulate matter, PM2.5*).
-- **access_to_healthy_assets**: Percentage of the population who live in LSOAs which score in the poorest performing 20% on the Access to Healthy Assets & Hazards (AHAH) index.
-    - The AHAH index is comprised of three domains: access to retail services (fast food outlets, gambling outlets, pubs/bars/nightclubs, off licences, tobacconists), access to health services (GP surgeries, A&E hospitals, pharmacies, dentists and leisure centres), and physical environment (access to green spaces, and three air pollutants: NO2 level, PM10 level, SO2 level). The AHAH index provides a summary of an area's relative performance on these indicators (the second and third domains conceptualised as health promoting and the first (access to retail) as health demoting). It therefore provides information on how conducive to good health an area is relative to other areas, for the specific indicators.
-- **access_to_woodlands**: Percentage of the population in each local authority that has accessible woodland of at least 2 hectare within 500 metres of where they live
-- **affordability_of_home**: Ratio of median house price to median gross annual residence-based earnings (A higher ratio indicates that on average, it is less affordable for a resident to purchase a house in their local authority district)
-- **air_pollution_particulate_mat**: Air pollution: fine particulate matter
-    - Annual concentration of human-made fine particulate matter at an area level, adjusted to account for population exposure. Fine particulate matter is also known as PM2.5 and has a metric of micrograms per cubic metre (µg/m3).
-- **crime_deprivation_score:**
+There is a **Hosts** table that contains information about each host. A host can have 1+ listings. 
 
-    The score derived from the aggregate crime indicators in the English Indices of Deprivation 2015. A higher score means that an area is more deprived.
+The other 2 tables are information that changes over time for each listing. 
 
-    The indicators that contribute to the score are:
+- **Calendar:** For each month-year from March 2019 to March 2020, and listing, this shows the number of days listed as available, and the pricing for that month.
+- **Reviews:** For each month-year and listing, this table shows the number of reviews it received, the avg word count and average sentiment score (via [Text Blob](https://textblob.readthedocs.io/en/dev/))
 
-    - Violence: The rate of violence per 1,000 at-risk population
-    - Burglary: The rate of burglary per 1,000 at-risk properties
-    - Theft: The rate of theft per 1,000 at-risk population
-    - Criminal Damage: The rate of criminal damage per 1,000 at-risk population
-- **density_of_fast_food**: Crude rate per 100,000 population: the number of fast food outlets is divided by the population of the area and multiplied by 100,000.
-- **deprivation_score**: The English Indices of Deprivation 2015 use 37 separate indicators, organised across seven distinct domains of deprivation which can be combined, using appropriate weights, to calculate the Index of Multiple Deprivation 2015 (IMD 2015). This is an overall measure of multiple deprivation experienced by people living in an area.
-- **employment_deprivation_score:**
+To see how London neighborhoods have changed over time, we've included the following context datasets: 
 
-    The score derived from the aggregate employment indicators in the English Indices of Deprivation 2015. A higher score means that an area is more deprived.
+- **Housing:** Median housing prices, and count of houses sold for each borough and month
+- **Businesses:** Businesses by type and neighbourhood
+- **Crimes:** Monthly crimes by type, neighbourhood
 
-    The indicators that contribute to the score are:
+Key:
 
-    - Claimants of Jobseeker’s Allowance (both contribution-based and income-based), women aged 18 to 59 and men aged 18 to 64
-    - Claimants of Employment and Support Allowance (both contribution-based and income-based) , women aged 18 to 59 and men aged 18 to 64
-    - Claimants of Incapacity Benefit, women aged 18 to 59 and men aged 18 to 64
-    - Claimants of Severe Disablement Allowance, women aged 18 to 59 and men aged 18 to 64
-    - Claimants of Carer’s Allowance, women aged 18 to 59 and men aged 18 to 64
-- **housing_affordability_ratio**: The ratio of lower quartile house price to lower quartile earnings
-- **income_deprivation**: The Income Deprivation Domain measures the proportion of the population experiencing deprivation relating to low income. The definition of low income used includes both those people that are out-of-work, and those that are in work but who have low earnings (and who satisfy the respective means tests).
-- **prop_living_in_aqmas:** Proportion of population living within AQMAs (%)(Air Quality Management Areas)
-- **CountyCode**: Unique code for each County
-- **RegionName**: Region Name
+🔑: designates the key(s) of the table
 
-2. HealthStats.csv
+💔: designates columns with ≥33% null values
 
-This file contains data by Year, County, Age Group, and Sex
+### AllListings
 
-- **AreaCode**: Unique area code intentifier
-- **AreaType**: Upper Authority Level (ULTA) or Lower Authority Level (LTA)
-- **AreaName**: Name of the Area
-- **UtlaName**: Upper Authority Level Name (will be the same as AreaName, if the area in question is a ULTA)
-- **UtlaCode**: Upper Authority Level Code
-- **Year**: 2010-2017
-- **Age:** Age groups
-- **diupr_resp_rate**: DiUPR - Respiratory disease (%), Persons, All Ages
-    - Place of death indicator calculated as: (Deaths at usual residence/All Deaths) x 100%
-    - Usual residence is defined as: home, care homes (local authority and non-local authority) and religious establishments.
-- **asmr_0-64**: Directly Age Standardised Mortality Rate (ASMR), Persons, Aged 0 - 64 years
-    - The directly age standardised mortality rate (ASMR) per 100,000 persons aged under 65 years in each Strategic Clinical Network (SCN), for each year.
-- **asmr_65-74:** see above.
-- **asmr_75-84:** see above.
-- **asmr_85+:** see above.
-- **asmr_all:** see above.
-- **resp_death_per_0-64**: Respiratory disease deaths (%), Persons, Aged 0 - 64 years
-    - The number of deaths for persons aged under 65 years where respiratory disease is the underlying cause of death divided by the total number of residents aged under 65 years who died each year, multiplied by 100
-- **resp_death_per_65-74**: see above
-- **resp_death_per_75-84**: see above
-- **resp_death_per_85+**: see above
-- **resp_death_per_all**: see above
-- **admin_resp_tract_inf_1y**: Admissions for respiratory tract infections in infants aged under 1 year
-- **admin_resp_tract_inf_2-4:** Admissions for respiratory tract infections in infants aged 2, 3 and 4 years
-- **admin_resp_tract_inf_<1:** Admissions for respiratory tract infections in infants aged under 1 year
-- **CountyCode:** Unique county code
-- **RegionName:** Region Name
+- 🔑 id: The unique id for a listing (a.k.a. property)
+- last scraped: the date the listing information was gathered (scraped)
+- listing url: link to the listing
+- name: The title of the listing
+- host id: the unique id for the listing's host [links to "host id" in **Hosts** table]
+- experiences: {none, business, family, social, romantic}
+- neighbourhood: maps to London's boroughs {e.g. City of London, Tower Hamlets, etc.}
+- latitude
+- longitude
+- property type: {e.g. Apartment, House}
+- room type: {Private room, Shared room, Entire house/apt}
+- accommodates: Number of people the listing can accommodate.
+- bathrooms: Number of bathrooms
+- bedrooms: Number of bedrooms
+- beds: Number of available beds
+- bed type: {Real Bed, Pull-out Sofa, Futon, Couch, Airbed}
+- minNights
+- maxNights
+- reviewCount
+- instant bookable {t,f}
+- is business travel ready: {t,f}
+- cancellation policy: {e.g. flexible, moderate}
+- first review
+- last review
+- review rating
+- review accuracy
+- review cleanliness
+- review checkin
+- review communication
+- review location
+- review value
+- price
+- 💔security deposit
+- cleaning fee
+- guests included
+- extra people
 
-3. HealthCCG.csv
+### Hosts
 
-This file contains data by CCG Code, and Year
+- 🔑 host id: unique id for each host
+- host url
+- name
+- host since
+- location
+- 💔response time: {e.g. within a day, within an hour}
+- 💔response rate: (in %)
+- is superhost: {t,f}
+- 💔neighbourhood: unfortunately, does not match London boroughs. {e.g. Hampstead, Shoreditch}
+- listingsCount: number of listings each host has
+- verifications
+- has profile pic
+- identity verified:
 
-- **ccg code:** Clinical commissioning groups
-- **UtlaCode**: Upper Authority Level Code
-- **Year**: 2014-2017
-- **asthma_prev_rate:** Asthma prevelance rate
-- **copd_prev_rate:** COPD (Chronic Obstructive Pulmonary Disease) prevalence rate
-- **diabetes_prev_rate:** Diabetes prevalence rate
-- **obesity_prev_rate:** Obesity prevalence rate
-- **hypertension_prev_rate:** Hypertension prevalence rate
-- **smoker_count:** Number of self-identified smokers aged 15+
+### Calendar
 
-4. CCGMap.csv
+- 🔑listing id: The unique id for a listing (a.k.a. property)
+- 🔑month year
+- days available: days listed as available for that listing in that month
+- mean price: (in USD) average nightly listing price for available days in that month
+- max price (in USD)
+- min price (in USD)
 
-This file contains the mapping from CCG to County.
+### Reviews
 
-- **ccg_code:** Clinical commissioning groups
-- **UtlaCode:** Unique Upper Authority Level Code
+- 🔑listing id: The unique id for a listing (a.k.a. property)
+- 🔑month year
+- 🔑neighbourhood
+- number of reviewers: unique reviewers for that month
+- average sentiment: {-1: very negative, 1 very positive}
+- average wordcount
 
-5. CountyPopulations.csv
+## Contextual Data
 
-File containing the populations for each County, and Sex from 2001-2016.
+### Housing
 
-- **AreaName**: LAD Name
-- **LadCode**: LAD Code
-- **UtlaCode**: UTLA Code
-- **UtlaName**: UTLA Name
-- **Year**
-- **Sex**: Male, Female, Persons (Male + Female)
-- **Population**:
+- 🔑neighbourhood (a.k.a. borough)
+- 🔑mon_yr
+- medianDetached
+- medianFlat
+- medianOther
+- medianSemiDet
+- medianTerraced
+- countDetached
+- countFlat
+- countOther
+- countSemiDet
+- countTerraced
+- medianOverall
+- countOverall
 
-6. Alltogether.csv
+### Businesses
 
-This is a pre-merged file that contains all of the indicators listed above at the level of UtlaCode,UtlaName, Year. 
+- 🔑neighbourhood (a.k.a. borough)
+- 🔑incorpYear: Year business was incorporated
+- 🔑company status: {e.g. Active}
+- 🔑company type: {e.g. Construction}
+- companyCount
+
+### Crimes
+
+- 🔑crime type 
+- 🔑neighbourhood
+- 🔑mon_yr
+- crimes
