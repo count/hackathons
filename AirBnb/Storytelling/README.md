@@ -6,9 +6,7 @@
 **The effects of AirBnB on London** 
 
 # The Challenge 👨‍💻:
-Today we'll be exploring two prominent questions: 
-- Respiratory health
-- Obesity and Diabetes
+Today we'll be exploring ...
 
 # The Purpose:
 Increase your confidence understanding and analysing data. We will work together to build up data stories and uncover new insights about today's topic.
@@ -34,17 +32,8 @@ Increase your confidence understanding and analysing data. We will work together
 9:10: Wrap up
 
 # The Data 📈:
-
-- Sources:
-    - [Public Health England:](https://fingertips.phe.org.uk/)
-        
-    - [NHS England:](https://digital.nhs.uk/data-and-information/publications/statistical/quality-and-outcomes-framework-achievement-prevalence-and-exceptions-data)
     
-    - [Data UK:](https://data.gov.uk/dataset/91b301b2-ecfa-4066-9a2b-59511264ff76/ccg-map)
-    
-    - [ONS:](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration)
-    
-- See the data details [here](https://github.com/count/hackathons/blob/master/Health/Data/README.md).
+- See the data details [here](https://github.com/count/hackathons/blob/master/AirBnb/Data/README.md).
     
     
 **To access the data you have 3 options:**
