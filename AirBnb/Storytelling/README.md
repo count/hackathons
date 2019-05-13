@@ -15,6 +15,8 @@ Increase your confidence understanding and analysing data. We will work together
 **Join the Conversation** Use our #Airbnb Slack channel to share any interesting findings or communicate within your team. 
 [Invite Link](https://join.slack.com/t/opendatahackathons/shared_invite/enQtNTk4NDM0NjMyNjI3LTUwN2UwNTFjYTQ1ZDc5N2RiNDdkYWVhMzljNzJjOGEzY2ZmMzk2NDRjODYwNDE5YWZmNTdiMzdlZWUyM2YyZTI)
 
+You can use the hashtag [#AirBnBDataStorytelling](https://twitter.com/DataHackathons?lang=en-gb/) if you want to share your findings on Twitter.
+
 # The Agenda 👩‍🏫:
 
 6:30: Arrive, get comfortable
