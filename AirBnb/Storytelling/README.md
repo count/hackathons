@@ -44,7 +44,7 @@ You can use the hashtag [#AirBnBDataStorytelling](https://twitter.com/DataHackat
     - Tip - if downloading from GitHub, select the file, right-click the 'Download' button, and click 'Save link as'.
     - Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
     
-2. WeTransfer [link](https://we.tl/t-bkpa22Rp9q)
+2. WeTransfer [link](https://we.tl/t-bPQdr539SZ)
 
 3. **(Recommended option)** [Hosted Python Notebooks](https://play.count.co/jupyter/tree/work/AirBnB)
   - Password: `53c528ca1f2b21eac8dce335aefbfee2968f78c8e94f34e7`
