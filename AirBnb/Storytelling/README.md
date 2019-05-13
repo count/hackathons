@@ -6,13 +6,13 @@
 **The effects of AirBnB on London** 
 
 # The Challenge 👨‍💻:
-Today we'll be exploring ...
+Today we'll be exploring Airbnb data as well as some other contextual data about London neighbourhoods. What's the most surprising thing you can find out about the impact of Airbnb in London?
 
 # The Purpose:
 Increase your confidence understanding and analysing data. We will work together to build up data stories and uncover new insights about today's topic.
  
  
-**Join the Conversation** Use our Slack channel to share any interesting findings or communicate within your team. 
+**Join the Conversation** Use our #Airbnb Slack channel to share any interesting findings or communicate within your team. 
 [Invite Link](https://join.slack.com/t/opendatahackathons/shared_invite/enQtNTk4NDM0NjMyNjI3LTUwN2UwNTFjYTQ1ZDc5N2RiNDdkYWVhMzljNzJjOGEzY2ZmMzk2NDRjODYwNDE5YWZmNTdiMzdlZWUyM2YyZTI)
 
 # The Agenda 👩‍🏫:
