@@ -4,15 +4,14 @@
 
 1. [Inside AirBnB](http://insideairbnb.com/about.html)
 2. [HM Land Registry (house prices)](http://landregistry.data.gov.uk/)
-3. [ALVA (Tourism data)](http://www.alva.org.uk/details.cfm?p=609)
 
 ---
 
 # Tables:
 
-There are 4 Airbnb tables provided and 2 contextual tables.
+There are 4 Airbnb tables provided and 1 contextual table.
 
-The main table is **AllListings**. Each row is a unique listing on AirBnB. It contains information like the number of beds, the location, and the cancellation policy. 
+The main table is **Listings**. Each row is a unique listing on AirBnB. It contains information like the number of beds, the location, and the cancellation policy. 
 
 There is a **Hosts** table that contains information about each host. A host can have 1+ listings. 
 
@@ -21,10 +20,9 @@ The other 2 tables are information that changes over time for each listing.
 - **Calendar:** For each month-year from March 2019 to March 2020, and listing, this shows the number of days listed as available, and the pricing for that month.
 - **Reviews:** For each month-year and listing, this table shows the number of reviews it received, the avg word count and average sentiment score (via [Text Blob](https://textblob.readthedocs.io/en/dev/))
 
-We've included the following contextual datasets: 
+We've included the following contextual dataset: 
 
 - **Housing:** Median housing prices, and count of houses sold for each borough and month
-- **Tourism:** 2018 visitor information for top 50 UK attractions
 
 Key:
 
@@ -32,7 +30,7 @@ Key:
 
 💔: designates columns with ≥33% null values
 
-### AllListings
+### Listings
 
 - 🔑 id: The unique id for a listing (a.k.a. property)
 - last scraped: the date the listing information was gathered (scraped)
@@ -123,12 +121,3 @@ Key:
 - countTerraced
 - medianOverall
 - countOverall
-
-### Tourism
-
-- 🔑Rank
-- Site
-- Total visits
-- Charge/free
-- Group
-- Neighbourhood
