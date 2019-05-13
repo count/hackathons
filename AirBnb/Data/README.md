@@ -99,9 +99,9 @@ Key:
 - 🔑listing id: The unique id for a listing (a.k.a. property)
 - 🔑month year
 - 🔑neighbourhood
-- number of reviewers: unique reviewers for that month
-- average sentiment: {-1: very negative, 1 very positive}
-- average wordcount
+- reviewerCount: unique reviewers for that month
+- avgsentiment: {-1: very negative, 1 very positive}
+- averageWordcount
 
 ## Contextual Data
 
