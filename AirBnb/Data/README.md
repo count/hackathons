@@ -3,16 +3,14 @@
 ### Data Sources:
 
 1. [Inside AirBnB](http://insideairbnb.com/about.html)
-2. [Companies House (businesses)](http://download.companieshouse.gov.uk/en_output.html)
-3. [London Datastore (crime data)](https://data.london.gov.uk/dataset/recorded_crime_summary)
-4. [HM Land Registry (house prices)](http://landregistry.data.gov.uk/)
-5. [ALVA (Tourism data)](http://www.alva.org.uk/details.cfm?p=609)
+2. [HM Land Registry (house prices)](http://landregistry.data.gov.uk/)
+3. [ALVA (Tourism data)](http://www.alva.org.uk/details.cfm?p=609)
 
 ---
 
 # Tables:
 
-There are 4 Airbnb tables provided and 4 contextual tables.
+There are 4 Airbnb tables provided and 2 contextual tables.
 
 The main table is **AllListings**. Each row is a unique listing on AirBnB. It contains information like the number of beds, the location, and the cancellation policy. 
 
@@ -23,11 +21,9 @@ The other 2 tables are information that changes over time for each listing.
 - **Calendar:** For each month-year from March 2019 to March 2020, and listing, this shows the number of days listed as available, and the pricing for that month.
 - **Reviews:** For each month-year and listing, this table shows the number of reviews it received, the avg word count and average sentiment score (via [Text Blob](https://textblob.readthedocs.io/en/dev/))
 
-To see how London neighborhoods have changed over time, we've included the following context datasets: 
+We've included the following contextual datasets: 
 
 - **Housing:** Median housing prices, and count of houses sold for each borough and month
-- **Businesses:** Businesses by type and neighbourhood
-- **Crimes:** Monthly crimes by type, neighbourhood
 - **Tourism:** 2018 visitor information for top 50 UK attractions
 
 Key:
@@ -127,21 +123,6 @@ Key:
 - countTerraced
 - medianOverall
 - countOverall
-
-### Businesses
-
-- 🔑neighbourhood (a.k.a. borough)
-- 🔑incorpYear: Year business was incorporated
-- 🔑company status: {e.g. Active}
-- 🔑company type: {e.g. Construction}
-- companyCount
-
-### Crimes
-
-- 🔑crime type 
-- 🔑neighbourhood
-- 🔑mon_yr
-- crimes
 
 ### Tourism
 
