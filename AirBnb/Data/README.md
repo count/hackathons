@@ -12,7 +12,7 @@
 
 # Tables:
 
-There are 6 tables provided. 
+There are 4 Airbnb tables provided and 4 contextual tables.
 
 The main table is **AllListings**. Each row is a unique listing on AirBnB. It contains information like the number of beds, the location, and the cancellation policy. 
 
