@@ -1,4 +1,4 @@
-# Data Storytelling 2: 13 May
+# Hackathon: 20 May
 
 ## [#AirBnBDataStorytelling](https://twitter.com/DataHackathons?lang=en-gb/)
 
