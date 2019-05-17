@@ -18,7 +18,7 @@ Develop and test your data analysis skills, learn from one another. Collaborate 
  
  
 **Join the Conversation** Use our Slack channel to share any interesting findings or communicate within your team. 
-[Invite Link](https://join.slack.com/t/opendatahackathons/shared_invite/enQtNTk4NDM0NjMyNjI3LTUwN2UwNTFjYTQ1ZDc5N2RiNDdkYWVhMzljNzJjOGEzY2ZmMzk2NDRjODYwNDE5YWZmNTdiMzdlZWUyM2YyZTI)
+[Invite Link](https://join.slack.com/t/opendatahackathons/shared_invite/enQtNjQwNDIyODIyMzc1LTVmNTI1MjA4NjJkNzQ1Mjk2NGQ1YjQyMDhkMGRjOTY1Zjc0NWNlZTMzYWVhYWNlNzM4M2E0MTA4OTNmNmUwMmE)
 
 # The Agenda 👩‍🏫:
 
