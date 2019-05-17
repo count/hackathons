@@ -45,7 +45,7 @@ Develop and test your data analysis skills, learn from one another. Collaborate 
     - Tip - if downloading from GitHub, select the file, right-click the 'Download' button, and click 'Save link as'.
     - Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
     
-2. WeTransfer [link](https://wetransfer.com/downloads/e65e88df2b6e397ab4e28b691ee1434a20190416084439/d0666f7815c54675197c51d74c8834e220190416084439/f6a318)
+2. WeTransfer [link](https://wetransfer.com/downloads/2699292ead6480682451c72e009e476520190513165131/3f4a53)
 
 3. **(Recommended option)** [Hosted Python Notebooks](https://play.count.co/jupyter/tree/work/Health)
   - Password: `92b1803de110133a3b0173f4271e6d981d0785b6e585272b`
