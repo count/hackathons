@@ -1,15 +1,20 @@
 # Hackathon: 20 May
 
-## [#AirBnBDataStorytelling](https://twitter.com/DataHackathons?lang=en-gb/)
+## [#AirBnBHackathon](https://twitter.com/DataHackathons?lang=en-gb/)
 
 # The Topic :
 **The effects of AirBnB on London** 
 
 # The Challenge 👨‍💻:
-Today we'll be exploring ...
+Today we'll be exploring AirBnb data in London. You have a choice of challenges:
+1. Pick a neighbourhood and assess the impact Airbnb could be having. Does this differ from effects seen in other areas of London? How so?
+2. Which borough has fared the best/worst from Airbnb?
+3. If you were to host an Airbnb in London, where would you do it to get the most bang for your buck? What type of listing would it be?
+4. Or, pick your own!
+
 
 # The Purpose:
-Increase your confidence understanding and analysing data. We will work together to build up data stories and uncover new insights about today's topic.
+Develop and test your data analysis skills, learn from one another. Collaborate with others to uncover new insights about today's topic.
  
  
 **Join the Conversation** Use our Slack channel to share any interesting findings or communicate within your team. 
@@ -23,13 +28,11 @@ Increase your confidence understanding and analysing data. We will work together
 
 6:50: Familiarising ourselves with new data
 
-7:10: Identify the questions you want to answer in your group
+7:10: Rounds of analysis: analyse, interpret, and review
 
-7:30: Build your data story: analyse, interpret, and review
+9:00: Share back stories at each table
 
-8:50: Share back stories at each table
-
-9:10: Wrap up
+9:20: Wrap up
 
 # The Data 📈:
     
@@ -50,7 +53,7 @@ Increase your confidence understanding and analysing data. We will work together
 # The Prizes 🏆:
 
 - 1. **Most surprising or interesting finding each round**: There will be multiple opportunities to win a small prize during the rounds of analysis.
-- 2. **People's choice for final presentations**: You have the chance to share one of your charts and present for up to two minutes on what it contributed to your data story. The crowd will vote for their favourite.
+- 2. **People's choice for final presentations**: Each group will have the chance to share a maximum of three charts and present for up to five minutes on what it contributed to your data story. The crowd will vote for their favourite.
 
 # Stay in touch!🤙:
 
