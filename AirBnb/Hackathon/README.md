@@ -48,7 +48,7 @@ Develop and test your data analysis skills, learn from one another. Collaborate 
 2. WeTransfer [link](https://wetransfer.com/downloads/f0491caf06cfb472f304a941459fae5c20190520102213/ae987ff4b296cf8714a7609567ca47bd20190520102213/4caf18)
 
 3. [Hosted Python Notebooks](https://play.count.co/jupyter/tree/work/AirBnB)
-  - Password: `eccf444d054c0a61a6f5492f52ebd44639bee510209fc91f`
+  - Password: `128d45a8162b063ee43fc5e28b35df00334e684adbdcfaaf`
 
 # The Prizes 🏆:
 
