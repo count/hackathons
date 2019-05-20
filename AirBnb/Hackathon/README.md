@@ -52,7 +52,7 @@ Develop and test your data analysis skills, learn from one another. Collaborate 
 
 # The Prizes 🏆:
 
-- 1. **Most surprising or interesting finding each round**: There will be multiple opportunities to win a small prize during the rounds of analysis.
+- 1. **Most surprising or interesting finding**: There will be multiple opportunities to win a small prize throughout the evening.
 - 2. **People's choice for final presentations**: Each group will have the chance to share a maximum of three charts and present for up to five minutes on what it contributed to your data story. The crowd will vote for their favourite.
 
 # Stay in touch!🤙:
