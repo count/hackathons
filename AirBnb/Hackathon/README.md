@@ -47,7 +47,7 @@ Develop and test your data analysis skills, learn from one another. Collaborate 
     
 2. WeTransfer [link](https://wetransfer.com/downloads/2699292ead6480682451c72e009e476520190513165131/3f4a53)
 
-3. **(Recommended option)** [Hosted Python Notebooks](https://play.count.co/jupyter/tree/work/Health)
+3. [Hosted Python Notebooks](https://play.count.co/jupyter/tree/work/Health)
   - Password: `92b1803de110133a3b0173f4271e6d981d0785b6e585272b`
 
 # The Prizes 🏆:
