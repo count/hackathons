@@ -45,7 +45,7 @@ You can use the hashtag [#AirBnBDataStorytelling](https://twitter.com/DataHackat
 2. WeTransfer [link](https://we.tl/t-tSSC6JcNPU)
 
 3. **(Recommended option)** [Hosted Python Notebooks](https://play.count.co/jupyter/tree/work/AirBnB)
-  - Password: `68671f7d9827c1283e434fbb35b6b7dd4003adbcf35c65bc`
+  - Password: `462d13a4110659293b1878323b2e9121c50c0ea6f8d136d8`
 
 # The Prizes 🏆:
 
