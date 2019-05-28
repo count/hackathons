@@ -1,12 +1,10 @@
-# Data Storytelling 2: 13 May
+# Data Storytelling 2: 28 May
 
 ## [#AirBnBDataStorytelling](https://twitter.com/DataHackathons?lang=en-gb/)
 
 # The Topic :
 **The effects of AirBnB on London** 
 
-# The Challenge 👨‍💻:
-Today we'll be exploring Airbnb data as well as some other contextual data about London neighbourhoods. What's the most surprising thing you can find out about the impact of Airbnb in London?
 
 # The Purpose:
 Increase your confidence understanding and analysing data. We will work together to build up data stories and uncover new insights about today's topic.
@@ -44,10 +42,10 @@ You can use the hashtag [#AirBnBDataStorytelling](https://twitter.com/DataHackat
     - Tip - if downloading from GitHub, select the file, right-click the 'Download' button, and click 'Save link as'.
     - Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
     
-2. WeTransfer [link](https://we.tl/t-bPQdr539SZ)
+2. WeTransfer [link](https://we.tl/t-tSSC6JcNPU)
 
 3. **(Recommended option)** [Hosted Python Notebooks](https://play.count.co/jupyter/tree/work/AirBnB)
-  - Password: `53c528ca1f2b21eac8dce335aefbfee2968f78c8e94f34e7`
+  - Password: `68671f7d9827c1283e434fbb35b6b7dd4003adbcf35c65bc`
 
 # The Prizes 🏆:
 
