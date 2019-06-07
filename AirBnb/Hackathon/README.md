@@ -1,4 +1,4 @@
-# Hackathon: 20 May
+# Hackathon: 7 June
 
 ## [#AirBnBHackathon](https://twitter.com/DataHackathons?lang=en-gb/)
 
@@ -7,32 +7,16 @@
 
 # The Challenge 👨‍💻:
 Today we'll be exploring AirBnb data in London. You have a choice of challenges:
-1. Pick a neighbourhood and assess the impact Airbnb could be having. Does this differ from effects seen in other areas of London? How so?
-2. Which borough has fared the best/worst from Airbnb?
-3. If you were to host an Airbnb in London, where would you do it to get the most bang for your buck? What type of listing would it be?
-4. Or, pick your own!
+1. You are in the market for a new place to live in London. You plan on posting it to AirBnB quite often. Which borough gives you the best ROI? What kind of listing? How long would it take to make your money back?
+
+2. You are working for the government trying to spot people violating the 90 day rental policy. Which properties are most likely violating the rules? Which borough has more high risk properties? Which hosts?
+
 
 
 # The Purpose:
 Develop and test your data analysis skills, learn from one another. Collaborate with others to uncover new insights about today's topic.
  
  
-**Join the Conversation** Use our Slack channel to share any interesting findings or communicate within your team. 
-[Invite Link](https://join.slack.com/t/opendatahackathons/shared_invite/enQtNjQwNDIyODIyMzc1LTVmNTI1MjA4NjJkNzQ1Mjk2NGQ1YjQyMDhkMGRjOTY1Zjc0NWNlZTMzYWVhYWNlNzM4M2E0MTA4OTNmNmUwMmE)
-
-# The Agenda 👩‍🏫:
-
-6:30: Arrive, get comfortable
-
-6:40: Intro talk & welcome
-
-6:50: Familiarising ourselves with new data
-
-7:10: Rounds of analysis: analyse, interpret, and review
-
-9:00: Share back stories at each table
-
-9:20: Wrap up
 
 # The Data 📈:
     
@@ -45,15 +29,11 @@ Develop and test your data analysis skills, learn from one another. Collaborate 
     - Tip - if downloading from GitHub, select the file, right-click the 'Download' button, and click 'Save link as'.
     - Tip - if cloning this repository, you will need to first install `git-lfs`, see instructions [here](https://help.github.com/articles/installing-git-large-file-storage/)
     
-2. WeTransfer [link](https://wetransfer.com/downloads/f0491caf06cfb472f304a941459fae5c20190520102213/ae987ff4b296cf8714a7609567ca47bd20190520102213/4caf18)
+2. WeTransfer [link](https://we.tl/t-KEDDZfGWa7)
 
 3. [Hosted Python Notebooks](https://play.count.co/jupyter/tree/work/AirBnB)
-  - Password: `128d45a8162b063ee43fc5e28b35df00334e684adbdcfaaf`
+  - Password: `3ad30dc6a41bf9f65eb32216f9b1018764519a55212dbf99`
 
-# The Prizes 🏆:
-
-- 1. **Most surprising or interesting finding**: There will be multiple opportunities to win a small prize throughout the evening.
-- 2. **People's choice for final presentations**: Each group will have the chance to share a maximum of three charts and present for up to five minutes on what it contributed to your data story. The crowd will vote for their favourite.
 
 # Stay in touch!🤙:
 
